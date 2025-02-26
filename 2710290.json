@@ -1,0 +1,41 @@
+{
+    "appid": "2710290",
+    "type": "Game",
+    "name": "G WARRIOR",
+    "schinese_name": "惑星战士G",
+    "isfreeapp": "0",
+    "change_number": "27341768",
+    "update_time": "2025-02-06 17:21:20",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2710291": {
+            "manifests": {
+                "public": {
+                    "gid": "8031806821753659260",
+                    "size": "876806664",
+                    "download": "112489520"
+                }
+            },
+            "decryptionkey": "8dea57f092375a1a8006b9ff56e0dab2ed281f50709d4db786a34a5188c767a8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17263949",
+                "timeupdated": "1738833677"
+            }
+        }
+    }
+}
