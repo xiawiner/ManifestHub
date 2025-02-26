@@ -1,0 +1,48 @@
+{
+    "appid": "2911230",
+    "type": "Game",
+    "name": "StellarPlans",
+    "schinese_name": "星辰计划",
+    "isfreeapp": "0",
+    "change_number": "27500132",
+    "update_time": "2025-02-16 12:04:43",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2911231": {
+            "manifests": {
+                "public": {
+                    "gid": "8992411868381195017",
+                    "size": "14679936214",
+                    "download": "14589112880"
+                }
+            },
+            "decryptionkey": "dd2bf981e95adfaf239badaa57e0c052dac0608a06b06e7754d5f66bae5cb020"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15610513",
+                "timeupdated": "1725588414"
+            }
+        }
+    }
+}
