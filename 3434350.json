@@ -1,0 +1,46 @@
+{
+    "appid": "3434350",
+    "type": "Demo",
+    "name": "Nightfall Protocol Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27536751",
+    "update_time": "2025-02-18 23:15:20",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3434351": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7772629642164038564",
+                    "size": "8146474128",
+                    "download": "7807840864"
+                }
+            },
+            "decryptionkey": "06632ac5f638d54f9ea5a7e76136d585b635c8dc9a950fb74e2ae73cd820825c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17119315",
+                "timeupdated": "1737735840"
+            }
+        }
+    }
+}
