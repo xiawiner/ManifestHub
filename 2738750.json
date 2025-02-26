@@ -1,0 +1,30 @@
+{
+    "appid": "2738750",
+    "type": "Game",
+    "name": "REYNATIS",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27509677",
+    "update_time": "2025-02-17 12:33:40",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2738751": {
+            "manifests": {
+                "public": {
+                    "gid": "486629123950502183",
+                    "size": "12142790073",
+                    "download": "9885819264"
+                }
+            },
+            "decryptionkey": "3f6c8d14a4dc195981168e7a8567ddd765004cb9816417b8c29642c1aa9f0f20"
+        },
+        "baselanguages": "english,japanese",
+        "branches": {
+            "public": {
+                "buildid": "16810651",
+                "timeupdated": "1738433099"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
