@@ -1,0 +1,27 @@
+{
+    "appid": "2961530",
+    "type": "Game",
+    "name": "Fears to Fathom - Woodbury Getaway",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27321595",
+    "update_time": "2025-02-05 16:10:30",
+    "depot": {
+        "2961531": {
+            "manifests": {
+                "public": {
+                    "gid": "2577502915854789086",
+                    "size": "9513794671",
+                    "download": "3825916096"
+                }
+            },
+            "decryptionkey": "dff8b76588bfbefe7aceedf3312c31c7eab25b590d1a95485d82bad8d4ba225b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16242739",
+                "timeupdated": "1730319774"
+            }
+        }
+    }
+}
