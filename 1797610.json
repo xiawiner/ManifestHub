@@ -1,0 +1,62 @@
+{
+    "appid": "1797610",
+    "type": "Game",
+    "name": "Barro 22",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26855557",
+    "update_time": "2025-01-04 04:15:12",
+    "depot": {
+        "1797611": {
+            "manifests": {
+                "public": {
+                    "gid": "1055277917869167608",
+                    "size": "2041990634",
+                    "download": "528138832"
+                },
+                "old_version": {
+                    "gid": "5493483552535463189",
+                    "size": "1542532614",
+                    "download": "361321744"
+                },
+                "pre_release": {
+                    "gid": "1055277917869167608",
+                    "size": "2041990634",
+                    "download": "528138832"
+                }
+            },
+            "decryptionkey": "64e96c0120134f5f264cc3b8cfd515e5a6ebc5c500d81d22c04be84198d221ed"
+        },
+        "1797612": {
+            "manifests": {
+                "public": {
+                    "gid": "2100406522111088794",
+                    "size": "146851848",
+                    "download": "45408768"
+                },
+                "pre_release": {
+                    "gid": "2100406522111088794",
+                    "size": "146851848",
+                    "download": "45408768"
+                }
+            },
+            "decryptionkey": "3a3e1ef71b19b03dda3085d44e622c0dee6f397b469bb87a9d02b3b189bfa433"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14993711",
+                "timeupdated": "1720648298"
+            },
+            "old_version": {
+                "buildid": "10054463",
+                "description": "old_version",
+                "timeupdated": "1669986247"
+            },
+            "pre_release": {
+                "buildid": "14993711",
+                "description": "pre_release",
+                "timeupdated": "1720645431"
+            }
+        }
+    }
+}
