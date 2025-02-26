@@ -1,0 +1,28 @@
+{
+    "appid": "2292060",
+    "type": "Game",
+    "name": "Spell Disk",
+    "schinese_name": "法术圆盘",
+    "isfreeapp": "0",
+    "change_number": "27451456",
+    "update_time": "2025-02-13 10:49:42",
+    "depot": {
+        "2292061": {
+            "manifests": {
+                "public": {
+                    "gid": "4717270841005378463",
+                    "size": "1373087752",
+                    "download": "289384560"
+                }
+            },
+            "decryptionkey": "57722719c4d76726459b7c503ac87b5f0df90699a17f81409948f1009d50a0eb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17345619",
+                "timeupdated": "1739414976"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
