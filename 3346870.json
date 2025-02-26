@@ -1,0 +1,28 @@
+{
+    "appid": "3346870",
+    "type": "DLC",
+    "name": "Taiwan Love Story⁵ Artbook",
+    "schinese_name": "台湾恋爱物语⁵ Artbook",
+    "isfreeapp": "0",
+    "change_number": "26771792",
+    "update_time": "2024-12-24 17:36:37",
+    "depot": {
+        "3346871": {
+            "manifests": {
+                "public": {
+                    "gid": "202002381173195873",
+                    "size": "796250198",
+                    "download": "677842688"
+                }
+            },
+            "dlcappid": "3346870",
+            "decryptionkey": "44c94c69a119fccdf16968acf55d9a009d53fbd0f43ad58d5a7ba5eca1b4c90c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16841963",
+                "timeupdated": "1735032994"
+            }
+        }
+    }
+}
