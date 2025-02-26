@@ -1,0 +1,89 @@
+{
+    "appid": "382110",
+    "type": "Application",
+    "name": "Virtual Desktop",
+    "schinese_name": "VR桌面",
+    "isfreeapp": "0",
+    "change_number": "27351969",
+    "update_time": "2025-02-07 03:58:24",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "382111": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7098761685895650717",
+                    "size": "744659325",
+                    "download": "537624752"
+                },
+                "oldversion": {
+                    "gid": "73075683989439411",
+                    "size": "422246424",
+                    "download": "292564176"
+                },
+                "beta": {
+                    "gid": "7098761685895650717",
+                    "size": "744659325",
+                    "download": "537624752"
+                }
+            },
+            "decryptionkey": "1632201f7c9e9870e37676db64ba31aacf8d92098420074795c08cb2b77ce385"
+        },
+        "workshopdepot": "382110",
+        "branches": {
+            "public": {
+                "buildid": "17240278",
+                "timeupdated": "1738871900"
+            },
+            "oldversion": {
+                "buildid": "2335322",
+                "description": "Version 1.7.2",
+                "timeupdated": "1517119660"
+            },
+            "beta": {
+                "buildid": "17240278",
+                "description": "Public testing branch",
+                "timeupdated": "1738871881"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "692e6a0d05f68eebc564ad6cddfdc37cfbee2893530a3548485810ee307c22af"
+    }
+}
