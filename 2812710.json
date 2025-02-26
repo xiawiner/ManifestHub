@@ -1,0 +1,30 @@
+{
+    "appid": "2812710",
+    "type": "Beta",
+    "name": "Nested Lands Playtest",
+    "schinese_name": "黑暗巢土",
+    "isfreeapp": "0",
+    "change_number": "27482056",
+    "update_time": "2025-02-14 23:26:25",
+    "depot": {
+        "2812711": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6439533988980921347",
+                    "size": "12179786759",
+                    "download": "6213628336"
+                }
+            },
+            "decryptionkey": "228746e3c5a3c43a153a96ff1e8aacad92a65ede5f182fe4d38a4e965eb1a80b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17438843",
+                "timeupdated": "1740074298"
+            }
+        }
+    }
+}
