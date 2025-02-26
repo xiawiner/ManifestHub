@@ -1,0 +1,47 @@
+{
+    "appid": "1948880",
+    "type": "Demo",
+    "name": "三国仁义传 the Romantic of Righteousness: SanGuo Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27429209",
+    "update_time": "2025-02-12 08:17:41",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "schinese",
+        "hasdepotsindlc": "0",
+        "1948882": {
+            "config": {
+                "oslist": "windows",
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1377084646684025418",
+                    "size": "5069949368",
+                    "download": "4784675248"
+                }
+            },
+            "decryptionkey": "2a93496fc2ffd8ce6acec96ae296ff7c70c5b3c155d710e7326e6d9fc50d6f17"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17055887",
+                "timeupdated": "1737292760"
+            }
+        }
+    }
+}
