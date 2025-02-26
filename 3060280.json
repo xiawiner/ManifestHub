@@ -1,0 +1,47 @@
+{
+    "appid": "3060280",
+    "type": "Demo",
+    "name": "The Forever Winter Demo",
+    "schinese_name": "永恒寒冬",
+    "isfreeapp": "0",
+    "change_number": "26269644",
+    "update_time": "2024-11-20 06:20:42",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,ukrainian",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3060282": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2195888597977392556",
+                    "size": "69107942746",
+                    "download": "28167679040"
+                }
+            },
+            "decryptionkey": "321ee9f3d49960571c1de2981d3df65c6d86d73a4c10367a0052f4938d7e39ab"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16462509",
+                "timeupdated": "1732054840"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
