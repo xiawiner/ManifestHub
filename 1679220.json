@@ -1,0 +1,32 @@
+{
+    "appid": "1679220",
+    "type": "Game",
+    "name": "Portal Dungeon",
+    "schinese_name": "传送地下城",
+    "isfreeapp": "0",
+    "change_number": "27022419",
+    "update_time": "2025-01-16 17:53:31",
+    "depot": {
+        "baselanguages": "english,koreana,spanish,schinese,tchinese,japanese,brazilian",
+        "1679221": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5080836956953699839",
+                    "size": "426993638",
+                    "download": "149056048"
+                }
+            },
+            "decryptionkey": "7a72debfccc6e5d77fa00fa1e1c3be6f3bd125e4f960453777f05beaa098df4f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14961487",
+                "timeupdated": "1720422764"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
