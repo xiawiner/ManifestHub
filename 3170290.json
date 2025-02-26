@@ -1,0 +1,46 @@
+{
+    "appid": "3170290",
+    "type": "Demo",
+    "name": "茜格玛战记 Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27538250",
+    "update_time": "2025-02-19 00:39:40",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,schinese",
+        "3170291": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6518756662734763057",
+                    "size": "4493623608",
+                    "download": "3891749680"
+                }
+            },
+            "decryptionkey": "5b42f13bc3c8bdc7852d566333cb56ef5eb63e8e6f62cdb69de70edca57a0188"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17464622",
+                "timeupdated": "1740202759"
+            }
+        }
+    }
+}
