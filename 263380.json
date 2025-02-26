@@ -1,0 +1,71 @@
+{
+    "appid": "263380",
+    "type": "Game",
+    "name": "Driftmoon",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26727902",
+    "update_time": "2024-12-20 14:00:01",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "263382": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7252459361273673201",
+                    "size": "295738920",
+                    "download": "190359184"
+                },
+                "vanilladriftmoon": {
+                    "gid": "4678525632837362816",
+                    "size": "153644763",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "0bbe0fd0c6452876195eeea715ea7b9582c057de1ac3f02c51ace7bf58382adf"
+        },
+        "263383": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5138299003543963342",
+                    "size": "242858734",
+                    "download": "176283792"
+                }
+            },
+            "decryptionkey": "ba23f4a50ce025b35cae9b9622650ace583d1ae089fd02067a0b2eca5bec83de"
+        },
+        "263384": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2349003442045410988",
+                    "size": "264470034",
+                    "download": "185668080"
+                }
+            },
+            "decryptionkey": "8432c12f3fb112ac32502da271c6400d04f591d211c3cb178d849106310e4f6d"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "16217226",
+                "timeupdated": "1730185670"
+            },
+            "vanilladriftmoon": {
+                "buildid": "283602",
+                "timeupdated": "1588056320"
+            }
+        }
+    }
+}
