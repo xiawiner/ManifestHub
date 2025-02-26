@@ -1,0 +1,42 @@
+{
+    "appid": "3496550",
+    "type": "Demo",
+    "name": "Chernobylite 2: Exclusion Zone Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27542386",
+    "update_time": "2025-02-19 05:11:28",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3496551": {
+            "manifests": {
+                "public": {
+                    "gid": "2806073055875290200",
+                    "size": "123907413166",
+                    "download": "106983441760"
+                }
+            },
+            "decryptionkey": "f3c8cd52988cc36ff8e6e6b60a066e7786b2181f2008a167aec296bafc479f68"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17413321",
+                "timeupdated": "1739959681"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
