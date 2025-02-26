@@ -1,0 +1,47 @@
+{
+    "appid": "297750",
+    "type": "Game",
+    "name": "Close Combat - Gateway to Caen",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27456970",
+    "update_time": "2025-02-13 18:25:15",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "297751": {
+            "manifests": {
+                "public": {
+                    "gid": "8450679517930619280",
+                    "size": "2594356008",
+                    "download": "1767501168"
+                },
+                "beta": {
+                    "gid": "8450679517930619280",
+                    "size": "2594356008",
+                    "download": "1767501168"
+                }
+            },
+            "decryptionkey": "5ab3de7cc654ed8a2c6d1e88de2964e2b2de2d1eb9554fb9416f3d95308b454d"
+        },
+        "297752": {
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "1284129",
+                "timeupdated": "1471431551"
+            },
+            "beta": {
+                "buildid": "1284129",
+                "timeupdated": "1471431154"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
