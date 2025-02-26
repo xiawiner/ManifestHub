@@ -1,0 +1,28 @@
+{
+    "appid": "2945540",
+    "type": "Demo",
+    "name": "Another Farm Roguelike: Rebirth Demo",
+    "schinese_name": "另一个肉鸽农场 试用版",
+    "isfreeapp": "0",
+    "change_number": "27418012",
+    "update_time": "2025-02-11 18:37:47",
+    "depot": {
+        "2945541": {
+            "manifests": {
+                "public": {
+                    "gid": "5837685197806653512",
+                    "size": "165295384",
+                    "download": "121833792"
+                }
+            },
+            "decryptionkey": "72627ac7ccb39b43201937056ae924647b932284c64b1301ad263dc8319576b9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17090850",
+                "timeupdated": "1737565318"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
