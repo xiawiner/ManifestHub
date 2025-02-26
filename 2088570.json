@@ -1,0 +1,40 @@
+{
+    "appid": "2088570",
+    "type": "Game",
+    "name": "Tiny Rogues",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27533070",
+    "update_time": "2025-02-18 19:26:14",
+    "depot": {
+        "2088571": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8510804536279344607",
+                    "size": "650725816",
+                    "download": "432230144"
+                },
+                "beta": {
+                    "gid": "8510804536279344607",
+                    "size": "650725816",
+                    "download": "432230144"
+                }
+            },
+            "decryptionkey": "122e3270335372157a11a595038524e4cd4bfd7b2b9851c40ca5c25be3f85914"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17406297",
+                "timeupdated": "1739877968"
+            },
+            "beta": {
+                "buildid": "17406297",
+                "description": "Beta Version",
+                "timeupdated": "1739877943"
+            }
+        }
+    }
+}
