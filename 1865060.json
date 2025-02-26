@@ -1,0 +1,52 @@
+{
+    "appid": "1865060",
+    "type": "Game",
+    "name": "14 Minesweeper Variants",
+    "schinese_name": "14种扫雷变体",
+    "isfreeapp": "0",
+    "change_number": "27261580",
+    "update_time": "2025-02-01 05:32:04",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1865062": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7915653093105857995",
+                    "size": "106383499",
+                    "download": "38127984"
+                }
+            },
+            "decryptionkey": "4ae22980c89ef9c369bc1b344f2975f560de3e2878c7beb7070c5133f577e172"
+        },
+        "1865064": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8367207747492885812",
+                    "size": "164864525",
+                    "download": "51672160"
+                }
+            },
+            "decryptionkey": "37a96bda4b136fceebe0fc4debf0beabfcb17afa23ac29a28c50fcb2d9d35c1c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15177566",
+                "timeupdated": "1722167410"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
