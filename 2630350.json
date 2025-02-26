@@ -1,0 +1,27 @@
+{
+    "appid": "2630350",
+    "type": "Game",
+    "name": "Yatagarasu Enter the Eastward",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27268562",
+    "update_time": "2025-02-01 21:17:06",
+    "depot": {
+        "2630351": {
+            "manifests": {
+                "public": {
+                    "gid": "3935689197400760637",
+                    "size": "455898361",
+                    "download": "448801552"
+                }
+            },
+            "decryptionkey": "237734e930c8c837417a3f523ae386911751bb52c00c178d8ac8a9a2602ede06"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13974331",
+                "timeupdated": "1712425722"
+            }
+        }
+    }
+}
