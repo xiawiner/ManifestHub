@@ -1,0 +1,40 @@
+{
+    "appid": "357330",
+    "type": "Game",
+    "name": "Space Beast Terror Fright",
+    "schinese_name": "太空野兽",
+    "isfreeapp": "0",
+    "change_number": "26762753",
+    "update_time": "2024-12-23 20:52:31",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "357331": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4447340087250984970",
+                    "size": "616494337",
+                    "download": "300589552"
+                }
+            },
+            "decryptionkey": "b57bc349d1dc8a12fc7dd6a5120b75cddbc6adeeece780e9a33129e36dcdc697"
+        },
+        "workshopdepot": "357330",
+        "branches": {
+            "public": {
+                "buildid": "14697076",
+                "timeupdated": "1718289129"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
