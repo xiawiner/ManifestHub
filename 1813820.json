@@ -1,0 +1,57 @@
+{
+    "appid": "1813820",
+    "type": "Game",
+    "name": "Didnapper 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27153676",
+    "update_time": "2025-01-25 01:28:12",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1813821": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1857524782504873076",
+                    "size": "2026644323",
+                    "download": "1627781824"
+                },
+                "local": {
+                    "gid": "8586439695776811670",
+                    "size": "1354401421",
+                    "download": "1081472000"
+                }
+            },
+            "decryptionkey": "89ad9bc6a80dc5b7cbce4794c34ed0ca1700026147864098923e1c843652a4a1"
+        },
+        "1813822": {
+            "config": {
+                "oslist": "macos",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "413998371100216000",
+                    "size": "2369277874",
+                    "download": "1633891984"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "15986415",
+                "timeupdated": "1728510725"
+            },
+            "local": {
+                "buildid": "7714779",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1636981678"
+            }
+        }
+    }
+}
