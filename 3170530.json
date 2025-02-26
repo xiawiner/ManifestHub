@@ -1,0 +1,28 @@
+{
+    "appid": "3170530",
+    "type": "DLC",
+    "name": "Roger's Route DLC",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25915211",
+    "update_time": "2024-10-27 08:55:20",
+    "depot": {
+        "3170530": {
+            "manifests": {
+                "public": {
+                    "gid": "3269695783668114417",
+                    "size": "1182699673",
+                    "download": "1143612832"
+                }
+            },
+            "dlcappid": "3170530",
+            "decryptionkey": "6a1123c60803bfe95574212a31bcda387be7239cade130576a238bae896f22ef"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16194540",
+                "timeupdated": "1729990517"
+            }
+        }
+    }
+}
