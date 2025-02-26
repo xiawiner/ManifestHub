@@ -1,0 +1,42 @@
+{
+    "appid": "3008670",
+    "type": "DLC",
+    "name": "Poppy Playtime - Chapter 4",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27541687",
+    "update_time": "2025-02-19 04:14:57",
+    "depot": {
+        "3008670": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4186044975313216471",
+                    "size": "7359220205",
+                    "download": "6928998192"
+                },
+                "test-beta": {
+                    "gid": "1226483291721449645",
+                    "size": "1098936316",
+                    "download": "357244384"
+                }
+            },
+            "dlcappid": "3008670",
+            "decryptionkey": "05af48230917e5f7df38d99935306907947f276d13191bc0853a0338fc295fa7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17369985",
+                "timeupdated": "1739562638"
+            },
+            "test-beta": {
+                "buildid": "14626962",
+                "description": "a test branch",
+                "timeupdated": "1717683783"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
