@@ -1,0 +1,30 @@
+{
+    "appid": "3098470",
+    "type": "Game",
+    "name": "Arctic Motel Simulator",
+    "schinese_name": "北极汽车旅馆模拟器",
+    "isfreeapp": "0",
+    "change_number": "27541687",
+    "update_time": "2025-02-19 04:15:05",
+    "depot": {
+        "3098471": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8537510157749417097",
+                    "size": "20079649752",
+                    "download": "7093225296"
+                }
+            },
+            "decryptionkey": "beb4924fff3aeddd33728e557b5cd2069aff5277b25b967cb0f80443de42ba67"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17479202",
+                "timeupdated": "1740374750"
+            }
+        }
+    }
+}
