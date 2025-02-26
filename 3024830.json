@@ -1,0 +1,42 @@
+{
+    "appid": "3024830",
+    "type": "Game",
+    "name": "Chushpan Simulator 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27268282",
+    "update_time": "2025-02-01 20:33:19",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3024831": {
+            "manifests": {
+                "public": {
+                    "gid": "8726685119491361340",
+                    "size": "8492909259",
+                    "download": "8018001856"
+                }
+            },
+            "decryptionkey": "6515f85aa697a4b8643a8f7e44979c68516da4ef2d497c1db7a3e8524219662d"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "15449073",
+                "timeupdated": "1724317796"
+            }
+        }
+    }
+}
