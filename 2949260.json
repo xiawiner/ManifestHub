@@ -1,0 +1,41 @@
+{
+    "appid": "2949260",
+    "type": "Application",
+    "name": "Mouse Pointer Engine",
+    "schinese_name": "Mouse Pointer Engine：鼠标指针引擎",
+    "isfreeapp": "0",
+    "change_number": "26925000",
+    "update_time": "2025-01-09 22:17:48",
+    "depot": {
+        "workshopdepot": "2949260",
+        "baselanguages": "english,schinese,tchinese,russian,japanese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2949261": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2765412960905645518",
+                    "size": "313924670",
+                    "download": "115933280"
+                }
+            },
+            "decryptionkey": "e2bc63e38eb39decbbdc4998eb7d5ff28022e0fb41eb6a24c24c43d5317a8f3c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16446872",
+                "timeupdated": "1731948730"
+            }
+        },
+        "workshopdepotdecryptionkey": "fa036a2f9dc0e5e1a4c2037ed1d5069c1634e70964ff0ba73c7def94576416ee"
+    }
+}
