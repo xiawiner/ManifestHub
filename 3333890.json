@@ -1,0 +1,42 @@
+{
+    "appid": "3333890",
+    "type": "Game",
+    "name": "Panelak",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27536844",
+    "update_time": "2025-02-18 23:18:09",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3333891": {
+            "manifests": {
+                "public": {
+                    "gid": "8969428241060889086",
+                    "size": "4583547383",
+                    "download": "4406723008"
+                }
+            },
+            "decryptionkey": "b5e52dd81308451318ddf6c896cb1fed3ac016742cd36cd0d123855bf55206a6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16984986",
+                "timeupdated": "1736759325"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
