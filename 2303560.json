@@ -1,0 +1,27 @@
+{
+    "appid": "2303560",
+    "type": "Game",
+    "name": "Best Pearl",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27205922",
+    "update_time": "2025-01-29 02:35:15",
+    "depot": {
+        "2303561": {
+            "manifests": {
+                "public": {
+                    "gid": "7329695215957686310",
+                    "size": "15717659",
+                    "download": "11590368"
+                }
+            },
+            "decryptionkey": "7512e351df1904280e9016f26778475e09e5a357b331512550199dc2065cb0d9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12039160",
+                "timeupdated": "1693050879"
+            }
+        }
+    }
+}
