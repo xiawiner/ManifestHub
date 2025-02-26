@@ -1,0 +1,45 @@
+{
+    "appid": "2954920",
+    "type": "Game",
+    "name": "Zero-Sum Heart",
+    "schinese_name": "零和之心",
+    "isfreeapp": "0",
+    "change_number": "27335242",
+    "update_time": "2025-02-06 07:26:55",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2954921": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9117012785258631592",
+                    "size": "1208582940",
+                    "download": "693986560"
+                }
+            },
+            "decryptionkey": "f928680559b6e588b7ea01b53108b11dbfc81baa4c1bcf0b4ef83c1ed09a2e2c"
+        },
+        "2954922": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5785910021207467542",
+                    "size": "1232809213",
+                    "download": "702513616"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16983518",
+                "timeupdated": "1736759662"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
