@@ -1,0 +1,45 @@
+{
+    "appid": "785770",
+    "type": "Game",
+    "name": "Notruf 112 - Die Feuerwehr Simulation 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27423802",
+    "update_time": "2025-02-12 00:37:45",
+    "depot": {
+        "785771": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5070196348234967904",
+                    "size": "6505986599",
+                    "download": "5564828960"
+                },
+                "open_beta": {
+                    "gid": "5995694172409557429",
+                    "size": "8608319140",
+                    "download": "5320910576"
+                }
+            },
+            "decryptionkey": "2c7097ddbc5e503a653700238917cebd42e5cb34f1bd54118c32df3457f45516"
+        },
+        "workshopdepot": "785770",
+        "baselanguages": "english,german,french,italian,spanish,polish,turkish,brazilian",
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "17065140",
+                "timeupdated": "1737636620"
+            },
+            "open_beta": {
+                "buildid": "17064821",
+                "description": "Public Beta Branch",
+                "timeupdated": "1737546602"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "5992cdb48336cc6adc4e12a1f63e5c0750d19b7e9a82dd6f7c51c56d2a0def9d"
+    }
+}
