@@ -1,0 +1,27 @@
+{
+    "appid": "2579210",
+    "type": "Demo",
+    "name": "远东四季：Hello World Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-07-16 02:46:44",
+    "depot": {
+        "2579211": {
+            "manifests": {
+                "public": {
+                    "gid": "7818270859281101790",
+                    "size": "1078639552",
+                    "download": "1003287088"
+                }
+            },
+            "decryptionkey": "f462dce006e3021555857b4b9777ed5d61731594c473f3424f1a18f1ae761702"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12334241",
+                "timeupdated": "1696247934"
+            }
+        }
+    }
+}
