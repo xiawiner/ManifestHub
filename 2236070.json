@@ -1,0 +1,55 @@
+{
+    "appid": "2236070",
+    "type": "Game",
+    "name": "Peaks of Yore",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27523590",
+    "update_time": "2025-02-18 05:43:11",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "2236071": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1345759911918478432",
+                    "size": "1766146019",
+                    "download": "935802224"
+                }
+            },
+            "decryptionkey": "1d7e3a73711932c1784f68220d6f327144897328e4544d877dd2d24bb94a1ab3"
+        },
+        "2236072": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            }
+        },
+        "3246790": {
+            "dlcappid": "3246790",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5720049676836436",
+                    "size": "2811089827",
+                    "download": "1426809136"
+                }
+            },
+            "decryptionkey": "8b8603831abb43f64f73502caff6792bfce2476614890797f1c09eee65408c64"
+        },
+        "workshopdepot": "2236070",
+        "branches": {
+            "public": {
+                "buildid": "17474394",
+                "timeupdated": "1740326514"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
