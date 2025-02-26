@@ -1,0 +1,27 @@
+{
+    "appid": "3163730",
+    "type": "Game",
+    "name": "Trapped: Family Vacation",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27532859",
+    "update_time": "2025-02-18 19:15:14",
+    "depot": {
+        "3163731": {
+            "manifests": {
+                "public": {
+                    "gid": "1222018611210946212",
+                    "size": "1372145243",
+                    "download": "575825584"
+                }
+            },
+            "decryptionkey": "001578334cdffdb15f726fb99d2f52d01421da85d33bd62dc8d6046611347a22"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17110620",
+                "timeupdated": "1737666516"
+            }
+        }
+    }
+}
