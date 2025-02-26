@@ -1,0 +1,31 @@
+{
+    "appid": "3393170",
+    "type": "Game",
+    "name": "被遺留的夜幕細語",
+    "schinese_name": "被遗留的夜幕细语",
+    "isfreeapp": "0",
+    "change_number": "27211084",
+    "update_time": "2025-01-29 10:16:35",
+    "depot": {
+        "3393171": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8364835781359757688",
+                    "size": "692980423",
+                    "download": "370865536"
+                }
+            },
+            "decryptionkey": "0727378c36bb950542858e3c532932334ab62205d76d39600759db0c3489a4e3"
+        },
+        "baselanguages": "schinese,tchinese",
+        "branches": {
+            "public": {
+                "buildid": "17101209",
+                "timeupdated": "1737613011"
+            }
+        }
+    }
+}
