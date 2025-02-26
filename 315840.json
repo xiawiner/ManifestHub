@@ -1,0 +1,57 @@
+{
+    "appid": "315840",
+    "type": "Game",
+    "name": "Catacomb Kids",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27170752",
+    "update_time": "2025-01-26 18:20:57",
+    "depot": {
+        "315841": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4332243258591509379",
+                    "size": "269928823",
+                    "download": "193441984"
+                }
+            },
+            "decryptionkey": "877d5c3facb6806f22760b3238a883ad6b32db4a7abdfcdb06e4157f0f8172fc"
+        },
+        "315842": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3253671606629409926",
+                    "size": "288291826",
+                    "download": "197589952"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "315843": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5814970140553910393",
+                    "size": "267307687",
+                    "download": "192569152"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "15279862",
+                "timeupdated": "1722965918"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
