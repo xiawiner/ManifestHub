@@ -1,0 +1,42 @@
+{
+    "appid": "3327420",
+    "type": "Demo",
+    "name": "E-Commerce Simulator 2025 Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27498576",
+    "update_time": "2025-02-16 07:15:07",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3327421": {
+            "manifests": {
+                "public": {
+                    "gid": "8987302765673362519",
+                    "size": "4950407160",
+                    "download": "1666762112"
+                }
+            },
+            "decryptionkey": "0586d60a6981b11aee956dba80eacd39d7f868bfca3a5a61cb53d0b4be938ffd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17011574",
+                "timeupdated": "1737374401"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
