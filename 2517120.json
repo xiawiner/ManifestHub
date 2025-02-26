@@ -1,0 +1,37 @@
+{
+    "appid": "2517120",
+    "type": "Demo",
+    "name": "Solar Expanse Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27526739",
+    "update_time": "2025-02-18 10:40:39",
+    "depot": {
+        "2517121": {
+            "manifests": {
+                "public": {
+                    "gid": "4836787755087617212",
+                    "size": "1759117885",
+                    "download": "551381488"
+                },
+                "internal": {
+                    "gid": "854416240580157842",
+                    "size": "2400777755",
+                    "download": "872132704"
+                }
+            },
+            "decryptionkey": "5dae4580b15fe90fc3cbebb829c2e399e73ea43a977afe556cd813de4600bb68"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16188039",
+                "timeupdated": "1730369793"
+            },
+            "internal": {
+                "buildid": "17463673",
+                "description": "for internal tests only",
+                "timeupdated": "1740192064"
+            }
+        }
+    }
+}
