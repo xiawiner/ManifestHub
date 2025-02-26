@@ -1,0 +1,39 @@
+{
+    "appid": "2715370",
+    "type": "Game",
+    "name": "旧日女修",
+    "schinese_name": "旧日女修",
+    "isfreeapp": "0",
+    "change_number": "27529322",
+    "update_time": "2025-02-18 15:14:42",
+    "depot": {
+        "baselanguages": "english,schinese,tchinese",
+        "2715371": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2850358904790132751",
+                    "size": "4987511154",
+                    "download": "1102283232"
+                }
+            },
+            "decryptionkey": "22ecf529cee5bf749df2a81369ac83288b5bf607aaff1d5b327ee8fdf29740fc"
+        },
+        "2715372": {
+            "config": {
+                "oslist": "windows",
+                "realm": "steamchina"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "17438540",
+                "timeupdated": "1740054372"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
