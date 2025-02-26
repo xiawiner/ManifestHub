@@ -1,0 +1,57 @@
+{
+    "appid": "2022230",
+    "type": "Game",
+    "name": "Yomi 2",
+    "schinese_name": "先觉斗牌 2",
+    "isfreeapp": "0",
+    "change_number": "27283619",
+    "update_time": "2025-02-03 12:32:33",
+    "depot": {
+        "2022231": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7052249201285949060",
+                    "size": "3276510453",
+                    "download": "1946601040"
+                }
+            },
+            "decryptionkey": "3a087f4dae1221a5505e229e96108eae01d24f4e0c56e9d506e3d8ce788414b3"
+        },
+        "2022232": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3881767483287157792",
+                    "size": "3194255685",
+                    "download": "1934390416"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2022233": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1508227834737266373",
+                    "size": "2579192435",
+                    "download": "1215326720"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17032185",
+                "timeupdated": "1737077342"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
