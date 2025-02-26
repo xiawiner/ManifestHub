@@ -1,0 +1,42 @@
+{
+    "appid": "3384180",
+    "type": "Game",
+    "name": "A Simple Garbage Sorting Game",
+    "schinese_name": "一个简单的扔垃圾游戏",
+    "isfreeapp": "0",
+    "change_number": "27410624",
+    "update_time": "2025-02-11 07:39:27",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3384181": {
+            "manifests": {
+                "public": {
+                    "gid": "3165704244473725171",
+                    "size": "1676032008",
+                    "download": "1515096432"
+                }
+            },
+            "decryptionkey": "9ea8ac95aae465220264ff00ede6cd6ff84bc3ac45e72bb09512f0f779cc41ec"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese",
+        "branches": {
+            "public": {
+                "buildid": "17261848",
+                "timeupdated": "1738819673"
+            }
+        }
+    }
+}
