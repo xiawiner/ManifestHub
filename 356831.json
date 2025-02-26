@@ -1,0 +1,30 @@
+{
+    "appid": "356831",
+    "type": "Music",
+    "name": "A Hat in Time - Soundtrack",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22534048",
+    "update_time": "2024-07-16 02:43:55",
+    "depot": {
+        "356831": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "861767334859053633",
+                    "size": "801369205",
+                    "download": "703854960"
+                }
+            },
+            "decryptionkey": "3a17095556bfa4f1a5c22d454f841cb424c10e7f9ec2b771625b7fb681696b2e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4558363",
+                "timeupdated": "1578660470"
+            }
+        }
+    }
+}
