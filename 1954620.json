@@ -1,0 +1,27 @@
+{
+    "appid": "1954620",
+    "type": "Beta",
+    "name": "迷失幻途 Playtest",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24678465",
+    "update_time": "2024-08-07 11:10:26",
+    "depot": {
+        "1954621": {
+            "manifests": {
+                "public": {
+                    "gid": "3138646485688565577",
+                    "size": "599486298",
+                    "download": "181007408"
+                }
+            },
+            "decryptionkey": "a77e93aa5fb43833ac433037c0159593ec8196d3686f315e93cce0d92eb39757"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15284979",
+                "timeupdated": "1723000220"
+            }
+        }
+    }
+}
