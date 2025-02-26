@@ -1,0 +1,43 @@
+{
+    "appid": "445770",
+    "type": "Game",
+    "name": "Airport Madness 3D",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26959115",
+    "update_time": "2025-01-12 10:17:07",
+    "depot": {
+        "445771": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4736147307324326334",
+                    "size": "542344956",
+                    "download": "133825248"
+                }
+            },
+            "decryptionkey": "131020065b764f537d82aca92f4d8624c893c6bd4a2fd7bd2a85f726ee0e0e67"
+        },
+        "445772": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3152789468975917811",
+                    "size": "606455024",
+                    "download": "148766784"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "12260079",
+                "timeupdated": "1695411780"
+            }
+        }
+    }
+}
