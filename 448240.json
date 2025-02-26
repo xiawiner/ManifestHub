@@ -1,0 +1,45 @@
+{
+    "appid": "448240",
+    "type": "Game",
+    "name": "Hybrids Arena",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26604150",
+    "update_time": "2024-12-12 11:39:13",
+    "depot": {
+        "448241": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4661726401669333111",
+                    "size": "582174125",
+                    "download": "75117696"
+                }
+            },
+            "decryptionkey": "2093c0e447619cb135965636bed7acb1eb04134fe2d637ddce38ac5f06b1e298"
+        },
+        "448242": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4034407991839686194",
+                    "size": "576589114",
+                    "download": "71464432"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1174194",
+                "timeupdated": "1465547500"
+            }
+        }
+    }
+}
