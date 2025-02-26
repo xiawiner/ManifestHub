@@ -1,0 +1,56 @@
+{
+    "appid": "2055910",
+    "type": "Game",
+    "name": "Poosh XL",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27353602",
+    "update_time": "2025-02-07 05:58:31",
+    "depot": {
+        "2055911": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1693911647523440640",
+                    "size": "161973506",
+                    "download": "84566432"
+                }
+            },
+            "decryptionkey": "2e2f41ad205d4cef73e92f7fb729445e3e32ee08dec2452d955b779244f9e9b2"
+        },
+        "2055912": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6695446692525499844",
+                    "size": "216284042",
+                    "download": "99937376"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2055913": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4716644981374773466",
+                    "size": "139449511",
+                    "download": "75626656"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17461578",
+                "timeupdated": "1740176480"
+            }
+        }
+    }
+}
