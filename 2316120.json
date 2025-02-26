@@ -1,0 +1,46 @@
+{
+    "appid": "2316120",
+    "type": "Demo",
+    "name": "溯光行 Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27435709",
+    "update_time": "2025-02-12 17:01:40",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2316123": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3425307098926376495",
+                    "size": "3198638758",
+                    "download": "2911741408"
+                }
+            },
+            "decryptionkey": "24fc740b5ed7dd4adb4c39e6ddf7e116ff91356d20a66ab6142a6952dadc5788"
+        },
+        "2316121": {},
+        "branches": {
+            "public": {
+                "buildid": "17482687",
+                "timeupdated": "1740397670"
+            }
+        }
+    }
+}
