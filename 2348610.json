@@ -1,0 +1,60 @@
+{
+    "appid": "2348610",
+    "type": "Game",
+    "name": "Slime 3K: Rise Against Despot",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27429927",
+    "update_time": "2025-02-12 08:37:27",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
+        "2348611": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3701070727859374453",
+                    "size": "426093628",
+                    "download": "152785056"
+                }
+            },
+            "decryptionkey": "11edb21701e276d169c74c81375755f230347c1b535e79b34696ae6b7cde8f67"
+        },
+        "2348612": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6005163314669371283",
+                    "size": "666990271",
+                    "download": "184875600"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2348613": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5045852639885573105",
+                    "size": "533049624",
+                    "download": "159585680"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16799483",
+                "timeupdated": "1734631214"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
