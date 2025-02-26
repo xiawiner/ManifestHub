@@ -1,0 +1,51 @@
+{
+    "appid": "780210",
+    "type": "Game",
+    "name": "Freeways",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27338058",
+    "update_time": "2025-02-06 11:26:00",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "780211": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8871608266335983648",
+                    "size": "21457925",
+                    "download": "18992416"
+                }
+            },
+            "decryptionkey": "fc6214507735818e62e64d94ab620d9391d6390a62b76e135b489483cdcd4ac0"
+        },
+        "780212": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8879184621569822822",
+                    "size": "56032302",
+                    "download": "51057744"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "17242175",
+                "timeupdated": "1738697093"
+            }
+        }
+    }
+}
