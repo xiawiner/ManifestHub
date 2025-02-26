@@ -1,0 +1,36 @@
+{
+    "appid": "2072450",
+    "type": "Game",
+    "name": "Like a Dragon: Infinite Wealth",
+    "schinese_name": "人中之龙８",
+    "isfreeapp": "0",
+    "change_number": "27315332",
+    "update_time": "2025-02-05 06:11:48",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2072451": {
+            "manifests": {
+                "public": {
+                    "gid": "4662458560740273994",
+                    "size": "84057676013",
+                    "download": "64364263952"
+                }
+            },
+            "decryptionkey": "77360feef0acf98c8a6727d3cca6f0bd7ede2c3a36fa467945ff217a7067e002"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "13850254",
+                "timeupdated": "1712023214"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
