@@ -1,0 +1,28 @@
+{
+    "appid": "3363290",
+    "type": "Demo",
+    "name": "HELLBREAK Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27458680",
+    "update_time": "2025-02-13 20:14:30",
+    "depot": {
+        "3363291": {
+            "manifests": {
+                "public": {
+                    "gid": "583223956488633977",
+                    "size": "3843451863",
+                    "download": "3597944144"
+                }
+            },
+            "decryptionkey": "0a4795dde80017699d7d32e540249e42a79929d51b8b4977a6cd4e4a151e1aff"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16979205",
+                "timeupdated": "1736684956"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
