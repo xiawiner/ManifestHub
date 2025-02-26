@@ -1,0 +1,54 @@
+{
+    "appid": "1964480",
+    "type": "Application",
+    "name": "Yami RPG Editor",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27501431",
+    "update_time": "2025-02-16 17:13:53",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,schinese",
+        "1964481": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1369691805348584487",
+                    "size": "1346955004",
+                    "download": "476316672"
+                }
+            },
+            "decryptionkey": "0fbc3ce20c8baf6dfbb6c67c3e8301316876c2e2ef6b9149498b901c54b7fa7d"
+        },
+        "1964482": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3140226095485318395",
+                    "size": "1880589615",
+                    "download": "595322096"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "12559764",
+                "timeupdated": "1698466885"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
