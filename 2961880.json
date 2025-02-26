@@ -1,0 +1,42 @@
+{
+    "appid": "2961880",
+    "type": "Game",
+    "name": "Grocery Store Simulator",
+    "schinese_name": "杂货店模拟器",
+    "isfreeapp": "0",
+    "change_number": "26812836",
+    "update_time": "2024-12-30 06:52:52",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2961881": {
+            "manifests": {
+                "public": {
+                    "gid": "512028189784972862",
+                    "size": "6397200606",
+                    "download": "6069698544"
+                }
+            },
+            "decryptionkey": "457905f421cfe00bc3a56c517ae769144b2c9179f04d30f67c893513c173574c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16785864",
+                "timeupdated": "1734522633"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
