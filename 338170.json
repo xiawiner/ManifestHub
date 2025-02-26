@@ -1,0 +1,47 @@
+{
+    "appid": "338170",
+    "type": "Game",
+    "name": "Ratz Instagib 2.0",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27106886",
+    "update_time": "2025-01-22 14:27:04",
+    "depot": {
+        "338171": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6667544774254874953",
+                    "size": "1168943677",
+                    "download": "376447280"
+                }
+            },
+            "decryptionkey": "a0db2a939c93f1889ed7d74eca3c3b0f0f4175e2177880593435285c8bdbaff8"
+        },
+        "338172": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8421397443663984954",
+                    "size": "1120084562",
+                    "download": "371844992"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "338170",
+        "baselanguages": "english,german,french,spanish,russian",
+        "branches": {
+            "public": {
+                "buildid": "14133844",
+                "timeupdated": "1713971842"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "920e9e6d4b400dfab090b172f352795150288359176b05973b349a7a5ceef798"
+    }
+}
