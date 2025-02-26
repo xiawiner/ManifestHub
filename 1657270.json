@@ -1,0 +1,58 @@
+{
+    "appid": "1657270",
+    "type": "Demo",
+    "name": "Mini Royale Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27537060",
+    "update_time": "2025-02-18 23:28:45",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1657271": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7542960379388948514",
+                    "size": "12041831216",
+                    "download": "2927284480"
+                }
+            },
+            "decryptionkey": "0f108a8a5b02fb1481d67f5d7b36ed7c6738d5ebec02f7ec0ef28c8d80bc6712"
+        },
+        "1657272": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8441140683832614776",
+                    "size": "12555300743",
+                    "download": "2723140080"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17372065",
+                "timeupdated": "1739566733"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
