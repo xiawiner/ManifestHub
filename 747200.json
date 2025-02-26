@@ -1,0 +1,49 @@
+{
+    "appid": "747200",
+    "type": "Game",
+    "name": "Keplerth",
+    "schinese_name": "开普勒斯",
+    "isfreeapp": "0",
+    "change_number": "26943607",
+    "update_time": "2025-01-10 23:14:44",
+    "depot": {
+        "baselanguages": "english",
+        "workshopdepot": "747200",
+        "747201": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7429679655430985121",
+                    "size": "1887271090",
+                    "download": "407686784"
+                }
+            },
+            "decryptionkey": "59c30bb44de686590f0440cede1fe03783d86de3d2055dea8f3f7506888c6fea"
+        },
+        "747202": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4852159250988534092",
+                    "size": "1879387970",
+                    "download": "405224160"
+                }
+            },
+            "decryptionkey": "aac1314839f807b46a2ab8110f745d25078188285912f45d9035eed58c58b354"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16178637",
+                "timeupdated": "1729850389"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "a9727f8f65e5c213f106c37bd0baa8b1b8b4623fb6d910e484aa8feacecbccbe"
+    }
+}
