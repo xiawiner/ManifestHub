@@ -1,0 +1,43 @@
+{
+    "appid": "2082060",
+    "type": "Game",
+    "name": "My Furry Stepmom",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26117517",
+    "update_time": "2024-11-09 09:22:31",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,russian",
+        "2082061": {
+            "manifests": {
+                "public": {
+                    "gid": "3947196295937586432",
+                    "size": "200957109",
+                    "download": "161693008"
+                }
+            },
+            "decryptionkey": "83a87501fb427ed0f84fbf0580aad57de8bbc87f1f74146adca369f66adb94f0"
+        },
+        "2082062": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7609119532627231877",
+                    "size": "203355658",
+                    "download": "164015424"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "13767890",
+                "timeupdated": "1710700777"
+            }
+        }
+    }
+}
