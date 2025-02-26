@@ -1,0 +1,27 @@
+{
+    "appid": "2897440",
+    "type": "Beta",
+    "name": "Granvir Multiplayer Playtest",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27538976",
+    "update_time": "2025-02-19 01:23:03",
+    "depot": {
+        "2897441": {
+            "manifests": {
+                "public": {
+                    "gid": "5886911735549471200",
+                    "size": "1061788681",
+                    "download": "340610624"
+                }
+            },
+            "decryptionkey": "c42b9770b5756f9b913bef71c522ec891eb10d170b4d0fc3cf67520ceca463e8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17477627",
+                "timeupdated": "1740359951"
+            }
+        }
+    }
+}
