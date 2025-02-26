@@ -1,0 +1,57 @@
+{
+    "appid": "2461460",
+    "type": "Game",
+    "name": "Womanizer",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27176963",
+    "update_time": "2025-01-27 10:20:21",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2461461": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "949140698566473387",
+                    "size": "823022327",
+                    "download": "716545968"
+                }
+            },
+            "decryptionkey": "62dc73ebf2f505a1ec7edc0d23331a4c64c687cfb0534f6023a2f0f8d3d97d4a"
+        },
+        "2461462": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7751119942351768395",
+                    "size": "812067563",
+                    "download": "713067664"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2461463": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3586237352330557611",
+                    "size": "843870193",
+                    "download": "722062624"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16980722",
+                "timeupdated": "1736702871"
+            }
+        }
+    }
+}
