@@ -1,0 +1,44 @@
+{
+    "appid": "950900",
+    "type": "Tool",
+    "name": "Operation: Harsh Doorstop - Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26182576",
+    "update_time": "2024-11-14 05:46:58",
+    "depot": {
+        "950901": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4138809634208355764",
+                    "size": "2293396789",
+                    "download": "785761808"
+                }
+            },
+            "decryptionkey": "cf03a739480f50ec8fc4dae4e973e6e0aa5eab8ac849f485ca5538f87d801f94"
+        },
+        "950902": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4930735536869631980",
+                    "size": "2343565502",
+                    "download": "793859888"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "13621008",
+                "timeupdated": "1709571471"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
