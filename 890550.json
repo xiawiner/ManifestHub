@@ -1,0 +1,65 @@
+{
+    "appid": "890550",
+    "type": "Game",
+    "name": "RUMBLE",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27046630",
+    "update_time": "2025-01-18 01:32:00",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "890551": {
+            "manifests": {
+                "public": {
+                    "gid": "4458201015843951826",
+                    "size": "1149757383",
+                    "download": "300317040"
+                }
+            },
+            "decryptionkey": "aa5c003ce988893f1b22c53efa4eb7cff9314a6ade916b398f1caf14f1d72146"
+        },
+        "890553": {
+            "manifests": {
+                "public": {
+                    "gid": "8482627840237543101",
+                    "size": "1149757383",
+                    "download": "300343040"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "890552": {
+            "manifests": {
+                "public": {
+                    "gid": "6480058636853320863",
+                    "size": "1149757383",
+                    "download": "300317040"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "890554": {
+            "manifests": {
+                "public": {
+                    "gid": "5518616403804549620",
+                    "size": "1149757383",
+                    "download": "300305792"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17424141",
+                "timeupdated": "1739977092"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
