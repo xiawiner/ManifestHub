@@ -1,0 +1,35 @@
+{
+    "appid": "936530",
+    "type": "Game",
+    "name": "Close Combat: Last Stand Arnhem",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24718626",
+    "update_time": "2024-08-09 19:11:28",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "936531": {
+            "manifests": {
+                "public": {
+                    "gid": "2176389649515043744",
+                    "size": "1951220087",
+                    "download": "1001192080"
+                }
+            },
+            "decryptionkey": "8b7dfdecdecfe11a48857d4ffdf790c5fd9caa34f66751c79b49dd30a529e1ef"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13475768",
+                "timeupdated": "1709053709"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
