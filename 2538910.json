@@ -1,0 +1,27 @@
+{
+    "appid": "2538910",
+    "type": "Game",
+    "name": "夏末白夜",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27421664",
+    "update_time": "2025-02-11 22:38:36",
+    "depot": {
+        "2538911": {
+            "manifests": {
+                "public": {
+                    "gid": "6503097001818668086",
+                    "size": "4009459666",
+                    "download": "3618306880"
+                }
+            },
+            "decryptionkey": "88a23f519e2bde9d21e81bdcd30dc4975ca8fdb0743d60360487cf45f7d53539"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17118965",
+                "timeupdated": "1737719872"
+            }
+        }
+    }
+}
