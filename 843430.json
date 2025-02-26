@@ -1,0 +1,86 @@
+{
+    "appid": "843430",
+    "type": "Game",
+    "name": "Righty Tighty XL",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27422726",
+    "update_time": "2025-02-11 23:36:54",
+    "depot": {
+        "843431": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "507808382666455802",
+                    "size": "171516251",
+                    "download": "50253360"
+                }
+            },
+            "decryptionkey": "0ceb7c3eb49f2b060fe9ffea1099012dad3763020eb953def792658bd27432a5"
+        },
+        "843432": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7953241664138478785",
+                    "size": "169267853",
+                    "download": "50351472"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "843433": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7018164817344756942",
+                    "size": "170119497",
+                    "download": "50561024"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "843434": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6622536490578935080",
+                    "size": "165635379",
+                    "download": "48290352"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "843435": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8980182946521349311",
+                    "size": "169614580",
+                    "download": "49979344"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "7538163",
+                "timeupdated": "1634280710"
+            }
+        }
+    }
+}
