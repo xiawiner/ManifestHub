@@ -1,0 +1,27 @@
+{
+    "appid": "806610",
+    "type": "Game",
+    "name": "Trivia Vault Basketball Trivia",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27157930",
+    "update_time": "2025-01-25 07:26:49",
+    "depot": {
+        "806611": {
+            "manifests": {
+                "public": {
+                    "gid": "3530343275612353809",
+                    "size": "132958562",
+                    "download": "27884624"
+                }
+            },
+            "decryptionkey": "7440f3b79a36822f538aaaad9ab580692d0a994b9d8772484f2058d073bf577f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2520643",
+                "timeupdated": "1518493215"
+            }
+        }
+    }
+}
