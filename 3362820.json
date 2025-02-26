@@ -1,0 +1,35 @@
+{
+    "appid": "3362820",
+    "type": "Beta",
+    "name": "Exoborne Playtest",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27539848",
+    "update_time": "2025-02-19 02:15:10",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3362821": {
+            "manifests": {
+                "public": {
+                    "gid": "7820344233907441536",
+                    "size": "53045428884",
+                    "download": "51322077200"
+                }
+            },
+            "decryptionkey": "dc885a72e8f229f40f48cdf59759b4e024e009f0f414dd14ece8701b7f57670e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17426795",
+                "timeupdated": "1740044000"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
