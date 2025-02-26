@@ -1,0 +1,66 @@
+{
+    "appid": "738600",
+    "type": "Game",
+    "name": "Odyssey: The Deep Space Expedition",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25589355",
+    "update_time": "2024-10-08 23:09:07",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "738601": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2904611211116071015",
+                    "size": "1244858224",
+                    "download": "566822288"
+                },
+                "test": {
+                    "gid": "2904611211116071015",
+                    "size": "1244858224",
+                    "download": "566822288"
+                }
+            },
+            "decryptionkey": "de7544bd5199cd0f9a2f2134a0a03a0679dd0cb23ba569459423d6b759e2a513"
+        },
+        "738602": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            }
+        },
+        "992770": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5479274399077067188",
+                    "size": "28672990",
+                    "download": "24173584"
+                },
+                "test": {
+                    "gid": "5479274399077067188",
+                    "size": "28672990",
+                    "download": "24173584"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "3912363",
+                "timeupdated": "1560360374"
+            },
+            "test": {
+                "buildid": "3912363",
+                "timeupdated": "1560360420"
+            }
+        }
+    }
+}
