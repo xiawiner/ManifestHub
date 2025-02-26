@@ -1,0 +1,48 @@
+{
+    "appid": "347170",
+    "type": "Game",
+    "name": "Combat Air Patrol 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27411826",
+    "update_time": "2025-02-11 09:30:13",
+    "depot": {
+        "347171": {
+            "manifests": {
+                "public": {
+                    "gid": "5122067749279905594",
+                    "size": "8817582748",
+                    "download": "5638248336"
+                },
+                "beta": {
+                    "gid": "5122067749279905594",
+                    "size": "8817582748",
+                    "download": "5638248336"
+                },
+                "vrbeta": {
+                    "gid": "5122067749279905594",
+                    "size": "8817582748",
+                    "download": "5638248336"
+                }
+            },
+            "decryptionkey": "792e85f0d54e935198565e9ebc2abaaa913bd995265f4d2cb0909eac08f3844e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15143969",
+                "timeupdated": "1721872072"
+            },
+            "beta": {
+                "buildid": "15143969",
+                "description": "Faster Release Branch",
+                "timeupdated": "1721871937"
+            },
+            "vrbeta": {
+                "buildid": "15143969",
+                "description": "VR focused releases",
+                "timeupdated": "1721871968"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
