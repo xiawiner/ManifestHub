@@ -1,0 +1,45 @@
+{
+    "appid": "421610",
+    "type": "Game",
+    "name": "XBlaze Code: Embryo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26715001",
+    "update_time": "2024-12-19 22:23:52",
+    "depot": {
+        "baselanguages": "english,japanese",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "421611": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6340719361543144388",
+                    "size": "6588021547",
+                    "download": "2530091104"
+                }
+            },
+            "decryptionkey": "9debbbe9b4e64637f756d4fae68f6bc08bad44ffbdbafd4dbc07c7c7daba13b3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "982527"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
