@@ -1,0 +1,28 @@
+{
+    "appid": "2088650",
+    "type": "Game",
+    "name": "Mist Slayer",
+    "schinese_name": "迷雾回生",
+    "isfreeapp": "0",
+    "change_number": "27269094",
+    "update_time": "2025-02-01 22:32:39",
+    "depot": {
+        "2088651": {
+            "manifests": {
+                "public": {
+                    "gid": "5954199355376338469",
+                    "size": "3002087543",
+                    "download": "2323738336"
+                }
+            },
+            "decryptionkey": "844feca898f9d9185cad90f3f30f8ecd7c4c4b4a90fe2b424c27cd91f577b877"
+        },
+        "baselanguages": "english,schinese,tchinese",
+        "branches": {
+            "public": {
+                "buildid": "13398836",
+                "timeupdated": "1707356250"
+            }
+        }
+    }
+}
