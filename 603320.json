@@ -1,0 +1,27 @@
+{
+    "appid": "603320",
+    "type": "Game",
+    "name": "Age of Defense",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27348329",
+    "update_time": "2025-02-07 00:15:03",
+    "depot": {
+        "603321": {
+            "manifests": {
+                "public": {
+                    "gid": "6001180265315250673",
+                    "size": "1958640727",
+                    "download": "1914913872"
+                }
+            },
+            "decryptionkey": "40bb3f928371a1385f6df88a336d5204241b6b3e2cefbb98fbc03af160107b6b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17466069",
+                "timeupdated": "1740217606"
+            }
+        }
+    }
+}
