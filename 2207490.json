@@ -1,0 +1,76 @@
+{
+    "appid": "2207490",
+    "type": "Game",
+    "name": "Factory Town Idle",
+    "schinese_name": "工业小镇：放置版",
+    "isfreeapp": "0",
+    "change_number": "27278593",
+    "update_time": "2025-02-03 01:11:50",
+    "depot": {
+        "2207491": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6192957983618010801",
+                    "size": "177361938",
+                    "download": "72226192"
+                },
+                "legacy_ui": {
+                    "gid": "898174404967648745",
+                    "size": "148548219",
+                    "download": "46929872"
+                },
+                "beta": {
+                    "gid": "1791330750677648342",
+                    "size": "177361938",
+                    "download": "72225936"
+                }
+            },
+            "decryptionkey": "897860484f7d9751e73184572b646fb0bf9aa699d0dc8530ed0f740a07984560"
+        },
+        "2207492": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5068713607838432967",
+                    "size": "171548550",
+                    "download": "70820160"
+                },
+                "legacy_ui": {
+                    "gid": "6315762777448941858",
+                    "size": "142734253",
+                    "download": "45541040"
+                },
+                "beta": {
+                    "gid": "7712659392870936724",
+                    "size": "171548550",
+                    "download": "70820144"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "14188069",
+                "timeupdated": "1714148943"
+            },
+            "legacy_ui": {
+                "buildid": "12416917",
+                "description": "Snapshot of 1.90 with older UI",
+                "timeupdated": "1700573677"
+            },
+            "beta": {
+                "buildid": "14188012",
+                "description": "Public test branch",
+                "timeupdated": "1714148066"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
