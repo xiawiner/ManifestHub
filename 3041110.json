@@ -1,0 +1,42 @@
+{
+    "appid": "3041110",
+    "type": "Game",
+    "name": "中传有戏",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26850640",
+    "update_time": "2025-01-03 19:12:47",
+    "depot": {
+        "baselanguages": "schinese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3041111": {
+            "manifests": {
+                "public": {
+                    "gid": "7599507113590290134",
+                    "size": "18487442948",
+                    "download": "18003975456"
+                }
+            },
+            "decryptionkey": "9df2c0a2d5ecff68900b8794371cd330883dc244ac7a8ae5143d97083aa70229"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15982861",
+                "timeupdated": "1728546089"
+            }
+        }
+    }
+}
