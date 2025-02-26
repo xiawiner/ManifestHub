@@ -1,0 +1,31 @@
+{
+    "appid": "2447530",
+    "type": "Game",
+    "name": "Xargon Remake Ep.3",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27383340",
+    "update_time": "2025-02-09 08:38:35",
+    "depot": {
+        "2447531": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5249894520732016180",
+                    "size": "7502606787",
+                    "download": "946150832"
+                }
+            },
+            "decryptionkey": "ffc7ece858b6fcf52a7f30ac1b29aa05c2caf6861b977e0268c1e0904dc766ea"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17014889",
+                "timeupdated": "1736956021"
+            }
+        }
+    }
+}
