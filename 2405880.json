@@ -1,0 +1,45 @@
+{
+    "appid": "2405880",
+    "type": "Demo",
+    "name": "Iron Roads Demo",
+    "schinese_name": "铁路物语 Demo",
+    "isfreeapp": "0",
+    "change_number": "27536732",
+    "update_time": "2025-02-18 23:14:07",
+    "depot": {
+        "2405881": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8155000973838522065",
+                    "size": "70469018",
+                    "download": "54318928"
+                }
+            },
+            "decryptionkey": "fe48613925bbf82ecfd34d3f7b03644f44f5100513f2b806ff15adaee69b7d5c"
+        },
+        "2405882": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6154472200974799136",
+                    "size": "69768635",
+                    "download": "54134896"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,schinese,tchinese",
+        "branches": {
+            "public": {
+                "buildid": "17408018",
+                "timeupdated": "1739986225"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
