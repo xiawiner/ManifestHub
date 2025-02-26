@@ -1,0 +1,81 @@
+{
+    "appid": "2672760",
+    "type": "Game",
+    "name": "Maza",
+    "schinese_name": "马扎",
+    "isfreeapp": "0",
+    "change_number": "27459780",
+    "update_time": "2025-02-13 21:16:17",
+    "depot": {
+        "baselanguages": "english,spanish,schinese,russian",
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2672761": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7174267247045110957",
+                    "size": "146415236",
+                    "download": "140646192"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2672762": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4023602050907393879",
+                    "size": "178233666",
+                    "download": "98332240"
+                }
+            },
+            "decryptionkey": "5cde1fd8dccf0c765d8d50fc0ed801dd606bf7618bc28abce03cc5a01c1e6f89"
+        },
+        "2672763": {
+            "config": {
+                "language": "spanish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "368246241956039662",
+                    "size": "146532691",
+                    "download": "140903408"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2672764": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4688014085035986011",
+                    "size": "146826362",
+                    "download": "140975184"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17265454",
+                "timeupdated": "1738841254"
+            }
+        }
+    }
+}
