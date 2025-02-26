@@ -1,0 +1,46 @@
+{
+    "appid": "3344790",
+    "type": "Game",
+    "name": "眼傀公司",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27048707",
+    "update_time": "2025-01-18 04:08:46",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3344791": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7767067930784634291",
+                    "size": "622156597",
+                    "download": "523195856"
+                }
+            },
+            "decryptionkey": "97b262a79892bae96718a20b8dbbb815414ee598ac2278c81a30bbea9e0e2076"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "16730522",
+                "timeupdated": "1734063012"
+            }
+        }
+    }
+}
