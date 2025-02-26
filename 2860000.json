@@ -1,0 +1,157 @@
+{
+    "appid": "2860000",
+    "type": "Beta",
+    "name": "WildAssault / 兽猎突袭 Playtest",
+    "schinese_name": "兽猎突袭 超前测试版本",
+    "isfreeapp": "0",
+    "change_number": "27476662",
+    "update_time": "2025-02-14 17:59:05",
+    "depot": {
+        "baselanguages": "english,german,french,spanish,schinese,russian,thai,japanese,portuguese",
+        "hasdepotsindlc": "0",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2860001": {
+            "manifests": {
+                "public": {
+                    "gid": "6649436331977852887",
+                    "size": "16093271831",
+                    "download": "15972350832"
+                }
+            },
+            "decryptionkey": "69fbacfd7eaaa47a550607b9ca90e727770b6b585ff18881905199b1bd716fb6"
+        },
+        "2860005": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4529493687777101898",
+                    "size": "34715050",
+                    "download": "32141088"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2860004": {
+            "config": {
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8081229566354248104",
+                    "size": "52277091",
+                    "download": "48177488"
+                }
+            },
+            "decryptionkey": "b521f40783d66cabfe8fefabb3d69524cc5dc9ebf28399cccab69c90210d84a7"
+        },
+        "2860006": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1659304740288947871",
+                    "size": "34715052",
+                    "download": "32141088"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2860007": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5265310495627347982",
+                    "size": "34715050",
+                    "download": "32141088"
+                }
+            },
+            "decryptionkey": "0ea18e50377d9f08ba77597759e17a6c2ff7df8bff0740498f88b04c1b33cef7"
+        },
+        "2860002": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3969115383979560692",
+                    "size": "34715052",
+                    "download": "32141088"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2860003": {
+            "config": {
+                "language": "thai"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2566688696197391820",
+                    "size": "34715050",
+                    "download": "32141088"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2860008": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6225364368880033677",
+                    "size": "34715050",
+                    "download": "32141088"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2860009": {
+            "config": {
+                "language": "portuguese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4674614122538618220",
+                    "size": "34715053",
+                    "download": "32141088"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16890289",
+                "timeupdated": "1735805842"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
