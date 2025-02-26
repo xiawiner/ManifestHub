@@ -1,0 +1,36 @@
+{
+    "appid": "3141730",
+    "type": "Demo",
+    "name": "Monster Battles Demo",
+    "schinese_name": "怪物对决 试用版",
+    "isfreeapp": "0",
+    "change_number": "27481990",
+    "update_time": "2025-02-14 23:22:20",
+    "depot": {
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3141731": {
+            "manifests": {
+                "public": {
+                    "gid": "1145809737141392870",
+                    "size": "173761064",
+                    "download": "108141744"
+                }
+            },
+            "decryptionkey": "63ac7d919654b092963ce2de60eb88fd431bb43213ab8a66fea5fd002352cba4"
+        },
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish",
+        "branches": {
+            "public": {
+                "buildid": "17368598",
+                "timeupdated": "1739546537"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
