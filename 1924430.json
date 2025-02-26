@@ -1,0 +1,28 @@
+{
+    "appid": "1924430",
+    "type": "Game",
+    "name": "Cookie Cutter",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26882709",
+    "update_time": "2025-01-07 05:06:17",
+    "depot": {
+        "1924431": {
+            "manifests": {
+                "public": {
+                    "gid": "5371858493999909578",
+                    "size": "10999898893",
+                    "download": "1276900256"
+                }
+            },
+            "decryptionkey": "55f1ee3bf31c7ca59e30e91329e6763fe783ec32c55c6f2358b11fa9e52313cf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13926524",
+                "timeupdated": "1712163730"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
