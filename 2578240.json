@@ -1,0 +1,53 @@
+{
+    "appid": "2578240",
+    "type": "Game",
+    "name": "復甦之島：愛與勝利",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26405467",
+    "update_time": "2024-12-05 06:48:53",
+    "depot": {
+        "2578241": {
+            "manifests": {
+                "public": {
+                    "gid": "9011441089143005886",
+                    "size": "632233404",
+                    "download": "442161312"
+                }
+            },
+            "decryptionkey": "a76adef4da0203efd6a82042f409fde8f0deae380934bfb09c4bb32b91ac1a3a"
+        },
+        "2578242": {
+            "config": {
+                "language": "tchinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "426066254674345536",
+                    "size": "632060990",
+                    "download": "442025920"
+                }
+            },
+            "decryptionkey": "46af07da290601228c6b278ae0f9697c13ff4f12926db869f5053511ce10f8b9"
+        },
+        "2578243": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4938034835283034011",
+                    "size": "632243600",
+                    "download": "443219648"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "14405329",
+                "timeupdated": "1715960843"
+            }
+        }
+    }
+}
