@@ -1,0 +1,27 @@
+{
+    "appid": "2677670",
+    "type": "Game",
+    "name": "Horny Holiday",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27248305",
+    "update_time": "2025-01-31 14:34:34",
+    "depot": {
+        "2677671": {
+            "manifests": {
+                "public": {
+                    "gid": "2165578048352589028",
+                    "size": "2255010355",
+                    "download": "2058913312"
+                }
+            },
+            "decryptionkey": "9d369cc48124724feb8afd0e6099e18c0c518dcf1e1d200d9dbc52fc900ed522"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16215874",
+                "timeupdated": "1730175677"
+            }
+        }
+    }
+}
