@@ -1,0 +1,108 @@
+{
+    "appid": "1972440",
+    "type": "Game",
+    "name": "Shotgun King: The Final Checkmate",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27520100",
+    "update_time": "2025-02-18 01:28:09",
+    "depot": {
+        "workshopdepot": "1972440",
+        "1972441": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7460867402718899402",
+                    "size": "111952931",
+                    "download": "103647360"
+                },
+                "v1.39": {
+                    "gid": "5181111827735820082",
+                    "size": "75894205",
+                    "download": "66188192"
+                },
+                "public-beta": {
+                    "gid": "7460867402718899402",
+                    "size": "111952931",
+                    "download": "103647360"
+                },
+                "v1.245c": {
+                    "gid": "2533666272265567767",
+                    "size": "53138645",
+                    "download": "30573840"
+                }
+            },
+            "decryptionkey": "03a87de4345752d75867f8b90401b3497239bdd4ef7780eccf39c506f2872741"
+        },
+        "1972442": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3411400724974039774",
+                    "size": "110046288",
+                    "download": "102482720"
+                },
+                "public-beta": {
+                    "gid": "3411400724974039774",
+                    "size": "110046288",
+                    "download": "102482720"
+                },
+                "v1.245c": {
+                    "gid": "679777779221245838",
+                    "size": "109784502",
+                    "download": "102400576"
+                }
+            },
+            "decryptionkey": "2e268479e14e5c7ac434b66820f68d96a2280a5776bcff21f0fa9095c4006aa1"
+        },
+        "1972443": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "861760757303778114",
+                    "size": "113596871",
+                    "download": "102901328"
+                },
+                "public-beta": {
+                    "gid": "861760757303778114",
+                    "size": "113596871",
+                    "download": "102901328"
+                },
+                "v1.245c": {
+                    "gid": "6811465580899842243",
+                    "size": "113330075",
+                    "download": "102798688"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17396431",
+                "timeupdated": "1739813283"
+            },
+            "v1.39": {
+                "buildid": "12284753",
+                "description": "old art, pre modding update, pre-controller support",
+                "timeupdated": "1705939696"
+            },
+            "public-beta": {
+                "buildid": "17396431",
+                "description": "v1.515f - join our discord to give feedback!",
+                "timeupdated": "1739813267"
+            },
+            "v1.245c": {
+                "buildid": "16191535",
+                "description": "really old version with the oldest mod support the game ever had (windows only)",
+                "timeupdated": "1729948875"
+            }
+        },
+        "workshopdepotdecryptionkey": "fe6a37eaf4c02699a80d062726024bc52123acf2dda3bde4e64a634f21553b92"
+    }
+}
