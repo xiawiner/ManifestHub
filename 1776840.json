@@ -1,0 +1,27 @@
+{
+    "appid": "1776840",
+    "type": "Game",
+    "name": "Overbowed",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27307556",
+    "update_time": "2025-02-04 21:33:09",
+    "depot": {
+        "1776841": {
+            "manifests": {
+                "public": {
+                    "gid": "1129803896673095667",
+                    "size": "279339535",
+                    "download": "207770608"
+                }
+            },
+            "decryptionkey": "53b56e798feb313df2b1f2053d4f1de786330cb26a5bfa63a031d0d1cac8b707"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14680384",
+                "timeupdated": "1718122820"
+            }
+        }
+    }
+}
