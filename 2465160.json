@@ -1,0 +1,27 @@
+{
+    "appid": "2465160",
+    "type": "Beta",
+    "name": "INITIAL D Playtest",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27507764",
+    "update_time": "2025-02-17 08:23:11",
+    "depot": {
+        "2465161": {
+            "manifests": {
+                "public": {
+                    "gid": "8049472867993080013",
+                    "size": "26010799361",
+                    "download": "11172319008"
+                }
+            },
+            "decryptionkey": "ef1759d043873b3cf9e9bb31354712a4f5625c6cbb3307f3954b9c86f0d84a6e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17387102",
+                "timeupdated": "1739751783"
+            }
+        }
+    }
+}
