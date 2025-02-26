@@ -1,0 +1,36 @@
+{
+    "appid": "3172890",
+    "type": "Tool",
+    "name": "Sins of a Solar Empire II - Modding Tools",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27352881",
+    "update_time": "2025-02-07 04:59:53",
+    "depot": {
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3172891": {
+            "manifests": {
+                "public": {
+                    "gid": "2360684136137322238",
+                    "size": "84655091",
+                    "download": "18524192"
+                }
+            },
+            "decryptionkey": "cc7fe5ea8be0769812de6398aa3d530f616718b5db4e19d5dd5e2558555e954f"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "17272080",
+                "timeupdated": "1738875587"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
