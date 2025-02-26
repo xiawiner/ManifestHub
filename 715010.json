@@ -1,0 +1,86 @@
+{
+    "appid": "715010",
+    "type": "Game",
+    "name": "Diamo XL",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24027018",
+    "update_time": "2024-06-19 10:31:25",
+    "depot": {
+        "715011": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4116841977123950213",
+                    "size": "98814593",
+                    "download": "49259344"
+                }
+            },
+            "decryptionkey": "881d0e5310e68ad8a8204de7af81bc280e6240aaa290b2ce4b2e99ee394b3afd"
+        },
+        "715012": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8379861618740795986",
+                    "size": "91463339",
+                    "download": "47082096"
+                }
+            },
+            "decryptionkey": "db0ddbc833a1ef1cc678120900c51581e2e417bf17bea488a958dffea3a59b57"
+        },
+        "715013": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1289175491573691895",
+                    "size": "96597594",
+                    "download": "47252144"
+                }
+            },
+            "decryptionkey": "e5fb3c90575bd24933d34af9da13b6b98c956cfedbcbe0f9df29c6b8636c55a0"
+        },
+        "715014": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2329889312972439468",
+                    "size": "88463997",
+                    "download": "46130848"
+                }
+            },
+            "decryptionkey": "2322a4c0b2752e9bd8d9f3c69e71816bbf0ce4e2e085ea36148ee337ebf73a17"
+        },
+        "715015": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4295698528467843066",
+                    "size": "102899530",
+                    "download": "59872304"
+                }
+            },
+            "decryptionkey": "9997a7e5004fdd2644fa7d6d1c0734d2cd558f8b3b5153b0858599de83d9e404"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14762661",
+                "timeupdated": "1718764282"
+            }
+        }
+    }
+}
