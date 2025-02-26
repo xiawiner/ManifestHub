@@ -1,0 +1,33 @@
+{
+    "appid": "828740",
+    "type": "Game",
+    "name": "Tales of the Neon Sea",
+    "schinese_name": "迷雾侦探",
+    "isfreeapp": "0",
+    "change_number": "27511413",
+    "update_time": "2025-02-17 15:58:35",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "828741": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6779301419140713473",
+                    "size": "1156821058",
+                    "download": "377707984"
+                }
+            },
+            "decryptionkey": "c065764b26ed23b3f7dec59e133858ad256fb3df8cfc6b89c4fab92e38c0e1eb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11464306",
+                "timeupdated": "1687668805"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
