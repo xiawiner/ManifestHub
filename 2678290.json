@@ -1,0 +1,56 @@
+{
+    "appid": "2678290",
+    "type": "Game",
+    "name": "EternAlgoRhythm",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25104943",
+    "update_time": "2024-09-06 16:05:03",
+    "depot": {
+        "2678291": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4694158417846262131",
+                    "size": "92703000",
+                    "download": "43902304"
+                }
+            },
+            "decryptionkey": "206ca02c433ca6a8f51bacb6b29fae1c0fcad152050463316d021a2db497ac9d"
+        },
+        "2678292": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4203382743193985748",
+                    "size": "101393368",
+                    "download": "45922832"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2678293": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7365856109590107784",
+                    "size": "162799664",
+                    "download": "57128432"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "15613166",
+                "timeupdated": "1725609899"
+            }
+        }
+    }
+}
