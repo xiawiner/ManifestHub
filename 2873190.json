@@ -1,0 +1,45 @@
+{
+    "appid": "2873190",
+    "type": "Game",
+    "name": "From Soil to Bottle",
+    "schinese_name": "酒庄模拟器",
+    "isfreeapp": "0",
+    "change_number": "27431091",
+    "update_time": "2025-02-12 10:05:15",
+    "depot": {
+        "baselanguages": "english,schinese,tchinese",
+        "2873191": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6437686880465483224",
+                    "size": "179110248",
+                    "download": "135500160"
+                }
+            },
+            "decryptionkey": "1e24fdad66c070630605cd63116c274c58387a9134fd88b97818c29625631921"
+        },
+        "2873192": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7831618075245337148",
+                    "size": "208994476",
+                    "download": "143715296"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17329784",
+                "timeupdated": "1739325912"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
