@@ -1,0 +1,71 @@
+{
+    "appid": "1931940",
+    "type": "Game",
+    "name": "早咲きのくろゆり",
+    "schinese_name": "提早绽放的黑百合",
+    "isfreeapp": "0",
+    "change_number": "27505935",
+    "update_time": "2025-02-17 04:18:45",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1931941": {
+            "manifests": {
+                "public": {
+                    "gid": "3552119067308591198",
+                    "size": "1680811487",
+                    "download": "1513510944"
+                }
+            },
+            "decryptionkey": "5de0d1aff90ed053bf408479f5e5ee0e4dc74b6d10aa97c7bb289b0d47c08648"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16129306",
+                "timeupdated": "1729679020"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
