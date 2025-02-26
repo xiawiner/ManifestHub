@@ -1,0 +1,65 @@
+{
+    "appid": "3071510",
+    "type": "Beta",
+    "name": "Battle Nations Beta",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27395531",
+    "update_time": "2025-02-10 15:22:01",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3071511": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2503609784663594940",
+                    "size": "2058526236",
+                    "download": "1564989952"
+                }
+            },
+            "decryptionkey": "481e735b5c2a5646fc9006f9f1b74827ea7c496eb3cb0f7b4c54fe0218175559"
+        },
+        "3071512": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5614415018022857985",
+                    "size": "2245530352",
+                    "download": "1594439904"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3071513": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8558675189301779155",
+                    "size": "2145553783",
+                    "download": "1569694992"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,german,french,russian",
+        "branches": {
+            "public": {
+                "buildid": "17295344",
+                "timeupdated": "1739172118"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
