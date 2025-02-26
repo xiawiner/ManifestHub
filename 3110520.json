@@ -1,0 +1,27 @@
+{
+    "appid": "3110520",
+    "type": "Game",
+    "name": "101 Cats Hidden in Amsterdam",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26859563",
+    "update_time": "2025-01-04 15:14:13",
+    "depot": {
+        "3110521": {
+            "manifests": {
+                "public": {
+                    "gid": "1164874817447942217",
+                    "size": "566858942",
+                    "download": "91752592"
+                }
+            },
+            "decryptionkey": "2cbac464de370b31965a7992f4b252f60af62dc9883c973c685eb34511f52136"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16554545",
+                "timeupdated": "1732722118"
+            }
+        }
+    }
+}
