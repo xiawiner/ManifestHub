@@ -1,0 +1,28 @@
+{
+    "appid": "2886470",
+    "type": "Game",
+    "name": "Valefor",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27184109",
+    "update_time": "2025-01-27 22:05:49",
+    "depot": {
+        "2886471": {
+            "manifests": {
+                "public": {
+                    "gid": "2849853689516335601",
+                    "size": "1910870278",
+                    "download": "297278096"
+                }
+            },
+            "decryptionkey": "b320e93b04842c73cca58764432099206645918746ac10d2bad04a5677f8f1cb"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,dutch,turkish,brazilian,ukrainian,latam,indonesian",
+        "branches": {
+            "public": {
+                "buildid": "16778560",
+                "timeupdated": "1734470435"
+            }
+        }
+    }
+}
