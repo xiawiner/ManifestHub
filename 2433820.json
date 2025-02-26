@@ -1,0 +1,27 @@
+{
+    "appid": "2433820",
+    "type": "Game",
+    "name": "SUPRACORE",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26768822",
+    "update_time": "2024-12-24 10:22:28",
+    "depot": {
+        "2433821": {
+            "manifests": {
+                "public": {
+                    "gid": "7982044091403814934",
+                    "size": "201854040",
+                    "download": "95862224"
+                }
+            },
+            "decryptionkey": "890f9607f11fd8ab3085a2958e866b08466ea20e9556652cfdc846f0369170e2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12582573",
+                "timeupdated": "1698758088"
+            }
+        }
+    }
+}
