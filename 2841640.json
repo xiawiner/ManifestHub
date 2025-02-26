@@ -1,0 +1,31 @@
+{
+    "appid": "2841640",
+    "type": "Beta",
+    "name": "GOALS Playtest",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27540825",
+    "update_time": "2025-02-19 03:16:43",
+    "depot": {
+        "2841641": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2136441282746122877",
+                    "size": "95896321",
+                    "download": "31926192"
+                }
+            },
+            "decryptionkey": "76085c909acd1cdaa6e7139584c12c9a564fc1c8ae8974f1894bfd6752151f21"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17396861",
+                "timeupdated": "1739815798"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
