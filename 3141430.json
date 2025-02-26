@@ -1,0 +1,52 @@
+{
+    "appid": "3141430",
+    "type": "Demo",
+    "name": "Zombieville USA 3D Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27434116",
+    "update_time": "2025-02-12 15:09:27",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3141431": {
+            "manifests": {
+                "public": {
+                    "gid": "7701704521950486501",
+                    "size": "2180173975",
+                    "download": "1974402912"
+                },
+                "test": {
+                    "gid": "3937502141899744751",
+                    "size": "2815657954",
+                    "download": "2158825360"
+                }
+            },
+            "decryptionkey": "2948115627634da86278418e8e83b460f682b9c0909aa93e297ba4c2414f732f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17476978",
+                "timeupdated": "1740357130"
+            },
+            "test": {
+                "buildid": "17312581",
+                "description": "Test Branch",
+                "timeupdated": "1739222336"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
