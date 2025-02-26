@@ -1,0 +1,54 @@
+{
+    "appid": "3298670",
+    "type": "Demo",
+    "name": "Stone Demo",
+    "schinese_name": "石头 Demo",
+    "isfreeapp": "0",
+    "change_number": "26419018",
+    "update_time": "2024-12-05 05:17:09",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,schinese",
+        "3298671": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6500470451383839384",
+                    "size": "19656862290",
+                    "download": "5736706432"
+                }
+            },
+            "decryptionkey": "b1cbe4ec3b99408399fcc522315865e6a91a14757d6b2337010afc2b8b9c55ca"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16575857",
+                "timeupdated": "1732870699"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
