@@ -1,0 +1,30 @@
+{
+    "appid": "2936180",
+    "type": "Game",
+    "name": "茜色",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27338524",
+    "update_time": "2025-02-06 12:18:12",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "hasdepotsindlc": "1",
+        "2936181": {
+            "manifests": {
+                "public": {
+                    "gid": "709701863084008680",
+                    "size": "2347414771",
+                    "download": "1974395792"
+                }
+            },
+            "decryptionkey": "32a43b73456ed97a64299a064753f9ca9818293b7a392b56577da28ab57c54df"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17168124",
+                "timeupdated": "1738138496"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
