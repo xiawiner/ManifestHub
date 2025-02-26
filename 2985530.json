@@ -1,0 +1,46 @@
+{
+    "appid": "2985530",
+    "type": "Demo",
+    "name": "Supermoves Freerun",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27109513",
+    "update_time": "2025-01-22 17:56:00",
+    "depot": {
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2985531": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4707848736744133277",
+                    "size": "16195400479",
+                    "download": "5206254384"
+                }
+            },
+            "decryptionkey": "c8497aa35afd14b00efb091c792b6b53c0dd3c43bd14094436423da4d6e6a2c6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17089459",
+                "timeupdated": "1737539756"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
