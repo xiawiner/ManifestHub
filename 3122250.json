@@ -1,0 +1,27 @@
+{
+    "appid": "3122250",
+    "type": "Demo",
+    "name": "9 Kings Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27541004",
+    "update_time": "2025-02-19 03:29:54",
+    "depot": {
+        "3122251": {
+            "manifests": {
+                "public": {
+                    "gid": "1257592508789954045",
+                    "size": "324465187",
+                    "download": "64011696"
+                }
+            },
+            "decryptionkey": "a00fb06e481d2763ed688df8aca5fa0578d3e5ccce658c6094ab1e6272f93504"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17472755",
+                "timeupdated": "1740304642"
+            }
+        }
+    }
+}
