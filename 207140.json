@@ -1,0 +1,113 @@
+{
+    "appid": "207140",
+    "type": "Game",
+    "name": "SpeedRunners",
+    "schinese_name": "极速奔跑者",
+    "isfreeapp": "0",
+    "change_number": "27103115",
+    "update_time": "2025-01-22 08:49:02",
+    "depot": {
+        "preloadonly": "1",
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,dutch,finnish,norwegian,hungarian,czech,romanian,turkish,brazilian,greek,ukrainian",
+        "workshopdepot": "207140",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "207141": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4499419373072215712",
+                    "size": "688482151",
+                    "download": "622881424"
+                },
+                "beta": {
+                    "gid": "4499419373072215712",
+                    "size": "688482151",
+                    "download": "622881424"
+                }
+            },
+            "decryptionkey": "2a380068679014b0f5249bc4968d341a6467fc4f4eac292e259ad5a5e660f34f"
+        },
+        "207142": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "923697454626970959",
+                    "size": "743028406",
+                    "download": "637067280"
+                },
+                "beta": {
+                    "gid": "923697454626970959",
+                    "size": "743028406",
+                    "download": "637067280"
+                }
+            },
+            "decryptionkey": "071e1a3caf8dadaaf299c91b768079a0eff26aad6f7fd40334302de0d13e0a83"
+        },
+        "207143": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3884739310530546892",
+                    "size": "734478570",
+                    "download": "639867568"
+                },
+                "beta": {
+                    "gid": "3884739310530546892",
+                    "size": "734478570",
+                    "download": "639867568"
+                }
+            },
+            "decryptionkey": "43694c31e2449eb1b43e9d1d1cc8d4e94053ff8f03451ea4e7ac28f684770b63"
+        },
+        "317490": {
+            "dlcappid": "317490"
+        },
+        "317480": {
+            "dlcappid": "317480"
+        },
+        "895440": {
+            "dlcappid": "895440"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16719537",
+                "timeupdated": "1733998427"
+            },
+            "beta": {
+                "buildid": "16719537",
+                "description": "Compatible test builds",
+                "timeupdated": "1733998403"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "103f304a9e7ffda2f7a393b47f68409a81c235de32521f3a9c571dd376dcf2af"
+    }
+}
