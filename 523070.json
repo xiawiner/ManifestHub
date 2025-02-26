@@ -1,0 +1,60 @@
+{
+    "appid": "523070",
+    "type": "Game",
+    "name": "Black Forest",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27014867",
+    "update_time": "2025-01-16 06:14:13",
+    "depot": {
+        "523071": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5835109664739076596",
+                    "size": "4846448008",
+                    "download": "2286754608"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "523072": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1240828809676565101",
+                    "size": "4677869501",
+                    "download": "2254656416"
+                }
+            },
+            "decryptionkey": "fa042b023b2b5ace22d662149ae1650fcfedc37dd5c6a0b662e93ef1a246c1e1"
+        },
+        "523073": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5284950973505722166",
+                    "size": "4912136614",
+                    "download": "2310281280"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16843111",
+                "timeupdated": "1736771796"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
