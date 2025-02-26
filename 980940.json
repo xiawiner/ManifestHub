@@ -1,0 +1,85 @@
+{
+    "appid": "980940",
+    "type": "Game",
+    "name": "My Little Blacksmith Shop",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27487843",
+    "update_time": "2025-02-15 06:10:03",
+    "depot": {
+        "baselanguages": "english",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "980942": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3496802882199935067",
+                    "size": "1138329521",
+                    "download": "849848096"
+                },
+                "oldbranch": {
+                    "gid": "5695927294078523433",
+                    "size": "2737412192",
+                    "download": "530836480"
+                },
+                "alphatest": {
+                    "gid": "2787324422688321021",
+                    "size": "1335449164",
+                    "download": "1039156000"
+                },
+                "unstable": {
+                    "gid": "3209773942408855716",
+                    "size": "2607836216",
+                    "download": "2445881136"
+                }
+            },
+            "decryptionkey": "30404ab3164bd60f33290dbab3496be4700278cebdf2a5deeab80214da9b0f81"
+        },
+        "980943": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "32"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8988055",
+                "timeupdated": "1657296440"
+            },
+            "oldbranch": {
+                "buildid": "5888098",
+                "description": "Place where old stable version hangs out.",
+                "timeupdated": "1657296416"
+            },
+            "alphatest": {
+                "buildid": "9670164",
+                "description": "Stable Test Branch for all owners",
+                "timeupdated": "1665087341"
+            },
+            "unstable": {
+                "buildid": "17372657",
+                "description": "May have lots of crashes and other issues.",
+                "timeupdated": "1739570999"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
