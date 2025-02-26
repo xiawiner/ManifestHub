@@ -1,0 +1,67 @@
+{
+    "appid": "2726460",
+    "type": "Game",
+    "name": "Renovation Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27470886",
+    "update_time": "2025-02-14 09:43:13",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2726461": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2923814752265004257",
+                    "size": "22989166359",
+                    "download": "22368726432"
+                },
+                "beta_branch": {
+                    "gid": "2923814752265004257",
+                    "size": "22989166359",
+                    "download": "22368726432"
+                },
+                "dev_branch": {
+                    "gid": "7328864252095397220",
+                    "size": "23914668984",
+                    "download": "23040659072"
+                }
+            },
+            "decryptionkey": "53165030a9aded3ff1c4d9e833cd7289ca4a3f54baa8dc47278a27c24000319f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17359077",
+                "timeupdated": "1739497390"
+            },
+            "beta_branch": {
+                "buildid": "17359077",
+                "description": "Beta branch for testing",
+                "timeupdated": "1739489537"
+            },
+            "dev_branch": {
+                "buildid": "17300710",
+                "description": "Developement branch for testing",
+                "timeupdated": "1739143649"
+            }
+        }
+    }
+}
