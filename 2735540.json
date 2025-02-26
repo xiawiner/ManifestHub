@@ -1,0 +1,43 @@
+{
+    "appid": "2735540",
+    "type": "Game",
+    "name": "Tank Fight",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27524184",
+    "update_time": "2025-02-18 06:37:37",
+    "depot": {
+        "2735541": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7869459337619485003",
+                    "size": "129154950",
+                    "download": "39525184"
+                },
+                "testingbranch": {
+                    "gid": "4926185884089064101",
+                    "size": "124464617",
+                    "download": "40795408"
+                }
+            },
+            "decryptionkey": "61a1340c0313463d21c5c4eba9ced15bfb2ae53db29e3b8f38c43be3461740d8"
+        },
+        "workshopdepot": "2735540",
+        "branches": {
+            "public": {
+                "buildid": "16871438",
+                "timeupdated": "1735503695"
+            },
+            "testingbranch": {
+                "buildid": "17449166",
+                "description": "Testing Branch",
+                "timeupdated": "1740109986"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
