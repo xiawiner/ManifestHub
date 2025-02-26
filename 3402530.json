@@ -1,0 +1,29 @@
+{
+    "appid": "3402530",
+    "type": "Game",
+    "name": "Screen Cat",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27346327",
+    "update_time": "2025-02-06 22:27:02",
+    "depot": {
+        "3402531": {
+            "manifests": {
+                "public": {
+                    "gid": "2332875467017954581",
+                    "size": "136223686",
+                    "download": "36834320"
+                }
+            },
+            "decryptionkey": "cd8a012bb6725a1443e905eb3686ed79accef272dddea835bdf0ca5fd9564d46"
+        },
+        "workshopdepot": "3402530",
+        "branches": {
+            "public": {
+                "buildid": "17466866",
+                "timeupdated": "1740226142"
+            }
+        },
+        "workshopdepotdecryptionkey": "0e311bb92bc0602371ea273f196156f0e59fb3eb5ad791827fd32fc51f566ccd"
+    }
+}
