@@ -1,0 +1,120 @@
+{
+    "appid": "956240",
+    "type": "Game",
+    "name": "Simson Tuningwerkstatt 3D",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26946639",
+    "update_time": "2025-01-11 02:50:53",
+    "depot": {
+        "baselanguages": "english,german,polish,hungarian,czech,vietnamese",
+        "workshopdepot": "956240",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "956242": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1549014484385707564",
+                    "size": "3670506776",
+                    "download": "1185021424"
+                },
+                "beta": {
+                    "gid": "3147698872083934514",
+                    "size": "3720221191",
+                    "download": "1203674944"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "956241": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7696909344497021930",
+                    "size": "3670518996",
+                    "download": "1183090128"
+                },
+                "beta": {
+                    "gid": "6740512839040096009",
+                    "size": "3720221191",
+                    "download": "1201397040"
+                }
+            },
+            "decryptionkey": "08a8aed2f22320bd2c996be47074e47f17ec538410efc078d752366eca0e3f2b"
+        },
+        "956244": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2346414244823452980",
+                    "size": "4168507799",
+                    "download": "1291469968"
+                },
+                "beta": {
+                    "gid": "2346414244823452980",
+                    "size": "4168507799",
+                    "download": "1291469968"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "956245": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5693143878505518638",
+                    "size": "4168513569",
+                    "download": "1292342704"
+                },
+                "beta": {
+                    "gid": "5693143878505518638",
+                    "size": "4168513569",
+                    "download": "1292342704"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "15295491",
+                "timeupdated": "1725032025"
+            },
+            "beta": {
+                "buildid": "17469609",
+                "description": "Beta Version",
+                "timeupdated": "1740261209"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
