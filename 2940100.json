@@ -1,0 +1,27 @@
+{
+    "appid": "2940100",
+    "type": "Game",
+    "name": "King of Ping Pong: MEGAMIX",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27273423",
+    "update_time": "2025-02-02 09:31:33",
+    "depot": {
+        "2940101": {
+            "manifests": {
+                "public": {
+                    "gid": "3410204189163599525",
+                    "size": "461767067",
+                    "download": "109937136"
+                }
+            },
+            "decryptionkey": "5f38968f1d22d7fe807d99502d6342b77ac6df6f9b99c59754a6d24640554482"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16829179",
+                "timeupdated": "1734914804"
+            }
+        }
+    }
+}
