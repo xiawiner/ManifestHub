@@ -1,0 +1,31 @@
+{
+    "appid": "2279180",
+    "type": "Game",
+    "name": "Death Nomad",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27045171",
+    "update_time": "2025-01-17 23:54:51",
+    "depot": {
+        "2279181": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1611723754878180824",
+                    "size": "2065138491",
+                    "download": "943846384"
+                }
+            },
+            "decryptionkey": "e98b6734851c0390780417dd3ccb26e414c484c25a1f1b02ee852f05bc34deef"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16939385",
+                "timeupdated": "1736530152"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
