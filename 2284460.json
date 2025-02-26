@@ -1,0 +1,32 @@
+{
+    "appid": "2284460",
+    "type": "Game",
+    "name": "TraumaCore Violence",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26778542",
+    "update_time": "2024-12-25 13:23:14",
+    "depot": {
+        "baselanguages": "english",
+        "2284461": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5219654079310155709",
+                    "size": "406940057",
+                    "download": "372439952"
+                }
+            },
+            "decryptionkey": "be336d9c4cdc80c880ad427286896c4501dbd03a490dc247b2d7917b4266cf90"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12665617",
+                "timeupdated": "1699571806"
+            }
+        }
+    }
+}
