@@ -1,0 +1,32 @@
+{
+    "appid": "2529540",
+    "type": "Game",
+    "name": "硬币与仙人掌 (Coins & Wishpalm)",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27534323",
+    "update_time": "2025-02-18 20:47:26",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,schinese",
+        "2529541": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "24855248471477427",
+                    "size": "3858868934",
+                    "download": "864702224"
+                }
+            },
+            "decryptionkey": "27f3544567f36861841387fbc22c2e44cda19aa753f7c0e69fca9b3fdd3e7ab6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17449355",
+                "timeupdated": "1740111776"
+            }
+        }
+    }
+}
