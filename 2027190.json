@@ -1,0 +1,41 @@
+{
+    "appid": "2027190",
+    "type": "Music",
+    "name": "东方光耀夜 ~ Lost Branch of Legend Soundtrack",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27429209",
+    "update_time": "2025-02-12 08:16:58",
+    "depot": {
+        "2027191": {
+            "manifests": {
+                "public": {
+                    "gid": "7410130500659900833",
+                    "size": "157552587",
+                    "download": "156368016"
+                }
+            },
+            "decryptionkey": "b63134969e8571641c49f65bd811990f95b9a1aa477bc949b974db89c4304289"
+        },
+        "2027192": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6727272592746107328",
+                    "size": "832619014",
+                    "download": "842150752"
+                }
+            },
+            "decryptionkey": "d919c89a62af840d6bbc17b4e74a2f1863567ab7fe3619918a09fc8166d89109"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16268614",
+                "timeupdated": "1730489446"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
