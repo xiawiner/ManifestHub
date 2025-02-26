@@ -1,0 +1,97 @@
+{
+    "appid": "2229880",
+    "type": "Game",
+    "name": "Command & Conquer™ Tiberian Sun™ and Firestorm™",
+    "schinese_name": "《命令与征服：泰伯利亚之阳和火风暴》",
+    "isfreeapp": "0",
+    "change_number": "27406949",
+    "update_time": "2025-02-11 03:10:44",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,spanish",
+        "2229881": {
+            "manifests": {
+                "public": {
+                    "gid": "6337645069087384307",
+                    "size": "1799307326",
+                    "download": "1290258448"
+                }
+            },
+            "decryptionkey": "dfc5c85c7364067d2212d5acc81bf086099f528afe1e117a27cc1d08392679e8"
+        },
+        "2229882": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "150548564917490163",
+                    "size": "2200228784",
+                    "download": "1192433648"
+                }
+            },
+            "decryptionkey": "bef10d4e11921cb3fe06929ee4230398407ebb12c95cadda3c6a861ab63549ac"
+        },
+        "2229883": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4038177425666959023",
+                    "size": "2206580698",
+                    "download": "1195172048"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2229884": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8963846220695972542",
+                    "size": "2202780170",
+                    "download": "1195601216"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2229885": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "914918869490219229",
+                    "size": "2198340084",
+                    "download": "1197389856"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "2229880",
+        "branches": {
+            "public": {
+                "buildid": "15165042",
+                "timeupdated": "1722545896"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "72873cbe8c6ba46a665f3b7a8b74f0322ce1b509ed29831a7d727eb6b3977f35"
+    }
+}
