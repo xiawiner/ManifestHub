@@ -1,0 +1,28 @@
+{
+    "appid": "2277330",
+    "type": "Beta",
+    "name": "Neon Abyss 2 Playtest",
+    "schinese_name": "霓虹深渊2 测试版",
+    "isfreeapp": "0",
+    "change_number": "27531850",
+    "update_time": "2025-02-18 18:15:03",
+    "depot": {
+        "2277331": {
+            "manifests": {
+                "public": {
+                    "gid": "3566177578692767230",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "6c820a89d43e4ab804af0991b063f1c54ee68f5dc0c1d5438215a0f6eceebe35"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16729992",
+                "timeupdated": "1734058575"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
