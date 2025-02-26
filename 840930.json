@@ -1,0 +1,86 @@
+{
+    "appid": "840930",
+    "type": "Game",
+    "name": "Bing Bong XL",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26923413",
+    "update_time": "2025-01-09 20:15:35",
+    "depot": {
+        "840931": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4271674666010972272",
+                    "size": "165707077",
+                    "download": "45696096"
+                }
+            },
+            "decryptionkey": "89a21033a3a4c3ab52277f1a636d645a4274c5f589f172e625169c1cc06f6075"
+        },
+        "840932": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4866255751333947773",
+                    "size": "163509823",
+                    "download": "45843232"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "840933": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6324682264233059642",
+                    "size": "164310142",
+                    "download": "46004800"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "840934": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8562890682356176560",
+                    "size": "159826205",
+                    "download": "43733312"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "840935": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1559756838692398772",
+                    "size": "163805225",
+                    "download": "45422528"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "7537826",
+                "timeupdated": "1634275456"
+            }
+        }
+    }
+}
