@@ -1,0 +1,28 @@
+{
+    "appid": "3100460",
+    "type": "Demo",
+    "name": "Survival Machine Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27534134",
+    "update_time": "2025-02-18 20:36:19",
+    "depot": {
+        "3100461": {
+            "manifests": {
+                "public": {
+                    "gid": "2162942558120023543",
+                    "size": "5893642931",
+                    "download": "3957803408"
+                }
+            },
+            "decryptionkey": "5d455ed314b58f60f4f1f687561d24949e1d0bbd73302a27186306f3b9de9c29"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16179747",
+                "timeupdated": "1729881874"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
