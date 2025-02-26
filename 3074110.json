@@ -1,0 +1,42 @@
+{
+    "appid": "3074110",
+    "type": "Game",
+    "name": "The Rangers In The South",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27480969",
+    "update_time": "2025-02-14 22:21:57",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3074111": {
+            "manifests": {
+                "public": {
+                    "gid": "8767679457578271328",
+                    "size": "1018854040",
+                    "download": "733861984"
+                }
+            },
+            "decryptionkey": "979451bc4e8c9a6b5839063c8eb1be1aec69c166335fda4221c86886f9bac99e"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "17367844",
+                "timeupdated": "1739542912"
+            }
+        }
+    }
+}
