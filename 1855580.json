@@ -1,0 +1,42 @@
+{
+    "appid": "1855580",
+    "type": "Game",
+    "name": "DreadHaunt",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27510903",
+    "update_time": "2025-02-17 15:07:41",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1855581": {
+            "manifests": {
+                "public": {
+                    "gid": "1686334296500528852",
+                    "size": "10592306775",
+                    "download": "8474717600"
+                }
+            },
+            "decryptionkey": "3a5ca0d8018a58703618dfe8e3f2ff4cee5c0f0b5488f0eb0fa9fbda6295bbdb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17164012",
+                "timeupdated": "1738191331"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
