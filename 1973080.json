@@ -1,0 +1,31 @@
+{
+    "appid": "1973080",
+    "type": "Game",
+    "name": "Incubus",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26672092",
+    "update_time": "2024-12-17 12:37:30",
+    "depot": {
+        "1973081": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6232005375492263290",
+                    "size": "3076647262",
+                    "download": "2255952944"
+                }
+            },
+            "decryptionkey": "2f64f2633ed9d41f13218f487ebfc86e4f88c42835a69bba2e9473ce70a7461e"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "16718087",
+                "timeupdated": "1734410192"
+            }
+        }
+    }
+}
