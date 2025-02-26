@@ -1,0 +1,27 @@
+{
+    "appid": "2940300",
+    "type": "Demo",
+    "name": "Stickman Strikes: Conquer Fantasy World Demo",
+    "schinese_name": "火柴人征战异世界：开局只有一把刀 Demo",
+    "isfreeapp": "0",
+    "change_number": "27534558",
+    "update_time": "2025-02-18 21:01:27",
+    "depot": {
+        "2940301": {
+            "manifests": {
+                "public": {
+                    "gid": "1382507489659902660",
+                    "size": "4277165121",
+                    "download": "2183641088"
+                }
+            },
+            "decryptionkey": "215d969a8ed8433684af6f3b114f5ceb95209af0b8d39982392b4d7afb4bcc17"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17478387",
+                "timeupdated": "1740367453"
+            }
+        }
+    }
+}
