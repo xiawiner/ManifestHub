@@ -1,0 +1,44 @@
+{
+    "appid": "1698220",
+    "type": "Game",
+    "name": "Teslagrad 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27515522",
+    "update_time": "2025-02-17 20:44:28",
+    "depot": {
+        "1698221": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2038588255437308694",
+                    "size": "2982171817",
+                    "download": "1732970944"
+                }
+            },
+            "decryptionkey": "0b06216b980b9c8300ab12b79a070cff7edfe11a16a13c546f7288dfd75c059d"
+        },
+        "1698223": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5767815230150051329",
+                    "size": "3021915192",
+                    "download": "1735817024"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17393087",
+                "timeupdated": "1739964010"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
