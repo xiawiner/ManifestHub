@@ -1,0 +1,89 @@
+{
+    "appid": "661230",
+    "type": "Game",
+    "name": "Progress Bar Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27070527",
+    "update_time": "2025-01-20 13:55:27",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "661231": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3699307060347816785",
+                    "size": "669290540",
+                    "download": "44561344"
+                },
+                "testing": {
+                    "gid": "4397330512781642980",
+                    "size": "631679650",
+                    "download": "31932896"
+                }
+            },
+            "decryptionkey": "3d84390371a02577d47dfa7fd4161ad0e7352c5c9e160cb1e207924aea4c7a32"
+        },
+        "661232": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6253299149261604998",
+                    "size": "685660867",
+                    "download": "46008688"
+                },
+                "testing": {
+                    "gid": "5512929350855715884",
+                    "size": "642107099",
+                    "download": "33452032"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "661233": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2047787264621000288",
+                    "size": "721012552",
+                    "download": "58706976"
+                },
+                "testing": {
+                    "gid": "8963344685393373564",
+                    "size": "632475309",
+                    "download": "31873136"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1251610": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1251610"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16549301",
+                "timeupdated": "1733344843"
+            },
+            "testing": {
+                "buildid": "8359477",
+                "description": "unstable testing",
+                "timeupdated": "1647086653"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
