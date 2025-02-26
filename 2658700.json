@@ -1,0 +1,28 @@
+{
+    "appid": "2658700",
+    "type": "Beta",
+    "name": "华夏史诗：战国 Playtest",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27022172",
+    "update_time": "2025-01-16 17:38:36",
+    "depot": {
+        "2658701": {
+            "manifests": {
+                "public": {
+                    "gid": "2800179712702233349",
+                    "size": "27810499428",
+                    "download": "18490743536"
+                }
+            },
+            "decryptionkey": "bea9d02d3d1f319baf39e5ef82f2e8acbf0e7203ad53f222821a6f0d88e01418"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "17463728",
+                "timeupdated": "1740196400"
+            }
+        }
+    }
+}
