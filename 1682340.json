@@ -1,0 +1,28 @@
+{
+    "appid": "1682340",
+    "type": "Game",
+    "name": "Plane Accident",
+    "schinese_name": "飞机失事模拟器",
+    "isfreeapp": "0",
+    "change_number": "27541641",
+    "update_time": "2025-02-19 04:10:33",
+    "depot": {
+        "1682341": {
+            "manifests": {
+                "public": {
+                    "gid": "642926052007742392",
+                    "size": "11489743714",
+                    "download": "5544352960"
+                }
+            },
+            "decryptionkey": "9d8dc6e9b546b33e3a2cd0157851cd96060dab29f61fde00f68a36dbd45bb038"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15587670",
+                "timeupdated": "1726510648"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
