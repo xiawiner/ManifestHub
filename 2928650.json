@@ -1,0 +1,43 @@
+{
+    "appid": "2928650",
+    "type": "Game",
+    "name": "Only Up: SKIBIDI TOGETHER",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27342815",
+    "update_time": "2025-02-06 18:26:55",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2928651": {
+            "manifests": {
+                "public": {
+                    "gid": "2316740896412824365",
+                    "size": "8966639031",
+                    "download": "8653938176"
+                }
+            },
+            "decryptionkey": "68b6397e2638a982c6e29d10ced1cf877a1fe7028c523363b2e551dab0d8df81"
+        },
+        "2928652": {},
+        "2928653": {},
+        "branches": {
+            "public": {
+                "buildid": "16774142",
+                "timeupdated": "1734444798"
+            }
+        }
+    }
+}
