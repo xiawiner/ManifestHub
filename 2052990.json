@@ -1,0 +1,34 @@
+{
+    "appid": "2052990",
+    "type": "Game",
+    "name": "My Lovely Empress",
+    "schinese_name": "我的可爱皇后",
+    "isfreeapp": "0",
+    "change_number": "27531881",
+    "update_time": "2025-02-18 18:16:39",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2052991": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6520794176889677928",
+                    "size": "1541623682",
+                    "download": "940127472"
+                }
+            },
+            "decryptionkey": "a8ff6c158dd0236827c774f59bd07fe26a91c75339392c9916b2362d3cd1365a"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "16287138",
+                "timeupdated": "1732263057"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
