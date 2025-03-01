@@ -4,8 +4,8 @@
     "name": "An Arcade Full of Cats",
     "schinese_name": "",
     "isfreeapp": "1",
-    "change_number": "27503308",
-    "update_time": "2025-02-16 22:31:24",
+    "change_number": "27722435",
+    "update_time": "2025-03-01 01:35:30",
     "depot": {
         "hasdepotsindlc": "1",
         "2368471": {
@@ -38,8 +38,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17384130",
-                "timeupdated": "1739716280"
+                "buildid": "17550721",
+                "timeupdated": "1740764124"
             }
         }
     }
