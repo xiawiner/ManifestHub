@@ -4,8 +4,8 @@
     "name": "Taiwan Love Story⁵",
     "schinese_name": "台湾恋爱物语⁵",
     "isfreeapp": "0",
-    "change_number": "27391051",
-    "update_time": "2025-02-10 05:27:40",
+    "change_number": "27730729",
+    "update_time": "2025-03-01 15:14:36",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english",
@@ -24,6 +24,7 @@
                 "buildid": "16817947",
                 "timeupdated": "1734722068"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
