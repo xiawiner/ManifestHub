@@ -4,8 +4,8 @@
     "name": "Keplerth",
     "schinese_name": "开普勒斯",
     "isfreeapp": "0",
-    "change_number": "26943607",
-    "update_time": "2025-01-10 23:14:44",
+    "change_number": "27711998",
+    "update_time": "2025-02-28 16:45:15",
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "747200",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7429679655430985121",
-                    "size": "1887271090",
-                    "download": "407686784"
+                    "gid": "3844848530635203625",
+                    "size": "1900773155",
+                    "download": "407983648"
                 }
             },
             "decryptionkey": "59c30bb44de686590f0440cede1fe03783d86de3d2055dea8f3f7506888c6fea"
@@ -30,17 +30,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4852159250988534092",
-                    "size": "1879387970",
-                    "download": "405224160"
+                    "gid": "2668690132630100244",
+                    "size": "1892890067",
+                    "download": "405524592"
                 }
             },
             "decryptionkey": "aac1314839f807b46a2ab8110f745d25078188285912f45d9035eed58c58b354"
         },
         "branches": {
             "public": {
-                "buildid": "16178637",
-                "timeupdated": "1729850389"
+                "buildid": "17542797",
+                "timeupdated": "1740726398"
             }
         },
         "privatebranches": "1",
