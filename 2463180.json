@@ -4,8 +4,8 @@
     "name": "The Deadly Path Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27531322",
-    "update_time": "2025-02-18 17:38:47",
+    "change_number": "27730250",
+    "update_time": "2025-03-01 13:46:19",
     "depot": {
         "2463181": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5831056607904121946",
-                    "size": "4800596116",
-                    "download": "825490128"
+                    "gid": "1482385878708198183",
+                    "size": "4910785087",
+                    "download": "874124000"
                 }
             },
             "decryptionkey": "3a39b6ada21e2a5f9b3475ab2a93d620a4de8fdb48ac6467529d77e18d5bd69b"
@@ -26,17 +26,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7227895570469502750",
-                    "size": "4809235418",
-                    "download": "834205248"
+                    "gid": "1222183827805805314",
+                    "size": "1244748516",
+                    "download": "186526816"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17045058",
-                "timeupdated": "1737196406"
+                "buildid": "17438469",
+                "timeupdated": "1740387545"
             }
         },
         "privatebranches": "1"
