@@ -4,8 +4,8 @@
     "name": "Star of Providence",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27527935",
-    "update_time": "2025-02-18 12:47:30",
+    "change_number": "27711005",
+    "update_time": "2025-02-28 16:39:37",
     "depot": {
         "baselanguages": "english,german",
         "228990": {
@@ -21,9 +21,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6579072237777217389",
-                    "size": "227274680",
-                    "download": "110147216"
+                    "gid": "6560426093721638071",
+                    "size": "227387193",
+                    "download": "110178368"
                 },
                 "legacy": {
                     "gid": "8195933074464664469",
@@ -44,9 +44,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "934247427356005396",
-                    "size": "179148019",
-                    "download": "109072000"
+                    "gid": "500359368562924851",
+                    "size": "179161189",
+                    "download": "109086768"
                 },
                 "legacy": {
                     "gid": "4284443728100432548",
@@ -63,8 +63,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17479125",
-                "timeupdated": "1740374101"
+                "buildid": "17541955",
+                "timeupdated": "1740720918"
             },
             "legacy": {
                 "buildid": "11995386",
