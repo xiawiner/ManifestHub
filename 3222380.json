@@ -4,23 +4,23 @@
     "name": "Ultimate Hero Demo",
     "schinese_name": "大比斗传说 Demo",
     "isfreeapp": "0",
-    "change_number": "27530394",
-    "update_time": "2025-02-18 16:38:39",
+    "change_number": "27731274",
+    "update_time": "2025-03-01 16:46:47",
     "depot": {
         "3222381": {
             "manifests": {
                 "public": {
-                    "gid": "4007835702544285176",
-                    "size": "1274532001",
-                    "download": "470174080"
+                    "gid": "6758089409186685846",
+                    "size": "1274520650",
+                    "download": "470173792"
                 }
             },
             "decryptionkey": "488178a1754da8faeb953a31c9ab18f89f5ec98ef9620ac34be6bf5d8e1cf389"
         },
         "branches": {
             "public": {
-                "buildid": "17453545",
-                "timeupdated": "1740134975"
+                "buildid": "17499319",
+                "timeupdated": "1740499858"
             }
         }
     }
