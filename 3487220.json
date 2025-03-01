@@ -4,8 +4,8 @@
     "name": "Riftborn Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27505102",
-    "update_time": "2025-02-17 02:23:38",
+    "change_number": "27719840",
+    "update_time": "2025-02-28 23:14:26",
     "depot": {
         "1004": {
             "config": {
@@ -115,17 +115,17 @@
         "3487221": {
             "manifests": {
                 "public": {
-                    "gid": "2465509604153338507",
-                    "size": "416207228",
-                    "download": "272233552"
+                    "gid": "3234526641914741882",
+                    "size": "416923746",
+                    "download": "272758768"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17475798",
-                "timeupdated": "1740341699"
+                "buildid": "17548865",
+                "timeupdated": "1740755663"
             }
         },
         "privatebranches": "1"
