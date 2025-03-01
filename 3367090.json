@@ -4,15 +4,15 @@
     "name": "Kingdom of Cards Demo",
     "schinese_name": "王牌卡国 体验版",
     "isfreeapp": "0",
-    "change_number": "27497435",
-    "update_time": "2025-02-16 04:48:00",
+    "change_number": "27730252",
+    "update_time": "2025-03-01 13:46:38",
     "depot": {
         "3367091": {
             "manifests": {
                 "public": {
-                    "gid": "2405874470741010351",
-                    "size": "510577486",
-                    "download": "79621488"
+                    "gid": "3614104133275497281",
+                    "size": "823994433",
+                    "download": "142335520"
                 }
             },
             "decryptionkey": "5444b74fb8d5d3c87e69ea6f138d192386361cf51903565b8d518878a5cc2ed3"
@@ -20,8 +20,8 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "16955455",
-                "timeupdated": "1736450929"
+                "buildid": "17459589",
+                "timeupdated": "1740419635"
             }
         },
         "privatebranches": "1"
