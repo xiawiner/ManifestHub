@@ -4,8 +4,8 @@
     "name": "Manufactur’ inc. Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27311835",
-    "update_time": "2025-02-05 01:56:56",
+    "change_number": "27731408",
+    "update_time": "2025-03-01 17:06:37",
     "depot": {
         "baselanguages": "english,french",
         "2545722": {
@@ -20,9 +20,9 @@
                     "download": "4671424"
                 },
                 "development": {
-                    "gid": "7191556646439723805",
-                    "size": "8901622",
-                    "download": "4671200"
+                    "gid": "6530507453311426426",
+                    "size": "8912374",
+                    "download": "4675856"
                 },
                 "unstable": {
                     "gid": "2393081270680207964",
@@ -44,9 +44,9 @@
                     "download": "5063168"
                 },
                 "development": {
-                    "gid": "2714001337530522665",
-                    "size": "11222880",
-                    "download": "5063808"
+                    "gid": "5789200978937441293",
+                    "size": "11215456",
+                    "download": "5065232"
                 },
                 "unstable": {
                     "gid": "46080869903164151",
@@ -68,9 +68,9 @@
                     "download": "76204816"
                 },
                 "development": {
-                    "gid": "7897277261877093741",
-                    "size": "284585087",
-                    "download": "76204288"
+                    "gid": "6803360840371752019",
+                    "size": "284594847",
+                    "download": "76210064"
                 },
                 "unstable": {
                     "gid": "4125596300842921484",
@@ -86,9 +86,9 @@
                 "timeupdated": "1738691811"
             },
             "development": {
-                "buildid": "17229895",
+                "buildid": "17557791",
                 "description": "Public test Beta (alternative server)",
-                "timeupdated": "1738619601"
+                "timeupdated": "1740819993"
             },
             "unstable": {
                 "buildid": "17230478",
