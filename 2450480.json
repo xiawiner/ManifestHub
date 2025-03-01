@@ -4,23 +4,23 @@
     "name": "放置修仙世界",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27289450",
-    "update_time": "2025-02-03 21:33:06",
+    "change_number": "27729681",
+    "update_time": "2025-03-01 12:16:05",
     "depot": {
         "2450481": {
             "manifests": {
                 "public": {
-                    "gid": "1531644279982322396",
-                    "size": "356204501",
-                    "download": "111087200"
+                    "gid": "8786066036916136728",
+                    "size": "654519069",
+                    "download": "164506144"
                 }
             },
             "decryptionkey": "e0deacefc5f207153cb0071e72430a2ab79a115276932d1001a62f937d42a658"
         },
         "branches": {
             "public": {
-                "buildid": "12164728",
-                "timeupdated": "1694484724"
+                "buildid": "17556277",
+                "timeupdated": "1740802561"
             }
         }
     }
