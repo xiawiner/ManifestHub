@@ -4,8 +4,8 @@
     "name": "Chonkers",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27523280",
-    "update_time": "2025-02-18 05:15:10",
+    "change_number": "27729863",
+    "update_time": "2025-03-01 12:44:55",
     "depot": {
         "3244211": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6008803390828477120",
-                    "size": "160766920",
-                    "download": "92705232"
+                    "gid": "3180349446673347899",
+                    "size": "162310216",
+                    "download": "94179088"
                 }
             },
             "decryptionkey": "aa9584f1d47d59b457b138110a0910e942a358280a28c0c4a5eeba0ce24faaf0"
@@ -26,17 +26,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2946940661673109879",
-                    "size": "150046080",
-                    "download": "88974608"
+                    "gid": "6016272574265382229",
+                    "size": "151589360",
+                    "download": "90448208"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17223016",
-                "timeupdated": "1738582453"
+                "buildid": "17537738",
+                "timeupdated": "1740694039"
             }
         },
         "privatebranches": "1"
