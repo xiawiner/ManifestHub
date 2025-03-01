@@ -4,8 +4,8 @@
     "name": "Orbt XL",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "22814238",
-    "update_time": "2024-05-26 18:20:04",
+    "change_number": "27723729",
+    "update_time": "2025-03-01 02:51:30",
     "depot": {
         "615611": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7335065139543007847",
-                    "size": "108252835",
-                    "download": "58153296"
+                    "gid": "3638865314244649022",
+                    "size": "96396983",
+                    "download": "43141712"
                 }
             },
             "decryptionkey": "403895507f5bde603b2e5fcf4d5c93ede719026cad8e5fa4387e719fea261f24"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9145560103007666083",
-                    "size": "102561853",
-                    "download": "56426144"
+                    "gid": "1781799789741908030",
+                    "size": "88716000",
+                    "download": "41052272"
                 }
             },
             "decryptionkey": "f9cdf7419f706a354c78d403ff3d071613924f875bcb388e0f43befb2c4bd64a"
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9004494177017892204",
-                    "size": "156950269",
-                    "download": "63622224"
+                    "gid": "7746478879411916598",
+                    "size": "93696009",
+                    "download": "40664048"
                 }
             },
             "decryptionkey": "be52910a4bcc01d0ee6825a157a447ebedfc00e7598ed5ee3d816faf923acae5"
@@ -79,8 +79,8 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "10963331",
-                "timeupdated": "1681012115"
+                "buildid": "17539077",
+                "timeupdated": "1740701399"
             }
         }
     }
