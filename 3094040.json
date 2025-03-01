@@ -4,15 +4,15 @@
     "name": "Liminal Border Part III",
     "schinese_name": "Liminal Border Part III",
     "isfreeapp": "0",
-    "change_number": "27540825",
-    "update_time": "2025-02-19 03:16:51",
+    "change_number": "27721498",
+    "update_time": "2025-03-01 00:45:42",
     "depot": {
         "3094041": {
             "manifests": {
                 "public": {
-                    "gid": "460746858730868401",
-                    "size": "3122267661",
-                    "download": "2814135664"
+                    "gid": "3947353451397595602",
+                    "size": "3123244316",
+                    "download": "2815037056"
                 }
             },
             "decryptionkey": "c69bfcc0b7843edf6ace89fc0266e0ce77a57d798177147242b4825ddb04db81"
@@ -20,8 +20,8 @@
         "baselanguages": "",
         "branches": {
             "public": {
-                "buildid": "17233645",
-                "timeupdated": "1738647188"
+                "buildid": "17543306",
+                "timeupdated": "1740730200"
             }
         }
     }
