@@ -4,8 +4,8 @@
     "name": "Command & Conquer™: Renegade",
     "schinese_name": "《命令与征服：变节者》",
     "isfreeapp": "0",
-    "change_number": "27495983",
-    "update_time": "2025-02-16 01:14:13",
+    "change_number": "27729504",
+    "update_time": "2025-03-01 11:48:16",
     "depot": {
         "baselanguages": "english,german,french,koreana,japanese",
         "228990": {
@@ -18,9 +18,9 @@
         "2229891": {
             "manifests": {
                 "public": {
-                    "gid": "7789558174150685111",
-                    "size": "1374684537",
-                    "download": "890259504"
+                    "gid": "4279982609494402553",
+                    "size": "1478590646",
+                    "download": "909586544"
                 }
             },
             "decryptionkey": "bdd894d6c914afd1e1280f00b55cb6101ba134431e219773f87540c30c56fab3"
@@ -31,7 +31,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "142626991885802976",
+                    "gid": "9213180972551750259",
                     "size": "1259025339",
                     "download": "857154848"
                 }
@@ -44,7 +44,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "66436952545104795",
+                    "gid": "8563384480030469675",
                     "size": "1268163174",
                     "download": "872885888"
                 }
@@ -57,7 +57,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "252321978089282261",
+                    "gid": "9064738888191087700",
                     "size": "1272003976",
                     "download": "876026176"
                 }
@@ -70,7 +70,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "203289220462906498",
+                    "gid": "8143929048366298601",
                     "size": "1214534183",
                     "download": "812710000"
                 }
@@ -83,7 +83,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "56374605493347912",
+                    "gid": "9191646613910940828",
                     "size": "1285053013",
                     "download": "875896560"
                 }
@@ -93,8 +93,8 @@
         "workshopdepot": "2229890",
         "branches": {
             "public": {
-                "buildid": "13686043",
-                "timeupdated": "1709986314"
+                "buildid": "17427416",
+                "timeupdated": "1740672442"
             }
         },
         "privatebranches": "1",
