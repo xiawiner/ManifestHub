@@ -4,23 +4,23 @@
     "name": "Bongo Cat Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27522423",
-    "update_time": "2025-02-18 04:05:35",
+    "change_number": "27727287",
+    "update_time": "2025-03-01 07:34:00",
     "depot": {
         "3487311": {
             "manifests": {
                 "public": {
-                    "gid": "440435085960275270",
-                    "size": "155542681",
-                    "download": "25554224"
+                    "gid": "936100043883345734",
+                    "size": "155283425",
+                    "download": "25556528"
                 }
             },
             "decryptionkey": "3443582fb063a46c6f5d12159c0e9dea841401549bf17e2ff2ebbcd104c3b786"
         },
         "branches": {
             "public": {
-                "buildid": "17475939",
-                "timeupdated": "1740343125"
+                "buildid": "17553697",
+                "timeupdated": "1740785634"
             }
         }
     }
