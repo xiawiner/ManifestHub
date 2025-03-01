@@ -4,8 +4,8 @@
     "name": "Neverwinter Nights: Enhanced Edition",
     "schinese_name": "无冬之夜：增强版",
     "isfreeapp": "0",
-    "change_number": "27542015",
-    "update_time": "2025-02-19 04:40:55",
+    "change_number": "27723587",
+    "update_time": "2025-03-01 02:42:05",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,polish",
         "workshopdepot": "704450",
@@ -141,9 +141,9 @@
                     "download": "4988270896"
                 },
                 "development": {
-                    "gid": "5541394967993226450",
-                    "size": "9265628484",
-                    "download": "4989409504"
+                    "gid": "8380526612218790306",
+                    "size": "9267292020",
+                    "download": "4991069904"
                 },
                 "oldstable": {
                     "gid": "2679359819303310565",
@@ -259,9 +259,9 @@
                     "download": "69385632"
                 },
                 "development": {
-                    "gid": "5547358645137246888",
-                    "size": "347456694",
-                    "download": "92998304"
+                    "gid": "7123191398910890452",
+                    "size": "347519446",
+                    "download": "93020752"
                 },
                 "oldstable": {
                     "gid": "7681780722742457911",
@@ -377,9 +377,9 @@
                     "download": "69220640"
                 },
                 "development": {
-                    "gid": "4677142140682238998",
-                    "size": "346982518",
-                    "download": "92833312"
+                    "gid": "8845678858634690991",
+                    "size": "347045270",
+                    "download": "92855760"
                 },
                 "oldstable": {
                     "gid": "688262021850267508",
@@ -495,9 +495,9 @@
                     "download": "69383792"
                 },
                 "development": {
-                    "gid": "3187383962038840588",
-                    "size": "347707884",
-                    "download": "92996464"
+                    "gid": "2284698998693607662",
+                    "size": "347770636",
+                    "download": "93018912"
                 },
                 "oldstable": {
                     "gid": "4813206686733980721",
@@ -1191,9 +1191,9 @@
                     "download": "262962288"
                 },
                 "development": {
-                    "gid": "1988975408740841648",
+                    "gid": "2738160842314124535",
                     "size": "355259267",
-                    "download": "262962288"
+                    "download": "262962976"
                 },
                 "oldstable": {
                     "gid": "1988975408740841648",
@@ -1323,6 +1323,11 @@
             "dlcappid": "3093340",
             "manifests": {
                 "public": {
+                    "gid": "1326339489014639990",
+                    "size": "379605049",
+                    "download": "213431408"
+                },
+                "development": {
                     "gid": "5398528397481083806",
                     "size": "379543107",
                     "download": "213027776"
@@ -1332,8 +1337,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17457325",
-                "timeupdated": "1740153703"
+                "buildid": "17551503",
+                "timeupdated": "1740768118"
             },
             "build8186": {
                 "buildid": "4994491",
@@ -1431,8 +1436,8 @@
                 "timeupdated": "1713550369"
             },
             "development": {
-                "buildid": "16976670",
-                "timeupdated": "1736782162"
+                "buildid": "17470348",
+                "timeupdated": "1740499790"
             },
             "oldstable": {
                 "buildid": "14061032",
