@@ -4,8 +4,8 @@
     "name": "VInput",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25617962",
-    "update_time": "2024-10-11 16:44:42",
+    "change_number": "27730014",
+    "update_time": "2025-03-01 13:05:24",
     "depot": {
         "229006": {
             "config": {
@@ -27,9 +27,9 @@
                     "download": "49776736"
                 },
                 "dev-test": {
-                    "gid": "6060628564805908057",
-                    "size": "188939782",
-                    "download": "49776736"
+                    "gid": "655769140096215983",
+                    "size": "179234513",
+                    "download": "27884288"
                 }
             },
             "decryptionkey": "daaeecf6884a5e04cbd4e3859057d9e15be723131742bdc4142d8d19cad6d702"
@@ -45,9 +45,9 @@
                 "timeupdated": "1714395865"
             },
             "dev-test": {
-                "buildid": "14208870",
+                "buildid": "17556572",
                 "description": "dev test",
-                "timeupdated": "1714395697"
+                "timeupdated": "1740805520"
             }
         }
     }
