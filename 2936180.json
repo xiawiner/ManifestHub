@@ -4,25 +4,25 @@
     "name": "茜色",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27338524",
-    "update_time": "2025-02-06 12:18:12",
+    "change_number": "27729461",
+    "update_time": "2025-03-01 11:42:07",
     "depot": {
         "baselanguages": "english,schinese",
         "hasdepotsindlc": "1",
         "2936181": {
             "manifests": {
                 "public": {
-                    "gid": "709701863084008680",
-                    "size": "2347414771",
-                    "download": "1974395792"
+                    "gid": "521499758461632298",
+                    "size": "2388253817",
+                    "download": "2015252016"
                 }
             },
             "decryptionkey": "32a43b73456ed97a64299a064753f9ca9818293b7a392b56577da28ab57c54df"
         },
         "branches": {
             "public": {
-                "buildid": "17168124",
-                "timeupdated": "1738138496"
+                "buildid": "17555986",
+                "timeupdated": "1740800523"
             }
         },
         "privatebranches": "1"
