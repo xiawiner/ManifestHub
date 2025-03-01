@@ -4,23 +4,23 @@
     "name": "New Star GP",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27418206",
-    "update_time": "2025-02-11 18:49:14",
+    "change_number": "27719892",
+    "update_time": "2025-02-28 23:17:21",
     "depot": {
         "2217581": {
             "manifests": {
                 "public": {
-                    "gid": "6116507713894438458",
-                    "size": "2136534898",
-                    "download": "511313648"
+                    "gid": "7962981897742707910",
+                    "size": "476348071",
+                    "download": "275024800"
                 }
             },
             "decryptionkey": "94ee113568e147cb7d7aab0385228c0803ecee39e034bd932f7107fb9a97e33b"
         },
         "branches": {
             "public": {
-                "buildid": "14598144",
-                "timeupdated": "1717578365"
+                "buildid": "17486227",
+                "timeupdated": "1740413856"
             }
         },
         "privatebranches": "1"
