@@ -4,23 +4,23 @@
     "name": "Chocolate Factory Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27515589",
-    "update_time": "2025-02-17 20:48:59",
+    "change_number": "27711102",
+    "update_time": "2025-02-28 16:40:16",
     "depot": {
         "2822371": {
             "manifests": {
                 "public": {
-                    "gid": "3540928701150985320",
-                    "size": "3387209621",
-                    "download": "1150222496"
+                    "gid": "4228470076327834264",
+                    "size": "3431583285",
+                    "download": "1169180736"
                 }
             },
             "decryptionkey": "3d00909cdf5c419e6e9e79c7ea78c7b6b25a0ae1e34a061e66fc947fb0e10018"
         },
         "branches": {
             "public": {
-                "buildid": "17441035",
-                "timeupdated": "1740073840"
+                "buildid": "17534920",
+                "timeupdated": "1740680025"
             }
         },
         "privatebranches": "1"
