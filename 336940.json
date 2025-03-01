@@ -4,9 +4,10 @@
     "name": "Basingstoke",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27065918",
-    "update_time": "2025-01-20 03:07:08",
+    "change_number": "27718742",
+    "update_time": "2025-02-28 22:13:40",
     "depot": {
+        "baselanguages": "english",
         "336941": {
             "config": {
                 "oslist": "windows",
@@ -19,14 +20,14 @@
                     "download": "368161088"
                 },
                 "alpha": {
-                    "gid": "8907834041369589494",
-                    "size": "1680146301",
-                    "download": "354861456"
+                    "gid": "6448567434818155696",
+                    "size": "1680502709",
+                    "download": "355271504"
                 },
                 "beta": {
-                    "gid": "8907834041369589494",
-                    "size": "1680146301",
-                    "download": "354861456"
+                    "gid": "6448567434818155696",
+                    "size": "1680502709",
+                    "download": "355271504"
                 }
             },
             "decryptionkey": "d55e3f9bab23530a488d37443f0989b64af896d87a922f1686c01f71ff52c82d"
@@ -43,14 +44,14 @@
                     "download": "369973104"
                 },
                 "alpha": {
-                    "gid": "4253765540891035408",
-                    "size": "1703846362",
-                    "download": "361934576"
+                    "gid": "2026949807991449084",
+                    "size": "1704202258",
+                    "download": "362271648"
                 },
                 "beta": {
-                    "gid": "4253765540891035408",
-                    "size": "1703846362",
-                    "download": "361934576"
+                    "gid": "2026949807991449084",
+                    "size": "1704202258",
+                    "download": "362271648"
                 }
             },
             "decryptionkey": ""
@@ -67,50 +68,30 @@
                     "download": "372560736"
                 },
                 "alpha": {
-                    "gid": "2498669060830158683",
-                    "size": "1684293357",
-                    "download": "355879200"
+                    "gid": "2410511107121681282",
+                    "size": "1684649765",
+                    "download": "356261216"
                 },
                 "beta": {
-                    "gid": "2498669060830158683",
-                    "size": "1684293357",
-                    "download": "355879200"
+                    "gid": "2410511107121681282",
+                    "size": "1684649765",
+                    "download": "356261216"
                 }
             },
             "decryptionkey": ""
         },
-        "336944": {
-            "config": {
-                "oslist": "macos",
-                "osarch": "64"
-            },
-            "manifests": {
-                "alpha": {
-                    "gid": "2063474426114011892",
-                    "size": "0",
-                    "download": "0"
-                },
-                "beta": {
-                    "gid": "2063474426114011892",
-                    "size": "0",
-                    "download": "0"
-                }
-            },
-            "decryptionkey": ""
-        },
-        "baselanguages": "english",
         "branches": {
             "public": {
                 "buildid": "3029459",
                 "timeupdated": "1534674713"
             },
             "alpha": {
-                "buildid": "17057312",
-                "timeupdated": "1737313267"
+                "buildid": "17547836",
+                "timeupdated": "1740751190"
             },
             "beta": {
-                "buildid": "17057312",
-                "timeupdated": "1737313622"
+                "buildid": "17547836",
+                "timeupdated": "1740751198"
             }
         }
     }
