@@ -4,8 +4,8 @@
     "name": "Bad Cheese Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27540840",
-    "update_time": "2025-02-19 03:17:31",
+    "change_number": "27732098",
+    "update_time": "2025-03-01 18:47:26",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "3374351": {
             "manifests": {
                 "public": {
-                    "gid": "8368264897794760829",
-                    "size": "1158117762",
-                    "download": "982428944"
+                    "gid": "3358923940867284586",
+                    "size": "1170915856",
+                    "download": "994639088"
                 }
             },
             "decryptionkey": "0977c0b9d02ee7ce169b2607a5c311169a48a0198a8912bccd0143954f0f28f0"
         },
         "branches": {
             "public": {
-                "buildid": "17281431",
-                "timeupdated": "1738944256"
+                "buildid": "17486529",
+                "timeupdated": "1740417451"
             }
         },
         "privatebranches": "1"
