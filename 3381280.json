@@ -4,23 +4,23 @@
     "name": "Brawlers of the West Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26863720",
-    "update_time": "2025-01-05 05:25:36",
+    "change_number": "27727964",
+    "update_time": "2025-03-01 08:38:45",
     "depot": {
         "3381281": {
             "manifests": {
                 "public": {
-                    "gid": "4807834400879777652",
-                    "size": "3895618920",
-                    "download": "1616997840"
+                    "gid": "6441198595821004829",
+                    "size": "3895619336",
+                    "download": "1617024432"
                 }
             },
             "decryptionkey": "679efd4e29e664938ae7cbe73a1e21aaf45ad3eccd81f80b30b1ce07b5571cd5"
         },
         "branches": {
             "public": {
-                "buildid": "17480556",
-                "timeupdated": "1740386867"
+                "buildid": "17554809",
+                "timeupdated": "1740789521"
             }
         }
     }
