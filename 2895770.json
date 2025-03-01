@@ -4,10 +4,36 @@
     "name": "Veloria: The Knot of Candles Demo",
     "schinese_name": "薇拉里娅的烛花 Veloria: The Knot of Candle Demo",
     "isfreeapp": "0",
-    "change_number": "27517547",
-    "update_time": "2025-02-17 22:50:19",
+    "change_number": "27729392",
+    "update_time": "2025-03-01 11:34:23",
     "depot": {
         "baselanguages": "schinese",
+        "2895773": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4802467084188452580",
+                    "size": "530472181",
+                    "download": "303567024"
+                }
+            },
+            "decryptionkey": "48364747815f3755a210013cad0c81ba52082543c540e4bdc1273b510b1a4894"
+        },
+        "2895774": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5497656614658589007",
+                    "size": "831945030",
+                    "download": "338102144"
+                }
+            },
+            "decryptionkey": ""
+        },
         "2895772": {
             "config": {
                 "oslist": "windows",
@@ -15,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4657492985758925282",
-                    "size": "526060496",
-                    "download": "298366720"
+                    "gid": "8122773092163965128",
+                    "size": "530498565",
+                    "download": "303561456"
                 }
             },
             "decryptionkey": "cfad4a6e5fc9f429726b7c454b40a8c813fc8f2aebc4ec4169235bbfaa613f05"
@@ -29,43 +55,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4042107679654508071",
-                    "size": "822580396",
-                    "download": "328791664"
-                }
-            },
-            "decryptionkey": ""
-        },
-        "2895773": {
-            "config": {
-                "oslist": "windows"
-            },
-            "manifests": {
-                "public": {
-                    "gid": "1109449325789565956",
-                    "size": "526067431",
-                    "download": "298373312"
-                }
-            },
-            "decryptionkey": "48364747815f3755a210013cad0c81ba52082543c540e4bdc1273b510b1a4894"
-        },
-        "2895774": {
-            "config": {
-                "oslist": "macos"
-            },
-            "manifests": {
-                "public": {
-                    "gid": "3886682511345336970",
-                    "size": "822580396",
-                    "download": "328791664"
+                    "gid": "330458255314638706",
+                    "size": "831971649",
+                    "download": "338096608"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17249145",
-                "timeupdated": "1738746043"
+                "buildid": "17556033",
+                "timeupdated": "1740800048"
             }
         },
         "privatebranches": "1"
