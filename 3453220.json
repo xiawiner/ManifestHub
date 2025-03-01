@@ -4,23 +4,23 @@
     "name": "Biped 2 Demo",
     "schinese_name": "知只大冒险2 DEMO",
     "isfreeapp": "0",
-    "change_number": "27538837",
-    "update_time": "2025-02-19 01:16:06",
+    "change_number": "27729510",
+    "update_time": "2025-03-01 11:48:58",
     "depot": {
         "3453221": {
             "manifests": {
                 "public": {
-                    "gid": "3880061149058074485",
-                    "size": "8376057019",
-                    "download": "3861640176"
+                    "gid": "327322570933342249",
+                    "size": "8460872799",
+                    "download": "3964705216"
                 }
             },
             "decryptionkey": "5128586408019c9af23d4fc3d6a6ed435cfa5657c5900723a926af52b723f7af"
         },
         "branches": {
             "public": {
-                "buildid": "17326700",
-                "timeupdated": "1739306248"
+                "buildid": "17551081",
+                "timeupdated": "1740766572"
             }
         },
         "privatebranches": "1"
