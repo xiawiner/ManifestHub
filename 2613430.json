@@ -4,8 +4,8 @@
     "name": "Telegraphist 1920: Beats of War Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27537798",
-    "update_time": "2025-02-19 00:14:26",
+    "change_number": "27729314",
+    "update_time": "2025-03-01 11:23:56",
     "depot": {
         "2613431": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1752700595608685890",
-                    "size": "1461439288",
-                    "download": "641233600"
+                    "gid": "286201839525904694",
+                    "size": "1488708194",
+                    "download": "617456352"
                 }
             },
             "decryptionkey": "3f69bed5b4c9945b90b82f40868bb9297d061f37b3508f12a39b59e74774e95d"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3332658089963430110",
-                    "size": "1450722055",
-                    "download": "637933136"
+                    "gid": "4048147926478727527",
+                    "size": "1475978304",
+                    "download": "613640320"
                 }
             },
             "decryptionkey": ""
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7543617385219452227",
-                    "size": "1456687483",
-                    "download": "642325536"
+                    "gid": "819479828710911385",
+                    "size": "1482016658",
+                    "download": "618828384"
                 }
             },
             "decryptionkey": ""
@@ -54,17 +54,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3996591399331188589",
-                    "size": "1481228418",
-                    "download": "647550560"
+                    "gid": "2254343225533141333",
+                    "size": "1501074115",
+                    "download": "623181024"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17051828",
-                "timeupdated": "1737233728"
+                "buildid": "17535240",
+                "timeupdated": "1740679361"
             }
         },
         "privatebranches": "1"
