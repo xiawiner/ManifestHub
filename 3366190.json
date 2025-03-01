@@ -1,0 +1,50 @@
+{
+    "appid": "3366190",
+    "type": "Demo",
+    "name": "Monaco 2 Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27729087",
+    "update_time": "2025-03-01 10:48:18",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3366191": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6933795147634167030",
+                    "size": "8533576964",
+                    "download": "2838341936"
+                },
+                "beta": {
+                    "gid": "6933795147634167030",
+                    "size": "8533576964",
+                    "download": "2838341936"
+                }
+            },
+            "decryptionkey": "c7420f83a845017ed34900821f00363eb8e78db6b046915a08c7070946bc34f3"
+        },
+        "baselanguages": "english,german,french,schinese,russian,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "17555737",
+                "timeupdated": "1740797295"
+            },
+            "beta": {
+                "buildid": "17555737",
+                "description": "Public beta branch",
+                "timeupdated": "1740797210"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
