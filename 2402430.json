@@ -4,8 +4,8 @@
     "name": "Deckmate! Beta",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27317490",
-    "update_time": "2025-02-05 09:15:49",
+    "change_number": "27729508",
+    "update_time": "2025-03-01 11:48:30",
     "depot": {
         "2402431": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6881362664131670400",
-                    "size": "450836205",
-                    "download": "105451200"
+                    "gid": "1376232040492286735",
+                    "size": "450907581",
+                    "download": "105469552"
                 },
                 "casino": {
                     "gid": "4311081895038907683",
@@ -42,8 +42,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "15561652",
-                "timeupdated": "1725231020"
+                "buildid": "17505426",
+                "timeupdated": "1740517579"
             },
             "casino": {
                 "buildid": "16743034",
