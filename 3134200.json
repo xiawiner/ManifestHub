@@ -4,8 +4,8 @@
     "name": "D.O.T. Defence Demo",
     "schinese_name": "桌面战争：兵团乱斗 试玩版",
     "isfreeapp": "0",
-    "change_number": "27402932",
-    "update_time": "2025-02-10 23:22:53",
+    "change_number": "27729420",
+    "update_time": "2025-03-01 11:37:46",
     "depot": {
         "3134202": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9031637772033708000",
-                    "size": "237736656",
-                    "download": "136683664"
+                    "gid": "8319639800735021452",
+                    "size": "238017040",
+                    "download": "136803328"
                 }
             },
             "decryptionkey": ""
@@ -23,17 +23,17 @@
         "3134201": {
             "manifests": {
                 "public": {
-                    "gid": "5551181780211372672",
-                    "size": "255633688",
-                    "download": "140330608"
+                    "gid": "8344063834150954982",
+                    "size": "266280552",
+                    "download": "141477936"
                 }
             },
             "decryptionkey": "03742ecd4a56f05e6e48f2649d266465dd5cae829805ef7dda5ce3280fc18981"
         },
         "branches": {
             "public": {
-                "buildid": "17433121",
-                "timeupdated": "1740021936"
+                "buildid": "17556051",
+                "timeupdated": "1740800262"
             }
         }
     }
