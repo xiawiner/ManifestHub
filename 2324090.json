@@ -4,21 +4,21 @@
     "name": "VRHandsFrame",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27301531",
-    "update_time": "2025-02-04 13:32:09",
+    "change_number": "27716981",
+    "update_time": "2025-02-28 20:23:55",
     "depot": {
         "hasdepotsindlc": "0",
         "2324091": {
             "manifests": {
                 "public": {
-                    "gid": "3955846177484406591",
-                    "size": "516162625",
-                    "download": "211934720"
+                    "gid": "5311260181495409379",
+                    "size": "513100365",
+                    "download": "211025584"
                 },
                 "beta": {
-                    "gid": "2499653031123875142",
-                    "size": "513096240",
-                    "download": "211025456"
+                    "gid": "5311260181495409379",
+                    "size": "513100365",
+                    "download": "211025584"
                 }
             },
             "decryptionkey": "9a7809ed206c1931f812d5c41a3e5159493b17a284755f2f95d17564667cae4a"
@@ -26,13 +26,13 @@
         "workshopdepot": "2324090",
         "branches": {
             "public": {
-                "buildid": "16588440",
-                "timeupdated": "1732982263"
+                "buildid": "17546465",
+                "timeupdated": "1740745414"
             },
             "beta": {
-                "buildid": "17475050",
+                "buildid": "17546465",
                 "description": "beta",
-                "timeupdated": "1740334185"
+                "timeupdated": "1740744694"
             }
         },
         "privatebranches": "1",
