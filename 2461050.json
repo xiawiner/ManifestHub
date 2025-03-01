@@ -4,8 +4,8 @@
     "name": "晨昏线",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27535801",
-    "update_time": "2025-02-18 22:16:24",
+    "change_number": "27731272",
+    "update_time": "2025-03-01 16:46:17",
     "depot": {
         "baselanguages": "schinese",
         "2461052": {
@@ -15,17 +15,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3748007117470007853",
-                    "size": "37994232223",
-                    "download": "34335560688"
+                    "gid": "8926319381264300040",
+                    "size": "23154596835",
+                    "download": "21260305008"
                 }
             },
             "decryptionkey": "6d2bdb440edff19e5cf3e558f6e6ec15de7c498e40a7e479aef0f073c5eb171f"
         },
         "branches": {
             "public": {
-                "buildid": "17319512",
-                "timeupdated": "1739340299"
+                "buildid": "17526378",
+                "timeupdated": "1740722600"
             }
         },
         "privatebranches": "1"
