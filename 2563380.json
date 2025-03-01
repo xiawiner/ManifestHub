@@ -4,8 +4,8 @@
     "name": "Reus 2 Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "23730470",
-    "update_time": "2024-07-16 02:46:43",
+    "change_number": "27714483",
+    "update_time": "2025-02-28 17:58:09",
     "depot": {
         "1875061": {
             "config": {
@@ -19,8 +19,7 @@
                     "download": "962484640"
                 }
             },
-            "depotfromapp": "1875060",
-            "decryptionkey": "a33eb91dbaf0ab42248dfe4e4d11a817ad3f8e033b56465281a752da06245e7d"
+            "depotfromapp": "1875060"
         },
         "1875062": {
             "config": {
@@ -34,8 +33,7 @@
                     "download": "970447504"
                 }
             },
-            "depotfromapp": "1875060",
-            "decryptionkey": "80791d99567e5d3181ef98a4e8b9138fbf99a33d0d67d1d23d44f46cf315d2b2"
+            "depotfromapp": "1875060"
         },
         "branches": {
             "public": {
