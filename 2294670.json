@@ -4,8 +4,8 @@
     "name": "INSOMNIA",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27370544",
-    "update_time": "2025-02-08 04:26:54",
+    "change_number": "27814034",
+    "update_time": "2025-03-06 20:08:21",
     "depot": {
         "228989": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "8735881584"
                 }
             },
-            "decryptionkey": "5b8d69ca2e77143da3c17381ab418a6ce3ee7b9f2b6878c6c451797bb3898221"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
