@@ -4,8 +4,8 @@
     "name": "Punch Line",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26676050",
-    "update_time": "2024-12-17 18:37:38",
+    "change_number": "27911993",
+    "update_time": "2025-03-12 21:40:16",
     "depot": {
         "228986": {
             "config": {
@@ -33,7 +33,7 @@
                     "download": "9724196448"
                 }
             },
-            "decryptionkey": "23409f078a4286204d5a1829d4cc37fdc8a6b3487198cce445dd9448728cb289"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
