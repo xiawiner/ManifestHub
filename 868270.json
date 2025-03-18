@@ -4,8 +4,8 @@
     "name": "The Cycle: Frontier",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27011967",
-    "update_time": "2025-01-16 02:14:41",
+    "change_number": "27879975",
+    "update_time": "2025-03-11 06:02:46",
     "depot": {
         "228989": {
             "config": {
@@ -34,7 +34,7 @@
                     "download": "17730390576"
                 }
             },
-            "decryptionkey": "9447c8f65231308e83a0afaef6df5e24e5312c2a009113ea8e5f77c8e0830ebc"
+            "decryptionkey": ""
         },
         "1947000": {
             "dlcappid": "1947000",
