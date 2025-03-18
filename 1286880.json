@@ -4,8 +4,8 @@
     "name": "Ship Graveyard Simulator",
     "schinese_name": "船舶墓地模拟器",
     "isfreeapp": "0",
-    "change_number": "26956014",
-    "update_time": "2025-01-12 01:09:37",
+    "change_number": "27819208",
+    "update_time": "2025-03-07 01:02:04",
     "depot": {
         "228988": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "7581801888"
                 }
             },
-            "decryptionkey": "73fbc4ec2441db925364ee7921204361cfb62431d36dcc0bfa9bbb50267aea2d"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
