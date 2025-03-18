@@ -4,8 +4,8 @@
     "name": "Dark Room",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26776764",
-    "update_time": "2024-12-25 07:22:10",
+    "change_number": "27971398",
+    "update_time": "2025-03-15 18:24:12",
     "depot": {
         "228986": {
             "config": {
@@ -36,7 +36,7 @@
                     "download": "210631808"
                 }
             },
-            "decryptionkey": "ec2738e2f4c1cc0715f828dbffc48f8731c8128816529b89771a1b290e22400d"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
