@@ -4,8 +4,8 @@
     "name": "Colt Canyon",
     "schinese_name": "柯尔特峡谷",
     "isfreeapp": "0",
-    "change_number": "27534862",
-    "update_time": "2025-02-18 21:20:09",
+    "change_number": "27908269",
+    "update_time": "2025-03-12 17:59:41",
     "depot": {
         "228988": {
             "config": {
@@ -24,9 +24,9 @@
         "940711": {
             "manifests": {
                 "public": {
-                    "gid": "2533855567412011290",
-                    "size": "574519087",
-                    "download": "353089424"
+                    "gid": "7041028418435309747",
+                    "size": "574521647",
+                    "download": "353071824"
                 },
                 "version-1020": {
                     "gid": "5818943599902494761",
@@ -44,9 +44,9 @@
                     "download": "217177392"
                 },
                 "unstable": {
-                    "gid": "2533855567412011290",
-                    "size": "574519087",
-                    "download": "353089424"
+                    "gid": "7041028418435309747",
+                    "size": "574521647",
+                    "download": "353071824"
                 },
                 "version-1213": {
                     "gid": "1118441811636874598",
@@ -59,14 +59,14 @@
                     "download": "352581616"
                 }
             },
-            "decryptionkey": "ae061c0dae36e1e644026d8935cce8f98b374fc44774f434c103af5078feb355"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,polish",
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "17407586",
-                "timeupdated": "1739884801"
+                "buildid": "17690680",
+                "timeupdated": "1741773578"
             },
             "version-1020": {
                 "buildid": "6004594",
@@ -84,9 +84,9 @@
                 "timeupdated": "1656690439"
             },
             "unstable": {
-                "buildid": "17407586",
+                "buildid": "17690680",
                 "description": "Public pre-release testing",
-                "timeupdated": "1739884411"
+                "timeupdated": "1741773561"
             },
             "version-1213": {
                 "buildid": "10201865",
