@@ -4,8 +4,8 @@
     "name": "Let's Sing 2016",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27431256",
-    "update_time": "2025-02-12 10:20:51",
+    "change_number": "27754119",
+    "update_time": "2025-03-03 21:15:28",
     "depot": {
         "228990": {
             "config": {
@@ -22,7 +22,7 @@
                     "download": "3260829024"
                 }
             },
-            "decryptionkey": "573ed63006763512b0b889cde36cf9a53ba52fd74168e913d9829edc3e2f8fc2"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
