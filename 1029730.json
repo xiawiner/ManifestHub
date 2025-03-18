@@ -4,8 +4,8 @@
     "name": "VR Ping Pong Pro",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27200968",
-    "update_time": "2025-01-28 21:16:18",
+    "change_number": "27987660",
+    "update_time": "2025-03-17 12:56:14",
     "depot": {
         "228986": {
             "config": {
@@ -33,7 +33,7 @@
                     "download": "4515731040"
                 }
             },
-            "decryptionkey": "5ad38136b6952e8b3894f097f700d3b1c1757cf3f57e384d220dffe207ca8a73"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
