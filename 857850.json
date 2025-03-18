@@ -4,8 +4,8 @@
     "name": "Dwarf Defense",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25956253",
-    "update_time": "2024-10-30 01:59:33",
+    "change_number": "27945949",
+    "update_time": "2025-03-14 08:35:10",
     "depot": {
         "228986": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "816122160"
                 }
             },
-            "decryptionkey": "c78d23b65f7eead7f154762e043402c2ed5e4aa930639a85a7a93f2aa83149bd"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
