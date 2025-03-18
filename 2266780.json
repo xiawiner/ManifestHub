@@ -4,8 +4,8 @@
     "name": "Ascendant",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27497548",
-    "update_time": "2025-02-16 05:02:46",
+    "change_number": "27959137",
+    "update_time": "2025-03-14 23:14:01",
     "depot": {
         "2266781": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3178701770212486757",
-                    "size": "372311370",
-                    "download": "304584736"
+                    "gid": "3921991897598450283",
+                    "size": "372510392",
+                    "download": "304694992"
                 }
             },
             "decryptionkey": "952402f691b8dd457cba1c8c4d03f79dec2cc53e47cc3bb2da3a55e2c491057a"
@@ -26,17 +26,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4381847803057403478",
-                    "size": "379481089",
-                    "download": "306899408"
+                    "gid": "705413147193982317",
+                    "size": "379712133",
+                    "download": "307017328"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17380003",
-                "timeupdated": "1739653361"
+                "buildid": "17727273",
+                "timeupdated": "1741965236"
             }
         }
     }
