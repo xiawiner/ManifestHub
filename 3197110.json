@@ -4,8 +4,8 @@
     "name": "Permafrost Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27430548",
-    "update_time": "2025-02-12 09:21:57",
+    "change_number": "27906383",
+    "update_time": "2025-03-12 16:06:01",
     "depot": {
         "228989": {
             "config": {
@@ -28,8 +28,7 @@
                     "size": "16672505636",
                     "download": "15771081280"
                 }
-            },
-            "decryptionkey": "78dd60c3ebcf9318165f39b6af42f7a1d7caf2a2586aba0bca5ac3fcf26060df"
+            }
         },
         "branches": {
             "public": {
