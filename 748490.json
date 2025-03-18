@@ -4,8 +4,8 @@
     "name": "The Legend of Heroes: Trails of Cold Steel II",
     "schinese_name": "英雄传说：闪之轨迹2",
     "isfreeapp": "0",
-    "change_number": "25442377",
-    "update_time": "2024-09-29 14:45:33",
+    "change_number": "27741890",
+    "update_time": "2025-03-02 21:22:44",
     "depot": {
         "228983": {
             "config": {
@@ -83,7 +83,7 @@
                     "download": "13318937200"
                 }
             },
-            "decryptionkey": "e76ee9043ce59e5c36abd110d68779207bf1d8911020db5c2c0bc47d7640a6d3"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
