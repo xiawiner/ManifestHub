@@ -4,8 +4,8 @@
     "name": "KunKun dream Startles the Soul",
     "schinese_name": "坤梦惊魂",
     "isfreeapp": "0",
-    "change_number": "27517954",
-    "update_time": "2025-02-17 23:15:32",
+    "change_number": "27989948",
+    "update_time": "2025-03-17 16:51:20",
     "depot": {
         "228989": {
             "config": {
@@ -31,7 +31,7 @@
                     "download": "5741108208"
                 }
             },
-            "decryptionkey": "9cb2adadc8637c2632dce8be4859287fe6e868a11f81f1ade65d699cbc724e14"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
