@@ -4,8 +4,8 @@
     "name": "Chushpan Simulator 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27268282",
-    "update_time": "2025-02-01 20:33:19",
+    "change_number": "27806966",
+    "update_time": "2025-03-06 11:07:59",
     "depot": {
         "228989": {
             "config": {
@@ -24,18 +24,18 @@
         "3024831": {
             "manifests": {
                 "public": {
-                    "gid": "8726685119491361340",
-                    "size": "8492909259",
-                    "download": "8018001856"
+                    "gid": "3705970170292098058",
+                    "size": "8494710152",
+                    "download": "8018228112"
                 }
             },
-            "decryptionkey": "6515f85aa697a4b8643a8f7e44979c68516da4ef2d497c1db7a3e8524219662d"
+            "decryptionkey": ""
         },
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "15449073",
-                "timeupdated": "1724317796"
+                "buildid": "17488969",
+                "timeupdated": "1740426491"
             }
         }
     }
