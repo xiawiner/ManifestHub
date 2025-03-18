@@ -4,8 +4,8 @@
     "name": "Lawnmower Game: Next Generation",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26096992",
-    "update_time": "2024-11-08 05:33:26",
+    "change_number": "27746505",
+    "update_time": "2025-03-03 08:15:39",
     "depot": {
         "228988": {
             "config": {
@@ -36,7 +36,7 @@
                     "download": "404722224"
                 }
             },
-            "decryptionkey": "cd5fab3240be101a968d05b66be7aee8862646a068e5e9d4901b7e82eabd1f56"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
