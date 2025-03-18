@@ -4,8 +4,8 @@
     "name": "Grimgrad",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27387052",
-    "update_time": "2025-02-09 20:26:29",
+    "change_number": "27905099",
+    "update_time": "2025-03-12 14:20:02",
     "depot": {
         "baselanguages": "english,german,spanish,schinese,russian",
         "228988": {
@@ -32,17 +32,17 @@
         "1837341": {
             "manifests": {
                 "public": {
-                    "gid": "7115096254638622360",
-                    "size": "5030452024",
-                    "download": "1709897072"
+                    "gid": "823436688087366731",
+                    "size": "5052008845",
+                    "download": "1722413760"
                 },
                 "development": {
-                    "gid": "7115096254638622360",
-                    "size": "5030452024",
-                    "download": "1709897072"
+                    "gid": "823436688087366731",
+                    "size": "5052008845",
+                    "download": "1722413760"
                 }
             },
-            "decryptionkey": "24ba207f9fb9574d2121090df3a114cc545532a4e21e8271a9a7d85632388ffc"
+            "decryptionkey": ""
         },
         "1837342": {
             "manifests": {
@@ -57,17 +57,17 @@
                     "download": "64"
                 }
             },
-            "decryptionkey": "ccab1f21885b1fee2bd7ac3cc0b75f453ce30b637dced1cef7e6d74482abe8c2"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17101757",
-                "timeupdated": "1737617054"
+                "buildid": "17688424",
+                "timeupdated": "1741760399"
             },
             "development": {
-                "buildid": "17101757",
+                "buildid": "17688424",
                 "description": "Development version",
-                "timeupdated": "1737617021"
+                "timeupdated": "1741760366"
             }
         }
     }
