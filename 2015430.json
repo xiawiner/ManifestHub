@@ -4,8 +4,8 @@
     "name": "Jigoku Unko: Toripuru",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25612129",
-    "update_time": "2024-10-10 19:28:46",
+    "change_number": "27797089",
+    "update_time": "2025-03-05 23:08:12",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "182529760"
                 }
             },
-            "decryptionkey": "ea96d2a8598563ced85fd035dd1ef9b7dd466f90b970204cf515efcad19748c3"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
