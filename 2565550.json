@@ -4,8 +4,8 @@
     "name": "Beyond Hanwell",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27470692",
-    "update_time": "2025-02-14 09:27:53",
+    "change_number": "27984095",
+    "update_time": "2025-03-17 04:56:56",
     "depot": {
         "baselanguages": "english",
         "228988": {
@@ -47,7 +47,7 @@
                     "download": "62769035360"
                 }
             },
-            "decryptionkey": "97e08dc9c8a92304c49389b9890893ffa3dace77807e9ff785390076133b4dc0"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
