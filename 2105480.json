@@ -4,8 +4,8 @@
     "name": "Soulsland: Last Fight",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26520911",
-    "update_time": "2024-12-06 14:17:38",
+    "change_number": "27747331",
+    "update_time": "2025-03-03 10:15:06",
     "depot": {
         "228989": {
             "config": {
@@ -36,7 +36,7 @@
                     "download": "11139462112"
                 }
             },
-            "decryptionkey": "12d4a3b018f257bc532ae54e15ddd542f6b62f4f9bac2f4373462fc62d3792bc"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
