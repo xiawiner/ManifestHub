@@ -4,8 +4,8 @@
     "name": "Dreaming Isles",
     "schinese_name": "梦幻岛",
     "isfreeapp": "0",
-    "change_number": "27284144",
-    "update_time": "2025-02-03 13:32:24",
+    "change_number": "27820474",
+    "update_time": "2025-03-07 02:08:37",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,brazilian,latam",
         "2258321": {
@@ -29,7 +29,7 @@
                     "download": "373008576"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "ba10c6dd7f12f241c0f82231c60364c679fcc3c7e5cff3d69063541d3aaaacf9"
         },
         "2258323": {
             "config": {
