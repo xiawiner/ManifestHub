@@ -4,8 +4,8 @@
     "name": "Dungeon of Gain",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27353942",
-    "update_time": "2025-02-07 06:25:59",
+    "change_number": "27739986",
+    "update_time": "2025-03-02 15:46:15",
     "depot": {
         "baselanguages": "english",
         "228990": {
@@ -26,7 +26,7 @@
                     "download": "77672928"
                 }
             },
-            "decryptionkey": "dd2f1ab8d03204a7bfa544f1a5b444f1bd8ddb5333838403e57044a241afa169"
+            "decryptionkey": ""
         },
         "340032": {
             "config": {
@@ -39,7 +39,7 @@
                     "download": "74344160"
                 }
             },
-            "decryptionkey": "020829d1d348a5c04d8f4919d3896cc08857912c71704ed48386c68320aa56fd"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
