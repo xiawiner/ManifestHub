@@ -4,8 +4,8 @@
     "name": "KunKunNight",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27387415",
-    "update_time": "2025-02-09 21:18:23",
+    "change_number": "27896497",
+    "update_time": "2025-03-12 02:02:20",
     "depot": {
         "228989": {
             "config": {
@@ -43,7 +43,7 @@
                     "download": "1597595376"
                 }
             },
-            "decryptionkey": "881c160a66097cb250d1865decd4e275ac0917db682aa1497b725186e9567947"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
