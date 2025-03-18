@@ -4,8 +4,8 @@
     "name": "Inscryption",
     "schinese_name": "邪恶冥刻",
     "isfreeapp": "0",
-    "change_number": "26900248",
-    "update_time": "2025-01-08 08:17:58",
+    "change_number": "28004121",
+    "update_time": "2025-03-18 08:20:37",
     "depot": {
         "baselanguages": "english",
         "228990": {
@@ -23,7 +23,7 @@
                     "download": "1885323264"
                 }
             },
-            "decryptionkey": "524d1fbf5c623583299f19bd4dc4a02744b00056a2b186d832c65fd7158da589"
+            "decryptionkey": ""
         },
         "1092792": {
             "config": {
@@ -36,7 +36,7 @@
                     "download": "1647724432"
                 }
             },
-            "decryptionkey": "5924feedab4af060584bed3e37159d187ab7f66c44892fc04470cbbeb40f6da6"
+            "decryptionkey": ""
         },
         "1092793": {
             "config": {
@@ -49,7 +49,7 @@
                     "download": "1646125760"
                 }
             },
-            "decryptionkey": "6a24bea06c382f9d2e86202c4b8935ce1c2168c88c89a3be1aa052a9ed41159b"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
