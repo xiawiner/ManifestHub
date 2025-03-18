@@ -4,8 +4,8 @@
     "name": "Three kingdoms story: Conussia - Complete rework",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "23591175",
-    "update_time": "2024-07-16 02:46:06",
+    "change_number": "27859949",
+    "update_time": "2025-03-10 00:05:51",
     "depot": {
         "1998091": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4342985168606590382",
-                    "size": "293044368",
-                    "download": "213784016"
+                    "gid": "8131887163732462164",
+                    "size": "293032243",
+                    "download": "213771712"
                 },
                 "overlay": {
                     "gid": "1476239405832960832",
@@ -32,9 +32,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4916503261536962016",
-                    "size": "293044368",
-                    "download": "213784016"
+                    "gid": "3730852974467378282",
+                    "size": "293032243",
+                    "download": "213771712"
                 },
                 "overlay": {
                     "gid": "3160668318756711396",
@@ -51,9 +51,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1819075493282057041",
-                    "size": "293044368",
-                    "download": "213784016"
+                    "gid": "6453082058177696070",
+                    "size": "293032243",
+                    "download": "213771712"
                 },
                 "overlay": {
                     "gid": "8844246892121602474",
@@ -66,8 +66,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "14124089",
-                "timeupdated": "1713691160"
+                "buildid": "17653294",
+                "timeupdated": "1741536343"
             },
             "overlay": {
                 "buildid": "11071787",
