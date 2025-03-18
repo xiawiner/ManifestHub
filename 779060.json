@@ -4,8 +4,8 @@
     "name": "Cyborg Invasion Shooter 2: Battle Of Earth",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26752427",
-    "update_time": "2024-12-22 18:21:48",
+    "change_number": "27749120",
+    "update_time": "2025-03-03 14:13:08",
     "depot": {
         "228986": {
             "config": {
@@ -36,7 +36,7 @@
                     "download": "3748217136"
                 }
             },
-            "decryptionkey": "f4015c06ff69507dd4b07c926c6575159767d343138f2c4cbb0f2c8fd3673a1e"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
