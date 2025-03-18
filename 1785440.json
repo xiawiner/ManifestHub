@@ -4,8 +4,8 @@
     "name": "Russian Train Trip",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27030438",
-    "update_time": "2025-01-17 02:53:31",
+    "change_number": "27749123",
+    "update_time": "2025-03-03 14:13:26",
     "depot": {
         "228988": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "12375754544"
                 }
             },
-            "decryptionkey": "20602464e4fdea1ab90b634bd0097a4a2e1910bd9b0782b17331b9853d6c85b9"
+            "decryptionkey": ""
         },
         "hasdepotsindlc": "0",
         "branches": {
