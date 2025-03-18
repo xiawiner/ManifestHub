@@ -4,8 +4,8 @@
     "name": "Beyond Citadel Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27024729",
-    "update_time": "2025-01-16 20:34:58",
+    "change_number": "27979319",
+    "update_time": "2025-03-16 16:28:19",
     "depot": {
         "228989": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "1534817795",
                     "download": "1361054944"
                 }
-            },
-            "decryptionkey": "41ea0a1a1c56d322d25ea8ff2ab36e33c45718460b8f45e0b5c3bbdd61455591"
+            }
         },
         "baselanguages": "english",
         "branches": {
