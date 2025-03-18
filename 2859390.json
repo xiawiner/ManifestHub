@@ -4,8 +4,8 @@
     "name": "Drive Beyond Horizons Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27542768",
-    "update_time": "2025-02-19 05:44:42",
+    "change_number": "27999217",
+    "update_time": "2025-03-18 01:49:32",
     "depot": {
         "228989": {
             "config": {
@@ -28,8 +28,7 @@
                     "size": "5092771176",
                     "download": "4827645952"
                 }
-            },
-            "decryptionkey": "f1a0239daf48c3b38078c92d85db817f0aa01bcce368a39f7e44d2b0e7cb23de"
+            }
         },
         "branches": {
             "public": {
