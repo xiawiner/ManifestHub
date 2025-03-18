@@ -4,8 +4,8 @@
     "name": "Pathologic 2",
     "schinese_name": "瘟疫2",
     "isfreeapp": "0",
-    "change_number": "27370423",
-    "update_time": "2025-02-08 04:18:14",
+    "change_number": "27884944",
+    "update_time": "2025-03-11 14:01:17",
     "depot": {
         "baselanguages": "english,russian",
         "hasdepotsindlc": "1",
@@ -111,7 +111,7 @@
                     "download": "566735680"
                 }
             },
-            "decryptionkey": "ebfb3f4ec1c898772862970dc2411b5f568a80d8a85a6820d242c41f53da002e"
+            "decryptionkey": ""
         },
         "1141960": {
             "dlcappid": "1141960",
