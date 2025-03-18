@@ -4,8 +4,8 @@
     "name": "Pleim",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27382134",
-    "update_time": "2025-02-09 05:27:00",
+    "change_number": "27982010",
+    "update_time": "2025-03-16 23:56:18",
     "depot": {
         "228988": {
             "config": {
@@ -36,7 +36,7 @@
                     "download": "975028080"
                 }
             },
-            "decryptionkey": "3b88636ab2858eeb9b04152e343a3a2a004bc5fdae801798d061e7c1656e0eba"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
