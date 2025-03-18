@@ -4,8 +4,8 @@
     "name": "Piece of..Horror",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25156612",
-    "update_time": "2024-09-10 20:12:25",
+    "change_number": "27899228",
+    "update_time": "2025-03-12 05:22:58",
     "depot": {
         "baselanguages": "english,russian",
         "228989": {
@@ -34,7 +34,7 @@
                     "download": "2241703744"
                 }
             },
-            "decryptionkey": "d87b2dd6e97ffcdb24c2fcfbf344f0838d6d32d778a1e0387ba8d096cf28e7a4"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
