@@ -4,8 +4,8 @@
     "name": "Pumpkin Days",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25983292",
-    "update_time": "2024-10-31 12:59:02",
+    "change_number": "27826335",
+    "update_time": "2025-03-07 09:05:46",
     "depot": {
         "228985": {
             "config": {
@@ -129,7 +129,7 @@
                     "download": "1375876256"
                 }
             },
-            "decryptionkey": "8b3264699c7dd33a7f7dcc8d27e3d370de5174f97f877899bd8ca7722f7acb2f"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
