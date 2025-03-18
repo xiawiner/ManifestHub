@@ -4,8 +4,8 @@
     "name": "Thunder Wolves",
     "schinese_name": "雷狼",
     "isfreeapp": "0",
-    "change_number": "27106307",
-    "update_time": "2025-01-22 13:26:02",
+    "change_number": "27955893",
+    "update_time": "2025-03-14 20:23:00",
     "depot": {
         "228983": {
             "config": {
@@ -38,7 +38,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "a96712d03eeb9b91da31834884884c96c9602822e77f9c9ab2e780fcdbbf4415"
+            "decryptionkey": ""
         },
         "markdlcdepots": "1",
         "branches": {
