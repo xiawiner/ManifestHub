@@ -4,8 +4,8 @@
     "name": "Tom Clancy's The Division PTS",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26461881",
-    "update_time": "2024-12-05 10:27:38",
+    "change_number": "27825469",
+    "update_time": "2025-03-07 08:28:53",
     "depot": {
         "228983": {
             "config": {
@@ -43,7 +43,7 @@
                     "download": "46750612528"
                 }
             },
-            "decryptionkey": "4ba8bddafecd319346c3d718b6cb381392e145aaa169f032072857fc2d6bedc7"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
