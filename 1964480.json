@@ -4,8 +4,8 @@
     "name": "Yami RPG Editor",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27501431",
-    "update_time": "2025-02-16 17:13:53",
+    "change_number": "28005432",
+    "update_time": "2025-03-18 10:12:21",
     "depot": {
         "228989": {
             "config": {
@@ -22,6 +22,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "8976442933551213101",
+                    "size": "1770212151",
+                    "download": "595504848"
+                },
+                "js-legacy": {
                     "gid": "1369691805348584487",
                     "size": "1346955004",
                     "download": "476316672"
@@ -35,6 +40,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "4344222468221963768",
+                    "size": "1912392587",
+                    "download": "595189552"
+                },
+                "js-legacy": {
                     "gid": "3140226095485318395",
                     "size": "1880589615",
                     "download": "595322096"
@@ -45,8 +55,13 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
+                "buildid": "17759618",
+                "timeupdated": "1742263936"
+            },
+            "js-legacy": {
                 "buildid": "12559764",
-                "timeupdated": "1698466885"
+                "description": "Legacy Version (JavaScript-based) - 2023.10.27",
+                "timeupdated": "1742036400"
             }
         },
         "privatebranches": "1"
