@@ -4,8 +4,8 @@
     "name": "Deathtrap",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27208148",
-    "update_time": "2025-01-29 05:32:44",
+    "change_number": "27979188",
+    "update_time": "2025-03-16 15:56:09",
     "depot": {
         "workshopdepot": "310510",
         "228990": {
@@ -30,7 +30,7 @@
                     "download": "3028158640"
                 }
             },
-            "decryptionkey": "3588965a77d5a97aec9e785ca8aae9c47d597c072b1c776b759867af2affcbef"
+            "decryptionkey": ""
         },
         "310512": {
             "config": {
@@ -43,7 +43,7 @@
                     "download": "45371568"
                 }
             },
-            "decryptionkey": "049eef765b64011176c2f48407611f6088da4b632ba965135894966ea710f3e4"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
@@ -52,6 +52,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "521aeda9b0e2e5768923df5ee40f0a0c3da0f60c2f5938f00b94a3a2e74f1069"
+        "workshopdepotdecryptionkey": ""
     }
 }
