@@ -4,8 +4,8 @@
     "name": "CLANNAD",
     "schinese_name": "团子大家族",
     "isfreeapp": "0",
-    "change_number": "27104397",
-    "update_time": "2025-01-22 10:26:49",
+    "change_number": "27997813",
+    "update_time": "2025-03-18 00:21:47",
     "depot": {
         "baselanguages": "",
         "228990": {
@@ -146,7 +146,7 @@
                     "download": "154047920"
                 }
             },
-            "decryptionkey": "7569614c34e7f7b946e6d61307a64d92167b333e784f4eaf6cc976a6e3ee698d"
+            "decryptionkey": ""
         },
         "324163": {
             "config": {
@@ -165,7 +165,7 @@
                     "download": "3990814816"
                 }
             },
-            "decryptionkey": "283cd6f1bfc6a44cfab2d56951b826b2f89b2c99091dbeb76f50f1ddbddc9c8c"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
