@@ -4,8 +4,8 @@
     "name": "Prison Notes",
     "schinese_name": "打工人铁窗笔记",
     "isfreeapp": "0",
-    "change_number": "27183641",
-    "update_time": "2025-01-27 21:36:16",
+    "change_number": "27842753",
+    "update_time": "2025-03-08 04:09:31",
     "depot": {
         "baselanguages": "english,schinese",
         "228988": {
@@ -30,7 +30,7 @@
                     "download": "777498240"
                 }
             },
-            "decryptionkey": "a2867c93e2c283ead7041835ba9510d51eaa29238833818d17b73c1eb2418f38"
+            "decryptionkey": ""
         },
         "3152382": {},
         "branches": {
