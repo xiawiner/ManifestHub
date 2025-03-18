@@ -4,8 +4,8 @@
     "name": "SCP: EVENT CLASSIFIED (Dedicated Server)",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27162614",
-    "update_time": "2025-01-25 18:44:05",
+    "change_number": "27737402",
+    "update_time": "2025-03-02 07:39:05",
     "depot": {
         "1004": {
             "config": {
@@ -61,9 +61,9 @@
                     "download": "1230292144"
                 },
                 "testing": {
-                    "gid": "4363021995325716634",
-                    "size": "25794833853",
-                    "download": "8145413328"
+                    "gid": "6744907560329395428",
+                    "size": "25834347773",
+                    "download": "8144071776"
                 }
             },
             "decryptionkey": ""
@@ -74,9 +74,9 @@
                 "timeupdated": "1714346401"
             },
             "testing": {
-                "buildid": "17128717",
+                "buildid": "17561828",
                 "description": "Server Build For Testers",
-                "timeupdated": "1737801841"
+                "timeupdated": "1740872342"
             }
         }
     }
