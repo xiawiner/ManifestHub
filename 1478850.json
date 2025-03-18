@@ -4,8 +4,8 @@
     "name": "Vendir: Plague of Lies",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27348511",
-    "update_time": "2025-02-07 00:26:14",
+    "change_number": "27991788",
+    "update_time": "2025-03-17 18:55:17",
     "depot": {
         "228990": {
             "config": {
@@ -25,7 +25,7 @@
                     "download": "4482189872"
                 }
             },
-            "decryptionkey": "996ea734501c30742789b0168b312fd19fda1cb77b41291f27ad49a5f0274ac5"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
