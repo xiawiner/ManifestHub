@@ -4,8 +4,8 @@
     "name": "Granblue Fantasy: Versus",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26914642",
-    "update_time": "2025-01-09 06:15:14",
+    "change_number": "27841952",
+    "update_time": "2025-03-08 03:07:12",
     "depot": {
         "baselanguages": "english,german,french,spanish,japanese,portuguese,brazilian,latam",
         "228988": {
@@ -34,7 +34,7 @@
                     "download": "9851862384"
                 }
             },
-            "decryptionkey": "b5f78f47f569c27ce004a9fbfdded96e4aa71e27aaa6004283b2fcc5ecdaa615"
+            "decryptionkey": ""
         },
         "1213950": {
             "config": {
