@@ -4,8 +4,8 @@
     "name": "Fish-Click Squad! Demo",
     "schinese_name": "一起来摸鱼 Demo",
     "isfreeapp": "0",
-    "change_number": "27386872",
-    "update_time": "2025-02-09 20:00:19",
+    "change_number": "27996629",
+    "update_time": "2025-03-17 23:12:35",
     "depot": {
         "228989": {
             "config": {
@@ -28,8 +28,7 @@
                     "size": "452765658",
                     "download": "312883344"
                 }
-            },
-            "decryptionkey": "7b17c66dc880a980d46067462f01edf3cee6b85326c121030c5855597f6dd778"
+            }
         },
         "3428592": {},
         "branches": {
