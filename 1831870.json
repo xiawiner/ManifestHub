@@ -4,8 +4,8 @@
     "name": "The Hotel",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27126697",
-    "update_time": "2025-01-23 16:28:16",
+    "change_number": "27912626",
+    "update_time": "2025-03-12 22:09:15",
     "depot": {
         "228989": {
             "config": {
@@ -34,7 +34,7 @@
                     "download": "1952474096"
                 }
             },
-            "decryptionkey": "92f856d6b7ef0ef0647059660bde25121fba4726ae1e763f4b8672d9a1b163e0"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
