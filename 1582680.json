@@ -4,8 +4,8 @@
     "name": "Trolley Problem, Inc.",
     "schinese_name": "《电车难题公司》",
     "isfreeapp": "0",
-    "change_number": "27247284",
-    "update_time": "2025-01-31 12:33:37",
+    "change_number": "27892370",
+    "update_time": "2025-03-11 22:37:14",
     "depot": {
         "228988": {
             "config": {
@@ -34,7 +34,7 @@
                     "download": "470640128"
                 }
             },
-            "decryptionkey": "6777aac904aa3af99ba8147dc462a6ffd184255b8fba3a0ec5a9fc171bf2dd6c"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
