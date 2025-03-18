@@ -4,8 +4,8 @@
     "name": "Labyronia RPG 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27328270",
-    "update_time": "2025-02-05 23:26:09",
+    "change_number": "27931793",
+    "update_time": "2025-03-13 19:21:46",
     "depot": {
         "228982": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "322401936"
                 }
             },
-            "decryptionkey": "338e068a29768db81c65fd21f8e70fa7717fd0df44007b7e39425f5ab1c00634"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
