@@ -1,0 +1,41 @@
+{
+    "appid": "1940990",
+    "type": "Beta",
+    "name": "Ironsight Test Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27925190",
+    "update_time": "2025-03-13 11:33:20",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1940991": {
+            "manifests": {
+                "public": {
+                    "gid": "561014296454126197",
+                    "size": "10865937326",
+                    "download": "10519249168"
+                }
+            },
+            "decryptionkey": "0d447e3b02e8100fe5eddb985db7d7cc4c87d3681c80bfd779775653f595ba7e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17702915",
+                "timeupdated": "1741836793"
+            }
+        }
+    }
+}
