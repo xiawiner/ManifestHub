@@ -4,8 +4,8 @@
     "name": "Save Twiks",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27232041",
-    "update_time": "2025-01-30 17:18:13",
+    "change_number": "27974103",
+    "update_time": "2025-03-16 00:58:30",
     "depot": {
         "228989": {
             "config": {
@@ -33,7 +33,7 @@
                     "download": "4960045120"
                 }
             },
-            "decryptionkey": "22c29be6a5c868efa9322c890362df4b560db31adec2393ee83c2e26fd58923a"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
