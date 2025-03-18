@@ -4,8 +4,8 @@
     "name": "Abnormal1999:Apartment of Death",
     "schinese_name": "异常1999:杀手公寓",
     "isfreeapp": "0",
-    "change_number": "27462118",
-    "update_time": "2025-02-13 23:31:31",
+    "change_number": "27974289",
+    "update_time": "2025-03-16 01:23:29",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "5712897392"
                 }
             },
-            "decryptionkey": "711c5bdd06e581eecde8002d939a70038d5ea8273406bd8c453db3fdc6cd138d"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
