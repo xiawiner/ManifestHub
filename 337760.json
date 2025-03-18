@@ -4,8 +4,8 @@
     "name": "Decisive Campaigns: The Blitzkrieg from Warsaw to Paris",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27301518",
-    "update_time": "2025-02-04 13:31:03",
+    "change_number": "27732805",
+    "update_time": "2025-03-01 20:45:06",
     "depot": {
         "228990": {
             "config": {
@@ -36,7 +36,7 @@
                     "download": "276184720"
                 }
             },
-            "decryptionkey": "d5e736d872e11a20134998be4c7239ccba877f53a58d1c3e8d916712ec73f157"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
