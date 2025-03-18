@@ -4,8 +4,8 @@
     "name": "Tempus Triad Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27504017",
-    "update_time": "2025-02-17 00:15:28",
+    "change_number": "27911647",
+    "update_time": "2025-03-12 21:24:14",
     "depot": {
         "228989": {
             "config": {
@@ -27,17 +27,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1939781571861293228",
-                    "size": "2935482537",
-                    "download": "2751608256"
+                    "gid": "5429651903946093980",
+                    "size": "2945273169",
+                    "download": "2759682992"
                 }
-            },
-            "decryptionkey": "cc946626bd7ce571ce7b6e8935bb984caae7337acebe397dba464ba7f911bf45"
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17374620",
-                "timeupdated": "1739585872"
+                "buildid": "17693185",
+                "timeupdated": "1741785531"
             }
         }
     }
