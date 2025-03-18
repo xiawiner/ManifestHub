@@ -4,8 +4,8 @@
     "name": "FMTC Playtest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27712535",
-    "update_time": "2025-02-28 16:48:27",
+    "change_number": "27973888",
+    "update_time": "2025-03-16 00:30:00",
     "depot": {
         "228988": {
             "config": {
@@ -24,17 +24,17 @@
         "2454931": {
             "manifests": {
                 "public": {
-                    "gid": "6034093402727069984",
-                    "size": "6353169339",
-                    "download": "5823569472"
+                    "gid": "8678777640039543764",
+                    "size": "6211197305",
+                    "download": "5631633408"
                 }
             },
-            "decryptionkey": "166d5df7c7dbb95b73b9664e64c1b4563e2b7fd697ae41665b3f2111666fa50e"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17543220",
-                "timeupdated": "1740729220"
+                "buildid": "17737931",
+                "timeupdated": "1742056195"
             }
         }
     }
