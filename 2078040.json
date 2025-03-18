@@ -4,8 +4,8 @@
     "name": "White Day 2: The Flower That Tells Lies - Complete Edition",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26333929",
-    "update_time": "2024-12-05 01:42:25",
+    "change_number": "27912455",
+    "update_time": "2025-03-12 22:01:07",
     "depot": {
         "228989": {
             "config": {
@@ -31,7 +31,7 @@
                     "download": "6405123888"
                 }
             },
-            "decryptionkey": "5472ba4226b347600963043344b79eeb090dd333fe9a97cdf09c3f310b4e15af"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
