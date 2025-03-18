@@ -4,8 +4,8 @@
     "name": "Hotel: A Resort Simulator",
     "schinese_name": "酒店生涯：模拟度假村",
     "isfreeapp": "0",
-    "change_number": "26908943",
-    "update_time": "2025-01-08 22:15:09",
+    "change_number": "27986183",
+    "update_time": "2025-03-17 09:54:11",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,dutch,arabic,brazilian",
@@ -69,7 +69,7 @@
                     "download": "4738505504"
                 }
             },
-            "decryptionkey": "051626a94b7064d28641e7412ff77276775859f51ef58dd28e5a658974303f56"
+            "decryptionkey": ""
         },
         "1898280": {
             "dlcappid": "1898280",
@@ -85,7 +85,7 @@
                     "download": "96"
                 }
             },
-            "decryptionkey": "fe5fff7726674cad821d6d6b3e82071f49cf50f4c8d724f4bec17994fa5f2b38"
+            "decryptionkey": ""
         },
         "1898281": {
             "dlcappid": "1898281",
@@ -101,7 +101,7 @@
                     "download": "96"
                 }
             },
-            "decryptionkey": "59f4173633a8404e8721fadc5deeba32732fd32c178899b7ad912b077f9df9de"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
