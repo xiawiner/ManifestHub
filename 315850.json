@@ -4,8 +4,8 @@
     "name": "Amazing Princess Sarah",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27278725",
-    "update_time": "2025-02-03 01:31:43",
+    "change_number": "27743019",
+    "update_time": "2025-03-03 00:15:04",
     "depot": {
         "228989": {
             "config": {
@@ -48,7 +48,7 @@
                     "download": "37045328"
                 }
             },
-            "decryptionkey": "f1a1423b8eec38e8faa8b766eda256c7d1a7a2d3af09c650127356b6f06938c8"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
