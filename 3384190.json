@@ -4,8 +4,8 @@
     "name": "TrickShot Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27540828",
-    "update_time": "2025-02-19 03:17:08",
+    "change_number": "27974526",
+    "update_time": "2025-03-16 01:58:35",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "982863008"
                 }
             },
-            "decryptionkey": "97901f88cd379424859440c2461e5c102d52c718ec07bf823788ac9a39f9087d"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
