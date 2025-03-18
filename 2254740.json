@@ -4,8 +4,8 @@
     "name": "Persona 5 Tactica",
     "schinese_name": "女神异闻录５ 战略版",
     "isfreeapp": "0",
-    "change_number": "27430708",
-    "update_time": "2025-02-12 09:31:57",
+    "change_number": "27880018",
+    "update_time": "2025-03-11 06:05:25",
     "depot": {
         "228989": {
             "config": {
@@ -18,18 +18,18 @@
         "2254741": {
             "manifests": {
                 "public": {
-                    "gid": "3971050825038193376",
-                    "size": "17323930576",
-                    "download": "15711082128"
+                    "gid": "3990155621538580453",
+                    "size": "17316583988",
+                    "download": "15709952336"
                 }
             },
-            "decryptionkey": "025ff3d951f39f6737173ca90de98b40c56f8ea0f1d0be4d59d11328d74f409b"
+            "decryptionkey": ""
         },
         "2377460": {
             "dlcappid": "2377460",
             "manifests": {
                 "public": {
-                    "gid": "130831412674319794",
+                    "gid": "8726855442506987686",
                     "size": "120860881",
                     "download": "96956864"
                 }
@@ -40,7 +40,7 @@
             "dlcappid": "2377440",
             "manifests": {
                 "public": {
-                    "gid": "162334339806958884",
+                    "gid": "8974252781239956130",
                     "size": "0",
                     "download": "0"
                 }
@@ -51,7 +51,7 @@
             "dlcappid": "2377441",
             "manifests": {
                 "public": {
-                    "gid": "731361498031938618",
+                    "gid": "8780656385761615497",
                     "size": "0",
                     "download": "0"
                 }
@@ -62,7 +62,7 @@
             "dlcappid": "2377461",
             "manifests": {
                 "public": {
-                    "gid": "276997776105914954",
+                    "gid": "8665887035189640330",
                     "size": "0",
                     "download": "0"
                 }
@@ -73,7 +73,7 @@
             "dlcappid": "2377462",
             "manifests": {
                 "public": {
-                    "gid": "806083284088284061",
+                    "gid": "8693556843502666168",
                     "size": "0",
                     "download": "0"
                 }
@@ -82,8 +82,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "13514593",
-                "timeupdated": "1710388817"
+                "buildid": "17329515",
+                "timeupdated": "1741644320"
             }
         },
         "privatebranches": "1"
