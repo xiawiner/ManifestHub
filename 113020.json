@@ -4,8 +4,8 @@
     "name": "Monaco",
     "schinese_name": "摩纳哥：你的就是我的",
     "isfreeapp": "0",
-    "change_number": "27157080",
-    "update_time": "2025-01-25 06:00:56",
+    "change_number": "27783349",
+    "update_time": "2025-03-05 06:18:05",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -65,7 +65,7 @@
                     "download": "513461712"
                 }
             },
-            "decryptionkey": "2efbe56d783a510f9a8f67178e4f2e0b697aba6b3d3b4d72fbb6e80de6791353"
+            "decryptionkey": ""
         },
         "113023": {
             "config": {
@@ -108,7 +108,7 @@
                     "download": "206736128"
                 }
             },
-            "decryptionkey": "ac960a3da367fd055b66581b7d987555f264a7dbaab7248e3292f219f0674b4e"
+            "decryptionkey": ""
         },
         "234451": {
             "config": {
@@ -151,7 +151,7 @@
                     "download": "207888272"
                 }
             },
-            "decryptionkey": "7d699fca524ff3192afa1fda02e03f40074e8da1c8f5642fdbc89b123b082c3f"
+            "decryptionkey": ""
         },
         "hasdepotsindlc": "1",
         "branches": {
