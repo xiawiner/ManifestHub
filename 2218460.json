@@ -4,8 +4,8 @@
     "name": "Bunny Guys!",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27320414",
-    "update_time": "2025-02-05 14:17:24",
+    "change_number": "27798097",
+    "update_time": "2025-03-06 00:08:04",
     "depot": {
         "228989": {
             "config": {
@@ -47,7 +47,7 @@
                     "download": "4863488720"
                 }
             },
-            "decryptionkey": "e258c354702f80c65e8b811048d48e5104459cba863529b797b143531f1694d8"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
