@@ -4,8 +4,8 @@
     "name": "The Citadel Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "24981165",
-    "update_time": "2024-09-02 07:28:51",
+    "change_number": "27979316",
+    "update_time": "2025-03-16 16:28:16",
     "depot": {
         "228988": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "744119003",
                     "download": "633132832"
                 }
-            },
-            "decryptionkey": "37866d17e3c9bb57a10929f513628c0274c40541d7c5ef14b3e2df9059085343"
+            }
         },
         "branches": {
             "public": {
