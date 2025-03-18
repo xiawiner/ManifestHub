@@ -4,8 +4,8 @@
     "name": "NekoMiko",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26365924",
-    "update_time": "2024-12-05 04:10:49",
+    "change_number": "27884944",
+    "update_time": "2025-03-11 14:01:19",
     "depot": {
         "228990": {
             "config": {
@@ -22,7 +22,7 @@
                     "download": "808506672"
                 }
             },
-            "decryptionkey": "cce1b0c0934c8c6727d8aee3871b6acd1fed9c098808f7b84173853bd90ad2ed"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
