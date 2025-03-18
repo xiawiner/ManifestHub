@@ -4,8 +4,8 @@
     "name": "Sparkle 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "24451154",
-    "update_time": "2024-07-21 23:18:43",
+    "change_number": "27878677",
+    "update_time": "2025-03-11 04:20:13",
     "depot": {
         "228990": {
             "config": {
@@ -30,7 +30,7 @@
                     "download": "80084624"
                 }
             },
-            "decryptionkey": "f846f79f7a101def47ad435ee812d0b1cb13b284a187c8172a289a4c8885a6c1"
+            "decryptionkey": ""
         },
         "370552": {
             "config": {
