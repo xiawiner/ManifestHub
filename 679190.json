@@ -4,8 +4,8 @@
     "name": "The Hunting God",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26163280",
-    "update_time": "2024-11-13 03:39:48",
+    "change_number": "27987192",
+    "update_time": "2025-03-17 11:54:43",
     "depot": {
         "228986": {
             "config": {
@@ -50,7 +50,7 @@
                     "download": "2649204496"
                 }
             },
-            "decryptionkey": "211bb92c8bf0f0d22954beb092e6f6fcbf287f5999fe4bc06b2e15d345d899f0"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
