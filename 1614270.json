@@ -4,8 +4,8 @@
     "name": "Submerged: Hidden Depths",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25603860",
-    "update_time": "2024-10-09 03:55:35",
+    "change_number": "27976583",
+    "update_time": "2025-03-16 07:21:00",
     "depot": {
         "228988": {
             "config": {
@@ -36,7 +36,7 @@
                     "download": "5322624064"
                 }
             },
-            "decryptionkey": "f4002d2dcfe3ea94b994170a28f08b8d5a9a660d54be5fb65cd797f73f13dbe6"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,turkish,brazilian",
         "branches": {
