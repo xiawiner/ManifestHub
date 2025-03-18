@@ -4,8 +4,8 @@
     "name": "Bakery",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25681407",
-    "update_time": "2024-10-12 13:35:33",
+    "change_number": "27945476",
+    "update_time": "2025-03-14 07:57:13",
     "depot": {
         "228990": {
             "config": {
@@ -25,7 +25,7 @@
                     "download": "306121040"
                 }
             },
-            "decryptionkey": "2e51001f6fdd8815b9c755846a62917b78ba5fe941df3497da609ded5494e9ed"
+            "decryptionkey": ""
         },
         "baselanguages": "english,schinese,tchinese",
         "branches": {
