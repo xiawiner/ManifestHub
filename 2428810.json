@@ -4,8 +4,8 @@
     "name": "LEGO® Horizon Adventures™",
     "schinese_name": "LEGO® 地平线大冒险",
     "isfreeapp": "0",
-    "change_number": "27452557",
-    "update_time": "2025-02-13 12:42:43",
+    "change_number": "27981608",
+    "update_time": "2025-03-16 22:55:03",
     "depot": {
         "228989": {
             "config": {
@@ -33,7 +33,7 @@
                     "download": "14199349840"
                 }
             },
-            "decryptionkey": "b736dc935b4daf6a78b341a34ecc87e55683c086b7ba22247ebb72fe5194c818"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
