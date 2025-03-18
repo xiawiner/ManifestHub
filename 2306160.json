@@ -4,8 +4,8 @@
     "name": "MULTIPLAYER KNIGHTS",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26844393",
-    "update_time": "2025-01-03 05:17:02",
+    "change_number": "27863404",
+    "update_time": "2025-03-10 08:52:30",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "2960121296"
                 }
             },
-            "decryptionkey": "cc93c3173cdf0bf30d061cb7e48d9f59806a635cb934090e9304daf62dee9624"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
