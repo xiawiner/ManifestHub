@@ -4,8 +4,8 @@
     "name": "AmazeVR Concerts",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25431501",
-    "update_time": "2024-09-29 12:14:45",
+    "change_number": "27858516",
+    "update_time": "2025-03-09 20:08:57",
     "depot": {
         "228988": {
             "config": {
@@ -43,7 +43,7 @@
                     "download": "4763792128"
                 }
             },
-            "decryptionkey": "7783e42b3ccf94af92391706091b780141fe653626fdba0d40e1f1f5b70d6701"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
