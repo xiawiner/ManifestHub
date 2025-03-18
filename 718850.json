@@ -4,8 +4,8 @@
     "name": "Age of Wonders: Planetfall",
     "schinese_name": "奇迹时代：星陨",
     "isfreeapp": "0",
-    "change_number": "27000963",
-    "update_time": "2025-01-15 12:15:39",
+    "change_number": "27772756",
+    "update_time": "2025-03-04 19:15:40",
     "depot": {
         "workshopdepot": "718850",
         "hasdepotsindlc": "0",
@@ -46,7 +46,7 @@
                     "download": "5603395408"
                 }
             },
-            "decryptionkey": "48d3b5051ff73606a0107674a2d6fcd525ad3e44d69e4637509caed867da3744"
+            "decryptionkey": ""
         },
         "718852": {
             "config": {
@@ -66,7 +66,7 @@
                     "download": "130049184"
                 }
             },
-            "decryptionkey": "895045437b9ebea2253b247999eeb6063bd46678f648eede294d01bb8c15b155"
+            "decryptionkey": ""
         },
         "1078851": {
             "dlcappid": "1078851",
@@ -85,7 +85,7 @@
                     "download": "356447760"
                 }
             },
-            "decryptionkey": "48a656e3869ae66d8388829a89e693a224bf6d2ce483c20b17014f892bb681cc"
+            "decryptionkey": ""
         },
         "1078850": {
             "dlcappid": "1078850",
@@ -104,7 +104,7 @@
                     "download": "29624880"
                 }
             },
-            "decryptionkey": "15244222ea2fbf7523e7a4a06b990670db4d3da07bee1e9af0c32bf3f6898901"
+            "decryptionkey": ""
         },
         "1078852": {
             "dlcappid": "1078852",
@@ -123,7 +123,7 @@
                     "download": "151309056"
                 }
             },
-            "decryptionkey": "1ce5bbbe91fb176a57345a9ee9d0b3eb3970ea8843246dd92b2a7863271d1e40"
+            "decryptionkey": ""
         },
         "1078810": {
             "config": {
@@ -142,7 +142,7 @@
                     "download": "231408"
                 }
             },
-            "decryptionkey": "e40c43eada4a6a2fbc1a3bc80c6ac869c2d887461f695c05090b248e2c92b1d7"
+            "decryptionkey": ""
         },
         "1078840": {
             "config": {
@@ -161,7 +161,7 @@
                     "download": "231792"
                 }
             },
-            "decryptionkey": "be5faedca302407b277c7a18fd9068c911456ded6421312336ab6b6bae7dac7d"
+            "decryptionkey": ""
         },
         "1137800": {
             "config": {
@@ -180,7 +180,7 @@
                     "download": "161328"
                 }
             },
-            "decryptionkey": "9ca531bddafc06ccd875e511cac65b2abef86654f64d4a391d5edd8d8f233e02"
+            "decryptionkey": ""
         },
         "1137801": {
             "dlcappid": "1137801",
@@ -199,7 +199,7 @@
                     "download": "102416"
                 }
             },
-            "decryptionkey": "e5b1081ba01ac8d9406df20eca443c294c64a0a67f804bf529735aa45c881719"
+            "decryptionkey": ""
         },
         "718853": {
             "config": {
@@ -219,7 +219,7 @@
                     "download": "233340128"
                 }
             },
-            "decryptionkey": "6273e86b8ed181b3c1b4a141be20f3c9a5d8389da022e368987e28a3ed0b7bec"
+            "decryptionkey": ""
         },
         "1137802": {
             "dlcappid": "1137802",
@@ -238,7 +238,7 @@
                     "download": "157072"
                 }
             },
-            "decryptionkey": "2d481b4de7a06ea30a9f020bb2fa49ec2b7fb7d41b367341b074fa7c2008c5ea"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
@@ -252,6 +252,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "864c10a5f85dcfdac3815007aca128c1aded10fb3c0d187882142d79abe4d5d2"
+        "workshopdepotdecryptionkey": ""
     }
 }
