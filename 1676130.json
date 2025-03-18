@@ -4,8 +4,8 @@
     "name": "Deadlink",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27078122",
-    "update_time": "2025-01-20 23:31:19",
+    "change_number": "27987199",
+    "update_time": "2025-03-17 11:55:18",
     "depot": {
         "228988": {
             "config": {
@@ -33,7 +33,7 @@
                     "download": "2829333616"
                 }
             },
-            "decryptionkey": "6492f8579a35f124675e856a40676b1b9300caf4c19a63906aa10a52df244a69"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
