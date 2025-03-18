@@ -4,8 +4,8 @@
     "name": "IN HEAT: Lustful Nights Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27521856",
-    "update_time": "2025-02-18 03:19:55",
+    "change_number": "27978169",
+    "update_time": "2025-03-16 12:10:26",
     "depot": {
         "228990": {
             "config": {
@@ -20,12 +20,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8921398098905752890",
-                    "size": "1822882919",
-                    "download": "1355365280"
+                    "gid": "1612704855546576771",
+                    "size": "1261153285",
+                    "download": "920436816"
                 }
-            },
-            "decryptionkey": "361b922fef650352b85e7c886548a60ca182c4eb549a5b2ca3a6be1736c40673"
+            }
         },
         "2000663": {
             "config": {
@@ -33,12 +32,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6618769756671546981",
-                    "size": "1971458278",
-                    "download": "1415980928"
+                    "gid": "1615992698814038472",
+                    "size": "1375509134",
+                    "download": "949413904"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2000664": {
             "config": {
@@ -46,17 +44,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6009960292915172778",
-                    "size": "1569560268",
-                    "download": "1073221312"
+                    "gid": "6898002295742474388",
+                    "size": "1259399215",
+                    "download": "858781472"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17470217",
-                "timeupdated": "1740268731"
+                "buildid": "17740830",
+                "timeupdated": "1742098222"
             }
         },
         "privatebranches": "1"
