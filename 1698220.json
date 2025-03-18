@@ -4,8 +4,8 @@
     "name": "Teslagrad 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27515522",
-    "update_time": "2025-02-17 20:44:28",
+    "change_number": "27849741",
+    "update_time": "2025-03-08 18:08:33",
     "depot": {
         "1698221": {
             "config": {
@@ -32,6 +32,12 @@
                 }
             },
             "decryptionkey": ""
+        },
+        "1698222": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {}
         },
         "branches": {
             "public": {
