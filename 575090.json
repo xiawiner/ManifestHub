@@ -4,8 +4,8 @@
     "name": "Flame of Memory",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26642990",
-    "update_time": "2024-12-14 21:39:57",
+    "change_number": "27912614",
+    "update_time": "2025-03-12 22:08:35",
     "depot": {
         "228990": {
             "config": {
@@ -25,7 +25,7 @@
                     "download": "68304976"
                 }
             },
-            "decryptionkey": "61620851e4117188115bbaece694527494d2d578634b7101557e480629b79017"
+            "decryptionkey": ""
         },
         "575093": {
             "config": {
@@ -38,7 +38,7 @@
                     "download": "112709472"
                 }
             },
-            "decryptionkey": "a23567e216c3f7bd0003c3cdc59a2d184582d8d2f3ef489a36086cd09ba2851d"
+            "decryptionkey": ""
         },
         "575092": {
             "config": {
@@ -51,7 +51,7 @@
                     "download": "77884096"
                 }
             },
-            "decryptionkey": "1da7d5dd359d597ad59bbdb906dc748cb4eae2d885e1320c033d878d64d2e037"
+            "decryptionkey": ""
         },
         "hasdepotsindlc": "0",
         "branches": {
