@@ -4,8 +4,8 @@
     "name": "YOU DON'T KNOW JACK MOVIES",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25244545",
-    "update_time": "2024-09-16 21:39:11",
+    "change_number": "28011540",
+    "update_time": "2025-03-18 18:55:09",
     "depot": {
         "228990": {
             "config": {
@@ -27,7 +27,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "34dbc0bda179150c6a5967ee735f4666b4a40c1beb3360d9485ed9275a0adf0c"
+            "decryptionkey": ""
         },
         "markdlcdepots": "1",
         "branches": {
