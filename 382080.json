@@ -4,8 +4,8 @@
     "name": "Action Alien",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25992652",
-    "update_time": "2024-11-01 00:10:01",
+    "change_number": "28001885",
+    "update_time": "2025-03-18 04:55:12",
     "depot": {
         "228983": {
             "config": {
@@ -39,7 +39,7 @@
                     "download": "927619104"
                 }
             },
-            "decryptionkey": "961b7ff1c63e2501256885032615ced0b951d694253ad4307a5b196f88a01cea"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
