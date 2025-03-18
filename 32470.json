@@ -4,8 +4,8 @@
     "name": "STAR WARS™ Empire at War: Gold Pack",
     "schinese_name": "星球大战：帝国战争黄金版",
     "isfreeapp": "0",
-    "change_number": "27169246",
-    "update_time": "2025-01-26 13:20:04",
+    "change_number": "27899412",
+    "update_time": "2025-03-12 05:36:46",
     "depot": {
         "228983": {
             "config": {
@@ -36,7 +36,7 @@
                 }
             },
             "dlcappid": "32472",
-            "decryptionkey": "ea41a8abf8d40527e10d13cfaba20c15c74906a9516d9448032f1ac57a723669"
+            "decryptionkey": ""
         },
         "32471": {
             "systemdefined": "1",
@@ -52,7 +52,7 @@
                     "download": "1951769952"
                 }
             },
-            "decryptionkey": "b0d95d7b0137898764bec9b667898e7c03b73112ac3a88b16807f8487f60a577"
+            "decryptionkey": ""
         },
         "32473": {
             "config": {
@@ -70,7 +70,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "bbb571e25d9c5eafb127dc6794899e7c1d045ea1460f900228163aa52a4019f1"
+            "decryptionkey": ""
         },
         "32474": {
             "config": {
@@ -88,7 +88,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "52e43c909adfff92d3eaf917fdb531b903b50e1d62acfbda26e3cba9bded9220"
+            "decryptionkey": ""
         },
         "32475": {
             "config": {
@@ -106,7 +106,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "b7a63a2490f467d120c11c999fe6a1f790a85aee9bb888429cd17148d2b691c7"
+            "decryptionkey": ""
         },
         "32476": {
             "config": {
@@ -124,7 +124,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "6a803dcbc434aec3018ac370408cd51b3d418d7b1ba15fb2f1f6d99942012927"
+            "decryptionkey": ""
         },
         "overridescddb": "1",
         "workshopdepot": "32470",
@@ -140,6 +140,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "319d364e1954ba9405bf5d9bf0fb08de085422c9ba81ba2d157e6f8dd4fc1571"
+        "workshopdepotdecryptionkey": ""
     }
 }
