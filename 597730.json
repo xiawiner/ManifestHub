@@ -4,8 +4,8 @@
     "name": "Dark Grim Mariupolis",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27317486",
-    "update_time": "2025-02-05 09:15:07",
+    "change_number": "27857566",
+    "update_time": "2025-03-09 17:07:28",
     "depot": {
         "228990": {
             "config": {
@@ -26,7 +26,7 @@
                     "download": "21596240"
                 }
             },
-            "decryptionkey": "eafcfcc0f7229768cf9003d34545f7296f16ff1239f2c7b68066027a4dcb8569"
+            "decryptionkey": ""
         },
         "828920": {
             "manifests": {
@@ -37,7 +37,7 @@
                 }
             },
             "dlcappid": "828920",
-            "decryptionkey": "b1229bb47d35d118498a0d4bb75d9facb956bb1b2df31b355523bb2a61e60c7d"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
