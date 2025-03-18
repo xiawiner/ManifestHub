@@ -4,8 +4,8 @@
     "name": "FINAL FANTASY IV",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27302930",
-    "update_time": "2025-02-04 16:01:24",
+    "change_number": "27791211",
+    "update_time": "2025-03-05 17:05:18",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,arabic,brazilian,vietnamese",
         "228988": {
@@ -32,12 +32,12 @@
         "1173801": {
             "manifests": {
                 "public": {
-                    "gid": "5369892094170382656",
-                    "size": "520694137",
-                    "download": "420974528"
+                    "gid": "4405259246497444568",
+                    "size": "521701661",
+                    "download": "421390272"
                 }
             },
-            "decryptionkey": "81eeba512901afad70a794fda96e542241c5baf0127035bbe2b0cd961cc3effe"
+            "decryptionkey": ""
         },
         "1638380": {
             "dlcappid": "1638380",
@@ -48,12 +48,12 @@
                     "download": "42513184"
                 }
             },
-            "decryptionkey": "fda1ebeaed0a78c3763208ab93f284009638971d4b66c335df4896b6a91a26e2"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "13471364",
-                "timeupdated": "1708941487"
+                "buildid": "17234765",
+                "timeupdated": "1741164967"
             }
         },
         "privatebranches": "1"
