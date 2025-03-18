@@ -4,8 +4,8 @@
     "name": "Forest Of Relics",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26641136",
-    "update_time": "2024-12-14 16:06:36",
+    "change_number": "27945954",
+    "update_time": "2025-03-14 08:35:49",
     "depot": {
         "228989": {
             "config": {
@@ -33,7 +33,7 @@
                     "download": "3548304992"
                 }
             },
-            "decryptionkey": "3a8c9c9e7f711cd53dd5efeb2d9b1ccdd65505cbf6883548e549fc8c4ad070c3"
+            "decryptionkey": ""
         },
         "baselanguages": "english,koreana,japanese",
         "branches": {
