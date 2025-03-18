@@ -4,8 +4,8 @@
     "name": "Divinity: Dragon Commander Beta",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26461881",
-    "update_time": "2024-12-05 10:15:25",
+    "change_number": "27825469",
+    "update_time": "2025-03-07 08:22:05",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -47,7 +47,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "707c4a837fd32a1fbb400327e90a16760bb5d2f233420e3953bc46f6a03866aa"
+            "decryptionkey": ""
         },
         "230172": {
             "config": {
