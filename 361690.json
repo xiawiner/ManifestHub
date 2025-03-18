@@ -4,8 +4,8 @@
     "name": "STAR WARS™ X-Wing vs TIE Fighter: Balance of Power Campaigns™",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26740353",
-    "update_time": "2024-12-21 05:58:14",
+    "change_number": "27920602",
+    "update_time": "2025-03-13 06:03:04",
     "depot": {
         "228990": {
             "config": {
@@ -25,7 +25,7 @@
                     "download": "251002128"
                 }
             },
-            "decryptionkey": "3b2cf29dcdb3418b85c383877d933c8946d6617a53323725e9bbf5fe16b840e3"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
