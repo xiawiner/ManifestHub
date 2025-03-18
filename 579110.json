@@ -4,8 +4,8 @@
     "name": "Interkosmos",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26860284",
-    "update_time": "2025-01-04 18:12:52",
+    "change_number": "27918015",
+    "update_time": "2025-03-13 03:10:20",
     "depot": {
         "228986": {
             "config": {
@@ -40,7 +40,7 @@
                     "download": "699946576"
                 }
             },
-            "decryptionkey": "5e46d74980e013abb9ea1bd2796982eefd58d826efbd9225280ecd23dbd90ba7"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
