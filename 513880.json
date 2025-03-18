@@ -4,8 +4,8 @@
     "name": "Panzer Warfare",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27083297",
-    "update_time": "2025-01-21 05:55:48",
+    "change_number": "27848521",
+    "update_time": "2025-03-08 15:07:35",
     "depot": {
         "228984": {
             "config": {
@@ -48,7 +48,7 @@
                     "download": "53969936"
                 }
             },
-            "decryptionkey": "13b388029d5bfe323c871c5ef2625e95fc9969568b2030daa2e21ecf14b61f2a"
+            "decryptionkey": ""
         },
         "513882": {
             "config": {
@@ -61,7 +61,7 @@
                     "download": "79065008"
                 }
             },
-            "decryptionkey": "c2c4111affc4f96c03f2ee8ef8ee4ea049ff05b5efd0660c0a5fd3eced519de7"
+            "decryptionkey": ""
         },
         "513883": {
             "config": {
@@ -74,7 +74,7 @@
                     "download": "69397120"
                 }
             },
-            "decryptionkey": "2334ccd5d78dfa8fabb50ffce63d3ab356b2f910fae927982266e9609aa22df5"
+            "decryptionkey": ""
         },
         "513884": {
             "config": {
@@ -88,7 +88,7 @@
                     "download": "56809328"
                 }
             },
-            "decryptionkey": "7315287685062494193c1ed3a586078f6a6c56829ff527de6101df0cd794fbd2"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
