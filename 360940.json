@@ -4,8 +4,8 @@
     "name": "The Mean Greens - Plastic Warfare",
     "schinese_name": "绿色兵团：塑料战争",
     "isfreeapp": "0",
-    "change_number": "27111598",
-    "update_time": "2025-01-22 20:26:33",
+    "change_number": "27997813",
+    "update_time": "2025-03-18 00:21:48",
     "depot": {
         "228984": {
             "config": {
@@ -47,7 +47,7 @@
                     "download": "5665859792"
                 }
             },
-            "decryptionkey": "7821a8577b025e172b8eddf8a76409947dd1d1db776988e73419e6624df201c0"
+            "decryptionkey": ""
         },
         "360943": {
             "config": {
@@ -60,7 +60,7 @@
                     "download": "5529349056"
                 }
             },
-            "decryptionkey": "84170fb2290b11ff2c17bfce0be98d2ea3426a6a2ea065689d25b4ec533b7ad3"
+            "decryptionkey": ""
         },
         "360944": {
             "config": {
@@ -73,7 +73,7 @@
                     "download": "4870731456"
                 }
             },
-            "decryptionkey": "1c5ad7f5d525092f88eb5a3e4a3997ecf7dcea10a775104a74940a3f6e1bbc13"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
