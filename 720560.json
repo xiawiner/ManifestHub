@@ -4,8 +4,8 @@
     "name": "Vigil: The Longest Night",
     "schinese_name": "守夜人：长夜",
     "isfreeapp": "0",
-    "change_number": "27530473",
-    "update_time": "2025-02-18 16:43:58",
+    "change_number": "27948060",
+    "update_time": "2025-03-14 11:20:38",
     "depot": {
         "baselanguages": "english,schinese,tchinese",
         "hasdepotsindlc": "1",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3601014586353750828",
-                    "size": "3175098163",
-                    "download": "2567586704"
+                    "gid": "1775345746963609535",
+                    "size": "3175099117",
+                    "download": "2567499056"
                 },
                 "controllertest": {
                     "gid": "4994090781627459972",
@@ -110,9 +110,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8907450089740043118",
-                    "size": "0",
-                    "download": "0"
+                    "gid": "7407045408532649660",
+                    "size": "4623544022",
+                    "download": "2765416384"
                 },
                 "lastversion": {
                     "gid": "156741920058084521",
@@ -124,8 +124,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17170677",
-                "timeupdated": "1738243700"
+                "buildid": "17404232",
+                "timeupdated": "1741658897"
             },
             "controllertest": {
                 "buildid": "7242083",
