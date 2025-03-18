@@ -4,8 +4,8 @@
     "name": "Gurumin: A Monstrous Adventure",
     "schinese_name": "咕噜小天使：怪物历险记",
     "isfreeapp": "0",
-    "change_number": "27109910",
-    "update_time": "2025-01-22 18:26:10",
+    "change_number": "27819199",
+    "update_time": "2025-03-07 01:01:18",
     "depot": {
         "228990": {
             "config": {
@@ -22,7 +22,7 @@
                     "download": "892231424"
                 }
             },
-            "decryptionkey": "43b1c0d3d24d21f3747d85aab8b97e7659495b00cbee44cc7c3e84ac68d8268a"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
