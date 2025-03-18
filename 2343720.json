@@ -4,8 +4,8 @@
     "name": "Spooky Shelter",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27376453",
-    "update_time": "2025-02-08 16:17:29",
+    "change_number": "27971783",
+    "update_time": "2025-03-15 19:25:43",
     "depot": {
         "hasdepotsindlc": "1",
         "228989": {
@@ -35,7 +35,7 @@
                     "download": "2985709392"
                 }
             },
-            "decryptionkey": "6e918579c93dc494146a53159b4f8f381eef2d8679644933a59477ec37c799c4"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
