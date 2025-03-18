@@ -4,8 +4,8 @@
     "name": "Nova-Life_GameServer",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27541373",
-    "update_time": "2025-02-19 03:51:58",
+    "change_number": "27861570",
+    "update_time": "2025-03-10 04:14:51",
     "depot": {
         "1004": {
             "config": {
@@ -19,7 +19,7 @@
                 }
             },
             "depotfromapp": "1007",
-            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+            "decryptionkey": ""
         },
         "1005": {
             "config": {
@@ -33,7 +33,7 @@
                 }
             },
             "depotfromapp": "1007",
-            "decryptionkey": "ffa980484d510ce8d7bfcdfde8545a438acc894accb6750711fdb75c0ee92ad9"
+            "decryptionkey": ""
         },
         "1006": {
             "config": {
@@ -47,7 +47,7 @@
                 }
             },
             "depotfromapp": "1007",
-            "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
+            "decryptionkey": ""
         },
         "1665031": {
             "config": {
@@ -55,9 +55,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "612093656008599793",
-                    "size": "8756749550",
-                    "download": "2955554336"
+                    "gid": "1965833584641808636",
+                    "size": "9090958486",
+                    "download": "3105106224"
                 },
                 "test-update": {
                     "gid": "5080067753680448940",
@@ -69,8 +69,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17424879",
-                "timeupdated": "1739980611"
+                "buildid": "17653058",
+                "timeupdated": "1741551285"
             },
             "test-update": {
                 "buildid": "11201842",
