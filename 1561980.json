@@ -4,8 +4,8 @@
     "name": "PaintBall War 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27390573",
-    "update_time": "2025-02-10 04:26:27",
+    "change_number": "27815939",
+    "update_time": "2025-03-06 22:08:36",
     "depot": {
         "228988": {
             "config": {
@@ -47,7 +47,7 @@
                     "download": "3889948496"
                 }
             },
-            "decryptionkey": "6172c726de9dc6d11d805ccd6766471996561d3931270163243e01d7f3b9d544"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
