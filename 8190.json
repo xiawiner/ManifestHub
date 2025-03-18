@@ -4,8 +4,8 @@
     "name": "Just Cause 2",
     "schinese_name": "正当防卫2",
     "isfreeapp": "0",
-    "change_number": "26945106",
-    "update_time": "2025-01-11 00:54:30",
+    "change_number": "27850781",
+    "update_time": "2025-03-08 21:01:25",
     "depot": {
         "228981": {
             "config": {
@@ -42,7 +42,7 @@
                 }
             },
             "dlcappid": "35103",
-            "decryptionkey": "c0b11848f18f441348c49ecd3764804b70e018b3212f6ae0a5bae9ebbffc83bb"
+            "decryptionkey": ""
         },
         "35102": {
             "optional": "1",
@@ -55,7 +55,7 @@
                 }
             },
             "dlcappid": "35102",
-            "decryptionkey": "a0d77da3123f04996d9724b0c01926e1f93be749cb2cbdafd30f5ba18539a696"
+            "decryptionkey": ""
         },
         "35101": {
             "optional": "1",
@@ -68,7 +68,7 @@
                 }
             },
             "dlcappid": "35101",
-            "decryptionkey": "635cb78da22a6de46f57350d256691e6f6393dec6c363acd2bdef34f75c411d5"
+            "decryptionkey": ""
         },
         "35100": {
             "optional": "1",
@@ -81,7 +81,7 @@
                 }
             },
             "dlcappid": "35100",
-            "decryptionkey": "a5f25b4137f4add89eac06c668675321e334e0d23222d49b79b9a7dcc68e5373"
+            "decryptionkey": ""
         },
         "35099": {
             "optional": "1",
@@ -94,7 +94,7 @@
                 }
             },
             "dlcappid": "35099",
-            "decryptionkey": "c0988fa0a88f6a2a0e09037f83662494d3f1478dc66328d049ab33d2eb512d4d"
+            "decryptionkey": ""
         },
         "35098": {
             "optional": "1",
@@ -107,7 +107,7 @@
                 }
             },
             "dlcappid": "35098",
-            "decryptionkey": "dd2bec9e6e4f00ffdb46d3a008f55c1f356c17a2afb0cebeb1c0e16d34d8c8cc"
+            "decryptionkey": ""
         },
         "35097": {
             "optional": "1",
@@ -120,7 +120,7 @@
                 }
             },
             "dlcappid": "35097",
-            "decryptionkey": "d21687154de439a8c36a9bdcb8eb2397ee30e4b5f51dc94598f08cc0f23d94f4"
+            "decryptionkey": ""
         },
         "35096": {
             "optional": "1",
@@ -133,7 +133,7 @@
                 }
             },
             "dlcappid": "35096",
-            "decryptionkey": "de5009d6ecd33c86dbee1827004a760f0153045a515b809c5f554f16ed374f6e"
+            "decryptionkey": ""
         },
         "35095": {
             "optional": "1",
@@ -146,7 +146,7 @@
                 }
             },
             "dlcappid": "35095",
-            "decryptionkey": "05999201770ffdb5adf16c9312b66ad31c0e4a2514e0bf8c9d07384fce27d554"
+            "decryptionkey": ""
         },
         "35094": {
             "optional": "1",
@@ -159,7 +159,7 @@
                 }
             },
             "dlcappid": "35094",
-            "decryptionkey": "53fd40ab5b6d662b604ffb84775b64af4230feb9915b6423313ddab4673fb379"
+            "decryptionkey": ""
         },
         "35093": {
             "optional": "1",
@@ -172,7 +172,7 @@
                 }
             },
             "dlcappid": "35093",
-            "decryptionkey": "61c78b06aabdf84dc4c737833d25413d1f607b8fa25aca9437b99821e282f012"
+            "decryptionkey": ""
         },
         "35092": {
             "optional": "1",
@@ -185,7 +185,7 @@
                 }
             },
             "dlcappid": "35092",
-            "decryptionkey": "64e0f629a1bf1d98636b43b184487f8bed8e5cf095e089c94c54bbb67dc7995d"
+            "decryptionkey": ""
         },
         "35091": {
             "optional": "1",
@@ -198,7 +198,7 @@
                 }
             },
             "dlcappid": "35091",
-            "decryptionkey": "a24ca3bd73b0cef5b408ca837a93b0bb1edf02e17c27a623a93a032020c9a429"
+            "decryptionkey": ""
         },
         "35090": {
             "optional": "1",
@@ -211,7 +211,7 @@
                 }
             },
             "dlcappid": "35090",
-            "decryptionkey": "8d9a539c9e53424c8322948b61596fcf15c27810e89262839b09361cae757f09"
+            "decryptionkey": ""
         },
         "35089": {
             "optional": "1",
@@ -224,7 +224,7 @@
                 }
             },
             "dlcappid": "35089",
-            "decryptionkey": "dcead30cf50bdaf3a2a5e223980dcc2ca58c96c10ff6fc26576888998b3c1d1d"
+            "decryptionkey": ""
         },
         "35088": {
             "optional": "1",
@@ -237,7 +237,7 @@
                 }
             },
             "dlcappid": "35088",
-            "decryptionkey": "8c9e528db1ef2f1029ba3d57fae3bd24099cfa85a9e1a94a06211e0377c326b6"
+            "decryptionkey": ""
         },
         "35087": {
             "optional": "1",
@@ -250,7 +250,7 @@
                 }
             },
             "dlcappid": "35087",
-            "decryptionkey": "71fef3ad51331217cba602108dcf4707dbd30aff06155046ff3b2043080026eb"
+            "decryptionkey": ""
         },
         "35086": {
             "optional": "1",
@@ -263,7 +263,7 @@
                 }
             },
             "dlcappid": "35086",
-            "decryptionkey": "8c51070017226c6b1d2f23919907ad8e8968fb12eef964edec5aeea9e7eb89f1"
+            "decryptionkey": ""
         },
         "35085": {
             "optional": "1",
@@ -276,7 +276,7 @@
                 }
             },
             "dlcappid": "35085",
-            "decryptionkey": "2943904254d37f1f408182f06e54242d98377e7a718d0962c8218f2176a2994f"
+            "decryptionkey": ""
         },
         "35084": {
             "optional": "1",
@@ -289,7 +289,7 @@
                 }
             },
             "dlcappid": "35084",
-            "decryptionkey": "cede5e02e50f6bf459e568b6f06715f885afec21f91b96372437de1c17d93d6d"
+            "decryptionkey": ""
         },
         "35083": {
             "optional": "1",
@@ -302,7 +302,7 @@
                 }
             },
             "dlcappid": "35083",
-            "decryptionkey": "4d16b3584224c2a428315316fd261185db22081eae7255c4131ebd9c51da146a"
+            "decryptionkey": ""
         },
         "35082": {
             "optional": "1",
@@ -315,7 +315,7 @@
                 }
             },
             "dlcappid": "35082",
-            "decryptionkey": "00b1e05653c1d3e292088e39d0cd666c5e08096e37684230105702ae90bc9079"
+            "decryptionkey": ""
         },
         "35081": {
             "optional": "1",
@@ -328,7 +328,7 @@
                 }
             },
             "dlcappid": "35081",
-            "decryptionkey": "c5b22bb45f4419da776c63b99fb71b38756b08e7c65d01804ba71f231be01beb"
+            "decryptionkey": ""
         },
         "35080": {
             "optional": "1",
@@ -341,7 +341,7 @@
                 }
             },
             "dlcappid": "35080",
-            "decryptionkey": "2db5c4ed264cf64da1513516b7354ebb14072e2baa9d601db20aa68fabd784b2"
+            "decryptionkey": ""
         },
         "8191": {
             "systemdefined": "1",
@@ -352,7 +352,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "39f7ed47874422226e5b68b9f58beaafaefc42e5daebdf5151095954230ef13e"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
