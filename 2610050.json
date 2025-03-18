@@ -4,8 +4,8 @@
     "name": "Little Chefs: CO-OP",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "24451167",
-    "update_time": "2024-07-21 23:20:31",
+    "change_number": "27970286",
+    "update_time": "2025-03-15 15:23:25",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "255742240"
                 }
             },
-            "decryptionkey": "1663c6b6576086bf728a9329e54c2c932d692c0530ebb3edd02b72e20190c25b"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
