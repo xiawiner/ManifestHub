@@ -4,8 +4,8 @@
     "name": "WE ARE FOOTBALL 2024",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27460709",
-    "update_time": "2025-02-13 22:10:04",
+    "change_number": "27943228",
+    "update_time": "2025-03-14 05:13:02",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "1849935696"
                 }
             },
-            "decryptionkey": "226dafc2cf50035575ff3261fea505b971bdfccf67470001a8522a797816fe9e"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,spanish,schinese,polish",
         "workshopdepot": "1951410",
@@ -40,6 +40,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "d9068b62ab469485adcc2b123231beb1d2a739d3453ddb158f7ab69c0ab426d2"
+        "workshopdepotdecryptionkey": ""
     }
 }
