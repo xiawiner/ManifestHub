@@ -4,8 +4,8 @@
     "name": "The Great Ace Attorney Chronicles",
     "schinese_name": "大逆转裁判：编年史",
     "isfreeapp": "0",
-    "change_number": "27321592",
-    "update_time": "2025-02-05 16:08:35",
+    "change_number": "27801759",
+    "update_time": "2025-03-06 04:01:19",
     "depot": {
         "baselanguages": "",
         "hasdepotsindlc": "1",
@@ -28,7 +28,7 @@
                     "download": "4774159344"
                 }
             },
-            "decryptionkey": "1c388fc7e55be5e7da2ca1c7d054359f1caf394ef07e48d548e38225eaeb2ec0"
+            "decryptionkey": ""
         },
         "1158851": {
             "config": {
@@ -42,7 +42,7 @@
                     "download": "5004944480"
                 }
             },
-            "decryptionkey": "8d69eee633a664e6efb3977ee6638aa5ca8227819a5cce5d34955a236ff7ac3e"
+            "decryptionkey": ""
         },
         "1158854": {
             "config": {
@@ -57,7 +57,7 @@
                     "download": "65931888"
                 }
             },
-            "decryptionkey": "edf1ce4b26060c7e6ff543c032b9048f76dc72037725e1b5049af439a87dac8f"
+            "decryptionkey": ""
         },
         "1158853": {
             "config": {
@@ -72,7 +72,7 @@
                     "download": "65959904"
                 }
             },
-            "decryptionkey": "72d532e8aff80288545d0797a73ebe55ada2d3524b970c239ccc56a68e92c035"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
