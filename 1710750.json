@@ -4,8 +4,8 @@
     "name": "Slit Mouthed - 口裂け女",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27301044",
-    "update_time": "2025-02-04 12:32:14",
+    "change_number": "27784689",
+    "update_time": "2025-03-05 08:11:35",
     "depot": {
         "228988": {
             "config": {
@@ -33,7 +33,7 @@
                     "download": "1759305472"
                 }
             },
-            "decryptionkey": "c0754499d4b7926438037e3f3fcab6d387bde2d2556e973a526fcc47f0d630e3"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
