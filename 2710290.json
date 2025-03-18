@@ -4,8 +4,8 @@
     "name": "G WARRIOR",
     "schinese_name": "惑星战士G",
     "isfreeapp": "0",
-    "change_number": "27341768",
-    "update_time": "2025-02-06 17:21:20",
+    "change_number": "27846469",
+    "update_time": "2025-03-08 09:56:23",
     "depot": {
         "228988": {
             "config": {
@@ -24,17 +24,17 @@
         "2710291": {
             "manifests": {
                 "public": {
-                    "gid": "8031806821753659260",
-                    "size": "876806664",
-                    "download": "112489520"
+                    "gid": "8265988249388891935",
+                    "size": "876814792",
+                    "download": "112491792"
                 }
             },
-            "decryptionkey": "8dea57f092375a1a8006b9ff56e0dab2ed281f50709d4db786a34a5188c767a8"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17263949",
-                "timeupdated": "1738833677"
+                "buildid": "17643284",
+                "timeupdated": "1741398980"
             }
         }
     }
