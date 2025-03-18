@@ -4,18 +4,18 @@
     "name": "SGS Battle For: Shanghai",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27404364",
-    "update_time": "2025-02-11 00:40:33",
+    "change_number": "27913922",
+    "update_time": "2025-03-12 23:17:33",
     "depot": {
         "2595231": {
             "manifests": {
                 "public": {
-                    "gid": "3548342871170549639",
-                    "size": "413582943",
-                    "download": "338264304"
+                    "gid": "7008888945282327299",
+                    "size": "413647367",
+                    "download": "338307424"
                 }
             },
-            "decryptionkey": "c381fa4c563e787a597d653a7b7e916d0aa18ae6911fe7f422c7758d944e92d6"
+            "decryptionkey": ""
         },
         "2595232": {
             "config": {
@@ -61,8 +61,8 @@
         "baselanguages": "english,french,spanish,schinese",
         "branches": {
             "public": {
-                "buildid": "16891754",
-                "timeupdated": "1735827991"
+                "buildid": "17694788",
+                "timeupdated": "1741792624"
             }
         },
         "privatebranches": "1"
