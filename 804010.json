@@ -4,8 +4,8 @@
     "name": "SteamWorld Quest: Hand of Gilgamech",
     "schinese_name": "蒸汽世界冒险：吉尔伽美什之手",
     "isfreeapp": "0",
-    "change_number": "27012702",
-    "update_time": "2025-01-16 03:14:32",
+    "change_number": "27977776",
+    "update_time": "2025-03-16 10:57:14",
     "depot": {
         "228983": {
             "config": {
@@ -40,7 +40,7 @@
                     "download": "867316000"
                 }
             },
-            "decryptionkey": "0958333bf4e3231c5df2e71794735288cce841197a2e50886ab364f165f3ba75"
+            "decryptionkey": ""
         },
         "804012": {
             "config": {
@@ -53,7 +53,7 @@
                     "download": "969354848"
                 }
             },
-            "decryptionkey": "83c1fe330be108230bfef869cae2c5dfd0098fa5288ca47016c367a6969c1405"
+            "decryptionkey": ""
         },
         "804013": {
             "config": {
@@ -66,7 +66,7 @@
                     "download": "872131696"
                 }
             },
-            "decryptionkey": "c49a6b6b8e0dd148dc8bbf0d094987d1c54219a06d60a222e42edea639802412"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,spanish,russian",
         "branches": {
