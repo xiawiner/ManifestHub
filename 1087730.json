@@ -4,8 +4,8 @@
     "name": "Iron Blade",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "24653067",
-    "update_time": "2024-08-05 21:49:14",
+    "change_number": "27744304",
+    "update_time": "2025-03-03 03:15:36",
     "depot": {
         "228986": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "2360030544"
                 }
             },
-            "decryptionkey": "371a4f23d3a6a5330343403875db83de36cd3db0cd4354a9c32b2d1a19bcb7f9"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
