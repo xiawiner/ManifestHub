@@ -4,8 +4,8 @@
     "name": "Rise of Nations: Extended Edition",
     "schinese_name": "国家的崛起：扩展版",
     "isfreeapp": "0",
-    "change_number": "27105676",
-    "update_time": "2025-01-22 12:23:19",
+    "change_number": "27843390",
+    "update_time": "2025-03-08 05:03:07",
     "depot": {
         "228984": {
             "config": {
@@ -49,7 +49,7 @@
                     "download": "1631697840"
                 }
             },
-            "decryptionkey": "3cb5ae6ce64fe256aa10220410daf46e31d5cb040f817d00b251f347371e53cb"
+            "decryptionkey": ""
         },
         "287452": {
             "manifests": {
@@ -69,7 +69,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "611ea42d873916de1da5565c82f58c97908116a141ac3d78168e0a255e04ee44"
+            "decryptionkey": ""
         },
         "287453": {
             "manifests": {
@@ -89,7 +89,7 @@
                     "download": "52933264"
                 }
             },
-            "decryptionkey": "3025b9b74c2e7cd02170380c812ce2ff92c94d9f2d4b650e3f6235dea33c35bb"
+            "decryptionkey": ""
         },
         "workshopdepot": "287450",
         "branches": {
@@ -109,6 +109,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "ebc2a7fcc75c7244300eccbacc741f53b6861113c241d5c461d5b4f030541fcd"
+        "workshopdepotdecryptionkey": ""
     }
 }
