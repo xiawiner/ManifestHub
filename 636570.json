@@ -4,8 +4,8 @@
     "name": "Nights of Azure 2: Bride of the New Moon",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26572127",
-    "update_time": "2024-12-10 17:15:12",
+    "change_number": "27920897",
+    "update_time": "2025-03-13 06:21:05",
     "depot": {
         "228984": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "13551306320"
                 }
             },
-            "decryptionkey": "688307cf0dbdaee57a8cfe3b1f4835f34bfd2e315993c8fdbfd90f0d3386530f"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
