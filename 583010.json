@@ -4,8 +4,8 @@
     "name": "VoiceAttack",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27432639",
-    "update_time": "2025-02-12 12:40:41",
+    "change_number": "27954843",
+    "update_time": "2025-03-14 19:25:00",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
@@ -30,14 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4988146449163103512",
-                    "size": "45754584",
-                    "download": "17947280"
-                },
-                "beta": {
-                    "gid": "3732165948589474003",
-                    "size": "46097987",
-                    "download": "18103552"
+                    "gid": "724058629444577506",
+                    "size": "46315177",
+                    "download": "18305856"
                 }
             },
             "decryptionkey": "4527069accc1cb6aae5f2b3e32203a8061a137783f7aa136db6a9c558dd49410"
@@ -52,24 +47,14 @@
                     "gid": "4481729248380269119",
                     "size": "37382436",
                     "download": "16399312"
-                },
-                "beta": {
-                    "gid": "4481729248380269119",
-                    "size": "37382436",
-                    "download": "16399312"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "15946289",
-                "timeupdated": "1728236147"
-            },
-            "beta": {
-                "buildid": "17330953",
-                "description": "VoiceAttack 64-bit beta",
-                "timeupdated": "1739335229"
+                "buildid": "17508227",
+                "timeupdated": "1740541442"
             }
         }
     }
