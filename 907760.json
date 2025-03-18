@@ -1,0 +1,58 @@
+{
+    "appid": "907760",
+    "type": "Game",
+    "name": "ARIDA: Backland's Awakening",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27783306",
+    "update_time": "2025-03-05 06:15:50",
+    "depot": {
+        "baselanguages": "english,brazilian",
+        "907761": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3840455558929011149",
+                    "size": "928061844",
+                    "download": "234192480"
+                }
+            },
+            "decryptionkey": "f066c8fc33cec6a0ecf73a1f7998fb5a9382c6a68ebea8f354ec20f58d804262"
+        },
+        "907762": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6232755240901238285",
+                    "size": "2533427942",
+                    "download": "735464944"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "907763": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2320106811949705636",
+                    "size": "2547013252",
+                    "download": "740941264"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "15065516",
+                "timeupdated": "1721238150"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
