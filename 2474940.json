@@ -4,8 +4,8 @@
     "name": "Nope Nope Nope Nope Nurses",
     "schinese_name": "病房轶事～在凶恶护士长主宰的医院深渊中过着卧底生活～",
     "isfreeapp": "0",
-    "change_number": "27069709",
-    "update_time": "2025-01-20 12:08:26",
+    "change_number": "27899834",
+    "update_time": "2025-03-12 06:21:04",
     "depot": {
         "228990": {
             "config": {
@@ -22,7 +22,7 @@
                     "download": "716627792"
                 }
             },
-            "decryptionkey": "21ee99ef5fc00ffd56eebe7540b9ce39bf861e3bba1e23605cdb87f74ea4f5b1"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
