@@ -4,8 +4,8 @@
     "name": "Ymir",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27502644",
-    "update_time": "2025-02-16 20:50:02",
+    "change_number": "27780752",
+    "update_time": "2025-03-05 03:00:25",
     "depot": {
         "228984": {
             "config": {
@@ -42,7 +42,7 @@
                     "download": "752163872"
                 }
             },
-            "decryptionkey": "713385bd229af8b8996b9c2dafada1225a6c67c2ee9b0aa5ca6fcaa19ba8bf36"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
