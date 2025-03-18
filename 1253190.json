@@ -4,8 +4,8 @@
     "name": "Warhammer 40,000: Dakka Squadron - Flyboyz Edition",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27387484",
-    "update_time": "2025-02-09 21:26:26",
+    "change_number": "27741349",
+    "update_time": "2025-03-02 19:45:44",
     "depot": {
         "228988": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "8532742832"
                 }
             },
-            "decryptionkey": "8a8ed7c2bcdd9795d10a6ddde44593143dacc6e4e33b585ef097d70ce5f28063"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
