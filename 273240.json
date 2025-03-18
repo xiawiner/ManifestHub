@@ -4,8 +4,8 @@
     "name": "Armored Hunter GUNHOUND EX",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "24483107",
-    "update_time": "2024-09-17 16:38:20",
+    "change_number": "27760200",
+    "update_time": "2025-03-04 03:14:49",
     "depot": {
         "228982": {
             "config": {
@@ -30,7 +30,7 @@
                     "download": "253468720"
                 }
             },
-            "decryptionkey": "e4d9c8c379570bd2e9bcc4dc63b43eaa714eb2ddb1dff17ad72da37676fd5569"
+            "decryptionkey": ""
         },
         "overridescddb": "1",
         "baselanguages": "english,japanese",
