@@ -4,8 +4,8 @@
     "name": "Stone Demo",
     "schinese_name": "石头 Demo",
     "isfreeapp": "0",
-    "change_number": "26419018",
-    "update_time": "2024-12-05 05:17:09",
+    "change_number": "27866373",
+    "update_time": "2025-03-10 15:15:08",
     "depot": {
         "228989": {
             "config": {
@@ -36,17 +36,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6500470451383839384",
-                    "size": "19656862290",
-                    "download": "5736706432"
+                    "gid": "4448000566567421636",
+                    "size": "14100130230",
+                    "download": "4551465280"
                 }
-            },
-            "decryptionkey": "b1cbe4ec3b99408399fcc522315865e6a91a14757d6b2337010afc2b8b9c55ca"
+            }
         },
         "branches": {
             "public": {
-                "buildid": "16575857",
-                "timeupdated": "1732870699"
+                "buildid": "17658045",
+                "timeupdated": "1741590905"
             }
         },
         "privatebranches": "1"
