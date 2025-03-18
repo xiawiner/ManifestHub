@@ -4,8 +4,8 @@
     "name": "Solstice Chronicles: MIA",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27517775",
-    "update_time": "2025-02-17 23:03:19",
+    "change_number": "27826177",
+    "update_time": "2025-03-07 09:03:38",
     "depot": {
         "228983": {
             "config": {
@@ -85,12 +85,12 @@
                     "download": "4185885584"
                 },
                 "tester": {
-                    "gid": "1132623858094625170",
-                    "size": "7377325420",
-                    "download": "3082675440"
+                    "gid": "8859862091135796216",
+                    "size": "7377165662",
+                    "download": "3082661696"
                 }
             },
-            "decryptionkey": "0dae17234537fba91da3c9ba144ebb731f3fb6fb1e4d7383f1de0d910ce15fd5"
+            "decryptionkey": ""
         },
         "528162": {
             "config": {
@@ -112,8 +112,8 @@
                 "timeupdated": "1582579991"
             },
             "tester": {
-                "buildid": "17439483",
-                "timeupdated": "1740056905"
+                "buildid": "17626747",
+                "timeupdated": "1741308401"
             }
         },
         "privatebranches": "1"
