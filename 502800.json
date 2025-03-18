@@ -4,8 +4,8 @@
     "name": "SENRAN KAGURA ESTIVAL VERSUS",
     "schinese_name": "闪乱神乐：少女们的选择",
     "isfreeapp": "0",
-    "change_number": "26101691",
-    "update_time": "2024-11-08 13:05:58",
+    "change_number": "27944058",
+    "update_time": "2025-03-14 06:11:21",
     "depot": {
         "228984": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "9284444976"
                 }
             },
-            "decryptionkey": "fd7bae3f34fc7207ee55e8bd7c8148f5ca2115a52aa9792880292d45a698b48b"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
