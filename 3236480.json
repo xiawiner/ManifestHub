@@ -4,8 +4,8 @@
     "name": "Legacy: Steel & Sorcery Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27450156",
-    "update_time": "2025-02-13 09:18:42",
+    "change_number": "27989623",
+    "update_time": "2025-03-17 16:28:44",
     "depot": {
         "228989": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "11519887574",
                     "download": "11356027120"
                 }
-            },
-            "decryptionkey": "b5a6cadc932c5084c41c939db58d31493937f2cf348cd31fc1fe67196ee76183"
+            }
         },
         "branches": {
             "public": {
