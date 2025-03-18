@@ -4,8 +4,8 @@
     "name": "fpsVR",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27234470",
-    "update_time": "2025-01-30 20:18:53",
+    "change_number": "27756332",
+    "update_time": "2025-03-03 23:26:29",
     "depot": {
         "228989": {
             "config": {
@@ -34,9 +34,9 @@
                     "download": "2213200"
                 },
                 "beta": {
-                    "gid": "2887593159568012866",
-                    "size": "7017435",
-                    "download": "2250800"
+                    "gid": "7597082799851275964",
+                    "size": "7567424",
+                    "download": "2553184"
                 },
                 "previous_": {
                     "gid": "6677746182150205773",
@@ -49,7 +49,7 @@
                     "download": "2242880"
                 }
             },
-            "decryptionkey": "f31cd8224b7d2b7b0fb910eacc838d36e379847e5a43a05737c0bde364d302a2"
+            "decryptionkey": ""
         },
         "baselanguages": "english,russian",
         "branches": {
@@ -63,8 +63,8 @@
                 "timeupdated": "1698430692"
             },
             "beta": {
-                "buildid": "17170831",
-                "timeupdated": "1738239492"
+                "buildid": "17566741",
+                "timeupdated": "1741015583"
             },
             "previous_": {
                 "buildid": "9490525",
