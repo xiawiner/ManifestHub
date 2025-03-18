@@ -4,8 +4,8 @@
     "name": "The Night of the Rabbit",
     "schinese_name": "兔子之夜",
     "isfreeapp": "0",
-    "change_number": "27183607",
-    "update_time": "2025-01-27 21:34:28",
+    "change_number": "27881254",
+    "update_time": "2025-03-11 08:00:56",
     "depot": {
         "228984": {
             "config": {
@@ -38,9 +38,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "3998684325621096733",
-                    "size": "179366322",
-                    "download": "56037632"
+                    "gid": "7327917578490428674",
+                    "size": "179386194",
+                    "download": "56044432"
                 },
                 "local": {
                     "gid": "2562166614761034621",
@@ -57,9 +57,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7878637117247073454",
-                    "size": "3195768217",
-                    "download": "3173487056"
+                    "gid": "4343367195252801588",
+                    "size": "3195755991",
+                    "download": "3173486704"
                 },
                 "local": {
                     "gid": "7913393334493220733",
@@ -76,9 +76,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "2727188511812118460",
-                    "size": "57434634",
-                    "download": "19633536"
+                    "gid": "651983693808926020",
+                    "size": "57370874",
+                    "download": "19617040"
                 },
                 "local": {
                     "gid": "3012313531901674461",
@@ -95,9 +95,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "3364768730402300660",
-                    "size": "3195768217",
-                    "download": "3173492064"
+                    "gid": "2926895442192701892",
+                    "size": "3195755991",
+                    "download": "3173491808"
                 },
                 "local": {
                     "gid": "6816399264594779306",
@@ -130,9 +130,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5169948876310654310",
-                    "size": "97674894",
-                    "download": "30195008"
+                    "gid": "7146913131750677170",
+                    "size": "97657560",
+                    "download": "30190288"
                 }
             },
             "decryptionkey": ""
@@ -144,17 +144,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4299892072570138348",
-                    "size": "3195768217",
-                    "download": "3175147520"
+                    "gid": "2894509205247066359",
+                    "size": "3195755991",
+                    "download": "3175147168"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16962867",
-                "timeupdated": "1736503806"
+                "buildid": "17502479",
+                "timeupdated": "1740500857"
             },
             "local": {
                 "buildid": "65684",
