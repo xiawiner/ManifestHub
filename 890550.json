@@ -4,8 +4,8 @@
     "name": "RUMBLE",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27046630",
-    "update_time": "2025-01-18 01:32:00",
+    "change_number": "27968271",
+    "update_time": "2025-03-15 09:58:37",
     "depot": {
         "228989": {
             "config": {
@@ -17,9 +17,9 @@
         "890551": {
             "manifests": {
                 "public": {
-                    "gid": "4458201015843951826",
-                    "size": "1149757383",
-                    "download": "300317040"
+                    "gid": "1981401615142410237",
+                    "size": "1149770433",
+                    "download": "300329728"
                 }
             },
             "decryptionkey": "aa5c003ce988893f1b22c53efa4eb7cff9314a6ade916b398f1caf14f1d72146"
@@ -27,9 +27,9 @@
         "890553": {
             "manifests": {
                 "public": {
-                    "gid": "8482627840237543101",
-                    "size": "1149757383",
-                    "download": "300343040"
+                    "gid": "3539806004983458811",
+                    "size": "1149770433",
+                    "download": "300355728"
                 }
             },
             "decryptionkey": ""
@@ -37,9 +37,9 @@
         "890552": {
             "manifests": {
                 "public": {
-                    "gid": "6480058636853320863",
-                    "size": "1149757383",
-                    "download": "300317040"
+                    "gid": "1100194044355586521",
+                    "size": "1149770433",
+                    "download": "300329728"
                 }
             },
             "decryptionkey": ""
@@ -47,17 +47,17 @@
         "890554": {
             "manifests": {
                 "public": {
-                    "gid": "5518616403804549620",
-                    "size": "1149757383",
-                    "download": "300305792"
+                    "gid": "328357613789660314",
+                    "size": "1149770433",
+                    "download": "300318480"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17424141",
-                "timeupdated": "1739977092"
+                "buildid": "17690693",
+                "timeupdated": "1741773524"
             }
         },
         "privatebranches": "1"
