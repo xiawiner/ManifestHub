@@ -4,8 +4,8 @@
     "name": "RKGK / Rakugaki",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27063592",
-    "update_time": "2025-01-19 20:54:52",
+    "change_number": "27975368",
+    "update_time": "2025-03-16 03:58:27",
     "depot": {
         "228988": {
             "config": {
@@ -40,7 +40,7 @@
                     "download": "12004656400"
                 }
             },
-            "decryptionkey": "e62975d4582cffe6bd1d5d1c82ae7701f627dead1ff1c5a874a0367a76524ce9"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
