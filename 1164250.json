@@ -4,8 +4,8 @@
     "name": "Model Builder: Complete Edition",
     "schinese_name": "胶佬模拟器",
     "isfreeapp": "0",
-    "change_number": "26900824",
-    "update_time": "2025-01-08 09:18:31",
+    "change_number": "27973640",
+    "update_time": "2025-03-15 23:58:26",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english",
@@ -130,7 +130,7 @@
                     "download": "57888"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "a6c15f64be472b73420ab6c471d0b137dd872e624193e8be26a38a1a5f6a8226"
         },
         "2324250": {
             "dlcappid": "2324250",
