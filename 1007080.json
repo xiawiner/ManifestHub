@@ -4,8 +4,8 @@
     "name": "Death Rpg",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27018892",
-    "update_time": "2025-01-16 12:54:59",
+    "change_number": "27748700",
+    "update_time": "2025-03-03 13:16:02",
     "depot": {
         "228987": {
             "config": {
@@ -36,7 +36,7 @@
                     "download": "1692559680"
                 }
             },
-            "decryptionkey": "17b413b8413f0c88ef7954bb7b92452e4da391d5a7e889b0cefb4e6a13907109"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
