@@ -4,8 +4,8 @@
     "name": "Rogue Lords",
     "schinese_name": "欺诈领主",
     "isfreeapp": "0",
-    "change_number": "26985278",
-    "update_time": "2025-01-14 15:30:49",
+    "change_number": "27987396",
+    "update_time": "2025-03-17 12:20:35",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,russian,japanese,polish,brazilian",
         "hasdepotsindlc": "1",
@@ -24,7 +24,7 @@
                     "download": "2069854528"
                 }
             },
-            "decryptionkey": "b0b62c3ca8b5fdeae36530e7baa52e37ed21aee3ba813044d12e4458ff5c4240"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
