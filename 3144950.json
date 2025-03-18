@@ -4,8 +4,8 @@
     "name": "Pet Lands",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27173580",
-    "update_time": "2025-01-27 01:28:08",
+    "change_number": "27851184",
+    "update_time": "2025-03-08 22:09:26",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "4126234480"
                 }
             },
-            "decryptionkey": "fdadcdb4423eb2a2d8c114de8f8238a47f3209ee475b32bde7517af2546984ea"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
