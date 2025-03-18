@@ -4,8 +4,8 @@
     "name": "Réussir : Code de la Route",
     "schinese_name": "Réussir : Code de la Route - Nouvelle Édition (法国道路交通法)",
     "isfreeapp": "0",
-    "change_number": "27439743",
-    "update_time": "2025-02-12 21:21:41",
+    "change_number": "27859855",
+    "update_time": "2025-03-09 23:51:40",
     "depot": {
         "baselanguages": "french",
         "hasdepotsindlc": "0",
@@ -60,7 +60,7 @@
                     "download": "2099902480"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "bb641c03a130d1277ddc2caf41ad4520109bf5267afffbba599f09f5efb0d0fd"
         },
         "1109842": {
             "config": {
