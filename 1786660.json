@@ -4,8 +4,8 @@
     "name": "Marimoth",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26694306",
-    "update_time": "2024-12-18 19:55:33",
+    "change_number": "27827238",
+    "update_time": "2025-03-07 10:12:24",
     "depot": {
         "1786661": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6510003645036638032",
-                    "size": "55152073",
-                    "download": "54701184"
+                    "gid": "586568797919373399",
+                    "size": "57190202",
+                    "download": "54369056"
                 }
             },
             "decryptionkey": "b544f24e1ab9720bcaa374b076ff44cb4cd15a50db1158c0a175b57ea546cf9c"
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5901853024114703296",
-                    "size": "55154330",
-                    "download": "54700128"
+                    "gid": "1747011745361346536",
+                    "size": "57193198",
+                    "download": "54368368"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16786278",
-                "timeupdated": "1734522927"
+                "buildid": "17628847",
+                "timeupdated": "1741313540"
             }
         }
     }
