@@ -4,8 +4,8 @@
     "name": "猫咪干得好 Cat Good Work Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "24579276",
-    "update_time": "2024-07-31 06:23:13",
+    "change_number": "27859334",
+    "update_time": "2025-03-09 22:27:42",
     "depot": {
         "228989": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "710864326",
                     "download": "579901776"
                 }
-            },
-            "decryptionkey": "97962ebb89413761c3ade47e6c93b7e57cad26c91dfb03620dc56af7ef220909"
+            }
         },
         "branches": {
             "public": {
