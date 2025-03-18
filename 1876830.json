@@ -4,8 +4,8 @@
     "name": "Life after Death",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26844933",
-    "update_time": "2025-01-03 06:17:28",
+    "change_number": "27904978",
+    "update_time": "2025-03-12 14:08:12",
     "depot": {
         "228988": {
             "config": {
@@ -33,7 +33,7 @@
                     "download": "4332485392"
                 }
             },
-            "decryptionkey": "bb68305990a2d5f37a6a24baa01b24fc24d3e5c4c0cd5b8e87814144eafa1930"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
