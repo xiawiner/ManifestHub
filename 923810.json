@@ -4,8 +4,8 @@
     "name": "If My Heart Had Wings -Flight Diary-",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26149072",
-    "update_time": "2024-11-12 08:38:40",
+    "change_number": "27848168",
+    "update_time": "2025-03-08 14:08:20",
     "depot": {
         "228986": {
             "config": {
@@ -36,7 +36,7 @@
                     "download": "2857334480"
                 }
             },
-            "decryptionkey": "4c139a01907a4138844ea79e942c0e64ea3259d45d90d904620bef66c8e2fd49"
+            "decryptionkey": ""
         },
         "923812": {
             "manifests": {
@@ -46,7 +46,7 @@
                     "download": "47818192"
                 }
             },
-            "decryptionkey": "e96f81161f1ebb4c22b00f35716881e17223d6e54c860d07f360940edc7dc2be"
+            "decryptionkey": ""
         },
         "1038710": {
             "manifests": {
@@ -57,7 +57,7 @@
                 }
             },
             "dlcappid": "1038710",
-            "decryptionkey": "66b82c976b026702533546a4ef71613301ddf2430dec580ffb269e25893c2479"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
