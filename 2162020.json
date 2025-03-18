@@ -4,8 +4,8 @@
     "name": "Strayed Lights",
     "schinese_name": "末光",
     "isfreeapp": "0",
-    "change_number": "27469766",
-    "update_time": "2025-02-14 08:15:23",
+    "change_number": "27940222",
+    "update_time": "2025-03-14 02:21:28",
     "depot": {
         "hasdepotsindlc": "1",
         "228989": {
@@ -30,7 +30,7 @@
                     "download": "7408831552"
                 }
             },
-            "decryptionkey": "c921eac6de027e25c420e2c68ede47fa16bf9d518bc5374551d7fc5b8ad9317d"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
