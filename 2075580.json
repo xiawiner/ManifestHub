@@ -4,8 +4,8 @@
     "name": "Under A New Sun",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26810665",
-    "update_time": "2024-12-29 22:54:23",
+    "change_number": "27966133",
+    "update_time": "2025-03-15 06:22:28",
     "depot": {
         "228989": {
             "config": {
@@ -35,7 +35,7 @@
                     "download": "1223727808"
                 }
             },
-            "decryptionkey": "4e2907c1b708f00bfe4a2e01a8a13d8ea62b619cf5a3cd06f69163c60956464e"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
