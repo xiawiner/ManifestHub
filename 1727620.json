@@ -4,8 +4,8 @@
     "name": "Neighbor Diana",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27053442",
-    "update_time": "2025-01-18 13:54:34",
+    "change_number": "27968911",
+    "update_time": "2025-03-15 11:23:08",
     "depot": {
         "228983": {
             "config": {
@@ -43,7 +43,7 @@
                     "download": "2147120144"
                 }
             },
-            "decryptionkey": "b9516f75aab1b409248a8c1e9a375989f876586cf2b3e0c43ef7d7d929c26f8b"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
