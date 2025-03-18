@@ -4,8 +4,8 @@
     "name": "Killer is Dead",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27106886",
-    "update_time": "2025-01-22 14:26:50",
+    "change_number": "27744709",
+    "update_time": "2025-03-03 04:15:23",
     "depot": {
         "overridescddb": "1",
         "228983": {
@@ -48,7 +48,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "ff9740958a5c5a4a40e1bb7c34ebccb7118231fac738cdfb22ad5cfc7daabb3a"
+            "decryptionkey": ""
         },
         "261112": {
             "manifests": {
@@ -63,7 +63,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "9c67bd4ee7cf816411e75721ce8452d8c584f276cad8cc1fdf5b1988314e3c23"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
