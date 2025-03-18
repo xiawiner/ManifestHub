@@ -4,8 +4,8 @@
     "name": "Stripped of Title: Backlash",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27504451",
-    "update_time": "2025-02-17 01:14:55",
+    "change_number": "27903877",
+    "update_time": "2025-03-12 12:08:19",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "5181827552"
                 }
             },
-            "decryptionkey": "1700d40d065dc7e8e19361e482dc2e1da236e861b367f8b3e386e984334ba4ba"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
