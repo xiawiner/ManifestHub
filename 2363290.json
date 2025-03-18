@@ -4,8 +4,8 @@
     "name": "Fireworks Frenzy",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27005293",
-    "update_time": "2025-01-15 18:15:50",
+    "change_number": "27740721",
+    "update_time": "2025-03-02 17:45:48",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "578331408"
                 }
             },
-            "decryptionkey": "f5c7d0d5b607147877b2b2ee93043dba1d66a6e2cf65dc9373da86a62cd9673f"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
