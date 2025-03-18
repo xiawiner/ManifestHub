@@ -4,8 +4,8 @@
     "name": "Croixleur Sigma - Deluxe Edition",
     "schinese_name": "黑色規則：西格瑪",
     "isfreeapp": "0",
-    "change_number": "25269390",
-    "update_time": "2024-09-18 07:08:31",
+    "change_number": "27804837",
+    "update_time": "2025-03-06 08:07:38",
     "depot": {
         "baselanguages": "english,schinese,japanese",
         "228990": {
@@ -27,7 +27,7 @@
                     "download": "1290882000"
                 }
             },
-            "decryptionkey": "5d247585300b10e4c18872b3a6fa69431982cf613dd167cd6a97c012747eacf4"
+            "decryptionkey": ""
         },
         "1052442": {
             "config": {
@@ -40,7 +40,7 @@
                     "download": "481265280"
                 }
             },
-            "decryptionkey": "7313cebb9915470b539bc2d8170d472208af7476e72689107aa0c4ae259d30db"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
