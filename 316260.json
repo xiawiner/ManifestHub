@@ -4,8 +4,8 @@
     "name": "Disney Universe",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27372662",
-    "update_time": "2025-02-08 07:26:59",
+    "change_number": "27900746",
+    "update_time": "2025-03-12 07:32:59",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,russian,polish,danish,dutch,norwegian,swedish,czech,brazilian",
         "228990": {
@@ -208,7 +208,7 @@
                     "download": "168508272"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "dc81f69c47eb8c207387edab4cecabfac5942e64b595f0efbba9dc84d39c17dd"
         },
         "branches": {
             "public": {
