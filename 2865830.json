@@ -4,8 +4,8 @@
     "name": "Weed Harvest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27409123",
-    "update_time": "2025-02-11 05:38:56",
+    "change_number": "27981227",
+    "update_time": "2025-03-16 21:59:41",
     "depot": {
         "228989": {
             "config": {
@@ -36,7 +36,7 @@
                     "download": "1874343152"
                 }
             },
-            "decryptionkey": "733d8d445bc76713ed724eed0ba96fcb493a21e10852389cdb9ef57d33edd3e7"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
