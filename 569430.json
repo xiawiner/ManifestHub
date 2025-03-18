@@ -4,8 +4,8 @@
     "name": "A Demon's Game - Episode 1",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26903032",
-    "update_time": "2025-01-08 13:16:55",
+    "change_number": "27980809",
+    "update_time": "2025-03-16 20:55:10",
     "depot": {
         "228986": {
             "config": {
@@ -41,7 +41,7 @@
                     "download": "3537967584"
                 }
             },
-            "decryptionkey": "285033b8c5ebecc1a3850b3119aedc751fac5c7c9d86d3ed35da9c171c5f2b6f"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
