@@ -4,8 +4,8 @@
     "name": "Blood Rush Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27332462",
-    "update_time": "2025-02-06 03:49:57",
+    "change_number": "27762663",
+    "update_time": "2025-03-04 06:28:53",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,26 @@
         "2828981": {
             "manifests": {
                 "public": {
-                    "gid": "1096656633310384503",
-                    "size": "369541376",
-                    "download": "175745344"
+                    "gid": "1577515699865711006",
+                    "size": "571680077",
+                    "download": "277955968"
+                },
+                "demo_beta": {
+                    "gid": "1577515699865711006",
+                    "size": "571680077",
+                    "download": "277955968"
                 }
-            },
-            "decryptionkey": "4f53f59fc252d1135f8b25ca969fb803f7b06b6317b4d72192c5ca579ff021ea"
+            }
         },
         "branches": {
             "public": {
-                "buildid": "14264148",
-                "timeupdated": "1714812714"
+                "buildid": "17580575",
+                "timeupdated": "1741040930"
+            },
+            "demo_beta": {
+                "buildid": "17580575",
+                "description": "Branch used to test futur demo builds, join at your own risks",
+                "timeupdated": "1741040886"
             }
         },
         "privatebranches": "1"
