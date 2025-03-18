@@ -4,8 +4,8 @@
     "name": "JUNKPUNK",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26823084",
-    "update_time": "2024-12-31 12:40:17",
+    "change_number": "27853104",
+    "update_time": "2025-03-09 03:07:45",
     "depot": {
         "228988": {
             "config": {
@@ -46,7 +46,7 @@
                     "download": "4334602096"
                 }
             },
-            "decryptionkey": "96f2bd7af4758ff153ffbaafa69d9ca44af1485c4a374be8b113a877ab44188d"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,koreana,spanish,schinese,japanese,polish,turkish,brazilian",
         "branches": {
