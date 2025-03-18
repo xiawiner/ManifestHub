@@ -4,8 +4,8 @@
     "name": "OplitisAV",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26485077",
-    "update_time": "2024-12-05 12:10:42",
+    "change_number": "27894671",
+    "update_time": "2025-03-12 00:21:31",
     "depot": {
         "228988": {
             "config": {
@@ -34,7 +34,7 @@
                     "download": "1390279520"
                 }
             },
-            "decryptionkey": "c6c0e0c9e99f6c244d5a28d4e9ee71b471a2d192a7213397163652eb3c487d26"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
