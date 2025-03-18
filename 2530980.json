@@ -4,8 +4,8 @@
     "name": "Tales of Graces f Remastered",
     "schinese_name": "美德传奇fRemastered",
     "isfreeapp": "0",
-    "change_number": "27537142",
-    "update_time": "2025-02-18 23:33:01",
+    "change_number": "27903141",
+    "update_time": "2025-03-12 11:00:09",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese",
         "228988": {
@@ -32,12 +32,12 @@
         "2530981": {
             "manifests": {
                 "public": {
-                    "gid": "5905203285723701306",
-                    "size": "11670932291",
-                    "download": "9866416400"
+                    "gid": "2068552954951438002",
+                    "size": "11670933074",
+                    "download": "9866415424"
                 }
             },
-            "decryptionkey": "a93f851271a22d8fd77c25f7ab3f895e3a9d638ead344dce1379db3b9c287f31"
+            "decryptionkey": ""
         },
         "2530982": {},
         "2867770": {
@@ -49,7 +49,7 @@
                     "download": "1008782736"
                 }
             },
-            "decryptionkey": "8494db845bd40739acc2ef44d165a27f6e6b7c3704d7c76c393ac4cc5a2e14e9"
+            "decryptionkey": ""
         },
         "3030040": {
             "dlcappid": "3030040",
@@ -60,7 +60,7 @@
                     "download": "832"
                 }
             },
-            "decryptionkey": "567db2ea52f3117ea696a99d34885266103b1e6c94a2386b44b395fea1362e5b"
+            "decryptionkey": ""
         },
         "3030050": {
             "dlcappid": "3030050",
@@ -71,7 +71,7 @@
                     "download": "832"
                 }
             },
-            "decryptionkey": "56d222937ef2f954ac3756fa8cbb68722c2a570ded1fb9c8e0702ac1bc27cda9"
+            "decryptionkey": ""
         },
         "3030060": {
             "dlcappid": "3030060",
@@ -82,7 +82,7 @@
                     "download": "832"
                 }
             },
-            "decryptionkey": "b6ddc550c380151b3660fa370b4827eabce743c68e17ea386bcf71d307a21c3a"
+            "decryptionkey": ""
         },
         "3030070": {
             "dlcappid": "3030070",
@@ -93,7 +93,7 @@
                     "download": "832"
                 }
             },
-            "decryptionkey": "08de21488414c17cab1796a951079e09111a80e4204fecc8b711e34739dcf3b2"
+            "decryptionkey": ""
         },
         "3030080": {
             "dlcappid": "3030080",
@@ -104,7 +104,7 @@
                     "download": "848"
                 }
             },
-            "decryptionkey": "84956132289ea4731f59ad71d63c28e47cb673e51b005121d36490c9ad59c6fc"
+            "decryptionkey": ""
         },
         "3030090": {
             "dlcappid": "3030090",
@@ -115,7 +115,7 @@
                     "download": "848"
                 }
             },
-            "decryptionkey": "ac138dee693e850bc7f30c5040275fe6407252458519fca689dbfd71d627aa0b"
+            "decryptionkey": ""
         },
         "3030100": {
             "dlcappid": "3030100",
@@ -126,7 +126,7 @@
                     "download": "896"
                 }
             },
-            "decryptionkey": "d7c288a9392822bc42ff451f5ec9373e868c925907501fde446b75ea3795af75"
+            "decryptionkey": ""
         },
         "3030110": {
             "dlcappid": "3030110",
@@ -137,7 +137,7 @@
                     "download": "880"
                 }
             },
-            "decryptionkey": "9733847a96f124ec76f92ba93964435f83786d5f35d93829c5abcd1088ba560a"
+            "decryptionkey": ""
         },
         "3030120": {
             "dlcappid": "3030120",
@@ -148,12 +148,12 @@
                     "download": "105270352"
                 }
             },
-            "decryptionkey": "511e7e46ad335906712799cdc6d166533623b2fcb692239e73e74a29024fe31f"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17276117",
-                "timeupdated": "1739329203"
+                "buildid": "17447501",
+                "timeupdated": "1741748404"
             }
         },
         "privatebranches": "1"
