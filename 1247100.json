@@ -4,8 +4,8 @@
     "name": "SpellMaster: The Saga",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27542056",
-    "update_time": "2025-02-19 04:44:51",
+    "change_number": "27851066",
+    "update_time": "2025-03-08 21:50:42",
     "depot": {
         "228988": {
             "config": {
@@ -33,7 +33,7 @@
                     "download": "12125254528"
                 }
             },
-            "decryptionkey": "4f541e8e2154612773c00f3d49f48c0d49d9d3d07c94d3063d2223ae1419915f"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
