@@ -4,8 +4,8 @@
     "name": "Skautfold: Usurper",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26027313",
-    "update_time": "2024-11-04 00:09:18",
+    "change_number": "27828522",
+    "update_time": "2025-03-07 12:14:16",
     "depot": {
         "228990": {
             "config": {
@@ -22,7 +22,7 @@
                     "download": "674780416"
                 }
             },
-            "decryptionkey": "6a4cfaa2f8f77f826785d05f9509f238731071eababec53615320283dad0a727"
+            "decryptionkey": ""
         },
         "hasdepotsindlc": "1",
         "branches": {
