@@ -4,8 +4,8 @@
     "name": "Secret Agent Wizard Boy and the International Crime Syndicate Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27143568",
-    "update_time": "2025-01-24 13:30:11",
+    "change_number": "27825469",
+    "update_time": "2025-03-07 08:56:31",
     "depot": {
         "228989": {
             "config": {
@@ -28,8 +28,7 @@
                     "size": "1628153730",
                     "download": "949084992"
                 }
-            },
-            "decryptionkey": "010583d2f8806a211a4273aace2fa9f8c19cfcc7cd643f1a57535ee49ca7c256"
+            }
         },
         "branches": {
             "public": {
