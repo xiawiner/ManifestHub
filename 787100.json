@@ -4,8 +4,8 @@
     "name": "Homeworld Defense",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27055470",
-    "update_time": "2025-01-18 19:53:25",
+    "change_number": "27743024",
+    "update_time": "2025-03-03 00:15:25",
     "depot": {
         "228986": {
             "config": {
@@ -54,7 +54,7 @@
                     "download": "334050768"
                 }
             },
-            "decryptionkey": "ede70c7022a1d3267d68091d73247d5f7ebac86bc6df40b262c223a2e655bf96"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
