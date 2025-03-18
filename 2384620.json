@@ -4,8 +4,8 @@
     "name": "Out of the Park Baseball 25",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27497224",
-    "update_time": "2025-02-16 04:17:43",
+    "change_number": "28012798",
+    "update_time": "2025-03-18 20:17:47",
     "depot": {
         "baselanguages": "english,koreana",
         "workshopdepot": "2384620",
@@ -23,9 +23,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5098702033804306338",
-                    "size": "59114647",
-                    "download": "19549664"
+                    "gid": "6474929944285698609",
+                    "size": "59115159",
+                    "download": "19549280"
                 }
             },
             "decryptionkey": "178abf9842b79b49c41f4600c85eaa21740cdf636176517056b999d00c0d37de"
@@ -37,9 +37,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2663900114223645616",
+                    "gid": "5307516360794516233",
                     "size": "76563744",
-                    "download": "17610896"
+                    "download": "17608080"
                 }
             },
             "decryptionkey": ""
@@ -57,9 +57,9 @@
         "2384625": {
             "manifests": {
                 "public": {
-                    "gid": "2569366323237338637",
+                    "gid": "4145732560743939204",
                     "size": "398285668",
-                    "download": "52495584"
+                    "download": "52480432"
                 }
             },
             "decryptionkey": "681863b7028c9d343bada14c6176fadc84ae8a3fd766a72265b50bb438e189ab"
@@ -67,7 +67,7 @@
         "2384626": {
             "manifests": {
                 "public": {
-                    "gid": "2026156093228776016",
+                    "gid": "4459526795061316959",
                     "size": "3476645577",
                     "download": "1956739984"
                 }
@@ -76,8 +76,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16998441",
-                "timeupdated": "1737458167"
+                "buildid": "17589236",
+                "timeupdated": "1742217325"
             }
         },
         "privatebranches": "1",
