@@ -4,8 +4,8 @@
     "name": "Eternal Strands Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27514801",
-    "update_time": "2025-02-17 19:57:54",
+    "change_number": "27904982",
+    "update_time": "2025-03-12 14:08:28",
     "depot": {
         "228989": {
             "config": {
@@ -28,8 +28,7 @@
                     "size": "16011707845",
                     "download": "6898257456"
                 }
-            },
-            "decryptionkey": "d7d578cf5930d86cd571bbc252f3bc320e6c5c1e5423bdbf88e97e7419c19f66"
+            }
         },
         "branches": {
             "public": {
