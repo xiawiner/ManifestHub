@@ -4,8 +4,8 @@
     "name": "Master Arena Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26806826",
-    "update_time": "2024-12-29 05:42:58",
+    "change_number": "27852096",
+    "update_time": "2025-03-09 00:30:18",
     "depot": {
         "1004": {
             "config": {
@@ -52,17 +52,17 @@
         "704981": {
             "manifests": {
                 "public": {
-                    "gid": "5958468834103815163",
-                    "size": "1180923001",
-                    "download": "637582416"
+                    "gid": "6346360383117269522",
+                    "size": "1073843982",
+                    "download": "589809520"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16867611",
-                "timeupdated": "1735422175"
+                "buildid": "17647556",
+                "timeupdated": "1741451412"
             }
         }
     }
