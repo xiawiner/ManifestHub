@@ -4,8 +4,8 @@
     "name": "Shovel Knight: Treasure Trove",
     "schinese_name": "铲子骑士",
     "isfreeapp": "0",
-    "change_number": "27105667",
-    "update_time": "2025-01-22 12:20:09",
+    "change_number": "27963622",
+    "update_time": "2025-03-15 03:20:41",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -41,7 +41,7 @@
                     "download": "304226240"
                 }
             },
-            "decryptionkey": "897c8575e16463ffb846336d3c94feddcdbc5a10976ca1c1e6c3b21134aabf00"
+            "decryptionkey": ""
         },
         "250762": {
             "config": {
@@ -64,7 +64,7 @@
                     "download": "311877712"
                 }
             },
-            "decryptionkey": "b2f715c24260faeb8476ccb07fe99ca9ca105e4e5a868b2a1afe6217c2901e34"
+            "decryptionkey": ""
         },
         "250764": {
             "config": {
@@ -82,7 +82,7 @@
                     "download": "312076592"
                 }
             },
-            "decryptionkey": "53390b208ea0022be6f8a23a23c47c6352fbe3de4198c7cf2e0ebb9bc370afb1"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
