@@ -4,8 +4,8 @@
     "name": "Lost Princess: City",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26566708",
-    "update_time": "2024-12-10 08:16:58",
+    "change_number": "27748709",
+    "update_time": "2025-03-03 13:16:42",
     "depot": {
         "228989": {
             "config": {
@@ -36,7 +36,7 @@
                     "download": "2949232800"
                 }
             },
-            "decryptionkey": "1902afe1b8d8d4891697a67aae2685ebabcf72033c8582f2cec677986ab18821"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
