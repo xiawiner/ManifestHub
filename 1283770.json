@@ -4,8 +4,8 @@
     "name": "Grey Skies: A War of the Worlds Story",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27524582",
-    "update_time": "2025-02-18 07:13:10",
+    "change_number": "27899226",
+    "update_time": "2025-03-12 05:22:25",
     "depot": {
         "228988": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "12730302016"
                 }
             },
-            "decryptionkey": "e0226e5eb397c8d9decaa25f08a574b4f4b3c30e51117348c80d12c7ba6d304b"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
