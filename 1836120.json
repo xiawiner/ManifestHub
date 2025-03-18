@@ -4,8 +4,8 @@
     "name": "QUICKERFLAK",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27726793",
-    "update_time": "2025-03-01 06:45:21",
+    "change_number": "27964494",
+    "update_time": "2025-03-15 04:23:02",
     "depot": {
         "228990": {
             "config": {
@@ -22,7 +22,7 @@
                     "download": "143446048"
                 }
             },
-            "decryptionkey": "f849496b103435e0bed13166cc8469f528bcc0415aec9c5ec338bdc5be48d44f"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
