@@ -4,8 +4,8 @@
     "name": "Coconut Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27524593",
-    "update_time": "2025-02-18 07:14:22",
+    "change_number": "27860603",
+    "update_time": "2025-03-10 01:52:41",
     "depot": {
         "228989": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "919666384"
                 }
             },
-            "decryptionkey": "e61a79b31c3b0ad970dcd4f4c367c9a422034046f29e6fab79aa4710d3fe05a1"
+            "decryptionkey": ""
         },
         "baselanguages": "english",
         "branches": {
