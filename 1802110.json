@@ -4,8 +4,8 @@
     "name": "Take Over Body",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27056471",
-    "update_time": "2025-01-18 22:54:00",
+    "change_number": "27748277",
+    "update_time": "2025-03-03 12:12:51",
     "depot": {
         "228988": {
             "config": {
@@ -46,7 +46,7 @@
                     "download": "438949712"
                 }
             },
-            "decryptionkey": "c599cc532aed80b33460a7d5e99f51252514ccd3d09866d9cc778517055988eb"
+            "decryptionkey": ""
         },
         "baselanguages": "english,russian",
         "branches": {
