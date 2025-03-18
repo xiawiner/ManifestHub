@@ -4,8 +4,8 @@
     "name": "fiction.colors",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26538186",
-    "update_time": "2024-12-07 17:12:25",
+    "change_number": "27960706",
+    "update_time": "2025-03-15 00:30:33",
     "depot": {
         "228990": {
             "config": {
@@ -25,7 +25,7 @@
                     "download": "1655994816"
                 }
             },
-            "decryptionkey": "85752c196f7ffd7d35e6bf774889a1393386cf4ed1a65179b6350b2fa38b2a8c"
+            "decryptionkey": ""
         },
         "baselanguages": "english",
         "branches": {
