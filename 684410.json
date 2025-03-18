@@ -4,8 +4,8 @@
     "name": "Bridge Constructor Portal",
     "schinese_name": "桥梁工程师传送门",
     "isfreeapp": "0",
-    "change_number": "27389093",
-    "update_time": "2025-02-10 01:17:24",
+    "change_number": "27920895",
+    "update_time": "2025-03-13 06:21:11",
     "depot": {
         "228983": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "86921008"
                 }
             },
-            "decryptionkey": "3a181df2decdf07660ca1fe8e91a90c14a11016356e94693e73bd12425c49711"
+            "decryptionkey": ""
         },
         "684412": {
             "config": {
@@ -45,7 +45,7 @@
                     "download": "92766528"
                 }
             },
-            "decryptionkey": "c433f8b1b13db239d93f0fd1f229c1b0fa5573c15cd03f531aac677beb5a10d1"
+            "decryptionkey": ""
         },
         "684413": {
             "config": {
@@ -58,7 +58,7 @@
                     "download": "93965488"
                 }
             },
-            "decryptionkey": "90e90791929181963c0939efcd217194e1d1b0063fbfdb361dbddc56eea7bcfa"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,dutch,turkish",
         "workshopdepot": "684410",
@@ -69,6 +69,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "2b49a995964217fdd3160a5c4d41c257db9e8da906e69b070bebd5d2d9e15610"
+        "workshopdepotdecryptionkey": ""
     }
 }
