@@ -4,8 +4,8 @@
     "name": "Inferno Puzzle",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25690791",
-    "update_time": "2024-10-13 14:19:35",
+    "change_number": "27749120",
+    "update_time": "2025-03-03 14:13:05",
     "depot": {
         "228986": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "316799616"
                 }
             },
-            "decryptionkey": "9d9966bd6384fbea5c91e84686668c0279eacb8dbe0f818587bca5bf24c61dd2"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
