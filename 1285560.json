@@ -4,8 +4,8 @@
     "name": "Three kingdoms story: Conussia",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26349115",
-    "update_time": "2024-12-05 03:07:24",
+    "change_number": "27922746",
+    "update_time": "2025-03-13 08:19:19",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english,russian",
@@ -23,6 +23,11 @@
                     "gid": "5391214667692433470",
                     "size": "881633238",
                     "download": "612605920"
+                },
+                "09032025_test": {
+                    "gid": "359518474217092689",
+                    "size": "2124867954",
+                    "download": "1126035936"
                 }
             },
             "decryptionkey": "8e4c8eabf3fac162e0818c92991b9608c3047241d6f4b2b9a4240a4ccc3f7415"
@@ -41,6 +46,11 @@
                     "gid": "9217719541573263349",
                     "size": "882495418",
                     "download": "612795808"
+                },
+                "09032025_test": {
+                    "gid": "6321693447406257505",
+                    "size": "2145628444",
+                    "download": "1133123024"
                 }
             },
             "decryptionkey": ""
@@ -59,6 +69,11 @@
                     "gid": "7789169170089529287",
                     "size": "832166555",
                     "download": "598224944"
+                },
+                "09032025_test": {
+                    "gid": "5828607337388657501",
+                    "size": "2113825734",
+                    "download": "1125579328"
                 }
             },
             "decryptionkey": ""
@@ -66,12 +81,17 @@
         "branches": {
             "public": {
                 "buildid": "16524291",
-                "timeupdated": "1732540178"
+                "timeupdated": "1741775144"
             },
             "update_24062020": {
                 "buildid": "5699426",
                 "description": "DLC announced",
                 "timeupdated": "1603020567"
+            },
+            "09032025_test": {
+                "buildid": "17653291",
+                "description": "Last changes testing",
+                "timeupdated": "1741536303"
             }
         },
         "privatebranches": "1"
