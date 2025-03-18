@@ -4,8 +4,8 @@
     "name": "No-brainer Heroes",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26951327",
-    "update_time": "2025-01-11 11:16:05",
+    "change_number": "27855570",
+    "update_time": "2025-03-09 10:07:48",
     "depot": {
         "228988": {
             "config": {
@@ -36,7 +36,7 @@
                     "download": "206743712"
                 }
             },
-            "decryptionkey": "e376e8417b40c152bc61771a25d9b8506d2ada5b6d9a73db0fb6399796f069de"
+            "decryptionkey": ""
         },
         "1097422": {
             "config": {
@@ -51,7 +51,7 @@
                     "download": "186448304"
                 }
             },
-            "decryptionkey": "fb5905b3bc25244b7a6f9261f322fe2430d1ada569a5f22cd537ede0aa17b08b"
+            "decryptionkey": ""
         },
         "1212900": {
             "config": {
@@ -65,7 +65,7 @@
                     "download": "7959312"
                 }
             },
-            "decryptionkey": "4a943720239c62236a684bd1ab60a6ef59a523c8360b0db6badd506d8cfbecf7"
+            "decryptionkey": ""
         },
         "1097423": {
             "config": {
@@ -79,7 +79,7 @@
                     "download": "200049360"
                 }
             },
-            "decryptionkey": "e2f274db6c87a808e92301bff7dc4ad35a7fae8422203600c13c4b9219523c40"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
