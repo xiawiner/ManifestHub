@@ -4,8 +4,8 @@
     "name": "VR长征",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27268521",
-    "update_time": "2025-02-01 21:13:30",
+    "change_number": "27903986",
+    "update_time": "2025-03-12 12:19:51",
     "depot": {
         "228985": {
             "config": {
@@ -29,12 +29,12 @@
                     "download": "1678493216"
                 }
             },
-            "decryptionkey": "14266a98302bedf7dc988ccd5e2197a011ce9348db5abb767594402d986377a5"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
                 "buildid": "5183510",
-                "timeupdated": "1602152039"
+                "timeupdated": "1741753188"
             }
         }
     }
