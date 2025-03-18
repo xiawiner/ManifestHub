@@ -4,8 +4,8 @@
     "name": "TV Thief",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26856057",
-    "update_time": "2025-01-04 05:13:08",
+    "change_number": "27830317",
+    "update_time": "2025-03-07 15:07:36",
     "depot": {
         "228988": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "241508576"
                 }
             },
-            "decryptionkey": "a1658a20a352b8d3271de333cd1ca83eed09848482936ff2d5b56d704fea5851"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
