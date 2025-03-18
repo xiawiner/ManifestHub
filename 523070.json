@@ -4,8 +4,8 @@
     "name": "Black Forest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27014867",
-    "update_time": "2025-01-16 06:14:13",
+    "change_number": "27750160",
+    "update_time": "2025-03-03 16:08:30",
     "depot": {
         "523071": {
             "config": {
@@ -14,12 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5835109664739076596",
-                    "size": "4846448008",
-                    "download": "2286754608"
+                    "gid": "3304232682292237214",
+                    "size": "4916341157",
+                    "download": "2299154832"
+                },
+                "preview": {
+                    "gid": "3304232682292237214",
+                    "size": "4916341157",
+                    "download": "2299154832"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "9c0bd66d7bee8d6142b7a677eb42f195767fc3c56831eee5d0a62a482f0c99e7"
         },
         "523072": {
             "config": {
@@ -28,9 +33,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1240828809676565101",
-                    "size": "4677869501",
-                    "download": "2254656416"
+                    "gid": "3426732883581390660",
+                    "size": "4747634666",
+                    "download": "2267031904"
+                },
+                "preview": {
+                    "gid": "3426732883581390660",
+                    "size": "4747634666",
+                    "download": "2267031904"
                 }
             },
             "decryptionkey": "fa042b023b2b5ace22d662149ae1650fcfedc37dd5c6a0b662e93ef1a246c1e1"
@@ -42,17 +52,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5284950973505722166",
-                    "size": "4912136614",
-                    "download": "2310281280"
+                    "gid": "6952589466879715990",
+                    "size": "4983778875",
+                    "download": "2323330528"
+                },
+                "preview": {
+                    "gid": "6952589466879715990",
+                    "size": "4983778875",
+                    "download": "2323330528"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16843111",
-                "timeupdated": "1736771796"
+                "buildid": "17498818",
+                "timeupdated": "1740989306"
+            },
+            "preview": {
+                "buildid": "17498818",
+                "description": "occasional pre-releases",
+                "timeupdated": "1740489662"
             }
         },
         "privatebranches": "1"
