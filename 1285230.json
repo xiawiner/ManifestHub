@@ -4,8 +4,8 @@
     "name": "Ultimate Racing 2D 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27235949",
-    "update_time": "2025-01-30 22:04:39",
+    "change_number": "27979277",
+    "update_time": "2025-03-16 16:20:34",
     "depot": {
         "1285232": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4822150584515992777",
+                    "gid": "7313148197834701819",
                     "size": "2556565573",
-                    "download": "2498327040"
+                    "download": "2498329728"
                 }
             },
             "decryptionkey": "cc40d30c74f2b18479d080a384b1f2ac3e3e0e79d6062a965abb9f2382055e79"
@@ -49,8 +49,8 @@
         "workshopdepot": "1285230",
         "branches": {
             "public": {
-                "buildid": "17190611",
-                "timeupdated": "1738274178"
+                "buildid": "17592335",
+                "timeupdated": "1741109100"
             }
         },
         "privatebranches": "1",
