@@ -4,8 +4,8 @@
     "name": "OMG Zombies!",
     "schinese_name": "OMG僵尸",
     "isfreeapp": "0",
-    "change_number": "27265272",
-    "update_time": "2025-02-01 12:32:37",
+    "change_number": "27872428",
+    "update_time": "2025-03-10 22:02:06",
     "depot": {
         "overridescddb": "1",
         "228990": {
@@ -28,7 +28,7 @@
                     "download": "6066647461"
                 }
             },
-            "decryptionkey": "4f2e5a5425ad67bc5baf910526ff1d2459030251141a70965aebad394995bbab"
+            "decryptionkey": ""
         },
         "markdlcdepots": "1",
         "branches": {
