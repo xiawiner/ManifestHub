@@ -4,8 +4,8 @@
     "name": "Ratz Instagib 2.0",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27715591",
-    "update_time": "2025-02-28 19:00:47",
+    "change_number": "27981604",
+    "update_time": "2025-03-16 22:54:51",
     "depot": {
         "338171": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6667544774254874953",
-                    "size": "1168943677",
-                    "download": "376447280"
+                    "gid": "6872518134229366739",
+                    "size": "1178643996",
+                    "download": "380319424"
                 }
             },
             "decryptionkey": "a0db2a939c93f1889ed7d74eca3c3b0f0f4175e2177880593435285c8bdbaff8"
@@ -26,9 +26,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8421397443663984954",
-                    "size": "1120084562",
-                    "download": "371844992"
+                    "gid": "8597426771880724485",
+                    "size": "1129766498",
+                    "download": "375645184"
                 }
             },
             "decryptionkey": ""
@@ -37,8 +37,8 @@
         "baselanguages": "english,german,french,spanish,russian",
         "branches": {
             "public": {
-                "buildid": "14133844",
-                "timeupdated": "1713971842"
+                "buildid": "17742291",
+                "timeupdated": "1742136858"
             }
         },
         "privatebranches": "1",
