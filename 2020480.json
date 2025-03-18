@@ -4,8 +4,8 @@
     "name": "魔导圣战:风色幻想",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25684514",
-    "update_time": "2024-10-12 20:58:32",
+    "change_number": "27777958",
+    "update_time": "2025-03-05 00:41:43",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "131018112"
                 }
             },
-            "decryptionkey": "28e158fc5d9d4119dd2af72d740ec6bbad8253798b30adbfda1c1f135f4cd4ba"
+            "decryptionkey": ""
         },
         "baselanguages": "tchinese",
         "branches": {
