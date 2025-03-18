@@ -4,8 +4,8 @@
     "name": "Angel at Dusk",
     "schinese_name": "黄昏的天使",
     "isfreeapp": "0",
-    "change_number": "27387395",
-    "update_time": "2025-02-09 21:15:05",
+    "change_number": "27978104",
+    "update_time": "2025-03-16 11:56:21",
     "depot": {
         "baselanguages": "english,schinese,tchinese,japanese",
         "228981": {
@@ -63,9 +63,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5755176713584644354",
-                    "size": "952055079",
-                    "download": "870929184"
+                    "gid": "3595078418524625825",
+                    "size": "766598529",
+                    "download": "746503120"
                 }
             },
             "decryptionkey": "bbb8a1a4d9242c0811f26813add00cd9e9611731d3916b1f150dac1b59613055"
@@ -114,8 +114,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "14371500",
-                "timeupdated": "1715753588"
+                "buildid": "17740758",
+                "timeupdated": "1742097377"
             }
         },
         "privatebranches": "1"
