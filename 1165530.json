@@ -4,8 +4,8 @@
     "name": "Offroad Truck Simulator – Heavy Duty Challenge",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26997503",
-    "update_time": "2025-01-15 06:30:11",
+    "change_number": "27869522",
+    "update_time": "2025-03-10 18:50:05",
     "depot": {
         "228989": {
             "config": {
@@ -22,7 +22,7 @@
                     "download": "21421896416"
                 }
             },
-            "decryptionkey": "608c772d3d197525fc90a4b8b411618f56c6b827e3b278b104747333d6829dc7"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,hungarian,czech,turkish,brazilian",
         "branches": {
