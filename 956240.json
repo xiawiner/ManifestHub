@@ -4,8 +4,8 @@
     "name": "Simson Tuningwerkstatt 3D",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26946639",
-    "update_time": "2025-01-11 02:50:53",
+    "change_number": "27898603",
+    "update_time": "2025-03-12 04:33:41",
     "depot": {
         "baselanguages": "english,german,polish,hungarian,czech,vietnamese",
         "workshopdepot": "956240",
@@ -36,14 +36,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1549014484385707564",
-                    "size": "3670506776",
-                    "download": "1185021424"
+                    "gid": "8390940133105364304",
+                    "size": "3717766677",
+                    "download": "1203460304"
                 },
                 "beta": {
-                    "gid": "3147698872083934514",
-                    "size": "3720221191",
-                    "download": "1203674944"
+                    "gid": "8390940133105364304",
+                    "size": "3717766677",
+                    "download": "1203460304"
                 }
             },
             "decryptionkey": ""
@@ -54,14 +54,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7696909344497021930",
-                    "size": "3670518996",
-                    "download": "1183090128"
+                    "gid": "6907594501968410361",
+                    "size": "3717766677",
+                    "download": "1201174608"
                 },
                 "beta": {
-                    "gid": "6740512839040096009",
-                    "size": "3720221191",
-                    "download": "1201397040"
+                    "gid": "6907594501968410361",
+                    "size": "3717766677",
+                    "download": "1201174608"
                 }
             },
             "decryptionkey": "08a8aed2f22320bd2c996be47074e47f17ec538410efc078d752366eca0e3f2b"
@@ -106,13 +106,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "15295491",
-                "timeupdated": "1725032025"
+                "buildid": "17683077",
+                "timeupdated": "1741725217"
             },
             "beta": {
-                "buildid": "17469609",
+                "buildid": "17683077",
                 "description": "Beta Version",
-                "timeupdated": "1740261209"
+                "timeupdated": "1741725166"
             }
         },
         "workshopdepotdecryptionkey": ""
