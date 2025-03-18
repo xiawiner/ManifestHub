@@ -4,8 +4,8 @@
     "name": "The Forever Winter Demo",
     "schinese_name": "永恒寒冬",
     "isfreeapp": "0",
-    "change_number": "26269644",
-    "update_time": "2024-11-20 06:20:42",
+    "change_number": "27964694",
+    "update_time": "2025-03-15 04:36:24",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,ukrainian",
         "228989": {
@@ -29,17 +29,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2195888597977392556",
-                    "size": "69107942746",
-                    "download": "28167679040"
+                    "gid": "6295685042119326859",
+                    "size": "78887205750",
+                    "download": "55032332560"
                 }
-            },
-            "decryptionkey": "321ee9f3d49960571c1de2981d3df65c6d86d73a4c10367a0052f4938d7e39ab"
+            }
         },
         "branches": {
             "public": {
-                "buildid": "16462509",
-                "timeupdated": "1732054840"
+                "buildid": "17700469",
+                "timeupdated": "1741984575"
             }
         },
         "privatebranches": "1"
