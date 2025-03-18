@@ -4,8 +4,8 @@
     "name": "Slappy Board",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27246770",
-    "update_time": "2025-01-31 11:37:54",
+    "change_number": "27753301",
+    "update_time": "2025-03-03 20:15:52",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "2974661296"
                 }
             },
-            "decryptionkey": "125a4954bb095a1040b7b72c6cc81447bf40728116a5934dd020528c0e1cde3e"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
