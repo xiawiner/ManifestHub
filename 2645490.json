@@ -4,8 +4,8 @@
     "name": "Ghostbane",
     "schinese_name": "幽灵猎人 Ghostbane",
     "isfreeapp": "0",
-    "change_number": "27277992",
-    "update_time": "2025-02-02 23:36:45",
+    "change_number": "27991798",
+    "update_time": "2025-03-17 18:56:04",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "9852543024"
                 }
             },
-            "decryptionkey": "6c02ebfd400609aca6a521f670c2a4ae3ef96ce643325e124ca9686f62bca3e9"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
