@@ -4,8 +4,8 @@
     "name": "Animal Super Squad",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25447306",
-    "update_time": "2024-09-30 00:01:12",
+    "change_number": "27970606",
+    "update_time": "2025-03-15 16:23:31",
     "depot": {
         "228986": {
             "config": {
@@ -38,7 +38,7 @@
                     "download": "229491728"
                 }
             },
-            "decryptionkey": "4ef78b7a85b7fbc827f488438b00996bedfff27aa50ce35219cf88cf324e11f1"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
