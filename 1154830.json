@@ -4,8 +4,8 @@
     "name": "Scathe",
     "schinese_name": "炼狱神罚",
     "isfreeapp": "0",
-    "change_number": "27411692",
-    "update_time": "2025-02-11 09:18:36",
+    "change_number": "27897684",
+    "update_time": "2025-03-12 03:21:54",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "18609615408"
                 }
             },
-            "decryptionkey": "550c60dc43f05ffbaa4bc67d5918f72a0e1edc1fbae2b762294f0aef2decd078"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
