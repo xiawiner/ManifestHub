@@ -4,8 +4,8 @@
     "name": "Bus Simulator 18",
     "schinese_name": "模拟巴士18",
     "isfreeapp": "0",
-    "change_number": "27009499",
-    "update_time": "2025-01-15 23:13:35",
+    "change_number": "27933152",
+    "update_time": "2025-03-13 20:52:51",
     "depot": {
         "workshopdepot": "515180",
         "baselanguages": "",
@@ -36,7 +36,7 @@
                     "download": "4019985296"
                 }
             },
-            "decryptionkey": "e77067dcd3c0631114fffc2a39b84c920418771f7164729e262ee79c60fe7548"
+            "decryptionkey": ""
         },
         "515182": {
             "config": {
@@ -49,7 +49,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "5120b61cfe520566e74adaabf078d150df6b1867c66fd8f74850265e89245def"
+            "decryptionkey": ""
         },
         "515183": {
             "config": {
@@ -62,7 +62,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "216a92d6b9136e9675df040e5d6586ed712b1fb357e911fb1999e4834c9bfe65"
+            "decryptionkey": ""
         },
         "515184": {
             "config": {
@@ -75,7 +75,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "84849cb4721d8cf0b587d659e91ea0f2cd6f5d1f94a8ea3d22587cdefc5a8c94"
+            "decryptionkey": ""
         },
         "515185": {
             "config": {
@@ -88,7 +88,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "4b89c83121be134695c53bbde99b7bde31ea83a9a5bdd2781cc46f59d840f072"
+            "decryptionkey": ""
         },
         "515186": {
             "config": {
@@ -101,7 +101,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "58b1ea4df8bf48c08e5b7951204488aadad64e45d3b3e7bed70f269051365daf"
+            "decryptionkey": ""
         },
         "515187": {
             "config": {
@@ -114,7 +114,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "0b31c2be91bdc5cc2092c391c0e1e4ffdf1646accc10d4260ba80e753557f527"
+            "decryptionkey": ""
         },
         "515188": {
             "config": {
@@ -127,7 +127,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "630321d8ce73e5ded5a29e27451875abbd810b148e57961f0f997264ddf75947"
+            "decryptionkey": ""
         },
         "515189": {
             "config": {
@@ -140,7 +140,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "a7403eb3890066cc0af91be5053763f9fe11856d35a19e66530cc7c6146c8237"
+            "decryptionkey": ""
         },
         "832900": {
             "config": {
@@ -153,7 +153,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "cf392973933aa8222497749c6a30c911e1249370e493c1d8254295228c68767e"
+            "decryptionkey": ""
         },
         "832901": {
             "config": {
@@ -166,7 +166,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "cfacc95770644dd80257552fa3f6cfdcb39294e30a7bd2779e44d119cc65e5eb"
+            "decryptionkey": ""
         },
         "832902": {
             "config": {
@@ -179,7 +179,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "b0502b9b4cc1bc2b400a69b52f7e1803fa305500f1e1d3453d00f964755fd656"
+            "decryptionkey": ""
         },
         "832903": {
             "config": {
@@ -192,7 +192,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "3da4129e6b1d6ebe0109370c5f7945462770fb11f102a8316acd562c933771b2"
+            "decryptionkey": ""
         },
         "832904": {
             "config": {
@@ -205,7 +205,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "64e7bfdb80a289eec4ab5a0a05fcf4ecb38e5393020485e781089df41e68c78f"
+            "decryptionkey": ""
         },
         "968911": {
             "dlcappid": "968911",
@@ -219,7 +219,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "3c1a9eca18ea00956f8e9e6da3e7ec2c6ebcb7b9af9eeac76a8193c2365baad2"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
@@ -228,6 +228,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "19a82436714ef73738abd3f745d0c3f809cc104d205604d5fe2ba924cb4b0f50"
+        "workshopdepotdecryptionkey": ""
     }
 }
