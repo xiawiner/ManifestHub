@@ -4,8 +4,8 @@
     "name": "The Dark Pictures Anthology: The Devil in Me - Friend's Pass",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27502866",
-    "update_time": "2025-02-16 21:14:12",
+    "change_number": "27741005",
+    "update_time": "2025-03-02 18:46:31",
     "depot": {
         "228988": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "37355059632"
                 }
             },
-            "decryptionkey": "24b5bdd3937840f43270c8c888996d234871d5214a78a5e674358fcdbf804132"
+            "decryptionkey": ""
         },
         "1567023": {
             "depotfromapp": "1567020",
