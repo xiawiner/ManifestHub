@@ -4,8 +4,8 @@
     "name": "动物农场",
     "schinese_name": "动物农场",
     "isfreeapp": "0",
-    "change_number": "26914150",
-    "update_time": "2025-01-09 05:29:04",
+    "change_number": "27952272",
+    "update_time": "2025-03-14 16:58:18",
     "depot": {
         "baselanguages": "english,french,koreana,schinese,tchinese,japanese",
         "hasdepotsindlc": "0",
@@ -16,14 +16,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2211866723194120235",
-                    "size": "172252206",
-                    "download": "51119232"
+                    "gid": "5724706169455892073",
+                    "size": "172278140",
+                    "download": "51420192"
                 },
                 "test_version": {
-                    "gid": "5689255193205736499",
-                    "size": "172288942",
-                    "download": "51131024"
+                    "gid": "5724706169455892073",
+                    "size": "172278140",
+                    "download": "51420192"
                 }
             },
             "decryptionkey": "cb399e2b2359bd26fae16a31ee5bc0bb5c7867273342efac49c506409dc88181"
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2810106472056106425",
-                    "size": "189305785",
-                    "download": "58034752"
+                    "gid": "7520131783768606356",
+                    "size": "190742016",
+                    "download": "58401328"
                 },
                 "test_version": {
                     "gid": "1300853643844027101",
@@ -49,13 +49,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "16944182",
-                "timeupdated": "1736371738"
+                "buildid": "17722277",
+                "timeupdated": "1741942694"
             },
             "test_version": {
-                "buildid": "16944164",
+                "buildid": "17721737",
                 "description": "for beta test",
-                "timeupdated": "1736371550"
+                "timeupdated": "1741939872"
             }
         }
     }
