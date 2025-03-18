@@ -4,8 +4,8 @@
     "name": "Planet B24",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27491955",
-    "update_time": "2025-02-15 15:14:07",
+    "change_number": "27853495",
+    "update_time": "2025-03-09 04:08:33",
     "depot": {
         "228988": {
             "config": {
@@ -34,7 +34,7 @@
                     "download": "1061962976"
                 }
             },
-            "decryptionkey": "d02a16cd5993f77a96d9ca2ba848a1a5a9797535c56d2519e161fb1c9bad044b"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
