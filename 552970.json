@@ -4,8 +4,8 @@
     "name": "Sumoman",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26827711",
-    "update_time": "2025-01-01 02:18:28",
+    "change_number": "27740714",
+    "update_time": "2025-03-02 17:44:46",
     "depot": {
         "228983": {
             "config": {
@@ -39,7 +39,7 @@
                     "download": "1276035808"
                 }
             },
-            "decryptionkey": "0d2be83141957c9680d3eb0431d02142856c996032370f3a8e7be26fd744e5fe"
+            "decryptionkey": ""
         },
         "552972": {
             "config": {
@@ -53,7 +53,7 @@
                     "download": "1289167792"
                 }
             },
-            "decryptionkey": "e4714383977e2cc2386a1a8c0f12c4395d740f5114f3b965404de8c1e28172db"
+            "decryptionkey": ""
         },
         "552973": {
             "config": {
@@ -67,7 +67,7 @@
                     "download": "1271867040"
                 }
             },
-            "decryptionkey": "303e45605d43cc7e0d81899f8623d9094f9d67c92ac6cb517d04f43afd4aa1a4"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
