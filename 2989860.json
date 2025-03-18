@@ -4,8 +4,8 @@
     "name": "Ells Tales: Egg",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27496402",
-    "update_time": "2025-02-16 02:14:30",
+    "change_number": "27966137",
+    "update_time": "2025-03-15 06:22:56",
     "depot": {
         "228988": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "108782256"
                 }
             },
-            "decryptionkey": "ed37edecb3fe16e574b80a7ce84b07b2338e60c5c7d89786e632ee7006362bff"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
