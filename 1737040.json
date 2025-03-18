@@ -4,8 +4,8 @@
     "name": "Motor Town: Behind The Wheel Beta Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27172583",
-    "update_time": "2025-01-26 23:05:12",
+    "change_number": "27741397",
+    "update_time": "2025-03-02 19:52:19",
     "depot": {
         "228988": {
             "config": {
@@ -28,17 +28,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2463146248517013167",
-                    "size": "3122944727",
-                    "download": "2768293520"
+                    "gid": "5241940646002796137",
+                    "size": "3248194635",
+                    "download": "2893733728"
                 }
-            },
-            "decryptionkey": "cb05e8f01c6561028c45e74fd280f1e9c96caefd2c0b54d7d326268443826667"
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17136838",
-                "timeupdated": "1737903905"
+                "buildid": "17562303",
+                "timeupdated": "1740916335"
             }
         },
         "privatebranches": "1"
