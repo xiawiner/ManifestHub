@@ -4,8 +4,8 @@
     "name": "KarmaZoo",
     "schinese_name": "因果动物园",
     "isfreeapp": "0",
-    "change_number": "26868648",
-    "update_time": "2025-01-06 00:13:26",
+    "change_number": "27980484",
+    "update_time": "2025-03-16 19:55:52",
     "depot": {
         "228984": {
             "config": {
@@ -40,7 +40,7 @@
                     "download": "350928864"
                 }
             },
-            "decryptionkey": "3df84994234aeeabe1560a3021763a3ecd231c6c5d53267e67a2e7282d17155c"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
