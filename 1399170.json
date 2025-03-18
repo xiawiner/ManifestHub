@@ -4,8 +4,8 @@
     "name": "Nimbus INFINITY",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27247786",
-    "update_time": "2025-01-31 13:34:44",
+    "change_number": "27993532",
+    "update_time": "2025-03-17 20:56:23",
     "depot": {
         "228988": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "3820673168"
                 }
             },
-            "decryptionkey": "21570ea01d0c0b319900e51abd903642b669e3e0ac767976be19ae1bc04f6d64"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
