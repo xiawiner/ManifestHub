@@ -4,8 +4,8 @@
     "name": "Undead Horde",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25567389",
-    "update_time": "2024-10-07 20:29:30",
+    "change_number": "27748700",
+    "update_time": "2025-03-03 13:15:58",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese,finnish,brazilian",
         "228986": {
@@ -50,7 +50,7 @@
                     "download": "99035600"
                 }
             },
-            "decryptionkey": "7041502a9ae043b2e8a9b298a0e5564b07d7add75caa9d59830c3cf38327d3d1"
+            "decryptionkey": ""
         },
         "790852": {
             "config": {
@@ -73,7 +73,7 @@
                     "download": "89474384"
                 }
             },
-            "decryptionkey": "ef13b9805c1b53796aa3156ab8a8b2b29d8ebeebf30fb20bd5f89ad8b87b6953"
+            "decryptionkey": ""
         },
         "790853": {
             "config": {
@@ -96,7 +96,7 @@
                     "download": "100914160"
                 }
             },
-            "decryptionkey": "1d1c7843c860fda394a451796c5a960ad88c0c97d6a59eabda8a51e08af547a1"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
