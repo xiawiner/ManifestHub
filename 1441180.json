@@ -4,8 +4,8 @@
     "name": "Dofamine",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27331800",
-    "update_time": "2025-02-06 03:01:31",
+    "change_number": "27762542",
+    "update_time": "2025-03-04 06:18:23",
     "depot": {
         "228988": {
             "config": {
@@ -24,17 +24,17 @@
         "1441181": {
             "manifests": {
                 "public": {
-                    "gid": "6858639587823385681",
-                    "size": "2030068537",
-                    "download": "565137808"
+                    "gid": "7937951574983673285",
+                    "size": "2030177206",
+                    "download": "565185584"
                 }
             },
-            "decryptionkey": "595c4fee967aceddd7f2f30eddbd76aa97fd564839bfb38e36b23cacb920022e"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "12372245",
-                "timeupdated": "1696580384"
+                "buildid": "17580390",
+                "timeupdated": "1741040296"
             }
         }
     }
