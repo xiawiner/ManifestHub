@@ -4,8 +4,8 @@
     "name": "FINAL FANTASY X/X-2 HD Remaster",
     "schinese_name": "最终幻想X/X-2 高清重制版",
     "isfreeapp": "0",
-    "change_number": "27143458",
-    "update_time": "2025-01-24 13:21:31",
+    "change_number": "27783405",
+    "update_time": "2025-03-05 06:23:43",
     "depot": {
         "228984": {
             "config": {
@@ -40,7 +40,7 @@
                     "download": "36319052720"
                 }
             },
-            "decryptionkey": "8e28e18ac8cc58c9c81ddd3022ad0bfcb15e378768d5fc713dcb0254e6d93fff"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
