@@ -4,8 +4,8 @@
     "name": "Handyman Corporation",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27205922",
-    "update_time": "2025-01-29 02:35:07",
+    "change_number": "27969606",
+    "update_time": "2025-03-15 13:23:43",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "1941566832"
                 }
             },
-            "decryptionkey": "96986e91e2d5b285a66e2ede44534ce7469bb7972a50e565746df73276dfd3e4"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,koreana,schinese,tchinese,russian,japanese,portuguese,polish,turkish,brazilian",
         "branches": {
