@@ -4,8 +4,8 @@
     "name": "Just Skill Shooter 4",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26933857",
-    "update_time": "2025-01-10 10:20:37",
+    "change_number": "27804092",
+    "update_time": "2025-03-06 07:08:34",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "3010970416"
                 }
             },
-            "decryptionkey": "74309f5166ce0ba7de4f8f43704c41868becfeca5c9b4176479831b849a999b9"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
