@@ -4,8 +4,8 @@
     "name": "INESCAPED",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26475681",
-    "update_time": "2024-12-05 11:36:09",
+    "change_number": "27996065",
+    "update_time": "2025-03-17 22:39:50",
     "depot": {
         "baselanguages": "english",
         "228989": {
@@ -37,24 +37,62 @@
             },
             "decryptionkey": "e6d03dfdf6ee31038ddb3aeff5b6bc141e8eaaf482a44e4a77aee8c3929fe405"
         },
-        "2875444": {
+        "2875441": {
             "config": {
-                "oslist": "windows",
-                "osarch": "64"
+                "oslist": "windows"
             },
             "manifests": {
                 "public": {
-                    "gid": "6755910951227481926",
-                    "size": "1649561213",
-                    "download": "1327475520"
+                    "gid": "2347192992913648453",
+                    "size": "5280807077",
+                    "download": "2153013584"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2875442": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2615971773212027536",
+                    "size": "5281844820",
+                    "download": "2154012960"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2875444": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4746100966027609283",
+                    "size": "5281840724",
+                    "download": "2153573184"
                 }
             },
             "decryptionkey": "f86ac00e005b8b49c51c18a64e9f2e265871038a94969ec359b9fe1d08fd1a83"
         },
+        "2875445": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5164915499306395226",
+                    "size": "5281844820",
+                    "download": "2153576448"
+                }
+            },
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
-                "buildid": "16616467",
-                "timeupdated": "1733239258"
+                "buildid": "17752905",
+                "timeupdated": "1742222383"
             }
         }
     }
