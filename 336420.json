@@ -4,8 +4,8 @@
     "name": "Bloodsports.TV",
     "schinese_name": "血腥竞技电台",
     "isfreeapp": "0",
-    "change_number": "27335115",
-    "update_time": "2025-02-06 07:17:32",
+    "change_number": "27969254",
+    "update_time": "2025-03-15 12:22:21",
     "depot": {
         "228982": {
             "config": {
@@ -43,7 +43,7 @@
                     "download": "1184141712"
                 }
             },
-            "decryptionkey": "7adbb562503f7136bbe99da70ffe4a6b85d3c32b0f2ae77a0febf7f50740ebf6"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
