@@ -4,8 +4,8 @@
     "name": "风色幻想XX:交错的轨迹",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25612213",
-    "update_time": "2024-10-10 19:30:15",
+    "change_number": "27980815",
+    "update_time": "2025-03-16 20:56:03",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "1028102240"
                 }
             },
-            "decryptionkey": "0c094fba007baecaa1c2bb0f35f8819a2abcae6cd2e75bc9407011453345e4fa"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
