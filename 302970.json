@@ -4,8 +4,8 @@
     "name": "Radiant Defense",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26225204",
-    "update_time": "2024-11-16 18:25:54",
+    "change_number": "27743019",
+    "update_time": "2025-03-03 00:15:03",
     "depot": {
         "228990": {
             "config": {
@@ -25,7 +25,7 @@
                     "download": "11150640"
                 }
             },
-            "decryptionkey": "bf51d291cbb5ff8cb9a87fdb40db47ead5af2f0f862647501b232b0e360eac4d"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,spanish,russian,brazilian",
         "branches": {
