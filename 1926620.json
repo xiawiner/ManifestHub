@@ -4,8 +4,8 @@
     "name": "The Backrooms: Lost Tape",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27731272",
-    "update_time": "2025-03-01 16:46:08",
+    "change_number": "27973651",
+    "update_time": "2025-03-15 23:59:13",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "11698250432"
                 }
             },
-            "decryptionkey": "86c3570bbf4bb83b808820abbf83678055b74d43586bdde9bb8925d040af0991"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
