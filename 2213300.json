@@ -4,8 +4,8 @@
     "name": "Might & Magic: Clash of Heroes - Definitive Edition",
     "schinese_name": "魔法门：英雄交锋决定版",
     "isfreeapp": "0",
-    "change_number": "27345343",
-    "update_time": "2025-02-06 21:22:01",
+    "change_number": "27736751",
+    "update_time": "2025-03-02 05:45:44",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,polish,czech",
         "228988": {
@@ -34,7 +34,7 @@
                     "download": "1158434560"
                 }
             },
-            "decryptionkey": "8c4e3ece3a273a60d9f657e2426ab58c6fb8ad0fa69949a61608a36cef4f563c"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
