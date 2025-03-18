@@ -4,8 +4,8 @@
     "name": "Again and Again",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27388712",
-    "update_time": "2025-02-10 00:27:02",
+    "change_number": "27976767",
+    "update_time": "2025-03-16 07:54:05",
     "depot": {
         "228989": {
             "config": {
@@ -33,7 +33,7 @@
                     "download": "5677388624"
                 }
             },
-            "decryptionkey": "8a28fcd33be258e386e9c292d855c700023ebb7f430ce1490bbb13edf9ff156d"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
