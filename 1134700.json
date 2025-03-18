@@ -4,8 +4,8 @@
     "name": "Wild Terra 2: New Lands",
     "schinese_name": "荒野之地2: 新大陆 / Wild Terra 2: New Lands",
     "isfreeapp": "0",
-    "change_number": "27493024",
-    "update_time": "2025-02-15 18:07:12",
+    "change_number": "28007456",
+    "update_time": "2025-03-18 13:55:52",
     "depot": {
         "228988": {
             "config": {
@@ -36,7 +36,7 @@
                     "download": "3178743744"
                 }
             },
-            "decryptionkey": "4760fc3eb52b780e294b15f3c907e77081c0e04233d5495645c3ac1ff3b6dfc8"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,turkish,brazilian,ukrainian",
         "branches": {
