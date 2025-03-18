@@ -4,8 +4,8 @@
     "name": "Replik Survivors",
     "schinese_name": "蕾普莉卡幸存者",
     "isfreeapp": "0",
-    "change_number": "26918103",
-    "update_time": "2025-01-09 12:15:26",
+    "change_number": "27753082",
+    "update_time": "2025-03-03 19:57:56",
     "depot": {
         "baselanguages": "english,koreana,schinese,tchinese,russian,japanese",
         "228989": {
@@ -30,7 +30,7 @@
                     "download": "179817568"
                 }
             },
-            "decryptionkey": "9b5b6e49f67d2b8123eeecfd9b7fa129150244702b53d99e27dee7a831ed60cf"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
