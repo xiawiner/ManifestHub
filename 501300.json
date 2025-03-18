@@ -4,8 +4,8 @@
     "name": "What Remains of Edith Finch",
     "schinese_name": "艾迪芬奇的记忆",
     "isfreeapp": "0",
-    "change_number": "26998573",
-    "update_time": "2025-01-15 08:19:49",
+    "change_number": "27980594",
+    "update_time": "2025-03-16 20:21:02",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,brazilian",
         "hasdepotsindlc": "1",
@@ -31,7 +31,7 @@
                     "download": "2420551312"
                 }
             },
-            "decryptionkey": "957d96d75b0602ec2946f46e298b1c9179a719d977dd1e80d037e13f9c4a7f7d"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
