@@ -4,8 +4,8 @@
     "name": "Fable Anniversary",
     "schinese_name": "神鬼寓言：周年纪念版",
     "isfreeapp": "0",
-    "change_number": "27500170",
-    "update_time": "2025-02-16 12:14:34",
+    "change_number": "27743458",
+    "update_time": "2025-03-03 01:22:18",
     "depot": {
         "228983": {
             "config": {
@@ -37,7 +37,7 @@
                     "download": "9011852420672"
                 }
             },
-            "decryptionkey": "5795bc052b2a0d53947c274a5da3926e6ba122feed6400c5f833e323177dfea9"
+            "decryptionkey": ""
         },
         "319120": {
             "manifests": {
@@ -53,7 +53,7 @@
                 }
             },
             "dlcappid": "319120",
-            "decryptionkey": "0584d850aa452f1020491d01f0981832d8525f47eadf9561a3d3ae45932f9eba"
+            "decryptionkey": ""
         },
         "workshopdepot": "288470",
         "branches": {
@@ -66,6 +66,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "3b6fea06ad0459c4375a1736cf9bfc7d20ab0b86a4fa75eb02242c8eeca41d96"
+        "workshopdepotdecryptionkey": ""
     }
 }
