@@ -4,8 +4,8 @@
     "name": "Infliction",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27712919",
-    "update_time": "2025-02-28 16:50:13",
+    "change_number": "27967373",
+    "update_time": "2025-03-15 08:22:15",
     "depot": {
         "228986": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "4044120480"
                 }
             },
-            "decryptionkey": "e0d89cd6fd582d5767416c537d131b7feea4d585643a366529575288af254137"
+            "decryptionkey": ""
         },
         "692102": {
             "config": {
