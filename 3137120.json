@@ -4,8 +4,8 @@
     "name": "DISORDER: Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27400238",
-    "update_time": "2025-02-10 20:29:42",
+    "change_number": "27833827",
+    "update_time": "2025-03-07 19:09:00",
     "depot": {
         "228989": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "10976538495",
                     "download": "10882153312"
                 }
-            },
-            "decryptionkey": "09522e39f550e6c6a548475e61d268431ad47f84c14669382810551c89737f19"
+            }
         },
         "branches": {
             "public": {
