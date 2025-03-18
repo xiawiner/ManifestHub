@@ -4,8 +4,8 @@
     "name": "Music Man",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25691021",
-    "update_time": "2024-10-13 14:50:03",
+    "change_number": "27746505",
+    "update_time": "2025-03-03 08:15:45",
     "depot": {
         "228988": {
             "config": {
@@ -36,7 +36,7 @@
                     "download": "1188516784"
                 }
             },
-            "decryptionkey": "f0aa03fe951fd76eb99aae999d4be748a0c9ef2636f63ea1fa3d77fbe08c184c"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
