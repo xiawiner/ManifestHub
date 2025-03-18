@@ -4,8 +4,8 @@
     "name": "Abnormality",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27711102",
-    "update_time": "2025-02-28 16:40:13",
+    "change_number": "27981627",
+    "update_time": "2025-03-16 22:58:24",
     "depot": {
         "228989": {
             "config": {
@@ -36,7 +36,7 @@
                     "download": "9338641904"
                 }
             },
-            "decryptionkey": "0eabedd8c6ec1d99ce99c56c005c647ee33a6bd06bdfd4712474ec5d05e66c06"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
