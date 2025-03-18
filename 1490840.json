@@ -4,8 +4,8 @@
     "name": "Bloodshore",
     "schinese_name": "血岸岛",
     "isfreeapp": "0",
-    "change_number": "27271542",
-    "update_time": "2025-02-02 04:32:15",
+    "change_number": "27783315",
+    "update_time": "2025-03-05 06:16:14",
     "depot": {
         "1490841": {
             "manifests": {
@@ -24,9 +24,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6328999954836144694",
-                    "size": "121746649",
-                    "download": "26995472"
+                    "gid": "1118507513968665636",
+                    "size": "122276286",
+                    "download": "27031584"
                 }
             },
             "decryptionkey": ""
@@ -38,9 +38,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6798967544391366930",
-                    "size": "136115913",
-                    "download": "31136448"
+                    "gid": "6001576736844769447",
+                    "size": "136662582",
+                    "download": "31160480"
                 }
             },
             "decryptionkey": "4e888df893a5e95c37b455e662a93e44711b3001062a5ff7d4c5a350eedd1c8c"
@@ -52,17 +52,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3270429422758370279",
-                    "size": "142626581",
-                    "download": "35569504"
+                    "gid": "6063317704105481854",
+                    "size": "143177727",
+                    "download": "35758272"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "14387429",
-                "timeupdated": "1715942039"
+                "buildid": "17576566",
+                "timeupdated": "1741018174"
             }
         },
         "privatebranches": "1"
