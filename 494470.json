@@ -4,8 +4,8 @@
     "name": "My Butler",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26336165",
-    "update_time": "2024-12-05 01:55:35",
+    "change_number": "27901767",
+    "update_time": "2025-03-12 09:10:14",
     "depot": {
         "228990": {
             "config": {
@@ -25,7 +25,7 @@
                     "download": "557308272"
                 }
             },
-            "decryptionkey": "b896d794453d574c46026dfa5b3a4ac9b6b6d8c13641e6f4baff54c48191703e"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
