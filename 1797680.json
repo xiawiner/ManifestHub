@@ -4,8 +4,8 @@
     "name": "Wee Tanks!",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27717593",
-    "update_time": "2025-02-28 21:02:32",
+    "change_number": "28004510",
+    "update_time": "2025-03-18 08:57:03",
     "depot": {
         "hasdepotsindlc": "1",
         "workshopdepot": "1797680",
@@ -16,14 +16,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1588211281091469154",
-                    "size": "1240196482",
-                    "download": "230735840"
+                    "gid": "3189146193694758943",
+                    "size": "1240149782",
+                    "download": "230709920"
                 },
                 "beta": {
-                    "gid": "2253209871054263269",
-                    "size": "1240197296",
-                    "download": "230733008"
+                    "gid": "3189146193694758943",
+                    "size": "1240149782",
+                    "download": "230709920"
                 }
             },
             "decryptionkey": "eb68487f9e715ad50a2c0b91cb97592defe97a3b56818e8f990e8693b624d6a3"
@@ -35,14 +35,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8061351062332853028",
-                    "size": "1295617750",
-                    "download": "245812496"
+                    "gid": "4055903799557587452",
+                    "size": "1295571166",
+                    "download": "245823632"
                 },
                 "beta": {
-                    "gid": "1793399769964590354",
-                    "size": "1295619176",
-                    "download": "245844752"
+                    "gid": "4055903799557587452",
+                    "size": "1295571166",
+                    "download": "245823632"
                 }
             },
             "decryptionkey": ""
@@ -54,14 +54,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8894365130701709492",
-                    "size": "1283736988",
-                    "download": "248172672"
+                    "gid": "42723457650463589",
+                    "size": "1283690404",
+                    "download": "248158096"
                 },
                 "beta": {
-                    "gid": "4681945335901315382",
-                    "size": "1283738414",
-                    "download": "248180400"
+                    "gid": "42723457650463589",
+                    "size": "1283690404",
+                    "download": "248158096"
                 }
             },
             "decryptionkey": ""
@@ -72,14 +72,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2908036702011477879",
-                    "size": "1240196482",
-                    "download": "230790784"
+                    "gid": "3745351651164682090",
+                    "size": "1240149782",
+                    "download": "230763600"
                 },
                 "beta": {
-                    "gid": "1948546441073396077",
-                    "size": "1240197296",
-                    "download": "230786688"
+                    "gid": "3745351651164682090",
+                    "size": "1240149782",
+                    "download": "230763600"
                 }
             },
             "decryptionkey": ""
@@ -90,27 +90,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "951363503588049028",
-                    "size": "1295617750",
-                    "download": "245848144"
+                    "gid": "757436133757619584",
+                    "size": "1295571166",
+                    "download": "245860816"
                 },
                 "beta": {
-                    "gid": "4578342345075461359",
-                    "size": "1295619176",
-                    "download": "245881984"
+                    "gid": "757436133757619584",
+                    "size": "1295571166",
+                    "download": "245860816"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17328567",
-                "timeupdated": "1739318020"
+                "buildid": "17607059",
+                "timeupdated": "1741209946"
             },
             "beta": {
-                "buildid": "17547112",
+                "buildid": "17607059",
                 "description": "Beta builds of the game, latest features, but more bugs",
-                "timeupdated": "1740747747"
+                "timeupdated": "1741192436"
             }
         },
         "privatebranches": "1",
