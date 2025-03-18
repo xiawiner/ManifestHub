@@ -4,8 +4,8 @@
     "name": "PERISH",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27278345",
-    "update_time": "2025-02-03 00:33:01",
+    "change_number": "27810977",
+    "update_time": "2025-03-06 17:01:21",
     "depot": {
         "228989": {
             "config": {
@@ -35,7 +35,7 @@
                     "download": "6950574352"
                 }
             },
-            "decryptionkey": "12a15d878cad1ec3bc984b2f26fea92b0baa1e134a934260f73591c4c20bd191"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
