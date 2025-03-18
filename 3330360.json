@@ -4,8 +4,8 @@
     "name": "Fatal Pursuit",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27722620",
-    "update_time": "2025-03-01 01:47:06",
+    "change_number": "27966786",
+    "update_time": "2025-03-15 07:23:48",
     "depot": {
         "228989": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "2313958656"
                 }
             },
-            "decryptionkey": "0ed070c946dc017780b7c3f1c58a6be76df943798d71f27f663708e36ffcd5d6"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
