@@ -4,8 +4,8 @@
     "name": "Rivals of Aether II Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26183469",
-    "update_time": "2024-11-14 07:40:15",
+    "change_number": "27824908",
+    "update_time": "2025-03-07 07:08:33",
     "depot": {
         "228983": {
             "config": {
@@ -49,8 +49,7 @@
                     "size": "2188252567",
                     "download": "1894667456"
                 }
-            },
-            "decryptionkey": "45c665222684fd54b4d3055f398c2e7e339dfd2d4a6ad9c3c124673bc49112a4"
+            }
         },
         "branches": {
             "public": {
