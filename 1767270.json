@@ -4,8 +4,8 @@
     "name": "Forest adventure",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27259269",
-    "update_time": "2025-02-01 02:32:05",
+    "change_number": "28008050",
+    "update_time": "2025-03-18 14:55:22",
     "depot": {
         "228988": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "815010688"
                 }
             },
-            "decryptionkey": "b3e29af005b77b55fb4e371fd4cadd66d67e6bc046c0a0ad3db085635c1c99c3"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
