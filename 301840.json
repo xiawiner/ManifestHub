@@ -4,8 +4,8 @@
     "name": "City Of Brass",
     "schinese_name": "黄铜之城",
     "isfreeapp": "0",
-    "change_number": "27448164",
-    "update_time": "2025-02-13 06:22:31",
+    "change_number": "27823125",
+    "update_time": "2025-03-07 05:07:09",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,turkish,brazilian",
         "228985": {
@@ -51,7 +51,7 @@
                     "download": "2287797232"
                 }
             },
-            "decryptionkey": "3ecf26b81fe3b3a9f3f44bdeb1120aa084969a8560bd6431bd427717c684d647"
+            "decryptionkey": ""
         },
         "834020": {
             "manifests": {
@@ -62,7 +62,7 @@
                 }
             },
             "dlcappid": "834020",
-            "decryptionkey": "2b065a9ad96209f05a7c0ab2ae7c0aab1912cfa9c743b1a7de583d05ca6bcb7a"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
