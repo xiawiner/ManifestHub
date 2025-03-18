@@ -4,8 +4,8 @@
     "name": "Timeflow",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27730623",
-    "update_time": "2025-03-01 14:53:25",
+    "change_number": "28006806",
+    "update_time": "2025-03-18 12:39:34",
     "depot": {
         "baselanguages": "english,russian",
         "hasdepotsindlc": "0",
@@ -90,9 +90,9 @@
             },
             "manifests": {
                 "beta": {
-                    "gid": "4110993105055311652",
-                    "size": "631718649",
-                    "download": "155092928"
+                    "gid": "6228209298203899740",
+                    "size": "631755697",
+                    "download": "155096944"
                 }
             },
             "decryptionkey": ""
@@ -104,9 +104,9 @@
             },
             "manifests": {
                 "beta": {
-                    "gid": "3061079985484677595",
-                    "size": "590050045",
-                    "download": "141670640"
+                    "gid": "8192893982900087393",
+                    "size": "590087093",
+                    "download": "141673696"
                 }
             },
             "decryptionkey": ""
@@ -117,9 +117,9 @@
             },
             "manifests": {
                 "beta": {
-                    "gid": "4725332064663715571",
-                    "size": "825803091",
-                    "download": "177047408"
+                    "gid": "2655089738278736104",
+                    "size": "825840643",
+                    "download": "177053728"
                 }
             },
             "decryptionkey": ""
@@ -130,9 +130,9 @@
             },
             "manifests": {
                 "beta": {
-                    "gid": "630191196248123729",
-                    "size": "749755149",
-                    "download": "164235968"
+                    "gid": "4487625938415988328",
+                    "size": "749838217",
+                    "download": "164268704"
                 }
             },
             "decryptionkey": ""
@@ -335,9 +335,9 @@
                 "timeupdated": "1740125894"
             },
             "beta": {
-                "buildid": "17557153",
+                "buildid": "17760693",
                 "description": "Beta test branch",
-                "timeupdated": "1740812002"
+                "timeupdated": "1742272770"
             }
         },
         "privatebranches": "1"
