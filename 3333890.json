@@ -4,8 +4,8 @@
     "name": "Panelak",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27536844",
-    "update_time": "2025-02-18 23:18:09",
+    "change_number": "27979521",
+    "update_time": "2025-03-16 16:56:20",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "3333891": {
             "manifests": {
                 "public": {
-                    "gid": "8969428241060889086",
-                    "size": "4583547383",
-                    "download": "4406723008"
+                    "gid": "4551160554510974144",
+                    "size": "4572472008",
+                    "download": "4394098928"
                 }
             },
-            "decryptionkey": "b5e52dd81308451318ddf6c896cb1fed3ac016742cd36cd0d123855bf55206a6"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16984986",
-                "timeupdated": "1736759325"
+                "buildid": "17522443",
+                "timeupdated": "1740645566"
             }
         },
         "privatebranches": "1"
