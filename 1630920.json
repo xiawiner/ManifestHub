@@ -4,8 +4,8 @@
     "name": "Bright Lights of Svetlov",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27157933",
-    "update_time": "2025-01-25 07:27:22",
+    "change_number": "27812132",
+    "update_time": "2025-03-06 18:06:29",
     "depot": {
         "228988": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "3739581504"
                 }
             },
-            "decryptionkey": "0e90a13fb5032cfbbb3e17fa9711e74550eabf3f8e45acfb1d0c5f58ee731c70"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
