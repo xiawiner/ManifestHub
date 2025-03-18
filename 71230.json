@@ -4,8 +4,8 @@
     "name": "Crazy Taxi",
     "schinese_name": "疯狂出租车",
     "isfreeapp": "0",
-    "change_number": "27394082",
-    "update_time": "2025-02-10 12:25:19",
+    "change_number": "27771698",
+    "update_time": "2025-03-04 18:13:55",
     "depot": {
         "228983": {
             "config": {
@@ -30,7 +30,7 @@
                     "download": "25394229127"
                 }
             },
-            "decryptionkey": "a65a024070f07f2dd441bd1cb16c944b8c8358cd49eaf7e523ed266ee68d782d"
+            "decryptionkey": ""
         },
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,spanish",
