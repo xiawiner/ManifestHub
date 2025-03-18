@@ -4,8 +4,8 @@
     "name": "RPG in a Box Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27729490",
-    "update_time": "2025-03-01 11:46:07",
+    "change_number": "27879639",
+    "update_time": "2025-03-11 05:33:08",
     "depot": {
         "863331": {
             "config": {
@@ -13,12 +13,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8985473369064984803",
-                    "size": "223559396",
-                    "download": "157275776"
+                    "gid": "2933103859722273554",
+                    "size": "223559364",
+                    "download": "157275200"
                 }
-            },
-            "decryptionkey": "e2d0ed665b70fc724e4e6260db0cae4638a6a16bdb0fef0a0e10b30edf2c0143"
+            }
         },
         "863332": {
             "config": {
@@ -31,8 +30,7 @@
                     "size": "66092904",
                     "download": "19940784"
                 }
-            },
-            "decryptionkey": "09a3d74aef2599d15ad6e7165585b9093de8509c3e25738ce8b0e41d589b2580"
+            }
         },
         "863333": {
             "config": {
@@ -45,8 +43,7 @@
                     "size": "102522429",
                     "download": "26331104"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "863334": {
             "config": {
@@ -55,12 +52,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7918908154262577129",
-                    "size": "796025293",
-                    "download": "442101968"
+                    "gid": "5159554906641077340",
+                    "size": "796025261",
+                    "download": "442101488"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "863335": {
             "config": {
@@ -73,8 +69,7 @@
                     "size": "54453096",
                     "download": "17233264"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "863336": {
             "config": {
@@ -87,8 +82,7 @@
                     "size": "99657391",
                     "download": "25930320"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "498312": {
             "config": {
@@ -101,13 +95,12 @@
                     "download": "261114672"
                 }
             },
-            "depotfromapp": "498310",
-            "decryptionkey": "e3f1c82e8c8760b393df1ab50bf63c91e7bac75e719816d845a491cd3cfa8784"
+            "depotfromapp": "498310"
         },
         "branches": {
             "public": {
-                "buildid": "17556045",
-                "timeupdated": "1740800760"
+                "buildid": "17561712",
+                "timeupdated": "1740870491"
             }
         }
     }
