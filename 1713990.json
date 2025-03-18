@@ -4,8 +4,8 @@
     "name": "Parasomnia",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26403520",
-    "update_time": "2024-12-05 02:03:57",
+    "change_number": "27844231",
+    "update_time": "2025-03-08 06:08:19",
     "depot": {
         "228988": {
             "config": {
@@ -44,7 +44,7 @@
                     "download": "5634674128"
                 }
             },
-            "decryptionkey": "ea6314ecb9a93663fe355bbe9662414cd75be1ec93213c1078c9cf60c7a1d022"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
