@@ -4,8 +4,8 @@
     "name": "Xenon Racer",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26443016",
-    "update_time": "2024-12-05 09:14:50",
+    "change_number": "27973421",
+    "update_time": "2025-03-15 23:27:11",
     "depot": {
         "228986": {
             "config": {
@@ -40,7 +40,7 @@
                     "download": "5280280784"
                 }
             },
-            "decryptionkey": "33bbcbe9deac845fae05b7b643717c9d99e7f4c7cc5c86d4eb9e97208082580a"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
