@@ -4,8 +4,8 @@
     "name": "The Adventures of LinShanHai - Chapter3:The Headless Woman",
     "schinese_name": "林山海探案集 - 第三案:屍色",
     "isfreeapp": "0",
-    "change_number": "27073269",
-    "update_time": "2025-01-20 18:01:54",
+    "change_number": "27743040",
+    "update_time": "2025-03-03 00:16:48",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "2187110032"
                 }
             },
-            "decryptionkey": "b7ea672a9a6244fd590c41030623446caabe710e99521bab6c920f4b9af4de19"
+            "decryptionkey": ""
         },
         "baselanguages": "schinese",
         "branches": {
