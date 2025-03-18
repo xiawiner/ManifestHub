@@ -4,8 +4,8 @@
     "name": "Suika Shapes",
     "schinese_name": "西瓜形状",
     "isfreeapp": "0",
-    "change_number": "27476001",
-    "update_time": "2025-02-14 17:16:27",
+    "change_number": "27981326",
+    "update_time": "2025-03-16 22:14:15",
     "depot": {
         "baselanguages": "english,japanese",
         "2686691": {
@@ -15,19 +15,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3686941794857222458",
-                    "size": "438764100",
-                    "download": "63979808"
+                    "gid": "7856746679397621557",
+                    "size": "438763931",
+                    "download": "63944000"
                 },
                 "beta": {
-                    "gid": "3686941794857222458",
-                    "size": "438764100",
-                    "download": "63979808"
-                },
-                "previous": {
-                    "gid": "8498047755866317660",
-                    "size": "431907531",
-                    "download": "63939632"
+                    "gid": "7856746679397621557",
+                    "size": "438763931",
+                    "download": "63944000"
                 }
             },
             "decryptionkey": "7c3e669dcfadc1d709fcabc24f15dbba902de24bde3fbe2253297acf0da84941"
@@ -39,19 +34,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3633712342440198286",
-                    "size": "423945306",
-                    "download": "58978256"
+                    "gid": "5678604618184751061",
+                    "size": "423947282",
+                    "download": "58995728"
                 },
                 "beta": {
-                    "gid": "3633712342440198286",
-                    "size": "423945306",
-                    "download": "58978256"
-                },
-                "previous": {
-                    "gid": "8349891929844359849",
-                    "size": "417089971",
-                    "download": "58942176"
+                    "gid": "5678604618184751061",
+                    "size": "423947282",
+                    "download": "58995728"
                 }
             },
             "decryptionkey": ""
@@ -62,19 +52,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "124191778021036965",
-                    "size": "477093197",
-                    "download": "66473008"
+                    "gid": "1309661591652139779",
+                    "size": "477093212",
+                    "download": "66469200"
                 },
                 "beta": {
-                    "gid": "124191778021036965",
-                    "size": "477093197",
-                    "download": "66473008"
-                },
-                "previous": {
-                    "gid": "5579277029643933379",
-                    "size": "470237466",
-                    "download": "66436560"
+                    "gid": "1309661591652139779",
+                    "size": "477093212",
+                    "download": "66469200"
                 }
             },
             "decryptionkey": ""
@@ -86,37 +71,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4903521948932966829",
-                    "size": "434133889",
-                    "download": "65195712"
+                    "gid": "8538664890804215517",
+                    "size": "434133892",
+                    "download": "65193872"
                 },
                 "beta": {
-                    "gid": "4903521948932966829",
-                    "size": "434133889",
-                    "download": "65195712"
-                },
-                "previous": {
-                    "gid": "4846180469778328262",
-                    "size": "427547748",
-                    "download": "65213136"
+                    "gid": "8538664890804215517",
+                    "size": "434133892",
+                    "download": "65193872"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17364047",
-                "timeupdated": "1739524576"
+                "buildid": "17641058",
+                "timeupdated": "1741381749"
             },
             "beta": {
-                "buildid": "17364047",
+                "buildid": "17641058",
                 "description": "beta",
-                "timeupdated": "1739524050"
-            },
-            "previous": {
-                "buildid": "15480286",
-                "description": "In case a new update has issues on your platform, you can play the previous update on this branch",
-                "timeupdated": "1739524556"
+                "timeupdated": "1741381332"
             }
         }
     }
