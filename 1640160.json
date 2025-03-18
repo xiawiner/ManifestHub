@@ -4,8 +4,8 @@
     "name": "G-Darius HD",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27301102",
-    "update_time": "2025-02-04 12:40:07",
+    "change_number": "27973648",
+    "update_time": "2025-03-15 23:58:56",
     "depot": {
         "228990": {
             "config": {
@@ -22,7 +22,7 @@
                     "download": "666406336"
                 }
             },
-            "decryptionkey": "37d573faa8c19707f6a50d6c55fe1e34cc80cfce680a78b36ac3da60130f0919"
+            "decryptionkey": ""
         },
         "baselanguages": "english,japanese",
         "branches": {
