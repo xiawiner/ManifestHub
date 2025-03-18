@@ -4,8 +4,8 @@
     "name": "FINAL FANTASY XIII",
     "schinese_name": "最终幻想13",
     "isfreeapp": "0",
-    "change_number": "27492670",
-    "update_time": "2025-02-15 17:13:26",
+    "change_number": "27857508",
+    "update_time": "2025-03-09 17:01:12",
     "depot": {
         "228983": {
             "config": {
@@ -56,7 +56,7 @@
                     "download": "56430184027278"
                 }
             },
-            "decryptionkey": "80234db32af6ccde408480b0fdce3b9bc0ae476640909a3410943c2ddd62c608"
+            "decryptionkey": ""
         },
         "292122": {
             "config": {
@@ -69,7 +69,7 @@
                     "download": "103960316066861"
                 }
             },
-            "decryptionkey": "661e081643c994179c8265ea189661608b85cd692da489d01396c7ca303c9033"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
