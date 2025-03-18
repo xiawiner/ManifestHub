@@ -4,8 +4,8 @@
     "name": "美少女大战僵尸 Playtest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26953029",
-    "update_time": "2025-01-11 16:30:48",
+    "change_number": "27810052",
+    "update_time": "2025-03-06 15:58:19",
     "depot": {
         "228989": {
             "config": {
@@ -26,17 +26,17 @@
         "2687051": {
             "manifests": {
                 "public": {
-                    "gid": "2688710415436792892",
-                    "size": "5530939228",
-                    "download": "4886938336"
+                    "gid": "9040186358896550295",
+                    "size": "5605609253",
+                    "download": "5025242768"
                 }
             },
-            "decryptionkey": "57ab2b6bfe9aa6bddf27ce09cb0b015b7c66ddef8488f566b89a5aebda6021c6"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16973367",
-                "timeupdated": "1736584245"
+                "buildid": "17558917",
+                "timeupdated": "1741247895"
             }
         }
     }
