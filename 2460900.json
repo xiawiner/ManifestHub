@@ -4,8 +4,8 @@
     "name": "Cursed Bet",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27718277",
-    "update_time": "2025-02-28 21:46:09",
+    "change_number": "27909357",
+    "update_time": "2025-03-12 19:09:32",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "3004682912"
                 }
             },
-            "decryptionkey": "debfd07445a9b103c6bd2caa947ea9254b689cebbd8e24832eb8cba849d1b9ed"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
