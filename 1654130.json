@@ -4,8 +4,8 @@
     "name": "孙美琪疑案：雨儿胡同",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27026269",
-    "update_time": "2025-01-16 22:18:17",
+    "change_number": "27911320",
+    "update_time": "2025-03-12 21:08:03",
     "depot": {
         "228989": {
             "config": {
@@ -33,7 +33,7 @@
                     "download": "2626148752"
                 }
             },
-            "decryptionkey": "d8209e45e9aae395d72ffc3f326e06890aabd043d6973c409d4678faac546233"
+            "decryptionkey": ""
         },
         "1654132": {
             "config": {
