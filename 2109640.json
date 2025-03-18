@@ -4,8 +4,8 @@
     "name": "Cross Concerto",
     "schinese_name": "交汇协奏曲",
     "isfreeapp": "0",
-    "change_number": "26864483",
-    "update_time": "2025-01-05 08:06:10",
+    "change_number": "27751006",
+    "update_time": "2025-03-03 17:22:29",
     "depot": {
         "baselanguages": "schinese,tchinese,japanese",
         "228988": {
@@ -30,7 +30,7 @@
                     "download": "3106975744"
                 }
             },
-            "decryptionkey": "7529321148582795d5ef0f9e07e58867e0d2260cb76001824a3a2be5b06c836d"
+            "decryptionkey": ""
         },
         "2109642": {
             "config": {
@@ -43,7 +43,7 @@
                     "download": "3108106816"
                 }
             },
-            "decryptionkey": "243302d9c5ea6d73bf9dc265f84fc7b18395e1a6f11da9841f8c0c03b7098201"
+            "decryptionkey": ""
         },
         "2109643": {
             "config": {
@@ -56,7 +56,7 @@
                     "download": "3020204704"
                 }
             },
-            "decryptionkey": "2f2c337dee0a67c05d394a4af975a03f674f374a854fed62957e87dd4310d259"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
