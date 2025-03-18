@@ -4,8 +4,8 @@
     "name": "Kingdom of EXPLORERS",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27443688",
-    "update_time": "2025-02-13 01:20:46",
+    "change_number": "27983276",
+    "update_time": "2025-03-17 02:58:24",
     "depot": {
         "228989": {
             "config": {
@@ -35,7 +35,7 @@
                     "download": "625186048"
                 }
             },
-            "decryptionkey": "eeabc71067b624350d764c762c37f6d93de59ff94c670c2d58673438d19a565a"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
