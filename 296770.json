@@ -4,8 +4,8 @@
     "name": "Real Boxing™",
     "schinese_name": "真实拳击",
     "isfreeapp": "0",
-    "change_number": "26609854",
-    "update_time": "2024-12-12 19:39:49",
+    "change_number": "27977454",
+    "update_time": "2025-03-16 09:55:09",
     "depot": {
         "228983": {
             "config": {
@@ -39,7 +39,7 @@
                     "download": "1023474112"
                 }
             },
-            "decryptionkey": "55b41a278404890147ed595bc2e69a04e18f3f5e2ca2cc594e409ffe11a5d250"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
