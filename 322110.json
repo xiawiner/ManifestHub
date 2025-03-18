@@ -4,8 +4,8 @@
     "name": "20XX",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27122577",
-    "update_time": "2025-01-23 10:05:06",
+    "change_number": "27821823",
+    "update_time": "2025-03-07 03:35:40",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese,brazilian",
         "228983": {
@@ -45,7 +45,7 @@
                     "download": "632320176"
                 }
             },
-            "decryptionkey": "b4022475ec1beae0d8c52f80d38b62433930db6c70561db41a15db914b7f86d1"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
