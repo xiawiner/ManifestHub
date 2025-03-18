@@ -4,8 +4,8 @@
     "name": "The Plane Effect",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27215514",
-    "update_time": "2025-01-29 18:18:14",
+    "change_number": "27912318",
+    "update_time": "2025-03-12 21:56:08",
     "depot": {
         "228988": {
             "config": {
@@ -34,7 +34,7 @@
                     "download": "3536186976"
                 }
             },
-            "decryptionkey": "73e1a852f5c6d93f1af01352e9f45547663445eb558cb6b27cce56c3580aceac"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
