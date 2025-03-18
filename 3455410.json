@@ -4,8 +4,8 @@
     "name": "The Red One: OCCULTATION Playtest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27719790",
-    "update_time": "2025-02-28 23:12:07",
+    "change_number": "27996696",
+    "update_time": "2025-03-17 23:17:26",
     "depot": {
         "228988": {
             "config": {
@@ -35,22 +35,22 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8763095104734296809",
-                    "size": "7740133555",
-                    "download": "6755983424"
+                    "gid": "4856113273222537180",
+                    "size": "7740339940",
+                    "download": "6755864976"
                 },
                 "dev_version": {
-                    "gid": "1008472887927602494",
-                    "size": "7802056064",
-                    "download": "6772293648"
+                    "gid": "1587526626913294152",
+                    "size": "7626770815",
+                    "download": "6619987344"
                 },
                 "qa_version": {
-                    "gid": "8763095104734296809",
-                    "size": "7740133555",
-                    "download": "6755983424"
+                    "gid": "4856113273222537180",
+                    "size": "7740339940",
+                    "download": "6755864976"
                 }
             },
-            "decryptionkey": "7e87fc79ed27aac59a27741aef81c2f89ffddb5ea72f09dc1bba09cac51a26b6"
+            "decryptionkey": ""
         },
         "3455412": {
             "config": {
@@ -59,18 +59,18 @@
         },
         "branches": {
             "public": {
-                "buildid": "17449429",
-                "timeupdated": "1740447894"
+                "buildid": "17720589",
+                "timeupdated": "1741932924"
             },
             "dev_version": {
-                "buildid": "17548825",
+                "buildid": "17753363",
                 "description": "dev_version",
-                "timeupdated": "1740755520"
+                "timeupdated": "1742224638"
             },
             "qa_version": {
-                "buildid": "17449429",
+                "buildid": "17720589",
                 "description": "qa_version",
-                "timeupdated": "1740112183"
+                "timeupdated": "1741932948"
             }
         }
     }
