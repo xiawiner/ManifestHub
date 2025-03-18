@@ -4,8 +4,8 @@
     "name": "Pixel Puzzles 2: Birds",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "24087176",
-    "update_time": "2024-06-24 06:09:30",
+    "change_number": "28001101",
+    "update_time": "2025-03-18 03:55:15",
     "depot": {
         "228990": {
             "config": {
@@ -22,7 +22,7 @@
                     "download": "169129248"
                 }
             },
-            "decryptionkey": "f1dc57986fab6c00460e2503fad777909c0c17d43d2a75f7fde0a285c6fdd24b"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
