@@ -4,8 +4,8 @@
     "name": "Slippery Richard! ~ He's Taller Than My Husband ~",
     "schinese_name": "外国房客在我家",
     "isfreeapp": "0",
-    "change_number": "26873128",
-    "update_time": "2025-01-06 12:13:30",
+    "change_number": "28008769",
+    "update_time": "2025-03-18 15:56:27",
     "depot": {
         "228990": {
             "config": {
@@ -22,7 +22,7 @@
                     "download": "99404800"
                 }
             },
-            "decryptionkey": "d30ea8d6e5e655129c8f47ac837fb5a7e96d00555c939a3678df26536208e65b"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
