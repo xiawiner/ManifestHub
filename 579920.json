@@ -4,8 +4,8 @@
     "name": "Swatcher",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27136773",
-    "update_time": "2025-01-24 03:26:47",
+    "change_number": "27839972",
+    "update_time": "2025-03-08 01:07:48",
     "depot": {
         "228990": {
             "config": {
@@ -22,7 +22,7 @@
                     "download": "41478256"
                 }
             },
-            "decryptionkey": "66709a6b6c9a0f8f834daf690bac716f00326b15ed50c9c7b55688019787f7ba"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
