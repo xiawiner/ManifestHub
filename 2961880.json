@@ -4,8 +4,8 @@
     "name": "Grocery Store Simulator",
     "schinese_name": "杂货店模拟器",
     "isfreeapp": "0",
-    "change_number": "26812836",
-    "update_time": "2024-12-30 06:52:52",
+    "change_number": "28006930",
+    "update_time": "2025-03-18 12:56:32",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "6069698544"
                 }
             },
-            "decryptionkey": "457905f421cfe00bc3a56c517ae769144b2c9179f04d30f67c893513c173574c"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
