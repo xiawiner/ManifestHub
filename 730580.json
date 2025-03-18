@@ -4,8 +4,8 @@
     "name": "MegaRace 1",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27531836",
-    "update_time": "2025-02-18 18:13:46",
+    "change_number": "27754805",
+    "update_time": "2025-03-03 22:02:02",
     "depot": {
         "730581": {
             "config": {
@@ -14,7 +14,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1495041481454366923",
+                    "gid": "4110534173403737536",
                     "size": "548667210",
                     "download": "390226384"
                 }
@@ -96,26 +96,47 @@
                 "language": "english",
                 "oslist": "macos"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "3280293948674266988",
+                    "size": "526369408",
+                    "download": "367679984"
+                }
+            },
+            "decryptionkey": ""
         },
         "730588": {
             "config": {
                 "language": "french",
                 "oslist": "macos"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "199411529828748811",
+                    "size": "544305185",
+                    "download": "386328512"
+                }
+            },
+            "decryptionkey": ""
         },
         "730589": {
             "config": {
                 "language": "italian",
                 "oslist": "macos"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "7481212619510294020",
+                    "size": "544305185",
+                    "download": "386328512"
+                }
+            },
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "2333144",
-                "timeupdated": "1512147219"
+                "buildid": "2313943",
+                "timeupdated": "1741010455"
             }
         },
         "privatebranches": "1"
