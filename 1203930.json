@@ -4,8 +4,8 @@
     "name": "The Last Haven",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "24933923",
-    "update_time": "2024-08-26 03:38:30",
+    "change_number": "27811120",
+    "update_time": "2025-03-06 17:09:35",
     "depot": {
         "baselanguages": "english",
         "228988": {
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "763473608561746403",
-                    "size": "872441874",
-                    "download": "755230896"
+                    "gid": "7335001752512841541",
+                    "size": "814779598",
+                    "download": "738463168"
                 },
                 "dx9_build": {
                     "gid": "270375121067200588",
@@ -45,12 +45,12 @@
                     "download": "696741872"
                 }
             },
-            "decryptionkey": "e0a01f21c48afd956615f13e005945f6021691aa3bfa9718813e3ea5f904716f"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "11882933",
-                "timeupdated": "1696528883"
+                "buildid": "17616735",
+                "timeupdated": "1741252146"
             },
             "dx9_build": {
                 "buildid": "9227993",
