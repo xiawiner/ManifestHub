@@ -4,8 +4,8 @@
     "name": "Progressbar95",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26732835",
-    "update_time": "2024-12-20 20:35:09",
+    "change_number": "27891212",
+    "update_time": "2025-03-11 21:13:30",
     "depot": {
         "228988": {
             "config": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6809654525530832521",
-                    "size": "174020053",
-                    "download": "131965664"
+                    "gid": "3856753438926230302",
+                    "size": "176540484",
+                    "download": "136017216"
                 }
             },
             "decryptionkey": "1b0f19a431e308f5cd8444531c97409fd46eebe8d4d00ccf93b757d4b8e8279e"
@@ -45,8 +45,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16813920",
-                "timeupdated": "1734697397"
+                "buildid": "17677535",
+                "timeupdated": "1741698806"
             }
         }
     }
