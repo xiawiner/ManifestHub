@@ -4,8 +4,8 @@
     "name": "Reign Of Kings",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27113259",
-    "update_time": "2025-01-22 22:26:03",
+    "change_number": "27925386",
+    "update_time": "2025-03-13 11:49:53",
     "depot": {
         "228983": {
             "config": {
@@ -39,7 +39,7 @@
                     "download": "1443662080"
                 }
             },
-            "decryptionkey": "552f512e7952332484cee4970163dcca1f753b50d718397558f532af5d4c7a11"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
