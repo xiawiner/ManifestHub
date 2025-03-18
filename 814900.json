@@ -4,8 +4,8 @@
     "name": "Sanguo Warriors VR 三国虎将传VR",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "23591175",
-    "update_time": "2024-05-27 05:41:44",
+    "change_number": "27904973",
+    "update_time": "2025-03-12 14:07:54",
     "depot": {
         "228986": {
             "config": {
@@ -56,7 +56,7 @@
                     "download": "1769427728"
                 }
             },
-            "decryptionkey": "d93132006e491b1f64d6befc0561b5ec8cb39b14f912341bbc46e0f20e7be5aa"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
