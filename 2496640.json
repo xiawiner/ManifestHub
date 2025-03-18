@@ -4,8 +4,8 @@
     "name": "Futanari di Funghi",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27458668",
-    "update_time": "2025-02-13 20:14:06",
+    "change_number": "28003812",
+    "update_time": "2025-03-18 07:51:13",
     "depot": {
         "2496641": {
             "manifests": {
@@ -17,10 +17,23 @@
             },
             "decryptionkey": "08d1827584c6748e4bd8e688515e37fceaca278508ab2f3065d6ef25e5e7a74a"
         },
+        "2496642": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2209190604835146109",
+                    "size": "173258360",
+                    "download": "102030848"
+                }
+            },
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
-                "buildid": "14622959",
-                "timeupdated": "1717660833"
+                "buildid": "17601436",
+                "timeupdated": "1741165533"
             }
         }
     }
