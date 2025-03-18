@@ -4,8 +4,8 @@
     "name": "UBERMOSH:SANTICIDE",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26240736",
-    "update_time": "2024-11-18 16:23:47",
+    "change_number": "28012457",
+    "update_time": "2025-03-18 19:56:04",
     "depot": {
         "228990": {
             "config": {
@@ -25,7 +25,7 @@
                     "download": "342957712"
                 }
             },
-            "decryptionkey": "9f610dea4346954fc7c88bf2333395c34a94c71295b870f859b2d2d3a767ac27"
+            "decryptionkey": ""
         },
         "baselanguages": "english",
         "branches": {
