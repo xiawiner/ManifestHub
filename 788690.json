@@ -4,8 +4,8 @@
     "name": "Psychonauts in the Rhombus of Ruin",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27012702",
-    "update_time": "2025-01-16 03:14:30",
+    "change_number": "27989528",
+    "update_time": "2025-03-17 16:21:02",
     "depot": {
         "228986": {
             "config": {
@@ -33,7 +33,7 @@
                     "download": "3019446000"
                 }
             },
-            "decryptionkey": "e103d4c36296c0585a337769082f9ed0ebc7b8dffe25b7822ef7a8c8a4b5360c"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
