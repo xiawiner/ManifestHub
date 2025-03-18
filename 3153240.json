@@ -4,8 +4,8 @@
     "name": "IFSolitaire",
     "schinese_name": "IF蜘蛛纸牌",
     "isfreeapp": "0",
-    "change_number": "27503616",
-    "update_time": "2025-02-16 23:17:20",
+    "change_number": "27781102",
+    "update_time": "2025-03-05 03:22:22",
     "depot": {
         "baselanguages": "english,german,french,spanish,schinese,tchinese,russian,japanese,portuguese",
         "3153241": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8392729871881637542",
-                    "size": "278630161",
-                    "download": "160237648"
+                    "gid": "1878011808542689463",
+                    "size": "275882225",
+                    "download": "157475456"
                 },
                 "beta": {
-                    "gid": "8392729871881637542",
-                    "size": "278630161",
-                    "download": "160237648"
+                    "gid": "1878011808542689463",
+                    "size": "275882225",
+                    "download": "157475456"
                 },
                 "stable": {
                     "gid": "4496281848897491448",
@@ -37,14 +37,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7425651523408393633",
-                    "size": "434312060",
-                    "download": "196801248"
+                    "gid": "985544088665381182",
+                    "size": "431564748",
+                    "download": "194050336"
                 },
                 "beta": {
-                    "gid": "7425651523408393633",
-                    "size": "434312060",
-                    "download": "196801248"
+                    "gid": "985544088665381182",
+                    "size": "431564748",
+                    "download": "194050336"
                 },
                 "stable": {
                     "gid": "6610134250738691661",
@@ -60,14 +60,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6306779875416212421",
-                    "size": "261552887",
-                    "download": "155092192"
+                    "gid": "8828777797471031661",
+                    "size": "258804951",
+                    "download": "152341936"
                 },
                 "beta": {
-                    "gid": "6306779875416212421",
-                    "size": "261552887",
-                    "download": "155092192"
+                    "gid": "8828777797471031661",
+                    "size": "258804951",
+                    "download": "152341936"
                 },
                 "stable": {
                     "gid": "5208661832484073754",
@@ -80,13 +80,13 @@
         "workshopdepot": "3153240",
         "branches": {
             "public": {
-                "buildid": "17434712",
-                "timeupdated": "1740034212"
+                "buildid": "17593510",
+                "timeupdated": "1741116138"
             },
             "beta": {
-                "buildid": "17434712",
+                "buildid": "17593510",
                 "description": "Public beta branch",
-                "timeupdated": "1740033306"
+                "timeupdated": "1741114407"
             },
             "stable": {
                 "buildid": "16533405",
