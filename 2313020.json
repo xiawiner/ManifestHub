@@ -4,8 +4,8 @@
     "name": "Umamusume: Pretty Derby - Party Dash",
     "schinese_name": "赛马娘 Pretty Derby 热血喧闹大感谢祭！",
     "isfreeapp": "0",
-    "change_number": "27528770",
-    "update_time": "2025-02-18 14:15:46",
+    "change_number": "27988273",
+    "update_time": "2025-03-17 14:17:42",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese",
         "228989": {
@@ -30,7 +30,7 @@
                     "download": "4225582528"
                 }
             },
-            "decryptionkey": "a7ea6226751ac88e77dd048b3af5cba983ea6c96f6f62bdce18b80f106f4c3b4"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
