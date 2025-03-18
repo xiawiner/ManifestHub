@@ -4,8 +4,8 @@
     "name": "Trover Saves the Universe",
     "schinese_name": "救世主特洛弗",
     "isfreeapp": "0",
-    "change_number": "26917590",
-    "update_time": "2025-01-09 11:17:09",
+    "change_number": "27940255",
+    "update_time": "2025-03-14 02:22:40",
     "depot": {
         "baselanguages": "english",
         "228987": {
@@ -30,7 +30,7 @@
                     "download": "4358954208"
                 }
             },
-            "decryptionkey": "32400332d01c6dc6b17b3ea76db10a769992faecba70c077788ced537c79d231"
+            "decryptionkey": ""
         },
         "1051202": {
             "config": {
