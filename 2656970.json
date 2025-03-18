@@ -4,8 +4,8 @@
     "name": "Chasmal Fear Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25934346",
-    "update_time": "2024-10-29 00:07:11",
+    "change_number": "27975500",
+    "update_time": "2025-03-16 04:20:54",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,brazilian,ukrainian",
         "228989": {
@@ -25,17 +25,16 @@
         "2656971": {
             "manifests": {
                 "public": {
-                    "gid": "7812369716233507553",
-                    "size": "13166924932",
-                    "download": "12702255280"
+                    "gid": "6101792223357180271",
+                    "size": "13711700195",
+                    "download": "13169623264"
                 }
-            },
-            "decryptionkey": "962405abca0d25c57c495af94f304830f8428c820898ee4f24a7a43240a8a7e7"
+            }
         },
         "branches": {
             "public": {
-                "buildid": "16167130",
-                "timeupdated": "1729781592"
+                "buildid": "17738990",
+                "timeupdated": "1742070050"
             }
         }
     }
