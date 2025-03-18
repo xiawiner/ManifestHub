@@ -4,8 +4,8 @@
     "name": "Weakless",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26225211",
-    "update_time": "2024-11-16 18:26:28",
+    "change_number": "27970608",
+    "update_time": "2025-03-15 16:23:46",
     "depot": {
         "228983": {
             "config": {
@@ -47,7 +47,7 @@
                     "download": "3005706512"
                 }
             },
-            "decryptionkey": "37c4492a626bfb774a91f4e3a6b3adb19fcb8661e673c88943bd6a2be0ca4c33"
+            "decryptionkey": ""
         },
         "hasdepotsindlc": "0",
         "branches": {
