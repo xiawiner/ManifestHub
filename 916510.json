@@ -4,8 +4,8 @@
     "name": "Running Man 3D Part2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27498754",
-    "update_time": "2025-02-16 07:44:22",
+    "change_number": "27919856",
+    "update_time": "2025-03-13 05:51:59",
     "depot": {
         "baselanguages": "english",
         "228986": {
@@ -48,7 +48,7 @@
                     "download": "368023632"
                 }
             },
-            "decryptionkey": "463b9c40ab1ccc273856da428e75107c6217b6611f88caf6e8bb61cc2c8d4959"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
