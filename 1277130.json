@@ -4,8 +4,8 @@
     "name": "Deathbound",
     "schinese_name": "死亡约束",
     "isfreeapp": "0",
-    "change_number": "27726117",
-    "update_time": "2025-03-01 05:45:25",
+    "change_number": "27922681",
+    "update_time": "2025-03-13 08:15:06",
     "depot": {
         "228989": {
             "config": {
@@ -33,7 +33,7 @@
                     "download": "8965109712"
                 }
             },
-            "decryptionkey": "f0e25285c69f852068c19218ffc7cf08b44abe1d4f922bb637a77fc5e068e9c9"
+            "decryptionkey": ""
         },
         "baselanguages": "english,schinese,japanese,brazilian",
         "hasdepotsindlc": "1",
