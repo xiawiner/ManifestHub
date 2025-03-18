@@ -4,8 +4,8 @@
     "name": "Worms W.M.D",
     "schinese_name": "百战天虫：战争机器",
     "isfreeapp": "0",
-    "change_number": "27103115",
-    "update_time": "2025-01-22 08:51:22",
+    "change_number": "27840222",
+    "update_time": "2025-03-08 01:26:37",
     "depot": {
         "workshopdepot": "327030",
         "baselanguages": "english,german,french,italian,spanish,schinese,russian,polish,brazilian",
@@ -35,7 +35,7 @@
                     "download": "1448956352"
                 }
             },
-            "decryptionkey": "70ead596b9b883ebaf42e583c136985d850063cd7f80ecc678dc2d0224424fdb"
+            "decryptionkey": ""
         },
         "327032": {
             "config": {
@@ -49,7 +49,7 @@
                     "download": "30969120"
                 }
             },
-            "decryptionkey": "197164a6fc82190290ac30e69e741bf14d54b398e853544e0559977c03abbbd4"
+            "decryptionkey": ""
         },
         "327033": {
             "config": {
@@ -64,7 +64,7 @@
                     "download": "1219390896"
                 }
             },
-            "decryptionkey": "25ad6e69b23d4d5690f92f6884485c81a860446e5ebb9ac548a88f7ad5f04c3b"
+            "decryptionkey": ""
         },
         "327035": {
             "config": {
@@ -79,7 +79,7 @@
                     "download": "1651795376"
                 }
             },
-            "decryptionkey": "72fb636fa7486b169e2dce975f6df08daa56b6756d5e6b34dc2f74e42c5a4418"
+            "decryptionkey": ""
         },
         "497140": {
             "dlcappid": "497140",
@@ -93,7 +93,7 @@
                     "download": "240"
                 }
             },
-            "decryptionkey": "d9c270cb923a5322538fb2d58e249db801d32f988940d82e665a1fcfb5516b8f"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
@@ -102,6 +102,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "0164b7780af00f2d6a4501be9f4fb769bb46bec0653f10074f374bd2dda458e4"
+        "workshopdepotdecryptionkey": ""
     }
 }
