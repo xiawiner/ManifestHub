@@ -4,8 +4,8 @@
     "name": "ChronoClock",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27062648",
-    "update_time": "2025-01-19 17:53:21",
+    "change_number": "27969915",
+    "update_time": "2025-03-15 14:22:23",
     "depot": {
         "228986": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "3433018608"
                 }
             },
-            "decryptionkey": "066c2a1ca4eedd2dcb4162ae91967118a9fce2c85819b96820b455c9fe9d44d0"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
