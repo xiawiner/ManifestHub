@@ -4,8 +4,8 @@
     "name": "Peaks of Yore",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27523590",
-    "update_time": "2025-02-18 05:43:11",
+    "change_number": "27733057",
+    "update_time": "2025-03-01 21:23:01",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1345759911918478432",
-                    "size": "1766146019",
-                    "download": "935802224"
+                    "gid": "999994938220665977",
+                    "size": "1766199195",
+                    "download": "935804352"
                 }
             },
             "decryptionkey": "1d7e3a73711932c1784f68220d6f327144897328e4544d877dd2d24bb94a1ab3"
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5720049676836436",
-                    "size": "2811089827",
-                    "download": "1426809136"
+                    "gid": "6176500968801444850",
+                    "size": "2814221587",
+                    "download": "1427740224"
                 }
             },
             "decryptionkey": "8b8603831abb43f64f73502caff6792bfce2476614890797f1c09eee65408c64"
@@ -45,8 +45,8 @@
         "workshopdepot": "2236070",
         "branches": {
             "public": {
-                "buildid": "17474394",
-                "timeupdated": "1740326514"
+                "buildid": "17535922",
+                "timeupdated": "1740682879"
             }
         },
         "privatebranches": "1",
