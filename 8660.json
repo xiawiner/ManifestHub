@@ -4,8 +4,8 @@
     "name": "GTR Evolution",
     "schinese_name": "GTR进化",
     "isfreeapp": "0",
-    "change_number": "26685919",
-    "update_time": "2024-12-18 08:50:31",
+    "change_number": "27896497",
+    "update_time": "2025-03-12 02:02:10",
     "depot": {
         "overridescddb": "1",
         "8619": {
@@ -23,7 +23,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "4ba9173a1b1703ea510cebebd44a5615193ce74bdd03cd14683cd69e8dc6d272"
+            "decryptionkey": ""
         },
         "1004": {
             "systemdefined": "1",
