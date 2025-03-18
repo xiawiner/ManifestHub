@@ -4,8 +4,8 @@
     "name": "RAILROADS Online",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27713944",
-    "update_time": "2025-02-28 17:24:09",
+    "change_number": "28012003",
+    "update_time": "2025-03-18 19:25:33",
     "depot": {
         "hasdepotsindlc": "0",
         "228988": {
@@ -45,7 +45,7 @@
                     "download": "10309007424"
                 }
             },
-            "decryptionkey": "afd20129bdc287c2b3af36aa95920169a8b17b1831aa81f8228801478e113dd0"
+            "decryptionkey": ""
         },
         "2906050": {
             "dlcappid": "2906050"
