@@ -4,8 +4,8 @@
     "name": "IMPETUM",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27448187",
-    "update_time": "2025-02-13 06:24:47",
+    "change_number": "27967992",
+    "update_time": "2025-03-15 09:23:17",
     "depot": {
         "228989": {
             "config": {
@@ -71,7 +71,7 @@
                     "download": "4852354656"
                 }
             },
-            "decryptionkey": "eb873bd724040bd481267f32ebe26f5b1d03e6bc811dba91898fdf01c48da20d"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
