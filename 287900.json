@@ -4,8 +4,8 @@
     "name": "Pro Pinball Ultra",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27380315",
-    "update_time": "2025-02-09 01:09:43",
+    "change_number": "27987650",
+    "update_time": "2025-03-17 12:55:29",
     "depot": {
         "overridescddb": "1",
         "228990": {
@@ -24,7 +24,7 @@
                     "download": "472096176"
                 }
             },
-            "decryptionkey": "62ff6fe39eea5212594897fee45a4d3082d3e1a28c6749a711d6839c5e076970"
+            "decryptionkey": ""
         },
         "287902": {
             "config": {
@@ -38,7 +38,7 @@
                     "download": "3952192"
                 }
             },
-            "decryptionkey": "61d7afc0a497a85b6b5dfa5ebf0e98746439b900b0a1fb7b62310dd2ed93731c"
+            "decryptionkey": ""
         },
         "287903": {
             "config": {
@@ -52,7 +52,7 @@
                     "download": "4382800"
                 }
             },
-            "decryptionkey": "7fd0906bd8d7978e4b069a9cdaee7d1287040ea8126338ded1f03b5fed83a151"
+            "decryptionkey": ""
         },
         "287904": {
             "config": {
@@ -65,7 +65,7 @@
                     "download": "6542032"
                 }
             },
-            "decryptionkey": "ca61bf69e060c63dba2fd076fec1b8e2ce38e1e110c60edd63b3c4495a8cfef0"
+            "decryptionkey": ""
         },
         "287905": {
             "config": {
@@ -79,7 +79,7 @@
                     "download": "1261920"
                 }
             },
-            "decryptionkey": "48793d0e5f0c919242aa699b0f638786d813abce3c24049d16c2de349a719f67"
+            "decryptionkey": ""
         },
         "287906": {
             "config": {
@@ -93,7 +93,7 @@
                     "download": "1210864"
                 }
             },
-            "decryptionkey": "bff9945b716f847a44c27347a41b925db578a6b931743aa7733f89f8744ae6c8"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
