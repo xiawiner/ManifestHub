@@ -4,8 +4,8 @@
     "name": "恐惧深处（Fear deeps）",
     "schinese_name": "恐惧深处",
     "isfreeapp": "0",
-    "change_number": "27339931",
-    "update_time": "2025-02-06 14:57:19",
+    "change_number": "27939016",
+    "update_time": "2025-03-14 01:23:38",
     "depot": {
         "228989": {
             "config": {
@@ -35,7 +35,7 @@
                     "download": "2356011376"
                 }
             },
-            "decryptionkey": "bb4e093de34be8b5132e6ddbd6b5d51783a2cbd96f0f595fe7e8537ab553ee95"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
