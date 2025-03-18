@@ -4,8 +4,8 @@
     "name": "PCMark 10 Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27457042",
-    "update_time": "2025-02-13 18:30:15",
+    "change_number": "27867748",
+    "update_time": "2025-03-10 16:53:05",
     "depot": {
         "228985": {
             "config": {
@@ -55,17 +55,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "973757842982463711",
-                    "size": "3408684",
-                    "download": "2893552"
+                    "gid": "4791969004210326455",
+                    "size": "3416876",
+                    "download": "2903184"
                 }
-            },
-            "decryptionkey": "d65addd9c7387fd083ac04b9ffa974bdd0f2a4ecd624c6b1708c95091965d865"
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17445456",
-                "timeupdated": "1740134942"
+                "buildid": "17588718",
+                "timeupdated": "1741596781"
             }
         },
         "privatebranches": "1"
