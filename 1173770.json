@@ -4,8 +4,8 @@
     "name": "FINAL FANTASY",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27302897",
-    "update_time": "2025-02-04 15:57:39",
+    "change_number": "27791163",
+    "update_time": "2025-03-05 17:01:46",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,arabic,brazilian,latam,vietnamese",
         "228988": {
@@ -32,12 +32,12 @@
         "1173771": {
             "manifests": {
                 "public": {
-                    "gid": "3768083714366825129",
-                    "size": "375233586",
-                    "download": "286477488"
+                    "gid": "3991341423946070369",
+                    "size": "376344639",
+                    "download": "286829264"
                 }
             },
-            "decryptionkey": "fab6556c5fd8ece93cfb03ab4998ea82fe6290d7991bf77e7073693eed4584cf"
+            "decryptionkey": ""
         },
         "1638280": {
             "dlcappid": "1638280",
@@ -48,12 +48,12 @@
                     "download": "33614016"
                 }
             },
-            "decryptionkey": "85404e4cba508d1bed970ecdfe04c431a7889e1e20ce7e36d0f57cd98387c1b5"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "13123697",
-                "timeupdated": "1706628144"
+                "buildid": "17234738",
+                "timeupdated": "1741165036"
             }
         },
         "privatebranches": "1"
