@@ -4,8 +4,8 @@
     "name": "Winning Post 8 2015",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26461881",
-    "update_time": "2024-12-05 10:20:45",
+    "change_number": "27825469",
+    "update_time": "2025-03-07 08:25:04",
     "depot": {
         "baselanguages": "",
         "228981": {
@@ -33,7 +33,7 @@
                     "download": "6084168704"
                 }
             },
-            "decryptionkey": "7fddd6fa7e6905db8a68c6cdfd1e13c637e2b93c732382d67dc27840492b434f"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
