@@ -4,8 +4,8 @@
     "name": "Save Daddy Trump 3: Rise Of Evil",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25612952",
-    "update_time": "2024-10-10 20:02:54",
+    "change_number": "27747854",
+    "update_time": "2025-03-03 11:13:30",
     "depot": {
         "228989": {
             "config": {
@@ -36,7 +36,7 @@
                     "download": "4222678464"
                 }
             },
-            "decryptionkey": "5f4839c68ce395ba88153fbfe09eef558b1e9c098c0405f7e8c6ccbf315a3291"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
