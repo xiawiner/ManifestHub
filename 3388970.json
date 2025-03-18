@@ -4,8 +4,8 @@
     "name": "Wretch: Divine Ascent Playtest",
     "schinese_name": "无用之人：登神长阶 Playtest",
     "isfreeapp": "0",
-    "change_number": "27471088",
-    "update_time": "2025-02-14 09:59:53",
+    "change_number": "27948001",
+    "update_time": "2025-03-14 11:14:25",
     "depot": {
         "228989": {
             "config": {
@@ -28,18 +28,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4950410018519685666",
-                    "size": "2374870931",
-                    "download": "2086395680"
+                    "gid": "3988694463278296521",
+                    "size": "2383879920",
+                    "download": "2093297328"
                 }
             },
-            "decryptionkey": "eae6ec86ed23e515cfae197332f0ceaea6283fe337479c1e17b0cac23a76408b"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17360468",
-                "timeupdated": "1739498389"
+                "buildid": "17690339",
+                "timeupdated": "1741922049"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
