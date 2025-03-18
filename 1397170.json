@@ -4,8 +4,8 @@
     "name": "Anime Wave Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26332371",
-    "update_time": "2024-12-05 01:31:34",
+    "change_number": "27787648",
+    "update_time": "2025-03-05 12:08:40",
     "depot": {
         "228988": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "2809861728"
                 }
             },
-            "decryptionkey": "73cc2ca26e98d4df8269156946e1147aaf9bf791444b4f7388de93105ac1dcc3"
+            "decryptionkey": ""
         },
         "baselanguages": "english",
         "branches": {
