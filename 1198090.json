@@ -4,8 +4,8 @@
     "name": "The Legend of Heroes: Trails of Cold Steel IV",
     "schinese_name": "英雄传说：闪之轨迹Ⅳ",
     "isfreeapp": "0",
-    "change_number": "26973355",
-    "update_time": "2025-01-13 22:30:28",
+    "change_number": "27993079",
+    "update_time": "2025-03-17 20:21:38",
     "depot": {
         "228985": {
             "config": {
@@ -73,7 +73,7 @@
                     "download": "22516695024"
                 }
             },
-            "decryptionkey": "c48721588f545a66858af8279bee2952b31f66135dcee997568ab854b808265c"
+            "decryptionkey": ""
         },
         "1575367": {
             "dlcappid": "1575367",
@@ -114,7 +114,7 @@
                     "download": "4531216"
                 }
             },
-            "decryptionkey": "8be1c793780f70e799fec64e32fe65fc22e619b0e517338c2f0ac11ea95c7b14"
+            "decryptionkey": ""
         },
         "1575368": {
             "dlcappid": "1575368",
@@ -155,7 +155,7 @@
                     "download": "59921232"
                 }
             },
-            "decryptionkey": "0cde8e0abba2cbfcfc24fd9adb7b1786378ec435a7c69c936d7419ff9797e518"
+            "decryptionkey": ""
         },
         "1575369": {
             "dlcappid": "1575369",
@@ -196,7 +196,7 @@
                     "download": "9258880"
                 }
             },
-            "decryptionkey": "0693979baa704bccf9d0a6f1361943657cb631c72e0308bf8c0d925f94519bfd"
+            "decryptionkey": ""
         },
         "1575390": {
             "dlcappid": "1575390"
@@ -258,7 +258,7 @@
                     "download": "320"
                 }
             },
-            "decryptionkey": "a3616c7d8901dd82ed9ad6dfe1ef9986dfe6363e06fb77c66f106fc154c0dbbc"
+            "decryptionkey": ""
         },
         "1575410": {
             "dlcappid": "1575410",
@@ -299,7 +299,7 @@
                     "download": "272"
                 }
             },
-            "decryptionkey": "85346f84072cd5132f658c340c5335a939c58e6c1ac402fafc60e2a5f845f3a7"
+            "decryptionkey": ""
         },
         "1575411": {
             "dlcappid": "1575411",
@@ -340,7 +340,7 @@
                     "download": "272"
                 }
             },
-            "decryptionkey": "30f7aa88a8a8584bc892aa44fde4f44d83b43a5f62ee080ea0265a1c20300624"
+            "decryptionkey": ""
         },
         "1575416": {
             "dlcappid": "1575416",
@@ -381,7 +381,7 @@
                     "download": "157319472"
                 }
             },
-            "decryptionkey": "dbf616a0472389e876db932dc24edfa9a987129d606f30152847de1ba785596d"
+            "decryptionkey": ""
         },
         "1575363": {
             "dlcappid": "1575363",
@@ -422,7 +422,7 @@
                     "download": "41138064"
                 }
             },
-            "decryptionkey": "98a68524e57364cce7c5ebfeb68f197055115ced4b1aca1351454da1400a51df"
+            "decryptionkey": ""
         },
         "1575364": {
             "dlcappid": "1575364",
@@ -463,7 +463,7 @@
                     "download": "54697440"
                 }
             },
-            "decryptionkey": "4852e1a4e4c8d9449a68e2407b2ecc0f54f93056b30355ff2fdfa0c3d48663be"
+            "decryptionkey": ""
         },
         "1575365": {
             "dlcappid": "1575365",
@@ -504,7 +504,7 @@
                     "download": "82081120"
                 }
             },
-            "decryptionkey": "d55baf9d3cc17eb4e3510c09459f48ff1d400d654ab9b26c302e51b0ec285567"
+            "decryptionkey": ""
         },
         "1575366": {
             "dlcappid": "1575366",
@@ -545,7 +545,7 @@
                     "download": "22828976"
                 }
             },
-            "decryptionkey": "070a064890895e1fde8012e2ac5eaa7d7dab18e56beb5201f1a53c41afaaa583"
+            "decryptionkey": ""
         },
         "1580542": {
             "dlcappid": "1580542"
@@ -589,7 +589,7 @@
                     "download": "9760"
                 }
             },
-            "decryptionkey": "3de2e8df95e356e8cd68e4a4985b5e946724e79aacf0516e048f8f35472036db"
+            "decryptionkey": ""
         },
         "1580540": {
             "dlcappid": "1580540",
@@ -630,7 +630,7 @@
                     "download": "4880"
                 }
             },
-            "decryptionkey": "ff55f74809c7acc9f547592d4bc671e566b6c791aaa057735d59c8f29e1aa4a7"
+            "decryptionkey": ""
         },
         "1575412": {
             "dlcappid": "1575412",
@@ -671,7 +671,7 @@
                     "download": "192142928"
                 }
             },
-            "decryptionkey": "a04f1d154d6e475d328f816418dc6f254b1bb7cc8269cc834718c57df9322f3b"
+            "decryptionkey": ""
         },
         "1575413": {
             "dlcappid": "1575413",
@@ -712,7 +712,7 @@
                     "download": "32850512"
                 }
             },
-            "decryptionkey": "8ad378b5d6d2c3103f0b457dcb455d2ee6f9ade853d77e45158fcfe5c9d7e313"
+            "decryptionkey": ""
         },
         "1575415": {
             "dlcappid": "1575415",
@@ -753,7 +753,7 @@
                     "download": "317024784"
                 }
             },
-            "decryptionkey": "9b8528148bff08b69c30d89e50973c8e9e49909ebaf2667723f09f6bcd47c65f"
+            "decryptionkey": ""
         },
         "1575414": {
             "dlcappid": "1575414",
@@ -794,7 +794,7 @@
                     "download": "545852720"
                 }
             },
-            "decryptionkey": "6e16a3c047072351fa07172d56dad4bb1e3b8080eee213e6a02fb2b880b6acb3"
+            "decryptionkey": ""
         },
         "1573918": {
             "dlcappid": "1573918",
@@ -835,7 +835,7 @@
                     "download": "3067184"
                 }
             },
-            "decryptionkey": "2bf394d404473cf81a43ca7b1b4e33f78bb20bccfce86ae58cf1d7fba287b61a"
+            "decryptionkey": ""
         },
         "1656320": {
             "dlcappid": "1656320",
@@ -861,7 +861,7 @@
                     "download": "11221901776"
                 }
             },
-            "decryptionkey": "fe30836b5314511100d5f94369ce4991c3009d02309aeb549ee32071d6a13f3a"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
