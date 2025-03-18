@@ -4,8 +4,8 @@
     "name": "Exit: Left or Right",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26402524",
-    "update_time": "2024-12-05 06:41:22",
+    "change_number": "27939005",
+    "update_time": "2025-03-14 01:23:19",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "1968441520"
                 }
             },
-            "decryptionkey": "26d2065a11d9b030fa78a872fcb26b427bfe281a8c7276906535aee3b219d68c"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
