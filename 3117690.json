@@ -4,8 +4,8 @@
     "name": "Robabekya Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27481703",
-    "update_time": "2025-02-14 23:04:11",
+    "change_number": "27971283",
+    "update_time": "2025-03-15 18:01:21",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
@@ -41,8 +41,7 @@
                     "size": "7742142214",
                     "download": "7000242816"
                 }
-            },
-            "decryptionkey": "be93e1efb62205fa1a6101397229bda0764d40c20087474b4ba8db934e46125e"
+            }
         },
         "branches": {
             "public": {
