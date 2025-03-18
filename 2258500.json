@@ -4,8 +4,8 @@
     "name": "CRYMACHINA",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27442784",
-    "update_time": "2025-02-13 00:23:16",
+    "change_number": "27894680",
+    "update_time": "2025-03-12 00:21:43",
     "depot": {
         "baselanguages": "english,koreana,tchinese,japanese",
         "hasdepotsindlc": "1",
@@ -31,7 +31,7 @@
                     "download": "5807575296"
                 }
             },
-            "decryptionkey": "154490d1c27e744f8beab95dddee5f7dced661b8b8ebb30a9c984772d5cbbd2e"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
