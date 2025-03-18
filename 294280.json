@@ -4,8 +4,8 @@
     "name": "Scooby-Doo! & Looney Tunes Cartoon Universe: Adventure",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27272352",
-    "update_time": "2025-02-02 06:32:36",
+    "change_number": "27977454",
+    "update_time": "2025-03-16 09:55:08",
     "depot": {
         "overridescddb": "1",
         "228990": {
@@ -27,7 +27,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "9ca70bfc116e312a14152e9d7c0e36e89ab067963c1591f6351d282b295fe11d"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
