@@ -4,8 +4,8 @@
     "name": "Clash: Artifacts of Chaos",
     "schinese_name": "冲突：混沌神器",
     "isfreeapp": "0",
-    "change_number": "27516228",
-    "update_time": "2025-02-17 21:28:58",
+    "change_number": "27926937",
+    "update_time": "2025-03-13 14:20:43",
     "depot": {
         "228988": {
             "config": {
@@ -53,7 +53,7 @@
                     "download": "12362977728"
                 }
             },
-            "decryptionkey": "e23a9dbf2197c848f26cf4e1f05c56d83100c975ba5e206ba01f2ea122aa03b7"
+            "decryptionkey": ""
         },
         "hasdepotsindlc": "1",
         "branches": {
