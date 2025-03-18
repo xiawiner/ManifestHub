@@ -4,8 +4,8 @@
     "name": "PolyPine Demo",
     "schinese_name": "小松林 Demo",
     "isfreeapp": "0",
-    "change_number": "27399256",
-    "update_time": "2025-02-10 19:27:08",
+    "change_number": "27868600",
+    "update_time": "2025-03-10 17:49:21",
     "depot": {
         "baselanguages": "english,german,french,schinese,russian,japanese,swedish,brazilian,latam",
         "228989": {
@@ -26,8 +26,7 @@
                     "size": "99195233",
                     "download": "58106864"
                 }
-            },
-            "decryptionkey": "0c8bc6aacd029e16d728df968c3c556b34801b3ff30402cb7cc7cc98d810ec82"
+            }
         },
         "branches": {
             "public": {
