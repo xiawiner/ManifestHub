@@ -4,8 +4,8 @@
     "name": "Backrooms Media Playtest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27312467",
-    "update_time": "2025-02-05 02:36:09",
+    "change_number": "27980487",
+    "update_time": "2025-03-16 19:56:28",
     "depot": {
         "228989": {
             "config": {
@@ -35,17 +35,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5936963073464669627",
-                    "size": "2144975249",
-                    "download": "1796676736"
+                    "gid": "5119360300735374022",
+                    "size": "2144981393",
+                    "download": "1796654944"
                 }
             },
-            "decryptionkey": "ad6c4f3d8e2bb49dded3141d6a804b43ba21690c85453246430c577812cd26d8"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17440551",
-                "timeupdated": "1740061474"
+                "buildid": "17580035",
+                "timeupdated": "1741037590"
             }
         }
     }
