@@ -4,8 +4,8 @@
     "name": "Redemption Reapers",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27541684",
-    "update_time": "2025-02-19 04:14:09",
+    "change_number": "27898443",
+    "update_time": "2025-03-12 04:21:59",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "9752515072"
                 }
             },
-            "decryptionkey": "53adeff87015d393449756b3d4285d1fa37abeecd52e929a8385eef01cae45a3"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
