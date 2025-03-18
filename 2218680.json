@@ -4,8 +4,8 @@
     "name": "Interregnum: False Prophet",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26839271",
-    "update_time": "2025-01-02 19:20:05",
+    "change_number": "27922676",
+    "update_time": "2025-03-13 08:15:11",
     "depot": {
         "228989": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "5690230160"
                 }
             },
-            "decryptionkey": "92f913ec6869f91beaa03a4d4f49a65c3ecee0bddfe23987a23e9699de0e4926"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
