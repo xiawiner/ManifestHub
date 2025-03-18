@@ -1,0 +1,27 @@
+{
+    "appid": "3347670",
+    "type": "Game",
+    "name": "BM General Hospital",
+    "schinese_name": "黑山综合医院",
+    "isfreeapp": "0",
+    "change_number": "27994892",
+    "update_time": "2025-03-17 21:57:30",
+    "depot": {
+        "3347671": {
+            "manifests": {
+                "public": {
+                    "gid": "401082092688915179",
+                    "size": "1927711584",
+                    "download": "215439168"
+                }
+            },
+            "decryptionkey": "a3a95249de5708328ccb0fcdffde60c7eefc4125b5f28a6c8e1330a6caea1445"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17750643",
+                "timeupdated": "1742210184"
+            }
+        }
+    }
+}
