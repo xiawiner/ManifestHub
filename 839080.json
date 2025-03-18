@@ -4,8 +4,8 @@
     "name": "DRAW CHILLY",
     "schinese_name": "冷冰冰",
     "isfreeapp": "0",
-    "change_number": "27186546",
-    "update_time": "2025-01-28 00:33:00",
+    "change_number": "27981213",
+    "update_time": "2025-03-16 21:58:01",
     "depot": {
         "228990": {
             "config": {
@@ -30,7 +30,7 @@
                     "download": "38618928"
                 }
             },
-            "decryptionkey": "66cc2da6a55615512023c4611242292baea0aa4c07c7e8e38091f6f429fd05c5"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
