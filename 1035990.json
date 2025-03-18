@@ -4,8 +4,8 @@
     "name": "Dialtown: Phone Dating Sim",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27389105",
-    "update_time": "2025-02-10 01:18:39",
+    "change_number": "27973053",
+    "update_time": "2025-03-15 22:37:44",
     "depot": {
         "228990": {
             "config": {
@@ -21,18 +21,18 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1646285596111706054",
-                    "size": "2998568357",
-                    "download": "2737767904"
+                    "gid": "1673496789260189482",
+                    "size": "2998616624",
+                    "download": "2737787312"
                 }
             },
-            "decryptionkey": "78cffaa9205ac86a7f2dfb94727f96e3f2814a8aeb2c9831c185420774e64960"
+            "decryptionkey": ""
         },
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "16173224",
-                "timeupdated": "1729815475"
+                "buildid": "17563139",
+                "timeupdated": "1740938591"
             }
         }
     }
