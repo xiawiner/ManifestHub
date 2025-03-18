@@ -4,8 +4,8 @@
     "name": "VRMark",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27457075",
-    "update_time": "2025-02-13 18:32:12",
+    "change_number": "27970606",
+    "update_time": "2025-03-15 16:23:31",
     "depot": {
         "228984": {
             "config": {
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7061876963224220415",
-                    "size": "1217605563",
-                    "download": "1012720192"
+                    "gid": "3137630038339964479",
+                    "size": "1217613755",
+                    "download": "1012729824"
                 },
                 "previous_version": {
                     "gid": "7793288730915193497",
@@ -45,7 +45,7 @@
                     "download": "961007712"
                 }
             },
-            "decryptionkey": "a4b995e55ca0d7e39d72c5d10dcec1267af6282a3ac056d357ee190d4701ad8c"
+            "decryptionkey": ""
         },
         "464172": {
             "config": {
@@ -59,12 +59,12 @@
                     "download": "868204144"
                 }
             },
-            "decryptionkey": "d2c85495386ebddbd7131f17eaeb0b0852c85910f3b86b92c58340a04b294d43"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17445533",
-                "timeupdated": "1740135002"
+                "buildid": "17588781",
+                "timeupdated": "1741596889"
             },
             "previous_version": {
                 "buildid": "1437320",
