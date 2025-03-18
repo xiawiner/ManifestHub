@@ -4,8 +4,8 @@
     "name": "Sora no Ao to Shiro to",
     "schinese_name": "天空的蓝与白 / 如梭夏日",
     "isfreeapp": "0",
-    "change_number": "27253856",
-    "update_time": "2025-01-31 21:31:53",
+    "change_number": "27790384",
+    "update_time": "2025-03-05 16:08:17",
     "depot": {
         "baselanguages": "schinese,tchinese",
         "228988": {
@@ -30,7 +30,7 @@
                     "download": "2427220208"
                 }
             },
-            "decryptionkey": "b9f7762079477d5f7a966cebda8f8f279d725978f5530f48705d7863b185a8f8"
+            "decryptionkey": ""
         },
         "2135502": {
             "config": {
@@ -43,7 +43,7 @@
                     "download": "158466784"
                 }
             },
-            "decryptionkey": "817c1aee9245644deb94529cc89dd8a3b3e2fd3eeb95dc7b243652ff08b20207"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
