@@ -4,8 +4,8 @@
     "name": "Injustice™ 2",
     "schinese_name": "不义联盟2",
     "isfreeapp": "0",
-    "change_number": "27005282",
-    "update_time": "2025-01-15 18:14:08",
+    "change_number": "27940222",
+    "update_time": "2025-03-14 02:21:21",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,russian,polish,brazilian,latam",
         "228986": {
@@ -30,7 +30,7 @@
                     "download": "45103014944"
                 }
             },
-            "decryptionkey": "7fa0ea96f7de44df35ea69af2de65094bb167d849e116d01707e30bb8739fb5b"
+            "decryptionkey": ""
         },
         "721270": {
             "dlcappid": "721270"
