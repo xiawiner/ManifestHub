@@ -4,8 +4,8 @@
     "name": "NHRA Championship Drag Racing: Speed For All",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25703008",
-    "update_time": "2024-10-14 15:56:17",
+    "change_number": "27975367",
+    "update_time": "2025-03-16 03:58:12",
     "depot": {
         "228989": {
             "config": {
@@ -30,7 +30,7 @@
                     "download": "11054789056"
                 }
             },
-            "decryptionkey": "0af574fee59dfe8273b36f9446fcd87a0b57fe6e2a28e938712101a1482dde70"
+            "decryptionkey": ""
         },
         "1971720": {
             "dlcappid": "1971720"
