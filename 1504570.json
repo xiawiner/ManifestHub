@@ -4,8 +4,8 @@
     "name": "太荒初境",
     "schinese_name": "太荒初境",
     "isfreeapp": "0",
-    "change_number": "25999852",
-    "update_time": "2024-11-01 10:03:07",
+    "change_number": "27761783",
+    "update_time": "2025-03-04 05:22:59",
     "depot": {
         "228983": {
             "config": {
@@ -55,7 +55,7 @@
                     "download": "18719877296"
                 }
             },
-            "decryptionkey": "73df5decdd32e6c1b9ac3e2e7ecd5e1d252faa8b8f83639e807a4fabd31da425"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
