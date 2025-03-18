@@ -4,15 +4,15 @@
     "name": "復甦之島：愛與勝利",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26405467",
-    "update_time": "2024-12-05 06:48:53",
+    "change_number": "27739065",
+    "update_time": "2025-03-02 12:31:51",
     "depot": {
         "2578241": {
             "manifests": {
                 "public": {
-                    "gid": "9011441089143005886",
-                    "size": "632233404",
-                    "download": "442161312"
+                    "gid": "6713668283106931641",
+                    "size": "633394717",
+                    "download": "442410512"
                 }
             },
             "decryptionkey": "a76adef4da0203efd6a82042f409fde8f0deae380934bfb09c4bb32b91ac1a3a"
@@ -23,9 +23,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "426066254674345536",
-                    "size": "632060990",
-                    "download": "442025920"
+                    "gid": "163524007133377465",
+                    "size": "633222304",
+                    "download": "442275104"
                 }
             },
             "decryptionkey": "46af07da290601228c6b278ae0f9697c13ff4f12926db869f5053511ce10f8b9"
@@ -36,17 +36,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4938034835283034011",
-                    "size": "632243600",
-                    "download": "443219648"
+                    "gid": "2305538429025320532",
+                    "size": "633404912",
+                    "download": "443468832"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "14405329",
-                "timeupdated": "1715960843"
+                "buildid": "17563123",
+                "timeupdated": "1740889907"
             }
         }
     }
