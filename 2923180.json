@@ -4,8 +4,8 @@
     "name": "Defense of the Dauntless",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26409402",
-    "update_time": "2024-12-05 07:02:38",
+    "change_number": "27986373",
+    "update_time": "2025-03-17 10:17:47",
     "depot": {
         "2923181": {
             "config": {
@@ -38,6 +38,7 @@
                 "buildid": "15117042",
                 "timeupdated": "1721683752"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
