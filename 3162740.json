@@ -4,8 +4,8 @@
     "name": "Night Fright",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27443698",
-    "update_time": "2025-02-13 01:21:23",
+    "change_number": "27945957",
+    "update_time": "2025-03-14 08:36:03",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "6455834416"
                 }
             },
-            "decryptionkey": "c421b9ffdb4129c50c6711e30e38710ace030797881d53bf13c1c83ff9b87b7a"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
