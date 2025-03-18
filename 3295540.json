@@ -4,8 +4,8 @@
     "name": "Rogue Waters Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27441189",
-    "update_time": "2025-02-12 22:53:19",
+    "change_number": "27922780",
+    "update_time": "2025-03-13 08:22:13",
     "depot": {
         "228988": {
             "config": {
@@ -42,8 +42,7 @@
                     "size": "5938229729",
                     "download": "4766084544"
                 }
-            },
-            "decryptionkey": "e07e0d237a6b208045af470142db7aa2e49439c71623179ac3791a03eeb7e2f2"
+            }
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
         "branches": {
