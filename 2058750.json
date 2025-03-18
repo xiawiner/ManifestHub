@@ -4,8 +4,8 @@
     "name": "Monster Energy Supercross - The Official Videogame 6",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27522522",
-    "update_time": "2025-02-18 04:14:23",
+    "change_number": "27948074",
+    "update_time": "2025-03-14 11:21:43",
     "depot": {
         "228988": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "22085694320"
                 }
             },
-            "decryptionkey": "6b9fc7a68f8d9173ce4ffe86cf84fad5c42db8f8e6adbd3a9beb1cff95f7b969"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,spanish,brazilian,latam",
         "branches": {
