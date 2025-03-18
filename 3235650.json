@@ -4,8 +4,8 @@
     "name": "出張 Business trip",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27328294",
-    "update_time": "2025-02-05 23:27:40",
+    "change_number": "27996348",
+    "update_time": "2025-03-17 22:57:07",
     "depot": {
         "228989": {
             "config": {
@@ -30,7 +30,7 @@
                     "download": "674743088"
                 }
             },
-            "decryptionkey": "f1894f67d013dc1838db468c1e985c3e0b0dcf01f52215cdd944a902083709ec"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
