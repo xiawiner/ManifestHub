@@ -4,8 +4,8 @@
     "name": "BETON BRUTAL",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26785933",
-    "update_time": "2024-12-26 13:52:08",
+    "change_number": "27914363",
+    "update_time": "2025-03-12 23:41:53",
     "depot": {
         "workshopdepot": "2330500",
         "hasdepotsindlc": "1",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2373874877697788476",
-                    "size": "379098252",
-                    "download": "301798896"
+                    "gid": "7385469020355727702",
+                    "size": "379199698",
+                    "download": "301875648"
                 },
                 "prescoutfix": {
                     "gid": "506782107490327805",
@@ -35,8 +35,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "15212885",
-                "timeupdated": "1722430047"
+                "buildid": "17695117",
+                "timeupdated": "1741794103"
             },
             "prescoutfix": {
                 "buildid": "11007279",
