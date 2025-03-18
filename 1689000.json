@@ -4,8 +4,8 @@
     "name": "Namaiki Dark Elf Sisters",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26541064",
-    "update_time": "2024-12-08 01:18:46",
+    "change_number": "27974098",
+    "update_time": "2025-03-16 00:57:41",
     "depot": {
         "228988": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "1927875696"
                 }
             },
-            "decryptionkey": "dccd8bf9b4820b85ca965846d2b673b9240cc6f8ed15a8dd29d4224b5dadd0ab"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
