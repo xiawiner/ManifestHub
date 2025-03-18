@@ -4,8 +4,8 @@
     "name": "Death Education",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27059204",
-    "update_time": "2025-01-19 05:56:24",
+    "change_number": "27904982",
+    "update_time": "2025-03-12 14:08:25",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "2118528928"
                 }
             },
-            "decryptionkey": "ab24592712287f43ddd4dedfc69a4797c6d23fcf2c25ffb31e65f050794f63d2"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
