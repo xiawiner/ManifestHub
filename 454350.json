@@ -4,8 +4,8 @@
     "name": "Days of War",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27489181",
-    "update_time": "2025-02-15 08:16:40",
+    "change_number": "27771852",
+    "update_time": "2025-03-04 18:23:05",
     "depot": {
         "228986": {
             "config": {
@@ -41,7 +41,7 @@
                     "download": "18561315264"
                 }
             },
-            "decryptionkey": "6f4495b67511df79a238aa8f57c68448635cbfd9b25ef67e99ad92e6446ee601"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
@@ -50,6 +50,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "5af20efe2dcb4efd159a1af2da5413eda9c07369357d8622517c88cb7ef420fa"
+        "workshopdepotdecryptionkey": ""
     }
 }
