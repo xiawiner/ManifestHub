@@ -4,8 +4,8 @@
     "name": "ALARA Prime Playtest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27482161",
-    "update_time": "2025-02-14 23:32:41",
+    "change_number": "28013859",
+    "update_time": "2025-03-18 21:26:32",
     "depot": {
         "228989": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "297314624"
                 }
             },
-            "decryptionkey": "41a52dcb452b4daba9d09f728ff3d136f728c114be982b9b01accc44d5196473"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
