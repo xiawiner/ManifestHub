@@ -4,8 +4,8 @@
     "name": "FLATHEAD",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27469935",
-    "update_time": "2025-02-14 08:28:23",
+    "change_number": "27984095",
+    "update_time": "2025-03-17 04:57:04",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "870931344"
                 }
             },
-            "decryptionkey": "6179b8bc5b13f8586375cfdd8d642b3d6ed4a7954435cd1192bee1e8716a0329"
+            "decryptionkey": ""
         },
         "baselanguages": "english",
         "branches": {
