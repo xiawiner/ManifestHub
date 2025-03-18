@@ -4,8 +4,8 @@
     "name": "The Bad Gravedigger",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26746134",
-    "update_time": "2024-12-21 21:21:54",
+    "change_number": "27854886",
+    "update_time": "2025-03-09 08:08:13",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
@@ -36,7 +36,7 @@
                     "download": "1795641488"
                 }
             },
-            "decryptionkey": "f68f7b50b3d78df0c02200d586c1bb56154544deac5844927bac87fcb5396626"
+            "decryptionkey": ""
         },
         "983930": {
             "config": {
@@ -52,7 +52,7 @@
                 }
             },
             "dlcappid": "983930",
-            "decryptionkey": "e4fc1c2378da787e7d59cfb72f4efaca2dfeb6f8deaa4867042e2d61fca6a318"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
