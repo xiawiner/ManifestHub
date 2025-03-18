@@ -4,8 +4,8 @@
     "name": "Japanese Rail Sim: Operating the MEITETSU Line",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27053768",
-    "update_time": "2025-01-18 14:54:53",
+    "change_number": "27978924",
+    "update_time": "2025-03-16 14:56:44",
     "depot": {
         "baselanguages": "english,japanese",
         "hasdepotsindlc": "1",
@@ -31,7 +31,7 @@
                     "download": "7009428448"
                 }
             },
-            "decryptionkey": "9da978420320c4e0aabdbbda4dc04786ede196b4beca90f8c0d390e20a5d0d9b"
+            "decryptionkey": ""
         },
         "2281542": {
             "manifests": {}
