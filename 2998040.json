@@ -4,8 +4,8 @@
     "name": "BLOODSAINT",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27404364",
-    "update_time": "2025-02-11 00:40:45",
+    "change_number": "27772772",
+    "update_time": "2025-03-04 19:16:40",
     "depot": {
         "228990": {
             "config": {
@@ -22,7 +22,7 @@
                     "download": "124159424"
                 }
             },
-            "decryptionkey": "7fb9fb05f05091bbbd762bfabba42518113747242dfa4ed88771a584a2a4256f"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
