@@ -4,8 +4,8 @@
     "name": "Kick-Ass 2",
     "schinese_name": "海扁王2",
     "isfreeapp": "0",
-    "change_number": "26546048",
-    "update_time": "2024-12-08 19:16:49",
+    "change_number": "27914855",
+    "update_time": "2025-03-13 00:07:39",
     "depot": {
         "228983": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "7b5ad0a6f5a717864420e3d72174595da9cdc299671c7f51601d01e7301311fe"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,spanish,russian",
         "branches": {
