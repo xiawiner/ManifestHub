@@ -4,8 +4,8 @@
     "name": "Charon's Staircase",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27229267",
-    "update_time": "2025-01-30 12:18:41",
+    "change_number": "27743860",
+    "update_time": "2025-03-03 02:17:01",
     "depot": {
         "hasdepotsindlc": "1",
         "228988": {
@@ -33,7 +33,7 @@
                     "download": "4794351840"
                 }
             },
-            "decryptionkey": "5b153342529a705023324fd48e350cf88dc033d14581cfc767ad04d562587b7c"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
