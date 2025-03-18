@@ -4,8 +4,8 @@
     "name": "Celestial Empire Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27445139",
-    "update_time": "2025-02-13 02:50:51",
+    "change_number": "27773044",
+    "update_time": "2025-03-04 19:31:57",
     "depot": {
         "228988": {
             "config": {
@@ -28,8 +28,7 @@
                     "size": "17074820271",
                     "download": "8758804928"
                 }
-            },
-            "decryptionkey": "dc11c23686c8f80f2f14b4b7b53b66e9c6b6a56649c1daa25b68f12263cab9e3"
+            }
         },
         "branches": {
             "public": {
