@@ -4,8 +4,8 @@
     "name": "99 Waves to Die",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27332151",
-    "update_time": "2025-02-06 03:26:15",
+    "change_number": "27813111",
+    "update_time": "2025-03-06 19:07:34",
     "depot": {
         "228990": {
             "config": {
@@ -22,7 +22,7 @@
                     "download": "64"
                 }
             },
-            "decryptionkey": "f7bc73df15f2977674129706f329fd4d64fe05a80e6c684be795567c661ec246"
+            "decryptionkey": ""
         },
         "360602": {
             "config": {
@@ -35,7 +35,7 @@
                     "download": "14287120"
                 }
             },
-            "decryptionkey": "ce3fea5e4717ec58f0be042803dc9c21ef113167d7ee91429f8bcf58c8825955"
+            "decryptionkey": ""
         },
         "360603": {
             "config": {
@@ -48,7 +48,7 @@
                     "download": "15837632"
                 }
             },
-            "decryptionkey": "e13ad5eb588426df0446e930eaf152a3b7be259fd7d24043df6f19f648ff9dec"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
