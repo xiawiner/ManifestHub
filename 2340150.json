@@ -4,8 +4,8 @@
     "name": "Wojak wants Hentai",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26810940",
-    "update_time": "2024-12-29 23:41:15",
+    "change_number": "27945487",
+    "update_time": "2025-03-14 07:58:11",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "4056227808"
                 }
             },
-            "decryptionkey": "7a4893691ec9a778e8d69ae91a75730ea3410730e9fd7b87ac854e16946e6160"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
