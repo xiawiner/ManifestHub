@@ -4,8 +4,8 @@
     "name": "E-Commerce Simulator 2025 Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27498576",
-    "update_time": "2025-02-16 07:15:07",
+    "change_number": "27944208",
+    "update_time": "2025-03-14 06:24:00",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,16 @@
         "3327421": {
             "manifests": {
                 "public": {
-                    "gid": "8987302765673362519",
-                    "size": "4950407160",
-                    "download": "1666762112"
+                    "gid": "1533008095604146050",
+                    "size": "4949009632",
+                    "download": "1665761408"
                 }
-            },
-            "decryptionkey": "0586d60a6981b11aee956dba80eacd39d7f868bfca3a5a61cb53d0b4be938ffd"
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17011574",
-                "timeupdated": "1737374401"
+                "buildid": "17425385",
+                "timeupdated": "1740386371"
             }
         },
         "privatebranches": "1"
