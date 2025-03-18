@@ -4,8 +4,8 @@
     "name": "New Cycle",
     "schinese_name": "耀斑纪元 - New Cycle",
     "isfreeapp": "0",
-    "change_number": "27254023",
-    "update_time": "2025-01-31 21:41:24",
+    "change_number": "27953396",
+    "update_time": "2025-03-14 18:01:04",
     "depot": {
         "228990": {
             "config": {
@@ -35,7 +35,7 @@
                     "download": "3670789504"
                 }
             },
-            "decryptionkey": "cc63e967354dee46c1617e73a460c60281c8c39681d133bac4e8dde913ae7f47"
+            "decryptionkey": ""
         },
         "2731240": {
             "dlcappid": "2731240",
@@ -56,7 +56,7 @@
                     "download": "19627056"
                 }
             },
-            "decryptionkey": "e2843df7fe82e31f0567798a3812e5b8ab9428c9c7c1d4e0a17e16d26ad3da49"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
