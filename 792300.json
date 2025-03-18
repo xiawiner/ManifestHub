@@ -4,8 +4,8 @@
     "name": "The Beast Inside",
     "schinese_name": "心魔",
     "isfreeapp": "0",
-    "change_number": "27376453",
-    "update_time": "2025-02-08 16:17:22",
+    "change_number": "27975113",
+    "update_time": "2025-03-16 03:21:29",
     "depot": {
         "228986": {
             "config": {
@@ -37,7 +37,7 @@
                     "download": "12012561344"
                 }
             },
-            "decryptionkey": "44c48d3c07f69d006381c872c6f4dbdeef588528bf50e68e493a9dd546c5754a"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,spanish,schinese,russian,polish,hungarian,turkish,brazilian",
         "branches": {
