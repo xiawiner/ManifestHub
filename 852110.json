@@ -4,8 +4,8 @@
     "name": "RetroMaze",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "22583687",
-    "update_time": "2024-05-27 07:18:35",
+    "change_number": "27978205",
+    "update_time": "2025-03-16 12:20:52",
     "depot": {
         "228990": {
             "config": {
@@ -25,7 +25,7 @@
                     "download": "8561360"
                 }
             },
-            "decryptionkey": "4785f83fba98f9cc1a653bf22b392921f3493967f96cbfc77617bee05dab5012"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
