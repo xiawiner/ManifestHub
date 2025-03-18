@@ -4,8 +4,8 @@
     "name": "Feather Party",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27538162",
-    "update_time": "2025-02-19 00:34:58",
+    "change_number": "27936516",
+    "update_time": "2025-03-13 23:42:48",
     "depot": {
         "2300231": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5600655274835655492",
-                    "size": "5150667575",
-                    "download": "946551744"
+                    "gid": "2341714060115150179",
+                    "size": "5396087400",
+                    "download": "978829760"
                 }
             },
             "decryptionkey": "381a09ded1a5dd416d4c4b38d744d6220d455426876d2f90471363bddf70a27d"
@@ -36,8 +36,8 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "16804694",
-                "timeupdated": "1734635122"
+                "buildid": "17711285",
+                "timeupdated": "1741880561"
             }
         },
         "privatebranches": "1"
