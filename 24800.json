@@ -4,8 +4,8 @@
     "name": "Command & Conquer™ Red Alert™ 3 - Uprising",
     "schinese_name": "《命令与征服：红色警戒 3》起义",
     "isfreeapp": "0",
-    "change_number": "27406957",
-    "update_time": "2025-02-11 03:11:16",
+    "change_number": "27892913",
+    "update_time": "2025-03-11 22:52:13",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,koreana,spanish,tchinese,russian,thai,polish,hungarian,czech",
@@ -27,9 +27,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "2413757782052553859",
-                    "size": "6914895501",
-                    "download": "4904236208"
+                    "gid": "991007856033268419",
+                    "size": "7008979353",
+                    "download": "4950425072"
                 }
             },
             "decryptionkey": "e35fc1208321ab37a47e4e143faae90be1652cad83126937d3deb486d8d9e749"
@@ -40,9 +40,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "67627412952222864",
-                    "size": "1699007779",
-                    "download": "1466635200"
+                    "gid": "8779305569825158857",
+                    "size": "1699008107",
+                    "download": "1466635168"
                 }
             },
             "decryptionkey": "5d280ba97570385dd6558bdc6ca9fe69db4467e5384bb604857f1f40951126d3"
@@ -53,9 +53,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8274809045144307161",
-                    "size": "1724826236",
-                    "download": "1484241040"
+                    "gid": "1274098321636890757",
+                    "size": "1724826567",
+                    "download": "1484241008"
                 }
             },
             "decryptionkey": "a96ef784362ad393d1aa079ace2f91a285b98ea5ab9864735e38ec4d0d1fc71b"
@@ -66,9 +66,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6183748249426468365",
-                    "size": "35343301",
-                    "download": "3119472"
+                    "gid": "3521852040790825899",
+                    "size": "35343646",
+                    "download": "3119376"
                 }
             },
             "decryptionkey": "44b09736405651ea8ebce6cb100c17c1e71565928af8adbd0cabbdeb8397c583"
@@ -79,8 +79,8 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2024496939502146595",
-                    "size": "35322313",
+                    "gid": "8691892808952044864",
+                    "size": "35322712",
                     "download": "3101232"
                 }
             },
@@ -92,9 +92,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3840008804493923097",
-                    "size": "1706562908",
-                    "download": "1471994544"
+                    "gid": "8929019765291259977",
+                    "size": "1706563239",
+                    "download": "1471994512"
                 }
             },
             "decryptionkey": "0467e7cf79927de92c87c97ed7b9d71e2da337776b147de287cde88898fe7e87"
@@ -105,8 +105,8 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3726069640455622210",
-                    "size": "35330839",
+                    "gid": "6310800658109082022",
+                    "size": "35331238",
                     "download": "3188832"
                 }
             },
@@ -118,9 +118,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1194685021395874683",
-                    "size": "1759037407",
-                    "download": "1517028160"
+                    "gid": "5898413528032160065",
+                    "size": "1759037738",
+                    "download": "1517028128"
                 }
             },
             "decryptionkey": "e4f499b13b7ad692f739592c909cf8a610274d36e289f0687936b2566bcd44b4"
@@ -131,9 +131,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8179744559122970112",
-                    "size": "1740132467",
-                    "download": "1507224464"
+                    "gid": "7465817749472533625",
+                    "size": "1740132798",
+                    "download": "1507224432"
                 }
             },
             "decryptionkey": "de15fbd7bcdc277174efb2de291d7d2084279fcf5d8d025e1bc4725b6d19c305"
@@ -142,25 +142,46 @@
             "config": {
                 "language": "koreana"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "7659055226266062671",
+                    "size": "119059712",
+                    "download": "85301088"
+                }
+            },
+            "decryptionkey": ""
         },
         "3287101": {
             "config": {
                 "language": "tchinese"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "1141145902428036687",
+                    "size": "125280992",
+                    "download": "91216640"
+                }
+            },
+            "decryptionkey": "29c5c618b4a7a67bbe05df51eb1cc89172b5e200ac1130617675dbf17319b314"
         },
         "3287102": {
             "config": {
                 "language": "thai"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "7432561774676851555",
+                    "size": "117706150",
+                    "download": "84444096"
+                }
+            },
+            "decryptionkey": ""
         },
         "workshopdepot": "24800",
         "branches": {
             "public": {
-                "buildid": "13686278",
-                "timeupdated": "1709986480"
+                "buildid": "17448507",
+                "timeupdated": "1740672459"
             }
         },
         "privatebranches": "1",
