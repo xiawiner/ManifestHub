@@ -4,8 +4,8 @@
     "name": "Is It Wrong to Try to Pick Up Girls in a Dungeon? Infinite Combate",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27492678",
-    "update_time": "2025-02-15 17:14:07",
+    "change_number": "27912121",
+    "update_time": "2025-03-12 21:46:21",
     "depot": {
         "228986": {
             "config": {
@@ -41,7 +41,7 @@
                     "download": "11840"
                 }
             },
-            "decryptionkey": "7fff58f5d9b053749934fa69548c9b045a6c2609b51ca0b4c6850f8cdf0fb4eb"
+            "decryptionkey": ""
         },
         "baselanguages": "english,schinese,tchinese,japanese",
         "branches": {
