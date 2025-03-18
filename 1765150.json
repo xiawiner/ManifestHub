@@ -4,8 +4,8 @@
     "name": "猴王模拟器之花果山篇",
     "schinese_name": "猴王模拟器之花果山篇",
     "isfreeapp": "0",
-    "change_number": "25607089",
-    "update_time": "2024-10-09 04:54:31",
+    "change_number": "27760220",
+    "update_time": "2025-03-04 03:16:14",
     "depot": {
         "228988": {
             "config": {
@@ -33,7 +33,7 @@
                     "download": "4415823152"
                 }
             },
-            "decryptionkey": "bfd76a5bc14ce7a2f23d569a3283e4b962a4395b6d79491fb37e7240b9c7c31b"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
