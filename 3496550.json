@@ -2,10 +2,10 @@
     "appid": "3496550",
     "type": "Demo",
     "name": "Chernobylite 2: Exclusion Zone Demo",
-    "schinese_name": "",
+    "schinese_name": "切尔诺贝利人2：禁区 试玩版",
     "isfreeapp": "0",
-    "change_number": "27542386",
-    "update_time": "2025-02-19 05:11:28",
+    "change_number": "27812043",
+    "update_time": "2025-03-06 18:01:00",
     "depot": {
         "228989": {
             "config": {
@@ -28,8 +28,7 @@
                     "size": "123907413166",
                     "download": "106983441760"
                 }
-            },
-            "decryptionkey": "f3c8cd52988cc36ff8e6e6b60a066e7786b2181f2008a167aec296bafc479f68"
+            }
         },
         "branches": {
             "public": {
