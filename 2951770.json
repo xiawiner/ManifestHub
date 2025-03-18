@@ -4,8 +4,8 @@
     "name": "Leap Year",
     "schinese_name": "闰跃之年 Leap Year",
     "isfreeapp": "0",
-    "change_number": "27727189",
-    "update_time": "2025-03-01 07:23:57",
+    "change_number": "27831307",
+    "update_time": "2025-03-07 16:28:32",
     "depot": {
         "228990": {
             "config": {
@@ -18,17 +18,17 @@
         "2951771": {
             "manifests": {
                 "public": {
-                    "gid": "1369893400892952476",
-                    "size": "39011796",
-                    "download": "25223840"
+                    "gid": "4537667154364591678",
+                    "size": "39012052",
+                    "download": "25223904"
                 }
             },
-            "decryptionkey": "06ab3cc875db4c6cbb8d9a4a1b380cf73d4fd5d869b0ad92e09de4a42759dcd5"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17554198",
-                "timeupdated": "1740785032"
+                "buildid": "17614177",
+                "timeupdated": "1741336108"
             }
         },
         "privatebranches": "1"
