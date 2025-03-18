@@ -4,8 +4,8 @@
     "name": "Farthest Frontier Mod Tools",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "22932063",
-    "update_time": "2024-07-16 02:46:56",
+    "change_number": "27973599",
+    "update_time": "2025-03-15 23:52:45",
     "depot": {
         "2789701": {
             "manifests": {
@@ -24,6 +24,7 @@
                 "timeupdated": "1711553792"
             }
         },
+        "privatebranches": "1",
         "workshopdepotdecryptionkey": ""
     }
 }
