@@ -4,8 +4,8 @@
     "name": "Frip and Froop's Logical Labyrinth DX",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27501732",
-    "update_time": "2025-02-16 18:00:19",
+    "change_number": "27807764",
+    "update_time": "2025-03-06 12:27:56",
     "depot": {
         "2499741": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8700360339253212246",
-                    "size": "463753298",
-                    "download": "254121680"
+                    "gid": "7994223671908907188",
+                    "size": "463921873",
+                    "download": "254290464"
                 }
             },
             "decryptionkey": "b1e63a87a0d58df3e2757b459e166dc8f3a5bdb29d9a09783e2e315c27f67cd8"
@@ -28,17 +28,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8945770334758041327",
-                    "size": "550527570",
-                    "download": "257457280"
+                    "gid": "6746915546888251414",
+                    "size": "550733947",
+                    "download": "257651168"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17383159",
-                "timeupdated": "1739700014"
+                "buildid": "17614098",
+                "timeupdated": "1741235272"
             }
         },
         "privatebranches": "1"
