@@ -4,8 +4,8 @@
     "name": "江湖客栈-单人模式【PVE】",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27228271",
-    "update_time": "2025-01-30 10:18:58",
+    "change_number": "28008053",
+    "update_time": "2025-03-18 14:55:41",
     "depot": {
         "228985": {
             "config": {
@@ -99,7 +99,7 @@
                     "download": "955747936"
                 }
             },
-            "decryptionkey": "28e4604ecf0063ad6faeec88f00e495e0e2963ca3930ea3db51461585ea45d1c"
+            "decryptionkey": ""
         },
         "baselanguages": "english,schinese",
         "branches": {
