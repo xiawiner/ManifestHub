@@ -4,8 +4,8 @@
     "name": "Journey",
     "schinese_name": "风之旅人",
     "isfreeapp": "0",
-    "change_number": "26999254",
-    "update_time": "2025-01-15 09:17:07",
+    "change_number": "27846055",
+    "update_time": "2025-03-08 09:01:15",
     "depot": {
         "228987": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "1480112608"
                 }
             },
-            "decryptionkey": "b49b74a2b8b9170fde12db70ff5271bfbe8cbd48407f3eab8bbe23f4671a4ba7"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,dutch,swedish,turkish,brazilian",
         "branches": {
