@@ -4,8 +4,8 @@
     "name": "Uberich: Advent Sinners Demo",
     "schinese_name": "神罪降临 Uberich: Advent Sinners Demo",
     "isfreeapp": "0",
-    "change_number": "27425986",
-    "update_time": "2025-02-12 02:57:38",
+    "change_number": "27806628",
+    "update_time": "2025-03-06 10:36:36",
     "depot": {
         "baselanguages": "english,schinese,tchinese,japanese",
         "228983": {
@@ -28,12 +28,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1626963312032955094",
-                    "size": "2794000142",
-                    "download": "1635962944"
+                    "gid": "2011891867666995388",
+                    "size": "2793823690",
+                    "download": "1635845936"
                 }
-            },
-            "decryptionkey": "c3a57066b260b3b1ef6825aaf03c45370df0fd218373cb595e5994e9c1f93630"
+            }
         },
         "2862532": {
             "config": {
@@ -41,12 +40,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6274254061789383765",
-                    "size": "2798635045",
-                    "download": "1642298000"
+                    "gid": "3092513444610469914",
+                    "size": "2798443795",
+                    "download": "1642166960"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2862533": {
             "config": {
@@ -54,12 +52,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1478601548474568250",
-                    "size": "2795558132",
-                    "download": "1638066256"
+                    "gid": "101242919453813226",
+                    "size": "2795372296",
+                    "download": "1637945408"
                 }
-            },
-            "decryptionkey": "487ad00a2b6dd32c9f33a23864ad57d62e55eab7dd894bb91cf80828dcfc0932"
+            }
         },
         "2862534": {
             "config": {
@@ -71,13 +68,12 @@
                     "size": "2800957114",
                     "download": "1639802192"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17464024",
-                "timeupdated": "1740311969"
+                "buildid": "17613137",
+                "timeupdated": "1741228591"
             }
         }
     }
