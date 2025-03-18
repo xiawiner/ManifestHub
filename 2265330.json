@@ -4,8 +4,8 @@
     "name": "Eternal Tombs Playtest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25859047",
-    "update_time": "2024-10-23 22:11:57",
+    "change_number": "27830088",
+    "update_time": "2025-03-07 14:49:14",
     "depot": {
         "228989": {
             "config": {
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4234758146965304830",
-                    "size": "132591441258",
-                    "download": "62058318080"
+                    "gid": "367022550345816602",
+                    "size": "124826607717",
+                    "download": "109095458880"
                 }
             },
-            "decryptionkey": "47dc0cc1d37a51a0b0db6737f091419c4bada5cba0a3a8621abb15eacf7f0727"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "15995631",
-                "timeupdated": "1728569501"
+                "buildid": "17631125",
+                "timeupdated": "1741330151"
             }
         }
     }
