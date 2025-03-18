@@ -4,8 +4,8 @@
     "name": "Re.Poly Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27268312",
-    "update_time": "2025-02-01 20:39:33",
+    "change_number": "27876156",
+    "update_time": "2025-03-11 01:31:01",
     "depot": {
         "1004": {
             "config": {
@@ -86,9 +86,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8134244649746204687",
-                    "size": "813856063",
-                    "download": "417768512"
+                    "gid": "1196475727392181755",
+                    "size": "818835071",
+                    "download": "422353152"
                 },
                 "testserver": {
                     "gid": "281225935279588108",
@@ -114,8 +114,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17209960",
-                "timeupdated": "1738413568"
+                "buildid": "17665161",
+                "timeupdated": "1741627855"
             },
             "testserver": {
                 "buildid": "11664965",
