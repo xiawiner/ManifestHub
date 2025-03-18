@@ -4,8 +4,8 @@
     "name": "Angels Fall First Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26182377",
-    "update_time": "2024-11-14 05:39:59",
+    "change_number": "27935173",
+    "update_time": "2025-03-13 22:40:38",
     "depot": {
         "1004": {
             "config": {
@@ -19,7 +19,7 @@
                 }
             },
             "depotfromapp": "1007",
-            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+            "decryptionkey": ""
         },
         "1005": {
             "config": {
@@ -33,7 +33,7 @@
                 }
             },
             "depotfromapp": "1007",
-            "decryptionkey": "ffa980484d510ce8d7bfcdfde8545a438acc894accb6750711fdb75c0ee92ad9"
+            "decryptionkey": ""
         },
         "1006": {
             "config": {
@@ -47,7 +47,7 @@
                 }
             },
             "depotfromapp": "1007",
-            "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
+            "decryptionkey": ""
         },
         "228989": {
             "config": {
@@ -62,17 +62,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6021112677487896433",
-                    "size": "1085409667",
-                    "download": "757424112"
+                    "gid": "2318010319233777446",
+                    "size": "1085691831",
+                    "download": "757588480"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "14637969",
-                "timeupdated": "1717889874"
+                "buildid": "17697476",
+                "timeupdated": "1741876832"
             }
         },
         "privatebranches": "1"
