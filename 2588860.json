@@ -4,8 +4,8 @@
     "name": "Virtual AI - KURONYAM",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27731742",
-    "update_time": "2025-03-01 17:46:10",
+    "change_number": "27951686",
+    "update_time": "2025-03-14 16:23:13",
     "depot": {
         "baselanguages": "english",
         "2588861": {
@@ -21,13 +21,6 @@
                 }
             },
             "decryptionkey": "fe0869c13a596e77a02c008faa7e7ca90927d0919ef7f23c40c4a53aa52fd593"
-        },
-        "2588863": {
-            "config": {
-                "oslist": "windows",
-                "osarch": "64"
-            },
-            "manifests": {}
         },
         "2588864": {
             "config": {
@@ -120,10 +113,24 @@
             },
             "decryptionkey": "7a3dba3d29756b48ee74d57803a6a5a98a55d6cb3e4078acf0330c6be71d2bbe"
         },
+        "2588863": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4116525861259842994",
+                    "size": "2075375005",
+                    "download": "531501296"
+                }
+            },
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
-                "buildid": "17463705",
-                "timeupdated": "1740200132"
+                "buildid": "17583554",
+                "timeupdated": "1741070063"
             }
         },
         "privatebranches": "1"
