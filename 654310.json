@@ -4,8 +4,8 @@
     "name": "For Honor - Public Test",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26461881",
-    "update_time": "2024-12-05 10:31:07",
+    "change_number": "27825469",
+    "update_time": "2025-03-07 08:30:50",
     "depot": {
         "228986": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "34350842704"
                 }
             },
-            "decryptionkey": "46f7b09e155543eb13f883da8b88be2b32d220dd67333049b1cbf55c57eb9ca1"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
