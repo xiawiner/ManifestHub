@@ -4,8 +4,8 @@
     "name": "FINAL FANTASY VI",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27382523",
-    "update_time": "2025-02-09 06:26:05",
+    "change_number": "27791244",
+    "update_time": "2025-03-05 17:07:41",
     "depot": {
         "228988": {
             "config": {
@@ -31,12 +31,12 @@
         "1173821": {
             "manifests": {
                 "public": {
-                    "gid": "731549240647041092",
-                    "size": "1166609691",
-                    "download": "1014981936"
+                    "gid": "546488172508573739",
+                    "size": "1167859813",
+                    "download": "1015361520"
                 }
             },
-            "decryptionkey": "f14232f6b12f98270c9af46260c0e9ed60c5c3b2e7ea5aa7d7a4a3aad47b27b6"
+            "decryptionkey": ""
         },
         "1638420": {
             "dlcappid": "1638420",
@@ -47,12 +47,12 @@
                     "download": "76413184"
                 }
             },
-            "decryptionkey": "044ac29b160a56f2451fe51f246515764b172431ebf2871f35f8afad63db50fa"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "13388364",
-                "timeupdated": "1708336614"
+                "buildid": "17234805",
+                "timeupdated": "1741164913"
             }
         },
         "privatebranches": "1"
