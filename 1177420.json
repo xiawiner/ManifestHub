@@ -4,8 +4,8 @@
     "name": "UncleNeighbor",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27016032",
-    "update_time": "2025-01-16 08:09:58",
+    "change_number": "27742816",
+    "update_time": "2025-03-02 23:45:45",
     "depot": {
         "baselanguages": "english,schinese,brazilian",
         "hasdepotsindlc": "0",
@@ -42,15 +42,13 @@
             "config": {
                 "oslist": "windows",
                 "language": ""
-            },
-            "manifests": {}
+            }
         },
         "branches": {
             "public": {
                 "buildid": "15544072",
                 "timeupdated": "1725018187"
             }
-        },
-        "privatebranches": "1"
+        }
     }
 }
