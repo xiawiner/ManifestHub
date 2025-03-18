@@ -4,8 +4,8 @@
     "name": "CastleStorm",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27142347",
-    "update_time": "2025-01-24 11:23:44",
+    "change_number": "27930672",
+    "update_time": "2025-03-13 18:21:08",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -29,7 +29,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "0dfa2b721fa449dbc659eca2de4f6ea8396cb283c3875fe6850171492e45eb2b"
+            "decryptionkey": ""
         },
         "241412": {
             "config": {
@@ -84,7 +84,7 @@
                 }
             },
             "dlcappid": "242300",
-            "decryptionkey": "375463188e2cc42eb00aaef425c0bee11ece720a4b16eddcf6ac62ab44c1f206"
+            "decryptionkey": ""
         },
         "242310": {
             "manifests": {
@@ -95,7 +95,7 @@
                 }
             },
             "dlcappid": "242310",
-            "decryptionkey": "c13ea12608ec6b614a4d044bf7b7e81ca370fd48f3123782a391bc1423425058"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
