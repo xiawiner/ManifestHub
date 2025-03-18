@@ -4,8 +4,8 @@
     "name": "Fallout Tactics",
     "schinese_name": "辐射战略版：钢铁兄弟会",
     "isfreeapp": "0",
-    "change_number": "27107574",
-    "update_time": "2025-01-22 15:25:54",
+    "change_number": "27852720",
+    "update_time": "2025-03-09 02:07:24",
     "depot": {
         "228981": {
             "config": {
@@ -38,7 +38,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "3c59b3a57bb592dfafa5efd40b04edcfc40894051e736ea3f56710d3ac4b3dca"
+            "decryptionkey": ""
         },
         "38422": {
             "config": {
@@ -51,7 +51,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "5bfe7489ada702d4ff97c803a9aab95116c53da4884e19741865964c98c378d3"
+            "decryptionkey": ""
         },
         "38423": {
             "config": {
@@ -64,7 +64,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "0c06cf1646d49b310fc62d9ddbabecc5cf480ed6cbde716ad608e15c98208fa9"
+            "decryptionkey": ""
         },
         "38424": {
             "manifests": {
@@ -74,7 +74,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "fecde89bb824bbefabb1837dc231d5fa8738403a3c91c2b55b52b198d35cf00c"
+            "decryptionkey": ""
         },
         "38425": {
             "config": {
@@ -87,7 +87,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "f236fe4209a34b19464954db73b0f80681b39172bb52a85a57750f4db2bab93b"
+            "decryptionkey": ""
         },
         "38426": {
             "config": {
@@ -100,7 +100,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "784b4c04d17ea543dca2a2e450a64b39425812942e0455d22baa3580bb4950f5"
+            "decryptionkey": ""
         },
         "38427": {
             "config": {
@@ -113,7 +113,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "3d73157d9e861da58909e20c4903afcb6c5fc77ce3a2fb68ee42134f036e5684"
+            "decryptionkey": ""
         },
         "baselanguages": "",
         "branches": {
