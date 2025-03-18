@@ -4,8 +4,8 @@
     "name": "The Adventures of LinShanHai - Chapter4:Vanishing Masterpiece",
     "schinese_name": "林山海探案集 - 第四案:画",
     "isfreeapp": "0",
-    "change_number": "27074527",
-    "update_time": "2025-01-20 19:30:41",
+    "change_number": "27742417",
+    "update_time": "2025-03-02 22:46:14",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "1281037984"
                 }
             },
-            "decryptionkey": "643dc71106ea1186dab8b8fa55a0b16fbd8463a9cb1978110a8987e7972117c5"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
