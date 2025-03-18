@@ -4,8 +4,8 @@
     "name": "Time Survivors",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27283619",
-    "update_time": "2025-02-03 12:32:38",
+    "change_number": "27994881",
+    "update_time": "2025-03-17 21:56:45",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "556953280"
                 }
             },
-            "decryptionkey": "534648749f9fc0b9cab2bd2589d21f50e686281409de9d22a587254fc60db0de"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
