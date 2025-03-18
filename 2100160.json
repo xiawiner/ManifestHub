@@ -4,8 +4,8 @@
     "name": "MotoGP™23",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26481912",
-    "update_time": "2024-12-05 09:37:11",
+    "change_number": "27872266",
+    "update_time": "2025-03-10 21:51:50",
     "depot": {
         "228988": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "22451268864"
                 }
             },
-            "decryptionkey": "563fa8605d09fdc45d932bcfdb5232513c26893dc2628ce77234bb3df8abc41c"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
