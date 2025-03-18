@@ -4,8 +4,8 @@
     "name": "Monster Jam Steel Titans 2",
     "schinese_name": "越野怪物卡车2",
     "isfreeapp": "0",
-    "change_number": "27494645",
-    "update_time": "2025-02-15 22:13:20",
+    "change_number": "27746501",
+    "update_time": "2025-03-03 08:15:24",
     "depot": {
         "228988": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "18041510144"
                 }
             },
-            "decryptionkey": "c5b02015dfa6f70e6dfc85296ef3ed65c41e68c1a0585845bec1fc65bd623652"
+            "decryptionkey": ""
         },
         "1205482": {
             "manifests": {}
