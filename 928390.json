@@ -4,8 +4,8 @@
     "name": "R-Type Dimensions EX",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26020571",
-    "update_time": "2024-11-03 00:05:41",
+    "change_number": "27993085",
+    "update_time": "2025-03-17 20:22:20",
     "depot": {
         "228988": {
             "config": {
@@ -34,7 +34,7 @@
                     "download": "137287008"
                 }
             },
-            "decryptionkey": "9dd53ad79e64ca413e7586708a57b277200db780d2fb8589ff3329edec49bc7c"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
