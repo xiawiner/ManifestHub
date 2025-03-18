@@ -4,8 +4,8 @@
     "name": "Start Over",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27357635",
-    "update_time": "2025-02-07 11:41:20",
+    "change_number": "27996626",
+    "update_time": "2025-03-17 23:12:20",
     "depot": {
         "228989": {
             "config": {
@@ -43,7 +43,7 @@
                     "download": "17476971536"
                 }
             },
-            "decryptionkey": "179ddff63691fe5ea7d4edecb2212eb273d67f773d3e33c9e84fdeed3bd2157a"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
