@@ -4,8 +4,8 @@
     "name": "Pure Rock Crawling",
     "schinese_name": "岩地越野",
     "isfreeapp": "0",
-    "change_number": "27002103",
-    "update_time": "2025-01-15 14:14:43",
+    "change_number": "27976465",
+    "update_time": "2025-03-16 06:56:20",
     "depot": {
         "228986": {
             "config": {
@@ -49,7 +49,7 @@
                     "download": "2265767600"
                 }
             },
-            "decryptionkey": "b929a31f1b7a0e70ec088bc7360d67c7db44033a0a2748df2b03d66001b04521"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
