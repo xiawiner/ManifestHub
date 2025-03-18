@@ -4,8 +4,8 @@
     "name": "Crabs Dive In Crossway Demo",
     "schinese_name": "横行纵队 试用版",
     "isfreeapp": "0",
-    "change_number": "27450038",
-    "update_time": "2025-02-13 08:59:41",
+    "change_number": "27910156",
+    "update_time": "2025-03-12 20:03:30",
     "depot": {
         "baselanguages": "english,schinese",
         "228990": {
@@ -18,17 +18,16 @@
         "3328571": {
             "manifests": {
                 "public": {
-                    "gid": "6995284363503366153",
-                    "size": "275164503",
-                    "download": "80901296"
+                    "gid": "309149082742940798",
+                    "size": "275166679",
+                    "download": "80901488"
                 }
-            },
-            "decryptionkey": "4186c29f510f84ec928b96fbf86962b552a3d0a19584b659411f04225c272d71"
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17344626",
-                "timeupdated": "1739408377"
+                "buildid": "17692122",
+                "timeupdated": "1741781006"
             }
         }
     }
