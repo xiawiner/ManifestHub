@@ -4,8 +4,8 @@
     "name": "Whispers in the Dark",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25603286",
-    "update_time": "2024-10-09 03:45:02",
+    "change_number": "27768123",
+    "update_time": "2025-03-04 14:12:23",
     "depot": {
         "baselanguages": "english,german,french,spanish,schinese,russian",
         "228988": {
@@ -34,7 +34,7 @@
                     "download": "2801917488"
                 }
             },
-            "decryptionkey": "20df1b851815ca2c8f86cf83a84cc48bbdc7fad5f769b29ee4a2e73c92af2c93"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
