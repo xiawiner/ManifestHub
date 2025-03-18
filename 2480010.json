@@ -4,8 +4,8 @@
     "name": "Sugar Mess",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27183417",
-    "update_time": "2025-01-27 21:21:33",
+    "change_number": "27753080",
+    "update_time": "2025-03-03 19:57:46",
     "depot": {
         "228989": {
             "config": {
@@ -25,7 +25,7 @@
                     "download": "1653998912"
                 }
             },
-            "decryptionkey": "8001ed20378e406b8b118e5b5be4e50d8b7f8204c3589cbda2a754e5082c45b3"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
