@@ -4,8 +4,8 @@
     "name": "Outer Wilds",
     "schinese_name": "星际拓荒",
     "isfreeapp": "0",
-    "change_number": "27525144",
-    "update_time": "2025-02-18 08:16:19",
+    "change_number": "27746977",
+    "update_time": "2025-03-03 09:22:42",
     "depot": {
         "228988": {
             "config": {
@@ -54,7 +54,7 @@
                     "download": "3575467184"
                 }
             },
-            "decryptionkey": "57452658900ae11ac7c0e91c17d64353fa62936759ca202f4ecbbc9f29cf4b60"
+            "decryptionkey": ""
         },
         "1622100": {
             "dlcappid": "1622100"
