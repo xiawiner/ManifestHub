@@ -4,8 +4,8 @@
     "name": "Sycamore Free",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26918100",
-    "update_time": "2025-01-09 12:15:21",
+    "change_number": "27907375",
+    "update_time": "2025-03-12 17:07:56",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "620733184"
                 }
             },
-            "decryptionkey": "07d9df2ffb5e27866c745c48b8087e8ee7b7d568d9aaa17da8ec80f907ee47c0"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
