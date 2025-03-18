@@ -4,8 +4,8 @@
     "name": "A Simple Garbage Sorting Game",
     "schinese_name": "一个简单的扔垃圾游戏",
     "isfreeapp": "0",
-    "change_number": "27410624",
-    "update_time": "2025-02-11 07:39:27",
+    "change_number": "27865479",
+    "update_time": "2025-03-10 13:25:22",
     "depot": {
         "228989": {
             "config": {
@@ -24,18 +24,18 @@
         "3384181": {
             "manifests": {
                 "public": {
-                    "gid": "3165704244473725171",
-                    "size": "1676032008",
-                    "download": "1515096432"
+                    "gid": "1354387189152189880",
+                    "size": "1676072541",
+                    "download": "1514522160"
                 }
             },
-            "decryptionkey": "9ea8ac95aae465220264ff00ede6cd6ff84bc3ac45e72bb09512f0f779cc41ec"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese",
         "branches": {
             "public": {
-                "buildid": "17261848",
-                "timeupdated": "1738819673"
+                "buildid": "17657504",
+                "timeupdated": "1741584316"
             }
         }
     }
