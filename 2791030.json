@@ -4,8 +4,8 @@
     "name": "Backrooms:Rebirth",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27501991",
-    "update_time": "2025-02-16 18:54:42",
+    "change_number": "27934054",
+    "update_time": "2025-03-13 21:42:46",
     "depot": {
         "baselanguages": "english,german,schinese,tchinese,russian,japanese",
         "228989": {
@@ -32,17 +32,17 @@
         "2791031": {
             "manifests": {
                 "public": {
-                    "gid": "2737423462394493328",
-                    "size": "9693924662",
-                    "download": "6704172992"
+                    "gid": "396071366454724942",
+                    "size": "9694771037",
+                    "download": "6707179408"
                 }
             },
-            "decryptionkey": "c097acd5ede1b91572956119c3c8cd88e31840ad2c4544b23c647546bb11fdec"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17383320",
-                "timeupdated": "1739703277"
+                "buildid": "17709636",
+                "timeupdated": "1741873362"
             }
         }
     }
