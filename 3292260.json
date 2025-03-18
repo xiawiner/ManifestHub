@@ -4,8 +4,8 @@
     "name": "Amenti",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27541687",
-    "update_time": "2025-02-19 04:15:18",
+    "change_number": "27820481",
+    "update_time": "2025-03-07 02:09:11",
     "depot": {
         "228989": {
             "config": {
@@ -33,7 +33,7 @@
                     "download": "7026705312"
                 }
             },
-            "decryptionkey": "74eef4bc050faacbb032fd8e150628a23fc93aec229876a4f5e04427fb623b33"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
