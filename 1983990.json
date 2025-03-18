@@ -4,8 +4,8 @@
     "name": "Nexus 5X",
     "schinese_name": "恒星联结",
     "isfreeapp": "0",
-    "change_number": "25611547",
-    "update_time": "2024-10-10 19:17:40",
+    "change_number": "27829692",
+    "update_time": "2025-03-07 14:10:49",
     "depot": {
         "228989": {
             "config": {
@@ -36,7 +36,7 @@
                     "download": "1172355696"
                 }
             },
-            "decryptionkey": "61ce22191991809930ce4d28b581132ca4a3de2deb870934cbbbedf6f1b4bcd5"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
