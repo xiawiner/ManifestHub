@@ -4,8 +4,8 @@
     "name": "B-PROJECT RYUSEI*FANTASIA",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26240176",
-    "update_time": "2024-11-18 15:34:31",
+    "change_number": "27912716",
+    "update_time": "2025-03-12 22:12:50",
     "depot": {
         "228990": {
             "config": {
@@ -22,7 +22,7 @@
                     "download": "6260837280"
                 }
             },
-            "decryptionkey": "b8d31ab3d71383bde937f2247c59fa4cad0c36411fe8eeb9decdf18424ae08bb"
+            "decryptionkey": ""
         },
         "baselanguages": "english,japanese",
         "branches": {
