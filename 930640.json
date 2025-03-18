@@ -4,8 +4,8 @@
     "name": "Code Brown",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27172341",
-    "update_time": "2025-01-26 22:26:52",
+    "change_number": "27986695",
+    "update_time": "2025-03-17 10:49:56",
     "depot": {
         "baselanguages": "english",
         "228988": {
@@ -49,17 +49,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "978521775744378347",
-                    "size": "130035533",
-                    "download": "78485280"
+                    "gid": "3151950880328491701",
+                    "size": "129595263",
+                    "download": "78455952"
                 }
             },
-            "decryptionkey": "42147dc7e80270fea1742d9f93c92af098cc9c6ac4bbb6ce41a27b04d202582c"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16526000",
-                "timeupdated": "1732548880"
+                "buildid": "17730624",
+                "timeupdated": "1741981648"
             }
         }
     }
