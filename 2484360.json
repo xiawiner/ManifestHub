@@ -4,8 +4,8 @@
     "name": "Please, Forgive Me",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27156028",
-    "update_time": "2025-01-25 04:27:32",
+    "change_number": "27919784",
+    "update_time": "2025-03-13 05:10:19",
     "depot": {
         "228989": {
             "config": {
@@ -33,7 +33,7 @@
                     "download": "1762230736"
                 }
             },
-            "decryptionkey": "47945dab07d43e704f8123f91378c7da3e59edaa742e542bbaf2e0979b1bb272"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
