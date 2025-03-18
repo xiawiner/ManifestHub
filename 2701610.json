@@ -4,8 +4,8 @@
     "name": "Lost Princess: Darkness",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26566708",
-    "update_time": "2024-12-10 08:16:57",
+    "change_number": "27748709",
+    "update_time": "2025-03-03 13:16:41",
     "depot": {
         "228989": {
             "config": {
@@ -36,7 +36,7 @@
                     "download": "2744061648"
                 }
             },
-            "decryptionkey": "35c712585204e3040b12afdd9351aa19067856b1b7007628b0741039cd436d43"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
