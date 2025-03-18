@@ -4,8 +4,8 @@
     "name": "辩经",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27249576",
-    "update_time": "2025-01-31 16:33:43",
+    "change_number": "27856969",
+    "update_time": "2025-03-09 15:08:49",
     "depot": {
         "baselanguages": "english,schinese",
         "228990": {
@@ -21,17 +21,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2421656921625827112",
-                    "size": "545227277",
-                    "download": "452870240"
+                    "gid": "3619410904491949463",
+                    "size": "545409103",
+                    "download": "453208480"
                 }
             },
-            "decryptionkey": "40936b4301b7796aed0195abdd9ea97cc89bb10d137b7ead89c2f081ceff6320"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16387883",
-                "timeupdated": "1731476950"
+                "buildid": "17566291",
+                "timeupdated": "1740936949"
             }
         }
     }
