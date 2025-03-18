@@ -4,8 +4,8 @@
     "name": "GOD EATER 2 Rage Burst",
     "schinese_name": "噬神者2：狂怒解放",
     "isfreeapp": "0",
-    "change_number": "27139654",
-    "update_time": "2025-01-24 07:24:57",
+    "change_number": "27849293",
+    "update_time": "2025-03-08 17:02:07",
     "depot": {
         "228982": {
             "config": {
@@ -50,7 +50,7 @@
                     "download": "12523573328"
                 }
             },
-            "decryptionkey": "dd74de5cb0ceeb914d1d50f0e15509f435541778d0b1a61227bac1832f196db5"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,spanish,russian",
         "branches": {
