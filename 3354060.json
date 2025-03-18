@@ -4,46 +4,9 @@
     "name": "Elissa：卧室的缢吊尸 Demo",
     "schinese_name": "ELISSA：卧室的缢吊尸 Demo",
     "isfreeapp": "0",
-    "change_number": "27534570",
-    "update_time": "2025-02-18 21:02:19",
+    "change_number": "27994892",
+    "update_time": "2025-03-17 21:57:31",
     "depot": {
-        "baselanguages": "english,schinese",
-        "hasdepotsindlc": "0",
-        "228981": {
-            "config": {
-                "oslist": "windows"
-            },
-            "depotfromapp": "228980",
-            "sharedinstall": "1"
-        },
-        "228982": {
-            "config": {
-                "oslist": "windows"
-            },
-            "depotfromapp": "228980",
-            "sharedinstall": "1"
-        },
-        "228983": {
-            "config": {
-                "oslist": "windows"
-            },
-            "depotfromapp": "228980",
-            "sharedinstall": "1"
-        },
-        "228984": {
-            "config": {
-                "oslist": "windows"
-            },
-            "depotfromapp": "228980",
-            "sharedinstall": "1"
-        },
-        "228985": {
-            "config": {
-                "oslist": "windows"
-            },
-            "depotfromapp": "228980",
-            "sharedinstall": "1"
-        },
         "228989": {
             "config": {
                 "oslist": "windows"
@@ -79,6 +42,8 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
+        "baselanguages": "english,schinese",
+        "hasdepotsindlc": "0",
         "3354061": {
             "config": {
                 "oslist": "windows",
@@ -86,12 +51,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7031812331024268677",
-                    "size": "1971447078",
-                    "download": "517180800"
+                    "gid": "2129547392976700377",
+                    "size": "2011175934",
+                    "download": "545113520"
                 }
-            },
-            "decryptionkey": "a9c03734077af28d62f47eb0bc4b7df1edc35418564fab5c08ade4f5ba7430d9"
+            }
         },
         "3354065": {
             "config": {
@@ -100,17 +64,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6636605632710495817",
-                    "size": "2003205560",
-                    "download": "535869200"
+                    "gid": "8695011133074612566",
+                    "size": "2003206088",
+                    "download": "535869232"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17473870",
-                "timeupdated": "1740319995"
+                "buildid": "17571505",
+                "timeupdated": "1740993299"
             }
         },
         "privatebranches": "1"
