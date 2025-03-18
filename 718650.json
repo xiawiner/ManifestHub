@@ -4,8 +4,8 @@
     "name": "Driftland: The Magic Revival",
     "schinese_name": "漂移大陆：魔法复兴",
     "isfreeapp": "0",
-    "change_number": "26640007",
-    "update_time": "2024-12-14 12:06:20",
+    "change_number": "27894681",
+    "update_time": "2025-03-12 00:21:39",
     "depot": {
         "baselanguages": "english,german,french,spanish,schinese,russian,polish",
         "228986": {
@@ -33,7 +33,7 @@
                     "download": "2487022592"
                 }
             },
-            "decryptionkey": "6675f24122b1b934a9046a9af67d642071bcec89740f4db284276c029614e0ef"
+            "decryptionkey": ""
         },
         "718652": {
             "config": {
@@ -46,7 +46,7 @@
                     "download": "2575089920"
                 }
             },
-            "decryptionkey": "48b5c0ff4d03c21df305d5a102dfea0d38f62680b854c844c4de2bd4556f15de"
+            "decryptionkey": ""
         },
         "workshopdepot": "718650",
         "branches": {
@@ -56,6 +56,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "4b0164297ad71da664a43f6b618a87709674390f4a87ef2061d33e01e63ff322"
+        "workshopdepotdecryptionkey": ""
     }
 }
