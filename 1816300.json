@@ -4,8 +4,8 @@
     "name": "HARVESTELLA",
     "schinese_name": "收获之星",
     "isfreeapp": "0",
-    "change_number": "27514156",
-    "update_time": "2025-02-17 19:13:10",
+    "change_number": "27852345",
+    "update_time": "2025-03-09 01:08:05",
     "depot": {
         "228988": {
             "config": {
@@ -34,7 +34,7 @@
                     "download": "10957334352"
                 }
             },
-            "decryptionkey": "ee9bc17bfae12f0a3864b13ff4acdeefffb4a42d98740d738f71488009692478"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
