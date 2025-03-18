@@ -4,8 +4,8 @@
     "name": "Sword of the Necromancer: Resurrection",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27506807",
-    "update_time": "2025-02-17 06:15:15",
+    "change_number": "27964585",
+    "update_time": "2025-03-15 04:28:32",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2782881": {
             "manifests": {
                 "public": {
-                    "gid": "397174075972900337",
-                    "size": "3274681359",
-                    "download": "988746176"
+                    "gid": "4894793081905400285",
+                    "size": "3276564117",
+                    "download": "988985936"
                 }
             },
-            "decryptionkey": "39c02db18b94bbade1d2cd650ab83bdf7626604a456bc8211c73645ae0cb6ea9"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17419446",
-                "timeupdated": "1739954894"
+                "buildid": "17722456",
+                "timeupdated": "1741945998"
             }
         },
         "privatebranches": "1"
