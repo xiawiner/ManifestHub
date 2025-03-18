@@ -4,8 +4,8 @@
     "name": "Death's Hangover",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27313339",
-    "update_time": "2025-02-05 03:31:08",
+    "change_number": "27850148",
+    "update_time": "2025-03-08 19:07:55",
     "depot": {
         "228983": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "59639008"
                 }
             },
-            "decryptionkey": "17bb7cc662e43a678b76531d1c66dc9417155232619b69e9b7fd7f8d0bec3ecf"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
