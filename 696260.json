@@ -4,8 +4,8 @@
     "name": "Tree of Life - Experimental Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26461881",
-    "update_time": "2024-12-05 10:32:57",
+    "change_number": "27825469",
+    "update_time": "2025-03-07 08:31:56",
     "depot": {
         "228983": {
             "config": {
@@ -61,7 +61,7 @@
                     "download": "5043879792"
                 }
             },
-            "decryptionkey": "67a0270fd098a22c84ff0a09f80f67c2011fee49edc7011faeaac50f05213f33"
+            "decryptionkey": ""
         },
         "696262": {
             "config": {
@@ -75,7 +75,7 @@
                     "download": "57187424"
                 }
             },
-            "decryptionkey": "ea8f7d5cb21f9bbff9ba29da1f87e61bee0f93822acad275669199903f7b8298"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
