@@ -4,8 +4,8 @@
     "name": "VR Paradise",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "23591175",
-    "update_time": "2024-05-24 08:14:42",
+    "change_number": "27948060",
+    "update_time": "2025-03-14 11:20:40",
     "depot": {
         "228988": {
             "config": {
@@ -33,7 +33,7 @@
                     "download": "8599893472"
                 }
             },
-            "decryptionkey": "90fb110b8c1bb34df86ccce23fbc3baafa11aac655798c79e7fb59b0cd5f2a53"
+            "decryptionkey": ""
         },
         "896891": {
             "config": {
@@ -47,7 +47,7 @@
                     "download": "8601491488"
                 }
             },
-            "decryptionkey": "df8a32ffda7ff3ce6078fb9b634613899660cd336757b09da29a7eb111bdf171"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
