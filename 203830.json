@@ -4,8 +4,8 @@
     "name": "The Dark Eye: Chains of Satinav",
     "schinese_name": "黑暗之眼：桑缇娜夫的羁绊",
     "isfreeapp": "0",
-    "change_number": "27400939",
-    "update_time": "2025-02-10 21:17:37",
+    "change_number": "27881258",
+    "update_time": "2025-03-11 08:00:53",
     "depot": {
         "overridescddb": "1",
         "hasdepotsindlc": "1",
@@ -38,9 +38,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2177585027178015399",
-                    "size": "179598792",
-                    "download": "56267424"
+                    "gid": "8237730227075592017",
+                    "size": "179618664",
+                    "download": "56276256"
                 }
             },
             "decryptionkey": "e137878993a9e459ea34370a79e6623e65f0c054db467fc2608c3687a714ec53"
@@ -52,9 +52,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8077935453720052636",
-                    "size": "2409302552",
-                    "download": "2335671680"
+                    "gid": "324766622015422056",
+                    "size": "2409302965",
+                    "download": "2335672576"
                 }
             },
             "decryptionkey": "bb4148c9a5d60062244c0e6d6f70530867e2896c98e152a5d37e8d3ab05c9b2d"
@@ -66,9 +66,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "655165927837517219",
-                    "size": "60275826",
-                    "download": "22231968"
+                    "gid": "618642905968125487",
+                    "size": "60212066",
+                    "download": "22215008"
                 }
             },
             "decryptionkey": "be840ddaeb14697a4bbab3657f880d2ad619aa2f63cde821282e591f768379b4"
@@ -80,9 +80,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "9178827072255551877",
-                    "size": "2409302552",
-                    "download": "2335733856"
+                    "gid": "198013157173972459",
+                    "size": "2409302965",
+                    "download": "2335734752"
                 }
             },
             "decryptionkey": "89d6d4f150c3f36ed69ef9c1647508de39ba0d907ccd8eff81018f3b53ccbbe6"
@@ -94,9 +94,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5763046162785205302",
-                    "size": "97687724",
-                    "download": "30208112"
+                    "gid": "1204857131300969533",
+                    "size": "97670390",
+                    "download": "30202560"
                 }
             },
             "decryptionkey": ""
@@ -108,17 +108,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9021513764295556465",
-                    "size": "2409302552",
-                    "download": "2339145680"
+                    "gid": "1400219746308146803",
+                    "size": "2409302965",
+                    "download": "2339146576"
                 }
             },
             "decryptionkey": "18b1814d732268a4bcf24208ce803f9d6c539750ec00388a4c157b84faf683e2"
         },
         "branches": {
             "public": {
-                "buildid": "16969696",
-                "timeupdated": "1736545407"
+                "buildid": "17502313",
+                "timeupdated": "1740500350"
             }
         },
         "privatebranches": "1"
