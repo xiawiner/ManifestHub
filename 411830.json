@@ -4,8 +4,8 @@
     "name": "SENRAN KAGURA SHINOVI VERSUS",
     "schinese_name": "闪乱神乐：少女们的证明",
     "isfreeapp": "0",
-    "change_number": "27123516",
-    "update_time": "2025-01-23 11:26:33",
+    "change_number": "27944220",
+    "update_time": "2025-03-14 06:24:10",
     "depot": {
         "228984": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "2310511440"
                 }
             },
-            "decryptionkey": "c646b288f6ac69d87186d64ef36d17afcfc40175ec5bb2e931d75690e8cdafca"
+            "decryptionkey": ""
         },
         "baselanguages": "english",
         "branches": {
