@@ -4,8 +4,8 @@
     "name": "Audiosurf",
     "schinese_name": "音乐战机",
     "isfreeapp": "0",
-    "change_number": "26008930",
-    "update_time": "2024-11-01 23:57:03",
+    "change_number": "28003137",
+    "update_time": "2025-03-18 06:47:51",
     "depot": {
         "228981": {
             "config": {
@@ -32,9 +32,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "4336871436980878519",
-                    "size": "448070421",
-                    "download": "364133184"
+                    "gid": "6492096213265145551",
+                    "size": "448070120",
+                    "download": "364129552"
                 },
                 "beforewidescreen": {
                     "gid": "6362762431074066813",
@@ -42,12 +42,12 @@
                     "download": "362466608"
                 },
                 "beta": {
-                    "gid": "4336871436980878519",
-                    "size": "448070421",
-                    "download": "364133184"
+                    "gid": "6036458623608156584",
+                    "size": "448070717",
+                    "download": "364130208"
                 }
             },
-            "decryptionkey": "44f4f97c1899f42989a7337e1b1a92cfaa74eef044441f16c589b36dcc06da39"
+            "decryptionkey": ""
         },
         "12903": {
             "config": {
@@ -70,7 +70,7 @@
                     "download": "14414672"
                 }
             },
-            "decryptionkey": "cab4a1d94973956ee9a9ff3df89f0ad6a1514922a9595291d6cbf98c51e443ba"
+            "decryptionkey": ""
         },
         "98003": {
             "manifests": {
@@ -96,8 +96,8 @@
         "overridescddb": "1",
         "branches": {
             "public": {
-                "buildid": "10840344",
-                "timeupdated": "1679590520"
+                "buildid": "17714187",
+                "timeupdated": "1741896086"
             },
             "beforewidescreen": {
                 "buildid": "503121",
@@ -105,10 +105,11 @@
                 "timeupdated": "1583966753"
             },
             "beta": {
-                "buildid": "10840344",
+                "buildid": "17757756",
                 "description": "upcoming features",
-                "timeupdated": "1679590125"
+                "timeupdated": "1742250235"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
