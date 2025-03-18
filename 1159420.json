@@ -4,8 +4,8 @@
     "name": "Robin Hood - Sherwood Builders",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27505458",
-    "update_time": "2025-02-17 03:13:31",
+    "change_number": "27958158",
+    "update_time": "2025-03-14 22:23:03",
     "depot": {
         "228988": {
             "config": {
@@ -39,7 +39,7 @@
                     "download": "30688769952"
                 }
             },
-            "decryptionkey": "7605714f3ee61de34134627cec623268417aff46ed724cb8fc8f2b70f239ecb1"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
