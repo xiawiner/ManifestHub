@@ -4,8 +4,8 @@
     "name": "ONE WAY HOME Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25155957",
-    "update_time": "2024-09-10 19:25:39",
+    "change_number": "27903853",
+    "update_time": "2025-03-12 12:06:23",
     "depot": {
         "hasdepotsindlc": "0",
         "228989": {
@@ -22,51 +22,22 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
-        "2351591": {
+        "2351597": {
             "config": {
-                "language": "english",
-                "oslist": "windows",
-                "osarch": "64"
+                "oslist": "windows"
             },
             "manifests": {
                 "public": {
-                    "gid": "1185754978349531437",
-                    "size": "7973809473",
-                    "download": "7737968208"
-                },
-                "developer": {
-                    "gid": "8450461931128549490",
-                    "size": "8583350249",
-                    "download": "8326726272"
-                },
-                "testers": {
-                    "gid": "1185754978349531437",
-                    "size": "7973809473",
-                    "download": "7737968208"
+                    "gid": "717391093923164224",
+                    "size": "8762727683",
+                    "download": "7465109264"
                 }
-            },
-            "decryptionkey": "78ffaca70750a2d18d36822f36013d64b336069cd9c664f5c5b1a936d41531b1"
-        },
-        "2351592": {
-            "config": {
-                "language": "english",
-                "oslist": "windows"
             }
         },
         "branches": {
             "public": {
-                "buildid": "12573667",
-                "timeupdated": "1698682913"
-            },
-            "developer": {
-                "buildid": "12541021",
-                "description": "By developer test",
-                "timeupdated": "1698682924"
-            },
-            "testers": {
-                "buildid": "12573667",
-                "description": "By testers",
-                "timeupdated": "1716452726"
+                "buildid": "17646199",
+                "timeupdated": "1741433546"
             }
         }
     }
