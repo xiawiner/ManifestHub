@@ -4,8 +4,8 @@
     "name": "BlockGame",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "23591175",
-    "update_time": "2024-06-23 03:04:56",
+    "change_number": "27980812",
+    "update_time": "2025-03-16 20:55:25",
     "depot": {
         "228990": {
             "config": {
@@ -25,7 +25,7 @@
                     "download": "66471392"
                 }
             },
-            "decryptionkey": "611648255b091898a6a23851283539b5220366c070379a4f28ab479975787b37"
+            "decryptionkey": ""
         },
         "688112": {
             "config": {
