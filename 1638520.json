@@ -4,8 +4,8 @@
     "name": "Hyperglide",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26197448",
-    "update_time": "2024-11-15 01:27:19",
+    "change_number": "27882813",
+    "update_time": "2025-03-11 10:21:57",
     "depot": {
         "228989": {
             "config": {
@@ -27,7 +27,7 @@
                     "download": "294608272"
                 }
             },
-            "decryptionkey": "14f919985b9cfd360bf02c061e9a05541e85bf40bb3db9382e7c1149dc9f1579"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
