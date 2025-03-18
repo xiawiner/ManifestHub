@@ -4,8 +4,8 @@
     "name": "Command & Conquer™ Tiberian Sun™ and Firestorm™",
     "schinese_name": "《命令与征服：泰伯利亚之阳和火风暴》",
     "isfreeapp": "0",
-    "change_number": "27406949",
-    "update_time": "2025-02-11 03:10:44",
+    "change_number": "27971403",
+    "update_time": "2025-03-15 18:24:49",
     "depot": {
         "228989": {
             "config": {
@@ -25,9 +25,9 @@
         "2229881": {
             "manifests": {
                 "public": {
-                    "gid": "6337645069087384307",
-                    "size": "1799307326",
-                    "download": "1290258448"
+                    "gid": "1937422335606860416",
+                    "size": "1802002527",
+                    "download": "1292604112"
                 }
             },
             "decryptionkey": "dfc5c85c7364067d2212d5acc81bf086099f528afe1e117a27cc1d08392679e8"
@@ -38,8 +38,8 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "150548564917490163",
-                    "size": "2200228784",
+                    "gid": "240611967032717951",
+                    "size": "2200132852",
                     "download": "1192433648"
                 }
             },
@@ -51,9 +51,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4038177425666959023",
-                    "size": "2206580698",
-                    "download": "1195172048"
+                    "gid": "8597166659789824921",
+                    "size": "2206493379",
+                    "download": "1195148112"
                 }
             },
             "decryptionkey": ""
@@ -64,9 +64,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8963846220695972542",
-                    "size": "2202780170",
-                    "download": "1195601216"
+                    "gid": "1522432102023798179",
+                    "size": "2202680103",
+                    "download": "1195574512"
                 }
             },
             "decryptionkey": ""
@@ -87,8 +87,8 @@
         "workshopdepot": "2229880",
         "branches": {
             "public": {
-                "buildid": "15165042",
-                "timeupdated": "1722545896"
+                "buildid": "15918072",
+                "timeupdated": "1740672287"
             }
         },
         "privatebranches": "1",
