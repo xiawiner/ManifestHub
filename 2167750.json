@@ -4,8 +4,8 @@
     "name": "The Demon Within Me",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27176297",
-    "update_time": "2025-01-27 08:27:36",
+    "change_number": "27970283",
+    "update_time": "2025-03-15 15:23:07",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "3078661024"
                 }
             },
-            "decryptionkey": "db46350c96d34da3d0f707f86ea9e326bff51d0138dbadec802bbc1fa390946f"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
