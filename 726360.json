@@ -4,8 +4,8 @@
     "name": "BOOBS SAGA: Prepare To Hentai Edition",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26998573",
-    "update_time": "2025-01-15 08:17:51",
+    "change_number": "27743458",
+    "update_time": "2025-03-03 01:22:23",
     "depot": {
         "baselanguages": "english,russian",
         "hasdepotsindlc": "0",
@@ -46,7 +46,7 @@
                     "download": "2023069456"
                 }
             },
-            "decryptionkey": "c3ec439c08e164681b5f733141690adba97c51bfef1ea860c8e9217e4b77c1b2"
+            "decryptionkey": ""
         },
         "726362": {
             "config": {
@@ -65,7 +65,7 @@
                     "download": "2026004912"
                 }
             },
-            "decryptionkey": "70a22559247dfdd14eb3a57c7b130f177702b1a55876df63c23292f218bc253d"
+            "decryptionkey": ""
         },
         "1080320": {
             "manifests": {
@@ -81,7 +81,7 @@
                 }
             },
             "dlcappid": "1080320",
-            "decryptionkey": "e77ff748564171e1d6c4b157ff4a7ba89f0f3d3485e2aa0da46954a87ae0ceb0"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
