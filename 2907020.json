@@ -4,8 +4,8 @@
     "name": "Tactical Mission: Target Rush Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27109119",
-    "update_time": "2025-01-22 17:27:53",
+    "change_number": "27825469",
+    "update_time": "2025-03-07 08:54:09",
     "depot": {
         "228989": {
             "config": {
@@ -28,8 +28,7 @@
                     "size": "5628474540",
                     "download": "5307271872"
                 }
-            },
-            "decryptionkey": "56c574c60e2f0b4d4408e0c443d83cf055844d4c8ea6503b9750db337793f435"
+            }
         },
         "branches": {
             "public": {
