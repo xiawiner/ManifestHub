@@ -4,8 +4,8 @@
     "name": "Glitchpunk",
     "schinese_name": "Glitchpunk 故障朋克",
     "isfreeapp": "0",
-    "change_number": "27292955",
-    "update_time": "2025-02-04 01:11:37",
+    "change_number": "27768245",
+    "update_time": "2025-03-04 14:22:29",
     "depot": {
         "228988": {
             "config": {
@@ -38,7 +38,7 @@
                     "download": "4734377152"
                 }
             },
-            "decryptionkey": "d1614967bd23577a915eb8fd558a306845f6ad806504c11241e3361b97287b21"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
