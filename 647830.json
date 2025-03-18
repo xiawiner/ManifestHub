@@ -4,8 +4,8 @@
     "name": "LEGO® MARVEL Super Heroes 2",
     "schinese_name": "乐高漫威超级英雄2",
     "isfreeapp": "0",
-    "change_number": "27002737",
-    "update_time": "2025-01-15 15:15:01",
+    "change_number": "27855237",
+    "update_time": "2025-03-09 09:01:57",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,tchinese,russian,japanese,polish,danish,dutch,arabic,brazilian",
         "228986": {
@@ -33,7 +33,7 @@
                     "download": "6081091440"
                 }
             },
-            "decryptionkey": "fda85fb65e03e4388425417a05fa7191e8cb63463ce6b94b6d93a31e84c37c5d"
+            "decryptionkey": ""
         },
         "647831": {
             "config": {
@@ -46,7 +46,7 @@
                     "download": "16596997872"
                 }
             },
-            "decryptionkey": "080bde826d342ca61f5c54511d427600ddcf7ba9dab4d29ad08c53890ffa4c48"
+            "decryptionkey": ""
         },
         "720680": {
             "dlcappid": "720680",
@@ -66,7 +66,7 @@
                     "download": "15122304"
                 }
             },
-            "decryptionkey": "387bb68f22e111d424c7d89025fa427d85bed33456aa70183bfbb1451bd9cbfc"
+            "decryptionkey": ""
         },
         "720700": {
             "dlcappid": "720700",
@@ -80,7 +80,7 @@
                     "download": "9008368"
                 }
             },
-            "decryptionkey": "b2aea9bf4c8f77cbdafe457efeb8511da992bb0d15a12950533c166032c0d415"
+            "decryptionkey": ""
         },
         "720710": {
             "dlcappid": "720710",
@@ -94,7 +94,7 @@
                     "download": "14349120"
                 }
             },
-            "decryptionkey": "8c4fc5edcb1597cf719787bc84986977a9a5004e8e9eae35f10fd48dbacec700"
+            "decryptionkey": ""
         },
         "720740": {
             "dlcappid": "720740",
@@ -108,7 +108,7 @@
                     "download": "44694704"
                 }
             },
-            "decryptionkey": "f409566bcfdb1f1629c397bf8cfbe7bc0c029dfca7b7eefc4a1870c988b26f2c"
+            "decryptionkey": ""
         },
         "720750": {
             "dlcappid": "720750",
@@ -122,7 +122,7 @@
                     "download": "272676480"
                 }
             },
-            "decryptionkey": "94844240d2567f1f4606a53ccac6b244b18360422d8c5d6bbafeee5d68731794"
+            "decryptionkey": ""
         },
         "720760": {
             "dlcappid": "720760",
@@ -136,7 +136,7 @@
                     "download": "250804192"
                 }
             },
-            "decryptionkey": "79cb572a92d016b1457e0aff9cfab2b52fa25a2ffa1cfe8a2bf98650f4e0f62a"
+            "decryptionkey": ""
         },
         "720770": {
             "dlcappid": "720770",
@@ -150,7 +150,7 @@
                     "download": "221852128"
                 }
             },
-            "decryptionkey": "332c2671745f889ae0044c0139ea8b9625be1d7fabb17f68906987a680e9f868"
+            "decryptionkey": ""
         },
         "720780": {
             "dlcappid": "720780",
@@ -164,7 +164,7 @@
                     "download": "210997712"
                 }
             },
-            "decryptionkey": "0def4445bf72468cd494a88a2500b1d4dcf8efc776f95f9a2d86379b04eae58e"
+            "decryptionkey": ""
         },
         "720790": {
             "dlcappid": "720790",
@@ -178,7 +178,7 @@
                     "download": "255180512"
                 }
             },
-            "decryptionkey": "ff1bdd48a1c23bee460983b16cf8f42a973e3a9d0c10aef641b0bb0dc2d1644b"
+            "decryptionkey": ""
         },
         "720800": {
             "dlcappid": "720800",
@@ -192,7 +192,7 @@
                     "download": "261786848"
                 }
             },
-            "decryptionkey": "3652ad0efb06e4aa7462072a80162a78eab56e1ca554655f19d612686a539a09"
+            "decryptionkey": ""
         },
         "647833": {
             "config": {
@@ -205,7 +205,7 @@
                     "download": "6129434528"
                 }
             },
-            "decryptionkey": "39808816847e148c2919a5c106233d84986a7722bc0b30ac6d90b33bdec8fd38"
+            "decryptionkey": ""
         },
         "647834": {
             "config": {
@@ -218,7 +218,7 @@
                     "download": "16593858864"
                 }
             },
-            "decryptionkey": "e595bfe2750ccec82abbc553b00572768644d6abb9abb59bf97da55a7cdf0e81"
+            "decryptionkey": ""
         },
         "647835": {
             "config": {
@@ -238,7 +238,7 @@
                     "download": "15122224"
                 }
             },
-            "decryptionkey": "4abd06bbe91e9b84e540d16fb83802e451433424dbf6f4a0cca44736555298c7"
+            "decryptionkey": ""
         },
         "647837": {
             "config": {
@@ -252,7 +252,7 @@
                     "download": "9008512"
                 }
             },
-            "decryptionkey": "070affd6b27ae46a1742606d900e8a9975e7507b6015a9305aeb7187a7552616"
+            "decryptionkey": ""
         },
         "647838": {
             "config": {
@@ -266,7 +266,7 @@
                     "download": "14346512"
                 }
             },
-            "decryptionkey": "f37988f8799b99bb9e308bad6848cf2e2e7cd82c69b4653b36edaddc72daf2c3"
+            "decryptionkey": ""
         },
         "647839": {
             "config": {
@@ -280,7 +280,7 @@
                     "download": "44604160"
                 }
             },
-            "decryptionkey": "c6f19e1c3ca8164643e55e967191f013b97f3ec14a3a4b8c61e036ea12f10c1d"
+            "decryptionkey": ""
         },
         "720681": {
             "config": {
@@ -294,7 +294,7 @@
                     "download": "272612336"
                 }
             },
-            "decryptionkey": "7c0e157b02c6124f19db33c07c5a243ca9fd3bf6b848477c031a05f0f6553d90"
+            "decryptionkey": ""
         },
         "720682": {
             "config": {
@@ -308,7 +308,7 @@
                     "download": "250891136"
                 }
             },
-            "decryptionkey": "ed2c44a313a025f856bfa24d1c73ce8ccafcf138828f6b472c213790feebcff5"
+            "decryptionkey": ""
         },
         "720683": {
             "config": {
@@ -322,7 +322,7 @@
                     "download": "221852656"
                 }
             },
-            "decryptionkey": "7f684342aaffd5266800822f454aa507810a5754c8f98777947291473b7328cd"
+            "decryptionkey": ""
         },
         "720684": {
             "config": {
@@ -336,7 +336,7 @@
                     "download": "210997680"
                 }
             },
-            "decryptionkey": "1f6265b7c13de95b40d64ab0e95d5da3dc328d72c90521fb3bed651877665773"
+            "decryptionkey": ""
         },
         "720685": {
             "config": {
@@ -350,7 +350,7 @@
                     "download": "255180608"
                 }
             },
-            "decryptionkey": "69709e68a94559012c3c74bd5c19224e15efd0874d9c180fd60cfeb0182e3002"
+            "decryptionkey": ""
         },
         "720686": {
             "config": {
@@ -364,7 +364,7 @@
                     "download": "261785776"
                 }
             },
-            "decryptionkey": "e848a68692fa887012dfb7f99b24eccbcde95c555aef69c5aac61147fa21cc0a"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
