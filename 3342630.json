@@ -4,8 +4,8 @@
     "name": "Escape From Sandhill",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27152724",
-    "update_time": "2025-01-25 00:29:51",
+    "change_number": "28007162",
+    "update_time": "2025-03-18 13:21:11",
     "depot": {
         "228989": {
             "config": {
@@ -41,7 +41,7 @@
                     "download": "1422709984"
                 }
             },
-            "decryptionkey": "a5eae055aa97751768570dbe840833287e0f96d33f90795a8645610648b74f0f"
+            "decryptionkey": ""
         },
         "baselanguages": "",
         "branches": {
