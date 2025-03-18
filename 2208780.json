@@ -4,8 +4,8 @@
     "name": "Psycho Fear",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27298822",
-    "update_time": "2025-02-04 08:33:06",
+    "change_number": "27761713",
+    "update_time": "2025-03-04 05:16:05",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "4581633904"
                 }
             },
-            "decryptionkey": "b1bf2fb3eb739d0dbc10debf8519f7b0ae4bc98cf78e5a2ea7f95f3121249b08"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
