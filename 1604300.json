@@ -4,8 +4,8 @@
     "name": "LOVE 3",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27728173",
-    "update_time": "2025-03-01 08:59:00",
+    "change_number": "27863145",
+    "update_time": "2025-03-10 08:18:30",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,danish,dutch,finnish,swedish,turkish,brazilian,ukrainian,latam",
         "1604301": {
@@ -18,10 +18,10 @@
                     "size": "211683533",
                     "download": "192593888"
                 },
-                "lts_2024": {
-                    "gid": "7841937553279911479",
-                    "size": "210069497",
-                    "download": "192234768"
+                "workshop": {
+                    "gid": "7256990659947968191",
+                    "size": "210594636",
+                    "download": "192384880"
                 }
             },
             "decryptionkey": "7c58a05c9c4859b3be30e9edbb214d5366577ee4f5c3b455ddc5ebc2b981dd8f"
@@ -36,7 +36,7 @@
                     "size": "207572770",
                     "download": "191103680"
                 },
-                "lts_2024": {
+                "workshop": {
                     "gid": "2416319664696347085",
                     "size": "207572770",
                     "download": "191103680"
@@ -54,6 +54,11 @@
                     "gid": "42370488609465642",
                     "size": "224400841",
                     "download": "195689456"
+                },
+                "workshop": {
+                    "gid": "42370488609465642",
+                    "size": "224400841",
+                    "download": "195689456"
                 }
             },
             "decryptionkey": ""
@@ -64,10 +69,10 @@
                 "buildid": "17491154",
                 "timeupdated": "1740436784"
             },
-            "lts_2024": {
-                "buildid": "15495491",
-                "description": "lts 2024 test",
-                "timeupdated": "1724690673"
+            "workshop": {
+                "buildid": "17655603",
+                "description": "Workshop Test!",
+                "timeupdated": "1741565175"
             }
         },
         "workshopdepotdecryptionkey": ""
