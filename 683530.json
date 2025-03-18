@@ -4,8 +4,8 @@
     "name": "FreeFly Burning",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27145495",
-    "update_time": "2025-01-24 16:29:03",
+    "change_number": "27761707",
+    "update_time": "2025-03-04 05:15:24",
     "depot": {
         "228986": {
             "config": {
@@ -40,7 +40,7 @@
                     "download": "597489664"
                 }
             },
-            "decryptionkey": "88e40c40cd473ba997b45ad348ff64429ee9b6c1979a5237d4899f35c205aee0"
+            "decryptionkey": ""
         },
         "baselanguages": "english,russian",
         "branches": {
