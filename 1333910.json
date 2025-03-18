@@ -4,8 +4,8 @@
     "name": "Sizeable",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27489723",
-    "update_time": "2025-02-15 09:14:04",
+    "change_number": "27859855",
+    "update_time": "2025-03-09 23:51:43",
     "depot": {
         "baselanguages": "english",
         "1333911": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5010409970239361477",
-                    "size": "294060409",
-                    "download": "186559360"
+                    "gid": "2025597481725105666",
+                    "size": "294060404",
+                    "download": "186559888"
                 }
             },
             "decryptionkey": "4d836b3741aadd3cd3916c195c364304080a9b356a9464ef390dc54c741c9811"
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7378606539516177702",
-                    "size": "299915403",
-                    "download": "188894432"
+                    "gid": "4702285885377123123",
+                    "size": "299915392",
+                    "download": "188894400"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17456391",
-                "timeupdated": "1740148203"
+                "buildid": "17485100",
+                "timeupdated": "1740408776"
             }
         },
         "privatebranches": "1"
