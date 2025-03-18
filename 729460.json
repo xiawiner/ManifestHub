@@ -4,8 +4,8 @@
     "name": "Distant Space 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27288631",
-    "update_time": "2025-02-03 20:34:06",
+    "change_number": "27984963",
+    "update_time": "2025-03-17 06:56:30",
     "depot": {
         "228990": {
             "config": {
@@ -22,7 +22,7 @@
                     "download": "141384944"
                 }
             },
-            "decryptionkey": "c7787a356d48c4f237d7d7c5edbaf19ab01f988d2d6f375ae8155148a4c7bdd6"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
