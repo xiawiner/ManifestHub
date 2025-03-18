@@ -4,8 +4,8 @@
     "name": "The Valiant",
     "schinese_name": "勇者",
     "isfreeapp": "0",
-    "change_number": "27383598",
-    "update_time": "2025-02-09 09:26:23",
+    "change_number": "27796084",
+    "update_time": "2025-03-05 22:08:15",
     "depot": {
         "228988": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "16267268336"
                 }
             },
-            "decryptionkey": "b99f2755491cbd7d7a077a6345e827e49be5a992c1d64d633e1d98ef1daecd67"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,spanish,schinese,tchinese,russian,japanese,polish,hungarian,brazilian",
         "branches": {
