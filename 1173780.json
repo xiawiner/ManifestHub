@@ -4,8 +4,8 @@
     "name": "FINAL FANTASY II",
     "schinese_name": "最终幻想2",
     "isfreeapp": "0",
-    "change_number": "27302913",
-    "update_time": "2025-02-04 15:59:00",
+    "change_number": "27791194",
+    "update_time": "2025-03-05 17:03:41",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,vietnamese",
         "228988": {
@@ -32,12 +32,12 @@
         "1173781": {
             "manifests": {
                 "public": {
-                    "gid": "6016190646817273213",
-                    "size": "377549394",
-                    "download": "282001472"
+                    "gid": "1024951170537968950",
+                    "size": "378641964",
+                    "download": "282230352"
                 }
             },
-            "decryptionkey": "2b92c4a4fee49b0e20479eddaaeb5ee4dc9c31a380f07c06ab5edb9501ca9fd1"
+            "decryptionkey": ""
         },
         "1638320": {
             "dlcappid": "1638320",
@@ -48,12 +48,12 @@
                     "download": "37261328"
                 }
             },
-            "decryptionkey": "4104b8d6e24585b8b33b8fe368ca07e2aaf4320289cd78bd6f2cea44e8794db3"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "13123702",
-                "timeupdated": "1706628166"
+                "buildid": "17234753",
+                "timeupdated": "1741165016"
             }
         },
         "privatebranches": "1"
