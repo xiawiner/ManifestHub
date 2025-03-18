@@ -4,8 +4,8 @@
     "name": "Pluviophile",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26870333",
-    "update_time": "2025-01-06 05:13:10",
+    "change_number": "27869527",
+    "update_time": "2025-03-10 18:50:22",
     "depot": {
         "228988": {
             "config": {
@@ -39,7 +39,7 @@
                     "download": "1264849840"
                 }
             },
-            "decryptionkey": "e660d066972c905028019b0a3a33fe8a133286f884bc1dc78796bc48ca8bba51"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
