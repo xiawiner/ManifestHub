@@ -4,8 +4,8 @@
     "name": "Kung Fu Strike: The Warrior's Rise",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27175907",
-    "update_time": "2025-01-27 07:26:06",
+    "change_number": "27973622",
+    "update_time": "2025-03-15 23:57:16",
     "depot": {
         "228982": {
             "config": {
@@ -46,7 +46,7 @@
                 }
             },
             "dlcappid": "212041",
-            "decryptionkey": "0d675d9b0134a515164503acf68f84406ed59aefd6dd76c309e0aae02c50da8a"
+            "decryptionkey": ""
         },
         "212031": {
             "systemdefined": "1",
@@ -57,7 +57,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "0c923dd846e8fd733a22b2d79a7f7a3d823b27e90436e5b80cbf06ae393fc9e4"
+            "decryptionkey": ""
         },
         "overridescddb": "1",
         "baselanguages": "english,german,french,spanish,italian",
