@@ -4,8 +4,8 @@
     "name": "Subverse",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27526411",
-    "update_time": "2025-02-18 10:09:56",
+    "change_number": "27959847",
+    "update_time": "2025-03-14 23:47:11",
     "depot": {
         "228986": {
             "config": {
@@ -31,9 +31,9 @@
         "1034141": {
             "manifests": {
                 "public": {
-                    "gid": "8157930422348213920",
-                    "size": "37536615789",
-                    "download": "36104926768"
+                    "gid": "2261506364476489407",
+                    "size": "39646691039",
+                    "download": "37893020080"
                 }
             },
             "decryptionkey": "9c712c1efc2a5b5f884a153935bfca195dbe00c3a2bba7d8ec93b2e29daeb527"
@@ -76,8 +76,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16772899",
-                "timeupdated": "1734438014"
+                "buildid": "17726471",
+                "timeupdated": "1741967227"
             }
         },
         "privatebranches": "1"
