@@ -4,8 +4,8 @@
     "name": "Only Way is Down Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "23970519",
-    "update_time": "2024-07-16 02:47:06",
+    "change_number": "27989061",
+    "update_time": "2025-03-17 15:38:50",
     "depot": {
         "228989": {
             "config": {
@@ -28,8 +28,7 @@
                     "size": "3994073603",
                     "download": "3685351760"
                 }
-            },
-            "decryptionkey": "eadc346eff7c86eb91ce2701b4c72802132b0056281654fbb6f68ee458a0701a"
+            }
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,thai,japanese,portuguese,polish,turkish,ukrainian,indonesian",
         "branches": {
