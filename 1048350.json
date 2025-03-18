@@ -4,8 +4,8 @@
     "name": "Nigate Tale",
     "schinese_name": "异界之上",
     "isfreeapp": "0",
-    "change_number": "27205005",
-    "update_time": "2025-01-29 01:35:10",
+    "change_number": "27883744",
+    "update_time": "2025-03-11 11:53:28",
     "depot": {
         "baselanguages": "english,koreana,schinese,russian,japanese",
         "hasdepotsindlc": "0",
@@ -41,7 +41,7 @@
                     "download": "2725507824"
                 }
             },
-            "decryptionkey": "bba11e728718bd5b261407b3dc4592eaf36ba60665af5f27411b638e3733daf5"
+            "decryptionkey": ""
         },
         "1048352": {
             "config": {
@@ -61,7 +61,7 @@
                     "download": "1819780992"
                 }
             },
-            "decryptionkey": "fd59b597b19381ab889c44cf1cc0fe66da99920098126f6a4cad2a16ecb21c3e"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
