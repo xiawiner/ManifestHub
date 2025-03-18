@@ -4,8 +4,8 @@
     "name": "Romancing SaGa 2: Revenge of the Seven Demo",
     "schinese_name": "浪漫沙加2 七英雄的复仇 体验版",
     "isfreeapp": "0",
-    "change_number": "26603823",
-    "update_time": "2024-12-12 11:03:04",
+    "change_number": "28012272",
+    "update_time": "2025-03-18 19:42:51",
     "depot": {
         "228988": {
             "config": {
@@ -35,8 +35,7 @@
                     "size": "8234110496",
                     "download": "6838965968"
                 }
-            },
-            "decryptionkey": "01bbbc368330651fa488d370a91e86c58f9711f1d71e9af2e45d6bd53b78b162"
+            }
         },
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,japanese",
         "branches": {
