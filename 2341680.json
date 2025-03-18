@@ -4,8 +4,8 @@
     "name": "Live with Mary",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26016751",
-    "update_time": "2024-11-02 12:12:17",
+    "change_number": "27746951",
+    "update_time": "2025-03-03 09:18:04",
     "depot": {
         "228989": {
             "config": {
@@ -40,7 +40,7 @@
                     "download": "6078843152"
                 }
             },
-            "decryptionkey": "61a16393ca9fb57bb9b11055ea8afa39cbb6e4427e6486e7fe410edb2ccdd741"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
