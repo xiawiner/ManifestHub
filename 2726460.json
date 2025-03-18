@@ -4,8 +4,8 @@
     "name": "Renovation Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27470886",
-    "update_time": "2025-02-14 09:43:13",
+    "change_number": "28001468",
+    "update_time": "2025-03-18 04:22:58",
     "depot": {
         "hasdepotsindlc": "1",
         "228989": {
@@ -30,14 +30,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2923814752265004257",
-                    "size": "22989166359",
-                    "download": "22368726432"
+                    "gid": "7073977673582720176",
+                    "size": "23011342948",
+                    "download": "22383671728"
                 },
                 "beta_branch": {
-                    "gid": "2923814752265004257",
-                    "size": "22989166359",
-                    "download": "22368726432"
+                    "gid": "7073977673582720176",
+                    "size": "23011342948",
+                    "download": "22383671728"
                 },
                 "dev_branch": {
                     "gid": "7328864252095397220",
@@ -45,17 +45,17 @@
                     "download": "23040659072"
                 }
             },
-            "decryptionkey": "53165030a9aded3ff1c4d9e833cd7289ca4a3f54baa8dc47278a27c24000319f"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17359077",
-                "timeupdated": "1739497390"
+                "buildid": "17733980",
+                "timeupdated": "1742006187"
             },
             "beta_branch": {
-                "buildid": "17359077",
+                "buildid": "17733980",
                 "description": "Beta branch for testing",
-                "timeupdated": "1739489537"
+                "timeupdated": "1742005726"
             },
             "dev_branch": {
                 "buildid": "17300710",
