@@ -4,8 +4,8 @@
     "name": "Uncle Chop's Rocket Shop",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27435555",
-    "update_time": "2025-02-12 16:52:22",
+    "change_number": "27874877",
+    "update_time": "2025-03-11 00:14:37",
     "depot": {
         "228989": {
             "config": {
@@ -24,12 +24,12 @@
         "1849791": {
             "manifests": {
                 "public": {
-                    "gid": "8035329115914521800",
-                    "size": "1276478628",
-                    "download": "1126904912"
+                    "gid": "1030558432849324911",
+                    "size": "1281770693",
+                    "download": "1131950736"
                 }
             },
-            "decryptionkey": "6d0f8659146fe7a0724eb29aebd14d99775683d6183f564f36fe4cbdf4098500"
+            "decryptionkey": ""
         },
         "3335150": {
             "dlcappid": "3335150",
@@ -40,12 +40,12 @@
                     "download": "96386720"
                 }
             },
-            "decryptionkey": "aab400e888d674173ee067744ecd7d2b42f86d0b3284465f0ad0d6a53a3caec8"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17199435",
-                "timeupdated": "1738337488"
+                "buildid": "17663794",
+                "timeupdated": "1741623271"
             }
         },
         "privatebranches": "1"
