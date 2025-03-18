@@ -4,8 +4,8 @@
     "name": "Tooth and Tail",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27343712",
-    "update_time": "2025-02-06 19:25:56",
+    "change_number": "27826106",
+    "update_time": "2025-03-07 09:02:34",
     "depot": {
         "228984": {
             "config": {
@@ -145,7 +145,7 @@
                     "download": "495370112"
                 }
             },
-            "decryptionkey": "3740911e71ba1d619cefdba5bb70f3debf0183cb1ce67fc1bdd3c999e37af801"
+            "decryptionkey": ""
         },
         "286002": {
             "config": {
@@ -248,7 +248,7 @@
                     "download": "631054624"
                 }
             },
-            "decryptionkey": "514b237bacdbf933fa053a5e9b4bb057e0448f9574eeea541c906fac07022412"
+            "decryptionkey": ""
         },
         "286003": {
             "config": {
@@ -351,7 +351,7 @@
                     "download": "526828032"
                 }
             },
-            "decryptionkey": "e6a532d4a99b71923e1a812f85a7a004bca9bdf2ca2222bacc066866be05241a"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,dutch,turkish,brazilian,ukrainian",
         "workshopdepot": "286000",
@@ -439,6 +439,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "e9109dc1e8500af1f3eec885251b1e9a480920f8435db913a75330375a1f1ac7"
+        "workshopdepotdecryptionkey": ""
     }
 }
