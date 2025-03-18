@@ -4,8 +4,8 @@
     "name": "Archons Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27535858",
-    "update_time": "2025-02-18 22:19:27",
+    "change_number": "27951441",
+    "update_time": "2025-03-14 16:09:06",
     "depot": {
         "228989": {
             "config": {
@@ -28,8 +28,7 @@
                     "size": "993509916",
                     "download": "811701344"
                 }
-            },
-            "decryptionkey": "fe143596c6aeee432256c5cdcd2c4813e7f632fa6c6a1d8049d0c88cc4d5a85e"
+            }
         },
         "branches": {
             "public": {
