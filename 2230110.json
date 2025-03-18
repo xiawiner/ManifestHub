@@ -4,8 +4,8 @@
     "name": "Fae Farm",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26586297",
-    "update_time": "2024-12-11 11:13:30",
+    "change_number": "27768251",
+    "update_time": "2025-03-04 14:23:31",
     "depot": {
         "228989": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "2282449536"
                 }
             },
-            "decryptionkey": "85f39a6c9f828f27279a4223cc232f8e3c01bce8a20eacfd284eedeac6b01f47"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,brazilian,latam",
         "branches": {
