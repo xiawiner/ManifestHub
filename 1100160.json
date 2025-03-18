@@ -4,8 +4,8 @@
     "name": "東方星蓮船 〜 Undefined Fantastic Object.",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26694741",
-    "update_time": "2024-12-18 20:24:24",
+    "change_number": "27855237",
+    "update_time": "2025-03-09 09:02:00",
     "depot": {
         "228990": {
             "config": {
@@ -22,7 +22,7 @@
                     "download": "421384928"
                 }
             },
-            "decryptionkey": "f37947e2532fb87a2a93faf62aca4de8a9f30a24f2733b57bc883c670ed062bd"
+            "decryptionkey": ""
         },
         "baselanguages": "japanese",
         "branches": {
