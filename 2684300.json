@@ -4,8 +4,8 @@
     "name": "Just skill shooter 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27082006",
-    "update_time": "2025-01-21 03:54:14",
+    "change_number": "27811091",
+    "update_time": "2025-03-06 17:07:42",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "2614722000"
                 }
             },
-            "decryptionkey": "094a4fbde2ce2f0715bd43c199fc50adfad92fb26c07999b1c5a5eb7fd767b0a"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
