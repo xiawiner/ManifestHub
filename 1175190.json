@@ -4,8 +4,8 @@
     "name": "Natsuki Chronicles",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27725839",
-    "update_time": "2025-03-01 05:22:52",
+    "change_number": "27975702",
+    "update_time": "2025-03-16 04:54:59",
     "depot": {
         "baselanguages": "english,german,french,japanese",
         "228990": {
@@ -28,7 +28,7 @@
                     "download": "3080160576"
                 }
             },
-            "decryptionkey": "ab985b84529e75e25aa6f68c2abde709631d70157676a79162cd47eadb7f5a03"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
