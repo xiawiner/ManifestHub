@@ -4,8 +4,8 @@
     "name": "River Towns Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27481416",
-    "update_time": "2025-02-14 22:47:51",
+    "change_number": "27936490",
+    "update_time": "2025-03-13 23:41:52",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,16 @@
         "3265951": {
             "manifests": {
                 "public": {
-                    "gid": "2988091888491322931",
-                    "size": "945841441",
-                    "download": "639441840"
+                    "gid": "1944789965049155930",
+                    "size": "1017636314",
+                    "download": "690872864"
                 }
-            },
-            "decryptionkey": "c13f0e7d1168476027289425dccb87abf9825f8e5601c4675c59add3084ce6c2"
+            }
         },
         "branches": {
             "public": {
-                "buildid": "16812586",
-                "timeupdated": "1734690636"
+                "buildid": "17482362",
+                "timeupdated": "1740396113"
             }
         },
         "privatebranches": "1"
