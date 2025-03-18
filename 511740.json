@@ -4,8 +4,8 @@
     "name": "Gal*Gun: Double Peace",
     "schinese_name": "少女射击：双重和谐",
     "isfreeapp": "0",
-    "change_number": "26023197",
-    "update_time": "2024-11-03 08:05:15",
+    "change_number": "27911775",
+    "update_time": "2025-03-12 21:30:24",
     "depot": {
         "baselanguages": "english,japanese",
         "228983": {
@@ -40,7 +40,7 @@
                     "download": "1914636048"
                 }
             },
-            "decryptionkey": "47aad8e9732ff6bc8555c630399da0ee0a1694bd45687beea36645e92da7b21f"
+            "decryptionkey": ""
         },
         "539940": {
             "config": {
