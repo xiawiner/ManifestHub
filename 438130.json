@@ -4,8 +4,8 @@
     "name": "Root Double -Before Crime * After Days- Xtend Edition",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "24325365",
-    "update_time": "2024-07-12 01:44:14",
+    "change_number": "27858187",
+    "update_time": "2025-03-09 19:07:44",
     "depot": {
         "228990": {
             "config": {
@@ -26,7 +26,7 @@
                     "download": "7645839280"
                 }
             },
-            "decryptionkey": "3304386f7570ef151ef646097a2832b749704c6a7c9a9c051304d9dea51db781"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
