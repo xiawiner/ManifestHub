@@ -4,8 +4,8 @@
     "name": "Progress Bar Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27070527",
-    "update_time": "2025-01-20 13:55:27",
+    "change_number": "27779000",
+    "update_time": "2025-03-05 01:13:02",
     "depot": {
         "hasdepotsindlc": "0",
         "661231": {
@@ -15,14 +15,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3699307060347816785",
-                    "size": "669290540",
-                    "download": "44561344"
+                    "gid": "6565082563636008715",
+                    "size": "675509476",
+                    "download": "44662688"
                 },
                 "testing": {
-                    "gid": "4397330512781642980",
-                    "size": "631679650",
-                    "download": "31932896"
+                    "gid": "6565082563636008715",
+                    "size": "675509476",
+                    "download": "44662688"
                 }
             },
             "decryptionkey": "3d84390371a02577d47dfa7fd4161ad0e7352c5c9e160cb1e207924aea4c7a32"
@@ -35,14 +35,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6253299149261604998",
-                    "size": "685660867",
-                    "download": "46008688"
+                    "gid": "5371566795307694992",
+                    "size": "691879803",
+                    "download": "46111712"
                 },
                 "testing": {
-                    "gid": "5512929350855715884",
-                    "size": "642107099",
-                    "download": "33452032"
+                    "gid": "5371566795307694992",
+                    "size": "691879803",
+                    "download": "46111712"
                 }
             },
             "decryptionkey": ""
@@ -55,14 +55,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2047787264621000288",
-                    "size": "721012552",
-                    "download": "58706976"
+                    "gid": "4880520929940740921",
+                    "size": "727231488",
+                    "download": "58811024"
                 },
                 "testing": {
-                    "gid": "8963344685393373564",
-                    "size": "632475309",
-                    "download": "31873136"
+                    "gid": "4880520929940740921",
+                    "size": "727231488",
+                    "download": "58811024"
                 }
             },
             "decryptionkey": ""
@@ -75,13 +75,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "16549301",
-                "timeupdated": "1733344843"
+                "buildid": "17582556",
+                "timeupdated": "1741108373"
             },
             "testing": {
-                "buildid": "8359477",
+                "buildid": "17582556",
                 "description": "unstable testing",
-                "timeupdated": "1647086653"
+                "timeupdated": "1741053805"
             }
         },
         "privatebranches": "1"
