@@ -4,8 +4,8 @@
     "name": "Magic Card：CZ12 Demo",
     "schinese_name": "魔卡：十二生肖 Demo",
     "isfreeapp": "0",
-    "change_number": "24141425",
-    "update_time": "2024-07-16 02:47:01",
+    "change_number": "27850927",
+    "update_time": "2025-03-08 21:28:07",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,16 @@
         "2881691": {
             "manifests": {
                 "public": {
-                    "gid": "219166413398935242",
-                    "size": "2231192368",
-                    "download": "2135877808"
+                    "gid": "8902594374354216370",
+                    "size": "423709244",
+                    "download": "289574848"
                 }
-            },
-            "decryptionkey": "066308b4fb8ca7990bd686303d65ad0cbbd1e90f6cbb75a029c2e1a5fc6c3d70"
+            }
         },
         "branches": {
             "public": {
-                "buildid": "14656241",
-                "timeupdated": "1717943827"
+                "buildid": "17646743",
+                "timeupdated": "1741439954"
             }
         }
     }
