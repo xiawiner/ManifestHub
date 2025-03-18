@@ -4,8 +4,8 @@
     "name": "Skullgirls ∞Endless Beta∞",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26461881",
-    "update_time": "2024-12-05 10:14:53",
+    "change_number": "27825469",
+    "update_time": "2025-03-07 08:21:46",
     "depot": {
         "preloadonly": "1",
         "overridescddb": "1",
@@ -36,7 +36,7 @@
                     "download": "1751541488"
                 }
             },
-            "decryptionkey": "e0d7a9c0becda59b9deb43cb78f3ca948f03e67794e0c9a05c5bc25b8d176852"
+            "decryptionkey": ""
         },
         "208612": {
             "config": {
@@ -49,7 +49,7 @@
                     "download": "1616418992"
                 }
             },
-            "decryptionkey": "35a554a1608410ac0aef6507e9b2725488c910c21f8ef199e05ef96af9dbe959"
+            "decryptionkey": ""
         },
         "208613": {
             "config": {
@@ -62,7 +62,7 @@
                     "download": "1613286304"
                 }
             },
-            "decryptionkey": "d52a8e81aa599497669437c3442f87a976aa7558b1f5249e6c813f358edd0d65"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
