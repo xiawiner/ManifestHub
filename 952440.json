@@ -4,8 +4,8 @@
     "name": "OVERKILL's The Walking Dead - BETA",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26461881",
-    "update_time": "2024-12-05 10:42:59",
+    "change_number": "27825469",
+    "update_time": "2025-03-07 08:37:28",
     "depot": {
         "228986": {
             "config": {
@@ -33,7 +33,7 @@
                     "download": "658752"
                 }
             },
-            "decryptionkey": "5c6112da7cecb5d5fa8f484c4a139457a2a4b89010b9e6033fa55049310c6aa9"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
