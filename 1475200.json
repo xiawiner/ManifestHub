@@ -4,8 +4,8 @@
     "name": "Pickup Basketball VR",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26786110",
-    "update_time": "2024-12-26 14:23:38",
+    "change_number": "27747327",
+    "update_time": "2025-03-03 10:14:46",
     "depot": {
         "228988": {
             "config": {
@@ -33,7 +33,7 @@
                     "download": "583383120"
                 }
             },
-            "decryptionkey": "de1f8db449e5fbf9d5ab5103c82fd2688a6263c62b2c6ea01760dfe6a8ae16f0"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
