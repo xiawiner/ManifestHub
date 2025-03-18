@@ -4,8 +4,8 @@
     "name": "Tower Princess: Knight's Trial",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "24981165",
-    "update_time": "2024-09-17 12:36:21",
+    "change_number": "27832892",
+    "update_time": "2025-03-07 18:08:48",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "2445225088"
                 }
             },
-            "decryptionkey": "8315e4565cd50ba3059c4034d150de29437a910a06dd04bc44dda98b75213313"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
