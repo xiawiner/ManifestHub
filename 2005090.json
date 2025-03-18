@@ -4,8 +4,8 @@
     "name": "EVOTINCTION",
     "schinese_name": "演灭 EVOTINCTION",
     "isfreeapp": "0",
-    "change_number": "27152713",
-    "update_time": "2025-01-25 00:28:34",
+    "change_number": "27882820",
+    "update_time": "2025-03-11 10:22:18",
     "depot": {
         "228990": {
             "config": {
@@ -26,7 +26,7 @@
                     "download": "6105147680"
                 }
             },
-            "decryptionkey": "d0096bb6160560e2c1b02177fc2a21a816d772a0d005ae9fb3dc4f7a0fc7f541"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
