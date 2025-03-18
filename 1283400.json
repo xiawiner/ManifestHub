@@ -4,8 +4,8 @@
     "name": "Steelrising",
     "schinese_name": "Steelrising 钢之崛起 ",
     "isfreeapp": "0",
-    "change_number": "27366621",
-    "update_time": "2025-02-08 00:29:45",
+    "change_number": "27852341",
+    "update_time": "2025-03-09 01:07:42",
     "depot": {
         "228988": {
             "config": {
@@ -34,7 +34,7 @@
                     "download": "70479319104"
                 }
             },
-            "decryptionkey": "294af8455925dc234d9ff5463684a75c642770b005008c48f2683042aa08ec05"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian",
         "branches": {
