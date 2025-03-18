@@ -4,8 +4,8 @@
     "name": "Moss: Book II",
     "schinese_name": "小老鼠莫斯2",
     "isfreeapp": "0",
-    "change_number": "27725839",
-    "update_time": "2025-03-01 05:22:55",
+    "change_number": "27924298",
+    "update_time": "2025-03-13 10:22:17",
     "depot": {
         "228988": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "7219708640"
                 }
             },
-            "decryptionkey": "0a2c533e27e31b54193a233e8c1c5b3d8502134d795d09231ac1306aaafe9eb2"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,schinese,tchinese,russian,japanese,swedish,brazilian,latam",
         "branches": {
