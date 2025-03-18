@@ -4,8 +4,8 @@
     "name": "Ring of Elysium",
     "schinese_name": "无限法则",
     "isfreeapp": "0",
-    "change_number": "26999873",
-    "update_time": "2025-01-15 10:17:09",
+    "change_number": "28007168",
+    "update_time": "2025-03-18 13:21:44",
     "depot": {
         "228983": {
             "config": {
@@ -39,7 +39,7 @@
                     "download": "36668402080"
                 }
             },
-            "decryptionkey": "bc4906600d31988cd434d2673a231a2f915a8ff93a0247b4afbdec016979e5f8"
+            "decryptionkey": ""
         },
         "938460": {
             "dlcappid": "938460"
