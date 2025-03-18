@@ -4,8 +4,8 @@
     "name": "中专预备役 Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27381612",
-    "update_time": "2025-02-09 04:11:31",
+    "change_number": "27742299",
+    "update_time": "2025-03-02 22:28:39",
     "depot": {
         "228988": {
             "config": {
@@ -24,18 +24,17 @@
         "3519291": {
             "manifests": {
                 "public": {
-                    "gid": "6659915055520429446",
-                    "size": "417950708",
-                    "download": "287323536"
+                    "gid": "8884769605078812139",
+                    "size": "481576177",
+                    "download": "351184064"
                 }
-            },
-            "decryptionkey": "7774c03eda89e0362b5b893b7706a67c0acc39a59ecde1356aa278e3dd0937b1"
+            }
         },
         "baselanguages": "schinese",
         "branches": {
             "public": {
-                "buildid": "17293448",
-                "timeupdated": "1739045487"
+                "buildid": "17565534",
+                "timeupdated": "1740925715"
             }
         }
     }
