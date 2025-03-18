@@ -4,8 +4,8 @@
     "name": "Kandagawa Jet Girls",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26487892",
-    "update_time": "2024-12-05 12:15:56",
+    "change_number": "27922210",
+    "update_time": "2025-03-13 07:41:46",
     "depot": {
         "baselanguages": "english,koreana,schinese,tchinese,japanese",
         "228990": {
@@ -33,7 +33,7 @@
                     "download": "8034554384"
                 }
             },
-            "decryptionkey": "884e87a02f51f4ce9d6c6bdbbb7148a3cd8f812750ce3b3ac57c76743a34bb05"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
