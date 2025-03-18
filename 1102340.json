@@ -4,8 +4,8 @@
     "name": "Funbag Fantasy 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27283017",
-    "update_time": "2025-02-03 11:31:14",
+    "change_number": "27948226",
+    "update_time": "2025-03-14 11:30:04",
     "depot": {
         "228987": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "3271881360"
                 }
             },
-            "decryptionkey": "31a8d8a9aea378e4f1592575f1976838a1c06e2f42ecb05b96b1f314f8a0bb88"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
