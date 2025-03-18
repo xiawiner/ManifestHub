@@ -4,8 +4,8 @@
     "name": "Enotria: The Last Song",
     "schinese_name": "艾诺提亚：失落之歌",
     "isfreeapp": "0",
-    "change_number": "27730068",
-    "update_time": "2025-03-01 13:17:23",
+    "change_number": "27954713",
+    "update_time": "2025-03-14 19:16:52",
     "depot": {
         "228989": {
             "config": {
@@ -27,18 +27,18 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8890510857411224339",
-                    "size": "13075407187",
-                    "download": "12611399408"
+                    "gid": "8377263123071342936",
+                    "size": "13265034824",
+                    "download": "12768928752"
                 }
             },
-            "decryptionkey": "4ff61b91c2226debba14e316ae7bcd8ceaf0742273e88455dcc564ff892f3d61"
+            "decryptionkey": ""
         },
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "17275850",
-                "timeupdated": "1738948018"
+                "buildid": "17716532",
+                "timeupdated": "1741942971"
             }
         },
         "privatebranches": "1"
