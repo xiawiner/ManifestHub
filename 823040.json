@@ -4,8 +4,8 @@
     "name": "Griefer",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26397905",
-    "update_time": "2024-12-05 06:05:53",
+    "change_number": "27968909",
+    "update_time": "2025-03-15 11:22:47",
     "depot": {
         "228990": {
             "config": {
@@ -22,7 +22,7 @@
                     "download": "9742096"
                 }
             },
-            "decryptionkey": "ee50590fe237ae26191cd5bc73cd601ce586c0b0481e7221387e21d34fc3c102"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
