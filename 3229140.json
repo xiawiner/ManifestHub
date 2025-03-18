@@ -4,8 +4,8 @@
     "name": "Echoes Of The House",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27422753",
-    "update_time": "2025-02-11 23:38:24",
+    "change_number": "27746954",
+    "update_time": "2025-03-03 09:18:18",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "3303286256"
                 }
             },
-            "decryptionkey": "0daca8e1cc3ec8afd8448a4c935ee9a269908d265283eb262110ffc05e851300"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
