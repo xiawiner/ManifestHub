@@ -4,8 +4,8 @@
     "name": "Hunter's Arena: Legends",
     "schinese_name": "猎人竞技场：传奇",
     "isfreeapp": "0",
-    "change_number": "26711399",
-    "update_time": "2024-12-19 18:24:15",
+    "change_number": "27987197",
+    "update_time": "2025-03-17 11:55:00",
     "depot": {
         "228986": {
             "config": {
@@ -42,7 +42,7 @@
                     "download": "15274710256"
                 }
             },
-            "decryptionkey": "539a08464cd3b951d8c97a487c19fa279639b092439fbcec91dac473bbc0210d"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
