@@ -4,8 +4,8 @@
     "name": "Nash Racing: 70 seconds left",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25613470",
-    "update_time": "2024-10-10 21:28:58",
+    "change_number": "27747854",
+    "update_time": "2025-03-03 11:13:30",
     "depot": {
         "228989": {
             "config": {
@@ -36,7 +36,7 @@
                     "download": "5032983200"
                 }
             },
-            "decryptionkey": "fa5dbbf2fe15b5b4a6da543788e85eb730c91306582196218372cdfa7b860228"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
