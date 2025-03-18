@@ -4,8 +4,8 @@
     "name": "SOS OPS!",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27378201",
-    "update_time": "2025-02-08 20:29:01",
+    "change_number": "28004516",
+    "update_time": "2025-03-18 08:57:21",
     "depot": {
         "228989": {
             "config": {
@@ -22,7 +22,7 @@
                     "download": "482006800"
                 }
             },
-            "decryptionkey": "35d0fe1da8af85fe194219860e7c34c03d704ef29aecc959c8c1029a906fbbc7"
+            "decryptionkey": ""
         },
         "baselanguages": "english",
         "branches": {
