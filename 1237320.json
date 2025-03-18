@@ -4,8 +4,8 @@
     "name": "Sonic Frontiers",
     "schinese_name": "索尼克 未知边境",
     "isfreeapp": "0",
-    "change_number": "27158991",
-    "update_time": "2025-01-25 09:21:27",
+    "change_number": "27914947",
+    "update_time": "2025-03-13 00:11:38",
     "depot": {
         "228988": {
             "config": {
@@ -31,7 +31,7 @@
                     "download": "31113397296"
                 }
             },
-            "decryptionkey": "9c57e01f36d7bf7a77b07678b08a0e690d785dfbcd9a421ae1fc2157741b5ccd"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
