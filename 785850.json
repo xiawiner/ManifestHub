@@ -4,8 +4,8 @@
     "name": "Valthirian Arc: Hero School Story",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26020567",
-    "update_time": "2024-11-03 00:05:20",
+    "change_number": "27911939",
+    "update_time": "2025-03-12 21:37:10",
     "depot": {
         "228987": {
             "config": {
@@ -36,7 +36,7 @@
                     "download": "643341488"
                 }
             },
-            "decryptionkey": "b9968a69df3085090a2c85b2884ea4ae05ca9eaacaa533b488ccaaf19b4942cf"
+            "decryptionkey": ""
         },
         "baselanguages": "english,tchinese,japanese",
         "branches": {
