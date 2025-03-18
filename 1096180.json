@@ -4,8 +4,8 @@
     "name": "Ato",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26932574",
-    "update_time": "2025-01-10 08:21:38",
+    "change_number": "27778641",
+    "update_time": "2025-03-05 00:55:36",
     "depot": {
         "228988": {
             "config": {
@@ -34,6 +34,11 @@
                     "gid": "5974475745638960070",
                     "size": "349697824",
                     "download": "220839424"
+                },
+                "windows_beta": {
+                    "gid": "3346690799921525513",
+                    "size": "359324759",
+                    "download": "222766864"
                 }
             },
             "decryptionkey": "9670f6d77938fdcf6039ed9da61a13aa2d23512f5cb215094aa7a52876899695"
@@ -57,6 +62,11 @@
                     "gid": "4083409366305211679",
                     "size": "347650717",
                     "download": "220279056"
+                },
+                "windows_beta": {
+                    "gid": "7871417264892550621",
+                    "size": "352598628",
+                    "download": "219302304"
                 }
             },
             "decryptionkey": ""
@@ -80,6 +90,11 @@
                     "gid": "7791860103925517123",
                     "size": "404459111",
                     "download": "231294176"
+                },
+                "windows_beta": {
+                    "gid": "5657166916277608393",
+                    "size": "412331956",
+                    "download": "230272112"
                 }
             },
             "decryptionkey": ""
@@ -98,6 +113,11 @@
                 "buildid": "14567782",
                 "description": "Ato v1.1.8. For speedrunning Boss Rush All Glitches categories",
                 "timeupdated": "1717358502"
+            },
+            "windows_beta": {
+                "buildid": "17592102",
+                "description": "Beta for Windows builds.",
+                "timeupdated": "1741107331"
             }
         },
         "privatebranches": "1"
