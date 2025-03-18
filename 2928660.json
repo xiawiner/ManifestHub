@@ -4,8 +4,8 @@
     "name": "BACKROOMS INVASION",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27723641",
-    "update_time": "2025-03-01 02:45:58",
+    "change_number": "27841078",
+    "update_time": "2025-03-08 02:08:55",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "749219344"
                 }
             },
-            "decryptionkey": "b1796fe49de9abb9d7b5cf5b696a0e730bcfeb619aaf488cb46cc81f7cfcb5a8"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
