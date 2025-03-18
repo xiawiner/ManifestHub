@@ -4,8 +4,8 @@
     "name": "SNK VS. CAPCOM: THE MATCH OF THE MILLENNIUM",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26446987",
-    "update_time": "2024-12-04 22:45:51",
+    "change_number": "27861798",
+    "update_time": "2025-03-10 04:51:22",
     "depot": {
         "228988": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "133382720"
                 }
             },
-            "decryptionkey": "95a69135e55e003614a8dcd16c339391736aa681ceed7344e18209efcbc6a0b6"
+            "decryptionkey": ""
         },
         "baselanguages": "english,japanese",
         "branches": {
