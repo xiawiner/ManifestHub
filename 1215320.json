@@ -4,8 +4,8 @@
     "name": "Piczle Cross Adventure",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26618123",
-    "update_time": "2024-12-13 04:06:09",
+    "change_number": "27974928",
+    "update_time": "2025-03-16 02:54:37",
     "depot": {
         "228990": {
             "config": {
@@ -22,7 +22,7 @@
                     "download": "215661824"
                 }
             },
-            "decryptionkey": "e0694c0daae63fad11b147bea63e39dac21655cf54b067c509daef5419b87926"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
