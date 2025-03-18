@@ -4,8 +4,8 @@
     "name": "The Thing: Remastered",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27311295",
-    "update_time": "2025-02-05 01:24:38",
+    "change_number": "27752176",
+    "update_time": "2025-03-03 18:47:21",
     "depot": {
         "228989": {
             "config": {
@@ -27,7 +27,7 @@
                     "download": "2221013248"
                 }
             },
-            "decryptionkey": "6a77249e795dc23efaa8cc24bd18b87cd28f6707dc75eeb0e8f7a3170cd8e420"
+            "decryptionkey": ""
         },
         "2958972": {
             "config": {
@@ -46,7 +46,7 @@
                     "download": "9832336"
                 }
             },
-            "decryptionkey": "8d1dc0c5fcf66fd80551e763fb9476517739447e5c617f42584661657027fcbc"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
