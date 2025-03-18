@@ -4,8 +4,8 @@
     "name": "Big Helmet Heroes Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27531906",
-    "update_time": "2025-02-18 18:18:08",
+    "change_number": "27868425",
+    "update_time": "2025-03-10 17:36:46",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,16 @@
         "2977521": {
             "manifests": {
                 "public": {
-                    "gid": "9158280906736990554",
-                    "size": "2849602472",
-                    "download": "2318357792"
+                    "gid": "6436404434250074148",
+                    "size": "3583587509",
+                    "download": "3176135456"
                 }
-            },
-            "decryptionkey": "9aa296f8f00d78996eeb6c2e211570a9ccf1a8f6f378a65f2d8d97129b4a74fc"
+            }
         },
         "branches": {
             "public": {
-                "buildid": "14509069",
-                "timeupdated": "1716823873"
+                "buildid": "17520405",
+                "timeupdated": "1740672040"
             }
         },
         "privatebranches": "1"
