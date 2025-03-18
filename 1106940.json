@@ -4,8 +4,8 @@
     "name": "How to Raise a Wolf Girl",
     "schinese_name": "兽娘的养成方法",
     "isfreeapp": "0",
-    "change_number": "26962014",
-    "update_time": "2025-01-12 21:15:46",
+    "change_number": "27881265",
+    "update_time": "2025-03-11 08:00:48",
     "depot": {
         "228990": {
             "config": {
@@ -22,7 +22,7 @@
                     "download": "1627083936"
                 }
             },
-            "decryptionkey": "a8c82ce75ea6aeb4da53bd2407a5c92d95beaf2bd9f16834be4e1c9962e23dad"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
