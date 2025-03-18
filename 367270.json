@@ -4,8 +4,8 @@
     "name": "Angels Fall First",
     "schinese_name": "折翼天使",
     "isfreeapp": "0",
-    "change_number": "27108209",
-    "update_time": "2025-01-22 16:26:55",
+    "change_number": "27937547",
+    "update_time": "2025-03-14 00:31:10",
     "depot": {
         "228989": {
             "config": {
@@ -18,9 +18,9 @@
         "367271": {
             "manifests": {
                 "public": {
-                    "gid": "4386057580796906311",
-                    "size": "5412504618",
-                    "download": "4035665664"
+                    "gid": "7646224042970227813",
+                    "size": "5413589503",
+                    "download": "4035942768"
                 },
                 "legacy": {
                     "gid": "3087389603775856347",
@@ -33,12 +33,12 @@
                     "download": "3988291104"
                 }
             },
-            "decryptionkey": "c24ac20cf1f18da2f3050fd65c5595e621ed1a0f1232c99cae8caf5545dcf52b"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "14637723",
-                "timeupdated": "1717891121"
+                "buildid": "17697345",
+                "timeupdated": "1741883462"
             },
             "legacy": {
                 "buildid": "806844",
