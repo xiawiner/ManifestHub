@@ -4,8 +4,8 @@
     "name": "Rolling Toolman 2 Deathly Traps",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26686526",
-    "update_time": "2024-12-18 09:03:56",
+    "change_number": "27862971",
+    "update_time": "2025-03-10 07:49:48",
     "depot": {
         "228989": {
             "config": {
@@ -36,7 +36,7 @@
                     "download": "587952288"
                 }
             },
-            "decryptionkey": "ee7ad9bf45b0facb76e70c643ddcf28ec54d6a464b826b223d08a5c04243b73e"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
