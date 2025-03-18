@@ -4,8 +4,8 @@
     "name": "MEMOLOGY: War of Memes",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27212507",
-    "update_time": "2025-01-29 13:18:49",
+    "change_number": "28009564",
+    "update_time": "2025-03-18 16:56:33",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "361477616"
                 }
             },
-            "decryptionkey": "0fe74e43a36d1112bce919b3f6886e73929c5ba1d3e0c1b71cdd818793059974"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
