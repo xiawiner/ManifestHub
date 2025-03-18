@@ -4,8 +4,8 @@
     "name": "MeiQi 2019",
     "schinese_name": "孙美琪疑案 2019",
     "isfreeapp": "0",
-    "change_number": "27501171",
-    "update_time": "2025-02-16 16:14:12",
+    "change_number": "27982449",
+    "update_time": "2025-03-17 00:56:41",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "2896882416"
                 }
             },
-            "decryptionkey": "1eeb97f617672e7db870c306d53f79441bb975b222d019f65c136996381e20c0"
+            "decryptionkey": ""
         },
         "baselanguages": "schinese",
         "branches": {
