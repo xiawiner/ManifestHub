@@ -4,8 +4,8 @@
     "name": "Indiana Jones® and the Infernal Machine™",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26553820",
-    "update_time": "2024-12-09 16:15:30",
+    "change_number": "27900980",
+    "update_time": "2025-03-12 07:57:10",
     "depot": {
         "228990": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "373081808"
                 }
             },
-            "decryptionkey": "229e34f822789cfbad371bf2ba71fe45dd552513bfcc80a47a3bda97f3ccb879"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
