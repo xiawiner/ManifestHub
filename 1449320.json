@@ -4,8 +4,8 @@
     "name": "Alfred Hitchcock - Vertigo",
     "schinese_name": "阿尔弗莱德·希区柯克 — 迷魂记",
     "isfreeapp": "0",
-    "change_number": "26994309",
-    "update_time": "2025-01-15 01:49:39",
+    "change_number": "27873262",
+    "update_time": "2025-03-10 22:51:18",
     "depot": {
         "228990": {
             "config": {
@@ -22,7 +22,7 @@
                     "download": "18340984912"
                 }
             },
-            "decryptionkey": "65b1fd16d76e00fab134eb6ca9c240d3bb0237bb15c4dcdeebd230b21c42d960"
+            "decryptionkey": ""
         },
         "hasdepotsindlc": "1",
         "branches": {
