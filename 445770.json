@@ -4,8 +4,8 @@
     "name": "Airport Madness 3D",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26959115",
-    "update_time": "2025-01-12 10:17:07",
+    "change_number": "27997697",
+    "update_time": "2025-03-18 00:14:10",
     "depot": {
         "445771": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4736147307324326334",
-                    "size": "542344956",
-                    "download": "133825248"
+                    "gid": "485400152892137188",
+                    "size": "601581352",
+                    "download": "145053184"
                 }
             },
             "decryptionkey": "131020065b764f537d82aca92f4d8624c893c6bd4a2fd7bd2a85f726ee0e0e67"
@@ -26,17 +26,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3152789468975917811",
-                    "size": "606455024",
-                    "download": "148766784"
+                    "gid": "1655728276421537546",
+                    "size": "594576321",
+                    "download": "142909936"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "12260079",
-                "timeupdated": "1695411780"
+                "buildid": "17745990",
+                "timeupdated": "1742172604"
             }
         }
     }
