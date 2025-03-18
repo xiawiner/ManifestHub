@@ -4,8 +4,8 @@
     "name": "小三角大英雄",
     "schinese_name": "小三角大英雄",
     "isfreeapp": "0",
-    "change_number": "25946659",
-    "update_time": "2024-10-29 16:06:22",
+    "change_number": "27949527",
+    "update_time": "2025-03-14 13:33:07",
     "depot": {
         "575051": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1948431160260310344",
-                    "size": "2447548068",
-                    "download": "391560032"
+                    "gid": "2492034037868459922",
+                    "size": "2360300540",
+                    "download": "331096496"
                 }
             },
             "decryptionkey": "66a2eb3888c56ada0f810957eeaa46f39275fabcbad69cfff2574cbed93b9d35"
@@ -26,17 +26,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8320879541377312115",
-                    "size": "2448194230",
-                    "download": "391549152"
+                    "gid": "3297756877833958543",
+                    "size": "2347880869",
+                    "download": "326901328"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "10021193",
-                "timeupdated": "1669451320"
+                "buildid": "17615490",
+                "timeupdated": "1741245372"
             }
         },
         "privatebranches": "1"
