@@ -4,8 +4,8 @@
     "name": "Destroy All Humans!",
     "schinese_name": "消灭所有人类！",
     "isfreeapp": "0",
-    "change_number": "27001591",
-    "update_time": "2025-01-15 13:16:20",
+    "change_number": "27783412",
+    "update_time": "2025-03-05 06:25:01",
     "depot": {
         "228988": {
             "config": {
@@ -33,7 +33,7 @@
                     "download": "8206772288"
                 }
             },
-            "decryptionkey": "8548ae2dc9ed3193e4ebb386ea566523714b8ca47ab85919c5b0d58b8aa94c02"
+            "decryptionkey": ""
         },
         "803332": {
             "config": {
@@ -46,7 +46,7 @@
                     "download": "7966396320"
                 }
             },
-            "decryptionkey": "69762cce364c47101a23c7cc4fe695d0f3e73acf90abb0a8d4891a52bfa596e0"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
