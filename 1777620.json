@@ -4,8 +4,8 @@
     "name": "Soul Hackers 2",
     "schinese_name": "灵魂骇客2",
     "isfreeapp": "0",
-    "change_number": "27408843",
-    "update_time": "2025-02-11 05:19:18",
+    "change_number": "27896502",
+    "update_time": "2025-03-12 02:03:13",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese",
         "228988": {
@@ -33,7 +33,7 @@
                     "download": "17419683456"
                 }
             },
-            "decryptionkey": "d5aef697152a0dbff354e6b2a075efd389cec458dd76e8aa2e6f6495ac4285f6"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
