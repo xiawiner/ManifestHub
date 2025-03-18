@@ -4,8 +4,8 @@
     "name": "RefRain - prism memories -",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27512271",
-    "update_time": "2025-02-17 17:04:32",
+    "change_number": "27825399",
+    "update_time": "2025-03-07 07:52:28",
     "depot": {
         "228990": {
             "config": {
@@ -18,12 +18,12 @@
         "435971": {
             "manifests": {
                 "public": {
-                    "gid": "4536841154983813244",
-                    "size": "167243806",
-                    "download": "166674528"
+                    "gid": "4385055493641766204",
+                    "size": "167295695",
+                    "download": "166720384"
                 }
             },
-            "decryptionkey": "54a94bce7ba60c4aa0627d06867d751dd2589ee699eb1075260b5046480cd17d"
+            "decryptionkey": ""
         },
         "485010": {
             "manifests": {
@@ -34,12 +34,12 @@
                 }
             },
             "dlcappid": "485010",
-            "decryptionkey": "cecd5bb1a9dcfc2dc76bae8504b04ccc1671c23bfa7c7104317c2fd46c1a9728"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "5008116",
-                "timeupdated": "1589163361"
+                "buildid": "17493637",
+                "timeupdated": "1741305142"
             }
         },
         "privatebranches": "1"
