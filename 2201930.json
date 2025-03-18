@@ -4,8 +4,8 @@
     "name": "Oriental Valley",
     "schinese_name": "老家奇妙日记",
     "isfreeapp": "0",
-    "change_number": "27494648",
-    "update_time": "2025-02-15 22:13:57",
+    "change_number": "27973651",
+    "update_time": "2025-03-15 23:59:17",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "12605603584"
                 }
             },
-            "decryptionkey": "2d9b328bebf7230789f44f93f7d6ab244c6cb6d2a6d9f08a24a904b524034b29"
+            "decryptionkey": ""
         },
         "2915630": {
             "dlcappid": "2915630"
