@@ -4,8 +4,8 @@
     "name": "Monaco 2 Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27729087",
-    "update_time": "2025-03-01 10:48:18",
+    "change_number": "28006930",
+    "update_time": "2025-03-18 12:56:42",
     "depot": {
         "228989": {
             "config": {
@@ -21,28 +21,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6933795147634167030",
-                    "size": "8533576964",
-                    "download": "2838341936"
+                    "gid": "4504696555153164751",
+                    "size": "8752696945",
+                    "download": "2847908096"
                 },
                 "beta": {
-                    "gid": "6933795147634167030",
-                    "size": "8533576964",
-                    "download": "2838341936"
+                    "gid": "4504696555153164751",
+                    "size": "8752696945",
+                    "download": "2847908096"
                 }
-            },
-            "decryptionkey": "c7420f83a845017ed34900821f00363eb8e78db6b046915a08c7070946bc34f3"
+            }
         },
         "baselanguages": "english,german,french,schinese,russian,brazilian,latam",
         "branches": {
             "public": {
-                "buildid": "17555737",
-                "timeupdated": "1740797295"
+                "buildid": "17734218",
+                "timeupdated": "1742013664"
             },
             "beta": {
-                "buildid": "17555737",
+                "buildid": "17734218",
                 "description": "Public beta branch",
-                "timeupdated": "1740797210"
+                "timeupdated": "1742013609"
             }
         },
         "privatebranches": "1"
