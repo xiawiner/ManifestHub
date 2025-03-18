@@ -4,8 +4,8 @@
     "name": "Kane & Lynch: Dead Men",
     "schinese_name": "凯恩与林奇：喋血双雄",
     "isfreeapp": "0",
-    "change_number": "27732082",
-    "update_time": "2025-03-01 18:44:55",
+    "change_number": "28003819",
+    "update_time": "2025-03-18 07:51:53",
     "depot": {
         "228990": {
             "config": {
@@ -23,7 +23,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "867f1938a3246975dde85883b34f612ae1e673ba759aadbf87cbf2018028c317"
+            "decryptionkey": ""
         },
         "8084": {
             "systemdefined": "1",
@@ -34,7 +34,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "b2adf48ceb0d5618fad9b208266a2f4965d1439c5479ae5d04e61018d7d43d7a"
+            "decryptionkey": ""
         },
         "8083": {
             "systemdefined": "1",
@@ -45,7 +45,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "630b021c6d8571e6e1e24515915ec317dca405978ce7ac6cd7b55255875c1a6d"
+            "decryptionkey": ""
         },
         "8082": {
             "systemdefined": "1",
@@ -56,7 +56,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "8784945df74c25e35862ce015d4ba848365180f39c07cf2b0362799f24932c31"
+            "decryptionkey": ""
         },
         "8081": {
             "systemdefined": "1",
@@ -67,7 +67,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "283127201d72e69713552fd15c435b78168c1d375a758d937dabf74be882b022"
+            "decryptionkey": ""
         },
         "overridescddb": "1",
         "branches": {
