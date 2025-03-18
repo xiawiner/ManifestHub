@@ -4,8 +4,8 @@
     "name": "Supermoves Freerun",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27109513",
-    "update_time": "2025-01-22 17:56:00",
+    "change_number": "27937886",
+    "update_time": "2025-03-14 00:43:49",
     "depot": {
         "baselanguages": "english",
         "228989": {
@@ -28,17 +28,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4707848736744133277",
-                    "size": "16195400479",
-                    "download": "5206254384"
+                    "gid": "2935296132597692772",
+                    "size": "16199025274",
+                    "download": "5215845024"
                 }
-            },
-            "decryptionkey": "c8497aa35afd14b00efb091c792b6b53c0dd3c43bd14094436423da4d6e6a2c6"
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17089459",
-                "timeupdated": "1737539756"
+                "buildid": "17711346",
+                "timeupdated": "1741884224"
             }
         },
         "privatebranches": "1"
