@@ -4,8 +4,8 @@
     "name": "Dark Matter",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26773847",
-    "update_time": "2024-12-24 22:21:41",
+    "change_number": "27763247",
+    "update_time": "2025-03-04 07:12:16",
     "depot": {
         "228983": {
             "config": {
@@ -35,7 +35,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "f537189b945d51b932decffe50a0679421b79d5b9cbf01e7d11b205ad018eb3e"
+            "decryptionkey": ""
         },
         "251412": {
             "config": {
@@ -48,7 +48,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "81a4262a6c6a680ee5f54b8ad577a808eae3acd37fcb87a41a3d2b8284923385"
+            "decryptionkey": ""
         },
         "251413": {
             "config": {
@@ -61,7 +61,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "3558a0eaa99d3f02cba9af5fa20c46f036553b0c3491280fcd3f145922054674"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german",
         "branches": {
