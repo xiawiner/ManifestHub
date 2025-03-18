@@ -4,8 +4,8 @@
     "name": "7'scarlet",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27238262",
-    "update_time": "2025-01-31 00:17:30",
+    "change_number": "27739439",
+    "update_time": "2025-03-02 13:53:57",
     "depot": {
         "baselanguages": "english,koreana,tchinese",
         "228986": {
@@ -30,7 +30,7 @@
                     "download": "3125648496"
                 }
             },
-            "decryptionkey": "9caab3ef346d3443dd237b451b7ee7b5fe87a8ecdb5426ff9c6de2e4f7450f45"
+            "decryptionkey": ""
         },
         "839452": {
             "manifests": {
@@ -40,7 +40,7 @@
                     "download": "8231936"
                 }
             },
-            "decryptionkey": "77a8cf349b65e89ef84eaaabe481127a08d7d5e8f4ed455861b68e618cf12ffc"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
