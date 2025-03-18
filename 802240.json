@@ -4,8 +4,8 @@
     "name": "SOS: Classic",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26461881",
-    "update_time": "2024-12-05 10:36:52",
+    "change_number": "27825469",
+    "update_time": "2025-03-07 08:34:08",
     "depot": {
         "228986": {
             "config": {
@@ -39,7 +39,7 @@
                     "download": "3276713328"
                 }
             },
-            "decryptionkey": "bdf1769312edc4768e7379b0b4d9105e56c7fd2110560d22e456c72d731fd71d"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
