@@ -4,8 +4,8 @@
     "name": "Frozen Flame",
     "schinese_name": "冰封之焰",
     "isfreeapp": "0",
-    "change_number": "26889278",
-    "update_time": "2025-01-07 17:08:51",
+    "change_number": "27894655",
+    "update_time": "2025-03-12 00:20:43",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
         "hasdepotsindlc": "1",
@@ -40,7 +40,7 @@
                     "download": "7194750976"
                 }
             },
-            "decryptionkey": "137ac76cbbb80df9e88bf9287ca2973bd41e26ac5793c5d2aaffd8290b899438"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
