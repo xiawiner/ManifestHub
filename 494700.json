@@ -4,8 +4,8 @@
     "name": "Eliosi's Hunt",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27388267",
-    "update_time": "2025-02-09 23:25:41",
+    "change_number": "27743416",
+    "update_time": "2025-03-03 01:15:33",
     "depot": {
         "228986": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "737308720"
                 }
             },
-            "decryptionkey": "37663d992f68a134d216cd03428468b0e05f79644797f67c991ff921538a19e5"
+            "decryptionkey": ""
         },
         "baselanguages": "english,portuguese",
         "branches": {
