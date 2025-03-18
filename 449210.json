@@ -4,8 +4,8 @@
     "name": "Verdict Guilty - 유죄 평결",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27498962",
-    "update_time": "2025-02-16 08:17:29",
+    "change_number": "27804833",
+    "update_time": "2025-03-06 08:07:19",
     "depot": {
         "228983": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "57402560"
                 }
             },
-            "decryptionkey": "66624c01f19ab962e001077d2343ba510685d840896dda7d3d91ba9d7a0867bc"
+            "decryptionkey": ""
         },
         "baselanguages": "english",
         "branches": {
