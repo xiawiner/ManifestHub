@@ -4,8 +4,8 @@
     "name": "Garten of Banban 6",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26914852",
-    "update_time": "2025-01-09 06:40:05",
+    "change_number": "28007462",
+    "update_time": "2025-03-18 13:56:22",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "543709328"
                 }
             },
-            "decryptionkey": "5ec671a05605967a09c2080a51481d78eaa419c60e09ac9c90ca4a98864cd79d"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,turkish,arabic,brazilian,latam,indonesian",
         "branches": {
