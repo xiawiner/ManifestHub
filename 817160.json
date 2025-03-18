@@ -4,8 +4,8 @@
     "name": "Scary defense",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27441643",
-    "update_time": "2025-02-12 23:21:18",
+    "change_number": "27972527",
+    "update_time": "2025-03-15 21:23:48",
     "depot": {
         "228981": {
             "config": {
@@ -176,7 +176,7 @@
                     "download": "1098742080"
                 }
             },
-            "decryptionkey": "0abda780dadb15f4b55a5731dceea85a92290dbaa8b5959970e9c44217a40015"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
