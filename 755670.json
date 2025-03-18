@@ -4,8 +4,8 @@
     "name": "Sleep Tight",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25795834",
-    "update_time": "2024-10-19 10:04:18",
+    "change_number": "27862572",
+    "update_time": "2025-03-10 06:50:19",
     "depot": {
         "228986": {
             "config": {
@@ -34,7 +34,7 @@
                     "download": "386888000"
                 }
             },
-            "decryptionkey": "eeb9e0fd25295fb7be5b9b539db0bb446713dbebbe10901cbaebbb95d54d6a43"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
