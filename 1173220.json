@@ -4,8 +4,8 @@
     "name": "Bleak Faith: Forsaken",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27469760",
-    "update_time": "2025-02-14 08:14:41",
+    "change_number": "28010091",
+    "update_time": "2025-03-18 17:23:12",
     "depot": {
         "228988": {
             "config": {
@@ -33,12 +33,12 @@
                     "download": "6234323440"
                 },
                 "experimental": {
-                    "gid": "3873813939576497311",
-                    "size": "15036539660",
-                    "download": "6234323440"
+                    "gid": "4430965877981623736",
+                    "size": "15060847537",
+                    "download": "6224380128"
                 }
             },
-            "decryptionkey": "633cf68534b12dffbdb6a9b78d77b8a3a17fcfbe4a42c0d4547895e4e94e8ddd"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
@@ -46,9 +46,9 @@
                 "timeupdated": "1725029767"
             },
             "experimental": {
-                "buildid": "15507154",
+                "buildid": "17763018",
                 "description": "For testing the patches before they go live",
-                "timeupdated": "1725029740"
+                "timeupdated": "1742289655"
             }
         },
         "privatebranches": "1"
