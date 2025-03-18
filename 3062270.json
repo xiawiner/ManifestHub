@@ -4,8 +4,8 @@
     "name": "Empire of the Ants - Demo",
     "schinese_name": "蚂蚁帝国（Empire of the Ants）- Demo",
     "isfreeapp": "0",
-    "change_number": "27538388",
-    "update_time": "2025-02-19 00:48:43",
+    "change_number": "27897701",
+    "update_time": "2025-03-12 03:23:10",
     "depot": {
         "228989": {
             "config": {
@@ -35,8 +35,7 @@
                     "size": "17861086504",
                     "download": "17390700752"
                 }
-            },
-            "decryptionkey": "51788fffbf5b0c7db2ab47c0f9a2102a54766f15cc6dd15fad0fe66d257feafb"
+            }
         },
         "branches": {
             "public": {
