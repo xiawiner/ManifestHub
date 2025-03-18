@@ -4,9 +4,10 @@
     "name": "眼傀公司",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27048707",
-    "update_time": "2025-01-18 04:08:46",
+    "change_number": "27874346",
+    "update_time": "2025-03-10 23:48:54",
     "depot": {
+        "baselanguages": "english,schinese",
         "228989": {
             "config": {
                 "oslist": "windows"
@@ -21,25 +22,20 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
-        "3344791": {
-            "config": {
-                "oslist": "windows",
-                "osarch": "64"
-            },
+        "3344792": {
             "manifests": {
                 "public": {
-                    "gid": "7767067930784634291",
-                    "size": "622156597",
-                    "download": "523195856"
+                    "gid": "1531489270663428163",
+                    "size": "660318226",
+                    "download": "553977616"
                 }
             },
-            "decryptionkey": "97b262a79892bae96718a20b8dbbb815414ee598ac2278c81a30bbea9e0e2076"
+            "decryptionkey": ""
         },
-        "baselanguages": "english,schinese",
         "branches": {
             "public": {
-                "buildid": "16730522",
-                "timeupdated": "1734063012"
+                "buildid": "17658965",
+                "timeupdated": "1741596754"
             }
         }
     }
