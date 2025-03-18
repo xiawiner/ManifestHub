@@ -4,8 +4,8 @@
     "name": "AFTERBLAST Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27728568",
-    "update_time": "2025-03-01 09:44:22",
+    "change_number": "28012766",
+    "update_time": "2025-03-18 20:16:01",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,16 @@
         "3491221": {
             "manifests": {
                 "public": {
-                    "gid": "2425996004731190667",
-                    "size": "3319072667",
-                    "download": "2642975136"
+                    "gid": "5460558594007313429",
+                    "size": "3321513441",
+                    "download": "2645128736"
                 }
-            },
-            "decryptionkey": "6bc67dcf206b2f69a02b1efa784a330164a12a9bb810ce4c449fae6230358695"
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17542102",
-                "timeupdated": "1740770913"
+                "buildid": "17655902",
+                "timeupdated": "1741572554"
             }
         },
         "privatebranches": "1"
