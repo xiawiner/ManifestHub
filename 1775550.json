@@ -4,8 +4,8 @@
     "name": "Gary Grigsby's War in the East 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27404775",
-    "update_time": "2025-02-11 01:04:23",
+    "change_number": "27973648",
+    "update_time": "2025-03-15 23:59:00",
     "depot": {
         "228990": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "774783824"
                 }
             },
-            "decryptionkey": "5dca212ba73b5ab6560a7d29ab07675840aa54b7a45c4279442a07f80e6af358"
+            "decryptionkey": ""
         },
         "1775552": {
             "manifests": {
@@ -39,7 +39,7 @@
                     "download": "208883392"
                 }
             },
-            "decryptionkey": "2c021b7f66f2af238fc9f2e632555fe77fb057662f5fb463423e6b68791f1072"
+            "decryptionkey": ""
         },
         "1975590": {
             "dlcappid": "1975590",
@@ -50,7 +50,7 @@
                     "download": "35321296"
                 }
             },
-            "decryptionkey": "2963d8f3bdd942f4f89feaed945932876f3ae0a41812dfd0d398a1291de43a0f"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
