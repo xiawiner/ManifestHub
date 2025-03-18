@@ -4,8 +4,8 @@
     "name": "Motherland",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27386320",
-    "update_time": "2025-02-09 18:26:09",
+    "change_number": "27743038",
+    "update_time": "2025-03-03 00:16:21",
     "depot": {
         "228988": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "12700575280"
                 }
             },
-            "decryptionkey": "04f2dd6fd89f1167d8915dac82c31d283c57ae044aa1b2e092fa62ad54bf076e"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
