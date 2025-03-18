@@ -4,8 +4,8 @@
     "name": "50 years",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26006641",
-    "update_time": "2024-11-01 21:14:26",
+    "change_number": "27813756",
+    "update_time": "2025-03-06 19:51:52",
     "depot": {
         "baselanguages": "english,german,french,russian",
         "502741": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1709897047102508986",
-                    "size": "44762471",
-                    "download": "35621168"
+                    "gid": "8168883085302214892",
+                    "size": "43974312",
+                    "download": "34971216"
                 }
             },
             "decryptionkey": "a0000faee10587632d559e6b4e4cc759af50a7a3e73ddd3679fe0a5fc972b636"
@@ -24,8 +24,8 @@
         "workshopdepot": "502740",
         "branches": {
             "public": {
-                "buildid": "12043777",
-                "timeupdated": "1693153240"
+                "buildid": "2416108",
+                "timeupdated": "1741261906"
             }
         },
         "workshopdepotdecryptionkey": ""
