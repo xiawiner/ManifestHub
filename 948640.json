@@ -4,8 +4,8 @@
     "name": "Wizardry: Labyrinth of Lost Souls",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27257925",
-    "update_time": "2025-02-01 01:11:29",
+    "change_number": "27859511",
+    "update_time": "2025-03-09 22:53:33",
     "depot": {
         "228983": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "701312704"
                 }
             },
-            "decryptionkey": "26889659d0161f4c07950842c6437d7da11a83cbea608857b11c7c6fb48f84d1"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
