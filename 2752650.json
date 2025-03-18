@@ -4,8 +4,8 @@
     "name": "Trash Top Down Racing",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "23673309",
-    "update_time": "2024-05-24 14:05:23",
+    "change_number": "27842753",
+    "update_time": "2025-03-08 04:09:20",
     "depot": {
         "228989": {
             "config": {
@@ -36,7 +36,7 @@
                     "download": "535857648"
                 }
             },
-            "decryptionkey": "e11666440a206e295d4970e4c64b80ad1b9bcaab44c1e2711355140752d183d7"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
