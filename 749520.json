@@ -4,8 +4,8 @@
     "name": "Sakura no Mori † Dreamers",
     "schinese_name": "樱之杜†净梦者",
     "isfreeapp": "0",
-    "change_number": "23591175",
-    "update_time": "2024-05-24 08:12:31",
+    "change_number": "27740535",
+    "update_time": "2025-03-02 17:22:27",
     "depot": {
         "baselanguages": "schinese,tchinese",
         "hasdepotsindlc": "1",
@@ -34,7 +34,7 @@
                     "download": "3144054752"
                 }
             },
-            "decryptionkey": "ddc747e6f72b845defd7e93b18af19f763555c7c256ab873f7bc333d9870238b"
+            "decryptionkey": ""
         },
         "749522": {
             "config": {
@@ -48,7 +48,7 @@
                     "download": "138325600"
                 }
             },
-            "decryptionkey": "1d189b497c4c0f56b9ecf8bdc2483b9c68c8d749a9985eb820d4636c8486c21e"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
