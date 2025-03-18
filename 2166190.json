@@ -4,8 +4,8 @@
     "name": "Juan Sin Miedo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27711449",
-    "update_time": "2025-02-28 16:41:49",
+    "change_number": "27847385",
+    "update_time": "2025-03-08 11:57:11",
     "depot": {
         "baselanguages": "english,latam",
         "hasdepotsindlc": "0",
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1286048438369497418",
-                    "size": "51946726",
-                    "download": "32479872"
+                    "gid": "6407985126397650325",
+                    "size": "51949462",
+                    "download": "32481584"
                 }
             },
             "decryptionkey": "39712c24d100dd17d5ee1f6520cc825d80254f5ea5f4d826dfd0f542efcd084c"
@@ -42,17 +42,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3004442594846056818",
-                    "size": "59249018",
-                    "download": "33599600"
+                    "gid": "5922684805394255940",
+                    "size": "59251962",
+                    "download": "33599808"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16712717",
-                "timeupdated": "1733950921"
+                "buildid": "17643987",
+                "timeupdated": "1741406227"
             }
         }
     }
