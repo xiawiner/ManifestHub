@@ -4,8 +4,8 @@
     "name": "Warmord",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26461881",
-    "update_time": "2024-12-05 05:28:29",
+    "change_number": "27825469",
+    "update_time": "2025-03-07 08:38:47",
     "depot": {
         "228986": {
             "config": {
@@ -33,7 +33,7 @@
                     "download": "934473584"
                 }
             },
-            "decryptionkey": "d22e277bd45db61720bc924deab018c3aefb192d3494101da9ac63e7711f4b7d"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
