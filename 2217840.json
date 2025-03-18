@@ -4,8 +4,8 @@
     "name": "In The Backrooms",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26839683",
-    "update_time": "2025-01-02 20:20:48",
+    "change_number": "28008769",
+    "update_time": "2025-03-18 15:56:29",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "2604579744"
                 }
             },
-            "decryptionkey": "b8cc469acbacdd282a4868c876027707a9849fbb401be7f437a4e9ae377686c0"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
