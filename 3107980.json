@@ -4,8 +4,8 @@
     "name": "Just Skill Shooter: Catacombs",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27531318",
-    "update_time": "2025-02-18 17:38:43",
+    "change_number": "27922752",
+    "update_time": "2025-03-13 08:20:09",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "1728678000"
                 }
             },
-            "decryptionkey": "f0afff5ff0598914413c6bb2bca16daca6368ee249e58d301c6f0061d44c75f3"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
