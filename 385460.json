@@ -4,8 +4,8 @@
     "name": "ATV GP",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26844912",
-    "update_time": "2025-01-03 06:16:05",
+    "change_number": "27825469",
+    "update_time": "2025-03-07 08:26:25",
     "depot": {
         "228990": {
             "config": {
@@ -22,7 +22,7 @@
                     "download": "362653840"
                 }
             },
-            "decryptionkey": "412190a110e240f81ce20c2f300880cfd687fbd768c874f9f0143fbe75f3118d"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
