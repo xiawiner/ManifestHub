@@ -4,8 +4,8 @@
     "name": "Rez Infinite",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27122098",
-    "update_time": "2025-01-23 09:27:05",
+    "change_number": "27896227",
+    "update_time": "2025-03-12 01:45:10",
     "depot": {
         "228985": {
             "config": {
@@ -42,7 +42,7 @@
                     "download": "497669136"
                 }
             },
-            "decryptionkey": "5384f89f3e08dce9012fba611907bccb57b9868ae06aa32a08c9cd1db0190284"
+            "decryptionkey": ""
         },
         "689950": {
             "dlcappid": "689950",
@@ -53,7 +53,7 @@
                     "download": "509819520"
                 }
             },
-            "decryptionkey": "174fc08cf5479cae59e5b78702ae24b0dcf9d314ff8612bdac4b2d02df3bb751"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
