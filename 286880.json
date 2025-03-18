@@ -4,8 +4,8 @@
     "name": "Disney Planes",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27485726",
-    "update_time": "2025-02-15 03:14:47",
+    "change_number": "27900708",
+    "update_time": "2025-03-12 07:28:26",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,spanish,russian,portuguese,polish,danish,dutch,finnish,norwegian,swedish",
@@ -42,7 +42,7 @@
                     "download": "5692619872"
                 }
             },
-            "decryptionkey": "3fdf0b2e532aa3fa684998195e79647d6649508138a184e48c45caad949e4076"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
