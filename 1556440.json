@@ -1,13 +1,13 @@
 {
     "appid": "1556440",
     "type": "Demo",
-    "name": "Watchman Demo",
+    "name": "Watchman Prologue",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25064523",
-    "update_time": "2024-09-15 23:38:36",
+    "change_number": "28010241",
+    "update_time": "2025-03-18 17:29:05",
     "depot": {
-        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese",
+        "baselanguages": "english,russian",
         "hasdepotsindlc": "0",
         "228988": {
             "config": {
@@ -30,19 +30,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8148038722393699083",
-                    "size": "3383655719",
-                    "download": "1812913328"
+                    "gid": "3550387811184069174",
+                    "size": "6602766237",
+                    "download": "3590374400"
                 }
-            },
-            "decryptionkey": "a4d8e59320182f29cbc553b900c3bc507f8b00a1a672fc9ce64cc01c1b70fbc4"
+            }
         },
         "branches": {
             "public": {
-                "buildid": "9565597",
-                "timeupdated": "1663805372"
+                "buildid": "17742254",
+                "timeupdated": "1742121067"
             }
-        },
-        "privatebranches": "1"
+        }
     }
 }
