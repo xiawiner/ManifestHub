@@ -4,8 +4,8 @@
     "name": "Botworld Odyssey Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27528753",
-    "update_time": "2025-02-18 14:14:19",
+    "change_number": "27926163",
+    "update_time": "2025-03-13 13:03:14",
     "depot": {
         "228989": {
             "config": {
@@ -21,8 +21,7 @@
                     "size": "1080696330",
                     "download": "288361504"
                 }
-            },
-            "decryptionkey": "b7285a2ec85b5118416ca127ebb7981fd8baedee5e73dd7da89c963ccf58974f"
+            }
         },
         "branches": {
             "public": {
