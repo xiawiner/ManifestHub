@@ -4,8 +4,8 @@
     "name": "The Blackout Club",
     "schinese_name": "知觉丧失俱乐部",
     "isfreeapp": "0",
-    "change_number": "27725349",
-    "update_time": "2025-03-01 04:44:36",
+    "change_number": "27850823",
+    "update_time": "2025-03-08 21:07:52",
     "depot": {
         "228989": {
             "config": {
@@ -35,7 +35,7 @@
                     "download": "8201195232"
                 }
             },
-            "decryptionkey": "c4699be11410affcb6cdf67dbeebe63ca30133c0c6a9526be18e4a892cad04ef"
+            "decryptionkey": ""
         },
         "599087": {
             "config": {
