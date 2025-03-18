@@ -4,8 +4,8 @@
     "name": "Warden's Will",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27486593",
-    "update_time": "2025-02-15 04:25:17",
+    "change_number": "27979194",
+    "update_time": "2025-03-16 15:56:59",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "1689641": {
             "manifests": {
                 "public": {
-                    "gid": "2945350470372880897",
-                    "size": "1366275930",
-                    "download": "1042388336"
+                    "gid": "7648052116065745642",
+                    "size": "1376757263",
+                    "download": "1051270608"
                 }
             },
-            "decryptionkey": "8a79dc2b8691feaf41ee3bc05550f2e5f2cccc5a30fc1eb18569e9fe3a37795b"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17370091",
-                "timeupdated": "1739563549"
+                "buildid": "17724879",
+                "timeupdated": "1741966654"
             }
         },
         "privatebranches": "1"
