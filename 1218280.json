@@ -4,8 +4,8 @@
     "name": "Bad Guys at School",
     "schinese_name": "校有恶霸",
     "isfreeapp": "0",
-    "change_number": "27725353",
-    "update_time": "2025-03-01 04:44:56",
+    "change_number": "27977458",
+    "update_time": "2025-03-16 09:55:40",
     "depot": {
         "228988": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "1825058064"
                 }
             },
-            "decryptionkey": "a4dc33c78b2492e16075ce060543244cd8d94322af6e5df832a72076d2cf8128"
+            "decryptionkey": ""
         },
         "baselanguages": "english",
         "branches": {
