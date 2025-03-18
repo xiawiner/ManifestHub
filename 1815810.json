@@ -4,8 +4,8 @@
     "name": "Turbo Sliders Unlimited Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26247232",
-    "update_time": "2024-11-19 00:03:05",
+    "change_number": "27972083",
+    "update_time": "2025-03-15 20:15:08",
     "depot": {
         "1004": {
             "config": {
@@ -56,14 +56,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3960474872953873994",
-                    "size": "282302834",
-                    "download": "90883760"
+                    "gid": "8188659099400681587",
+                    "size": "282521126",
+                    "download": "90906336"
                 },
                 "beta": {
-                    "gid": "3960474872953873994",
-                    "size": "282302834",
-                    "download": "90883760"
+                    "gid": "8188659099400681587",
+                    "size": "282521126",
+                    "download": "90906336"
                 }
             },
             "decryptionkey": ""
@@ -75,27 +75,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2776685732899193849",
-                    "size": "318350194",
-                    "download": "95762832"
+                    "gid": "6616450183159046220",
+                    "size": "318733638",
+                    "download": "95789456"
                 },
                 "beta": {
-                    "gid": "2776685732899193849",
-                    "size": "318350194",
-                    "download": "95762832"
+                    "gid": "6616450183159046220",
+                    "size": "318733638",
+                    "download": "95789456"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16436733",
-                "timeupdated": "1731945779"
+                "buildid": "17732024",
+                "timeupdated": "1742040904"
             },
             "beta": {
-                "buildid": "16436733",
+                "buildid": "17732024",
                 "description": "Next version beta branch",
-                "timeupdated": "1731860752"
+                "timeupdated": "1741991205"
             }
         }
     }
