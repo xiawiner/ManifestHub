@@ -4,8 +4,8 @@
     "name": "Tall Poppy",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26785776",
-    "update_time": "2024-12-26 13:23:22",
+    "change_number": "27857907",
+    "update_time": "2025-03-09 18:08:28",
     "depot": {
         "228988": {
             "config": {
@@ -34,7 +34,7 @@
                     "download": "894582960"
                 }
             },
-            "decryptionkey": "0dd42796db8552c965c474f91d532144d04b8c901dff05f787464fcc86104c79"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
