@@ -4,8 +4,8 @@
     "name": "Monster United",
     "schinese_name": "魔物联盟自走棋",
     "isfreeapp": "0",
-    "change_number": "25336138",
-    "update_time": "2024-09-22 13:17:41",
+    "change_number": "27853111",
+    "update_time": "2025-03-09 03:08:30",
     "depot": {
         "baselanguages": "english,german,french,schinese,russian,japanese",
         "228989": {
@@ -33,7 +33,7 @@
                     "download": "273252448"
                 }
             },
-            "decryptionkey": "7c7c8fe085d6c210bb417a7e159fbc49394934cf71b81eebb727933d83c79924"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
