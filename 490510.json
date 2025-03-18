@@ -4,8 +4,8 @@
     "name": "Pixel Puzzles 2: Christmas",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27085012",
-    "update_time": "2025-01-21 08:53:11",
+    "change_number": "28004504",
+    "update_time": "2025-03-18 08:56:21",
     "depot": {
         "228990": {
             "config": {
@@ -22,7 +22,7 @@
                     "download": "180743344"
                 }
             },
-            "decryptionkey": "d795a7a47aff7209f3ea0ae0e69704f4f8119b62a50750ee12c151d86edb52a4"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
