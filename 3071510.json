@@ -4,8 +4,8 @@
     "name": "Battle Nations Beta",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27395531",
-    "update_time": "2025-02-10 15:22:01",
+    "change_number": "28006672",
+    "update_time": "2025-03-18 12:23:01",
     "depot": {
         "228989": {
             "config": {
@@ -20,12 +20,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2503609784663594940",
-                    "size": "2058526236",
-                    "download": "1564989952"
+                    "gid": "7612203125914825642",
+                    "size": "2079560933",
+                    "download": "1569627616"
                 }
             },
-            "decryptionkey": "481e735b5c2a5646fc9006f9f1b74827ea7c496eb3cb0f7b4c54fe0218175559"
+            "decryptionkey": ""
         },
         "3071512": {
             "config": {
@@ -33,9 +33,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5614415018022857985",
-                    "size": "2245530352",
-                    "download": "1594439904"
+                    "gid": "4976217290409541071",
+                    "size": "2306687062",
+                    "download": "1604555408"
                 }
             },
             "decryptionkey": ""
@@ -46,9 +46,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8558675189301779155",
-                    "size": "2145553783",
-                    "download": "1569694992"
+                    "gid": "6719970845928077",
+                    "size": "2176385457",
+                    "download": "1574793104"
                 }
             },
             "decryptionkey": ""
@@ -56,8 +56,8 @@
         "baselanguages": "english,german,french,russian",
         "branches": {
             "public": {
-                "buildid": "17295344",
-                "timeupdated": "1739172118"
+                "buildid": "17715469",
+                "timeupdated": "1742271777"
             }
         },
         "privatebranches": "1"
