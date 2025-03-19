@@ -4,8 +4,8 @@
     "name": "BattleGroupVR",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "23819027",
-    "update_time": "2024-06-04 18:23:29",
+    "change_number": "27962819",
+    "update_time": "2025-03-15 02:28:04",
     "depot": {
         "1178781": {
             "manifests": {
@@ -35,6 +35,6 @@
                 "timeupdated": "1683424355"
             }
         },
-        "workshopdepotdecryptionkey": "eedb89b2b627ed82521b8a819a19d0260247011b6f82b9a1392544aca9c142cb"
+        "workshopdepotdecryptionkey": ""
     }
 }
