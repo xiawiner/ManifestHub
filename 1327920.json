@@ -4,8 +4,8 @@
     "name": "Maestro VR",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27107582",
-    "update_time": "2025-01-22 15:26:48",
+    "change_number": "27987660",
+    "update_time": "2025-03-17 12:56:19",
     "depot": {
         "1327921": {
             "config": {
@@ -27,6 +27,6 @@
                 "timeupdated": "1703182765"
             }
         },
-        "workshopdepotdecryptionkey": "9045877066d53de37c79e12f5f6d75239135a013cf65d8d8d7912033b95a492e"
+        "workshopdepotdecryptionkey": ""
     }
 }
