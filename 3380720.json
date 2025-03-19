@@ -4,15 +4,15 @@
     "name": "Big Helmet Heroes - Soundtrack",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27429209",
-    "update_time": "2025-02-12 07:47:41",
+    "change_number": "27792854",
+    "update_time": "2025-03-05 18:49:40",
     "depot": {
         "3380721": {
             "manifests": {
                 "public": {
-                    "gid": "1880411697408944060",
-                    "size": "116990495",
-                    "download": "116516896"
+                    "gid": "818426663785132735",
+                    "size": "117072783",
+                    "download": "116524176"
                 }
             },
             "decryptionkey": "7a7505feb70dfb6b45e675987c1160441a69603298332c8dc73c108205b7ee47"
@@ -32,8 +32,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16577601",
-                "timeupdated": "1732878647"
+                "buildid": "17602795",
+                "timeupdated": "1741171777"
             }
         }
     }
