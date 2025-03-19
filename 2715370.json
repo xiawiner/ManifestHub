@@ -4,8 +4,8 @@
     "name": "旧日女修",
     "schinese_name": "旧日女修",
     "isfreeapp": "0",
-    "change_number": "27529322",
-    "update_time": "2025-02-18 15:14:42",
+    "change_number": "27861405",
+    "update_time": "2025-03-10 03:53:01",
     "depot": {
         "baselanguages": "english,schinese,tchinese",
         "2715371": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2850358904790132751",
-                    "size": "4987511154",
-                    "download": "1102283232"
+                    "gid": "1537988048028895959",
+                    "size": "5010434022",
+                    "download": "1106606800"
                 }
             },
             "decryptionkey": "22ecf529cee5bf749df2a81369ac83288b5bf607aaff1d5b327ee8fdf29740fc"
@@ -30,8 +30,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17438540",
-                "timeupdated": "1740054372"
+                "buildid": "17482709",
+                "timeupdated": "1740397748"
             }
         },
         "privatebranches": "1"
