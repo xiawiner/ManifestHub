@@ -4,8 +4,8 @@
     "name": "Alina of the Arena",
     "schinese_name": "斗技场的阿利娜 Alina of the Arena",
     "isfreeapp": "0",
-    "change_number": "25925765",
-    "update_time": "2024-10-28 14:12:59",
+    "change_number": "27909232",
+    "update_time": "2025-03-12 19:02:15",
     "depot": {
         "baselanguages": "english,tchinese",
         "1668691": {
@@ -43,6 +43,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "c13764f2111f03c17b97f468afddc91537b57915904d9044d6838456f9a16bbd"
+        "workshopdepotdecryptionkey": ""
     }
 }
