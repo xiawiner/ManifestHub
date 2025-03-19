@@ -4,8 +4,8 @@
     "name": "The Book of Bondmaids",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27711646",
-    "update_time": "2025-02-28 16:43:07",
+    "change_number": "27759311",
+    "update_time": "2025-03-04 02:11:34",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english,schinese,russian,portuguese",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6947039975387585816",
-                    "size": "3903351729",
-                    "download": "3149604624"
+                    "gid": "1752618538857704469",
+                    "size": "3909980662",
+                    "download": "3164838720"
                 },
                 "oldone": {
                     "gid": "6221396772391882481",
@@ -33,9 +33,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "494284940019202085",
-                    "size": "3923816189",
-                    "download": "3154893440"
+                    "gid": "5401019293617131203",
+                    "size": "3930741114",
+                    "download": "3170095168"
                 },
                 "oldone": {
                     "gid": "2520607338193415483",
@@ -51,9 +51,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5784228013663459621",
-                    "size": "3892228173",
-                    "download": "3145897248"
+                    "gid": "2748455886992315992",
+                    "size": "3898938442",
+                    "download": "3161101024"
                 },
                 "oldone": {
                     "gid": "2736411109078706652",
@@ -65,8 +65,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17474198",
-                "timeupdated": "1740324147"
+                "buildid": "17578098",
+                "timeupdated": "1741025486"
             },
             "oldone": {
                 "buildid": "10155559",
