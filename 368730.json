@@ -4,8 +4,8 @@
     "name": "No Time To Explain Remastered",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25749996",
-    "update_time": "2024-10-16 23:51:49",
+    "change_number": "27963644",
+    "update_time": "2025-03-15 03:22:56",
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "368730",
@@ -64,6 +64,6 @@
                 "timeupdated": "1500237306"
             }
         },
-        "workshopdepotdecryptionkey": "f46ea64bf6d713be3bb4fff368bb1be87cd08fab2d7b9a05b58f6e387446309b"
+        "workshopdepotdecryptionkey": ""
     }
 }
