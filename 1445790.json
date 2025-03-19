@@ -4,8 +4,8 @@
     "name": "Make Way",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27533362",
-    "update_time": "2025-02-18 19:45:55",
+    "change_number": "28013672",
+    "update_time": "2025-03-18 21:15:29",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,latam",
         "1445791": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8114934225467694376",
-                    "size": "1004716164",
-                    "download": "412425216"
+                    "gid": "4421855960165687425",
+                    "size": "1012047269",
+                    "download": "424836416"
                 }
             },
             "decryptionkey": "443955ed94898f46baf7dffc42b6771e7c8992f09619b9d62b22630a6693a721"
         },
         "branches": {
             "public": {
-                "buildid": "14419364",
-                "timeupdated": "1719414043"
+                "buildid": "17406512",
+                "timeupdated": "1741872575"
             }
         },
         "privatebranches": "1"
