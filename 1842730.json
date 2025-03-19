@@ -4,15 +4,15 @@
     "name": "Nightmare: The Lunatic",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27194789",
-    "update_time": "2025-01-28 12:35:05",
+    "change_number": "27901766",
+    "update_time": "2025-03-12 09:10:16",
     "depot": {
         "1842731": {
             "manifests": {
                 "public": {
-                    "gid": "4102343379076475041",
-                    "size": "2454435191",
-                    "download": "215339520"
+                    "gid": "2066196060616040851",
+                    "size": "2454453907",
+                    "download": "215339408"
                 }
             },
             "decryptionkey": "2b5312ac42632fa61eddd3477e78096e265524b833b770c98ec1a0b77e6664e8"
@@ -20,8 +20,8 @@
         "baselanguages": "english,koreana",
         "branches": {
             "public": {
-                "buildid": "17098380",
-                "timeupdated": "1737592226"
+                "buildid": "17685710",
+                "timeupdated": "1741741789"
             }
         }
     }
