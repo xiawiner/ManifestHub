@@ -4,8 +4,8 @@
     "name": "Happy Room",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "22622995",
-    "update_time": "2024-05-24 06:23:28",
+    "change_number": "27983840",
+    "update_time": "2025-03-17 04:20:36",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,russian,portuguese,swedish,hungarian,turkish,brazilian,ukrainian",
         "workshopdepot": "550010",
@@ -145,6 +145,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "ea77df1f3ec29aadb2cc2ae1b368822f803ae1991d69e517e5ff1a731436cc9d"
+        "workshopdepotdecryptionkey": ""
     }
 }
