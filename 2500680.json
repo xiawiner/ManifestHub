@@ -4,8 +4,8 @@
     "name": "Tiny Chaos",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27532700",
-    "update_time": "2025-02-18 19:04:17",
+    "change_number": "27986721",
+    "update_time": "2025-03-17 10:52:48",
     "depot": {
         "baselanguages": "english",
         "2500681": {
@@ -15,17 +15,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1642529340649263352",
-                    "size": "201947106",
-                    "download": "105648720"
+                    "gid": "3743549573764348970",
+                    "size": "201913127",
+                    "download": "105619456"
                 }
             },
             "decryptionkey": "195c6483af539eab014deeceb696679fb031a8c9cfd89dfcc864a237395982b0"
         },
         "branches": {
             "public": {
-                "buildid": "17331379",
-                "timeupdated": "1739341927"
+                "buildid": "17736947",
+                "timeupdated": "1742179962"
             }
         },
         "privatebranches": "1"
