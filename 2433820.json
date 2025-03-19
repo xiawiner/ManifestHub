@@ -4,23 +4,23 @@
     "name": "SUPRACORE",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26768822",
-    "update_time": "2024-12-24 10:22:28",
+    "change_number": "27995323",
+    "update_time": "2025-03-17 22:22:16",
     "depot": {
         "2433821": {
             "manifests": {
                 "public": {
-                    "gid": "7982044091403814934",
-                    "size": "201854040",
-                    "download": "95862224"
+                    "gid": "4265910989961928439",
+                    "size": "226782457",
+                    "download": "112109904"
                 }
             },
             "decryptionkey": "890f9607f11fd8ab3085a2958e866b08466ea20e9556652cfdc846f0369170e2"
         },
         "branches": {
             "public": {
-                "buildid": "12582573",
-                "timeupdated": "1698758088"
+                "buildid": "17752703",
+                "timeupdated": "1742221332"
             }
         }
     }
