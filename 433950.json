@@ -4,25 +4,19 @@
     "name": "Bit Blaster XL",
     "schinese_name": "位霸XL",
     "isfreeapp": "0",
-    "change_number": "27730178",
-    "update_time": "2025-03-01 13:31:19",
+    "change_number": "27983128",
+    "update_time": "2025-03-17 02:32:01",
     "depot": {
         "baselanguages": "english",
         "433951": {
             "config": {
-                "oslist": "windows",
-                "osarch": "64"
+                "oslist": "windows"
             },
             "manifests": {
                 "public": {
-                    "gid": "8996709223761282602",
-                    "size": "123165963",
-                    "download": "77161808"
-                },
-                "testing": {
-                    "gid": "8860816015597467059",
-                    "size": "94773208",
-                    "download": "55635744"
+                    "gid": "5990712067676827365",
+                    "size": "104637525",
+                    "download": "62441952"
                 }
             },
             "decryptionkey": "a481c6f695652788d14e8b14afac69fa5d1144b1f781cb1bfdea29a69cceddf8"
@@ -33,100 +27,41 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5198715632421418920",
-                    "size": "117036730",
-                    "download": "75272944"
-                },
-                "testing": {
-                    "gid": "5705710464970991343",
-                    "size": "87555395",
-                    "download": "53855200"
+                    "gid": "4490948231363810702",
+                    "size": "97439018",
+                    "download": "60677808"
                 }
             },
             "decryptionkey": "bd0917e30df0f9a3ae426fe9c6be014b409aed298c59e6f8ef2247b3e9482ff3"
         },
         "433953": {
             "config": {
-                "oslist": "linux",
-                "osarch": "64"
+                "oslist": "linux"
             },
             "manifests": {
                 "public": {
-                    "gid": "1280943889822138146",
-                    "size": "169329070",
-                    "download": "80181856"
-                },
-                "testing": {
-                    "gid": "436066268840260820",
-                    "size": "92419215",
-                    "download": "53488912"
+                    "gid": "8615255319651043875",
+                    "size": "102304656",
+                    "download": "60221296"
                 }
             },
             "decryptionkey": "8e8be5a425ace70334d5b3ff4bfeef843f1dda0f6e18ff780bae29cb09fa76e0"
         },
-        "433954": {
-            "config": {
-                "oslist": "windows",
-                "osarch": "32"
-            },
-            "manifests": {
-                "public": {
-                    "gid": "7531330113230867292",
-                    "size": "115409660",
-                    "download": "74691040"
-                },
-                "testing": {
-                    "gid": "7531330113230867292",
-                    "size": "115409660",
-                    "download": "74691040"
-                }
-            },
-            "decryptionkey": "7fe44dbbb9377114e5ca73a3d309f75c65f106e0d8e37ad8d6fee633d53c48b2"
-        },
-        "433955": {
-            "config": {
-                "oslist": "linux",
-                "osarch": "32"
-            },
-            "manifests": {
-                "public": {
-                    "gid": "2901607402586241815",
-                    "size": "147126586",
-                    "download": "73753904"
-                },
-                "testing": {
-                    "gid": "2901607402586241815",
-                    "size": "147126586",
-                    "download": "73753904"
-                }
-            },
-            "decryptionkey": "55ae7a15660ed6663a48b37956acaee9a44cfee134f68c8daaab769f09c77c66"
-        },
         "548700": {
+            "dlcappid": "548700",
             "manifests": {
                 "public": {
                     "gid": "1891876888710782638",
                     "size": "40212469",
                     "download": "38114672"
-                },
-                "testing": {
-                    "gid": "1891876888710782638",
-                    "size": "40212469",
-                    "download": "38114672"
                 }
             },
-            "dlcappid": "548700",
             "decryptionkey": "80957c0db01a9438481fe456823d25deafc0a9cdbce3a15d76c7da553dc220e0"
         },
         "branches": {
             "public": {
-                "buildid": "10538024",
-                "timeupdated": "1676275605"
-            },
-            "testing": {
-                "buildid": "17556708",
-                "description": "testing",
-                "timeupdated": "1740807075"
+                "buildid": "17744248",
+                "timeupdated": "1742149914"
             }
         }
     }
