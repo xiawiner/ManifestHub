@@ -4,23 +4,23 @@
     "name": "Cookie Cutter",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26882709",
-    "update_time": "2025-01-07 05:06:17",
+    "change_number": "27964064",
+    "update_time": "2025-03-15 03:49:37",
     "depot": {
         "1924431": {
             "manifests": {
                 "public": {
-                    "gid": "5371858493999909578",
-                    "size": "10999898893",
-                    "download": "1276900256"
+                    "gid": "5002286147288064204",
+                    "size": "18207105537",
+                    "download": "1666813440"
                 }
             },
             "decryptionkey": "55f1ee3bf31c7ca59e30e91329e6763fe783ec32c55c6f2358b11fa9e52313cf"
         },
         "branches": {
             "public": {
-                "buildid": "13926524",
-                "timeupdated": "1712163730"
+                "buildid": "17680734",
+                "timeupdated": "1741882243"
             }
         },
         "privatebranches": "1"
