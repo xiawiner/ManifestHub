@@ -4,8 +4,8 @@
     "name": "Teslagrad Remastered",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27395662",
-    "update_time": "2025-02-10 15:33:43",
+    "change_number": "27993759",
+    "update_time": "2025-03-17 21:10:10",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,dutch,norwegian,swedish,turkish,brazilian",
         "2168151": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5941186963156158070",
-                    "size": "1957205328",
-                    "download": "487255904"
+                    "gid": "6910088164288264595",
+                    "size": "1255229733",
+                    "download": "398984224"
                 }
             },
             "decryptionkey": "dc9c2e8ccc529df4f80d2d190e612120d557536a9c5f93d7480f0524cd951725"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5415871719364375579",
-                    "size": "2425958496",
-                    "download": "573421936"
+                    "gid": "3231277842093806715",
+                    "size": "1317607324",
+                    "download": "413535424"
                 }
             },
             "decryptionkey": "84a61835d5b64643c93b9599b418ac0c47a989e87bf3ed5eb0582e62b8d9eac3"
@@ -42,17 +42,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2291550369307117375",
-                    "size": "1719828254",
-                    "download": "438208208"
+                    "gid": "1632933953394420067",
+                    "size": "1276715046",
+                    "download": "400228880"
                 }
             },
             "decryptionkey": "5c370b2236711cf0f470b66f0d7c25569bdc4ab1128d889f3e34b8287fe61565"
         },
         "branches": {
             "public": {
-                "buildid": "17425003",
-                "timeupdated": "1740055938"
+                "buildid": "17751771",
+                "timeupdated": "1742217005"
             }
         },
         "privatebranches": "1"
