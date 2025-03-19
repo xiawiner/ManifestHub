@@ -4,23 +4,23 @@
     "name": "Newton's Fourth Law",
     "schinese_name": "牛顿第四定律",
     "isfreeapp": "0",
-    "change_number": "27236145",
-    "update_time": "2025-01-30 22:17:18",
+    "change_number": "27850438",
+    "update_time": "2025-03-08 20:01:05",
     "depot": {
         "3023491": {
             "manifests": {
                 "public": {
-                    "gid": "5709633569216387611",
-                    "size": "4353695483",
-                    "download": "1290630128"
+                    "gid": "3742356394886519192",
+                    "size": "4636530064",
+                    "download": "1328859248"
                 }
             },
             "decryptionkey": "c9bf695369430873040b6637b52a4f445ed8dae14e90d6d29b40b6eb3f2bdcf8"
         },
         "branches": {
             "public": {
-                "buildid": "17054179",
-                "timeupdated": "1737262927"
+                "buildid": "17646379",
+                "timeupdated": "1741435258"
             }
         }
     }
