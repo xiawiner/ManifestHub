@@ -4,15 +4,15 @@
     "name": "Roger's Route DLC",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25915211",
-    "update_time": "2024-10-27 08:55:20",
+    "change_number": "27744020",
+    "update_time": "2025-03-03 02:38:15",
     "depot": {
         "3170530": {
             "manifests": {
                 "public": {
-                    "gid": "3269695783668114417",
-                    "size": "1182699673",
-                    "download": "1143612832"
+                    "gid": "7788903530136394404",
+                    "size": "1225851508",
+                    "download": "1185242032"
                 }
             },
             "dlcappid": "3170530",
@@ -20,8 +20,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16194540",
-                "timeupdated": "1729990517"
+                "buildid": "17566584",
+                "timeupdated": "1740940689"
             }
         }
     }
