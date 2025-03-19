@@ -4,8 +4,8 @@
     "name": "Gothic II: Gold Classic",
     "schinese_name": "哥特王朝2黄金版",
     "isfreeapp": "0",
-    "change_number": "27106886",
-    "update_time": "2025-01-22 14:26:21",
+    "change_number": "28013765",
+    "update_time": "2025-03-18 21:21:55",
     "depot": {
         "228988": {
             "config": {
@@ -229,6 +229,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "91add2a21df1ce97237b3b7b9a0e368558256f3f1acbf90a456cac58a16db29d"
+        "workshopdepotdecryptionkey": ""
     }
 }
