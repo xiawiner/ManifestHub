@@ -4,8 +4,8 @@
     "name": "みこスナイパー",
     "schinese_name": "Miko Sniper",
     "isfreeapp": "0",
-    "change_number": "26950516",
-    "update_time": "2025-01-11 09:16:48",
+    "change_number": "27770575",
+    "update_time": "2025-03-04 17:11:55",
     "depot": {
         "2971441": {
             "manifests": {
@@ -22,6 +22,7 @@
                 "buildid": "14840932",
                 "timeupdated": "1719384027"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
