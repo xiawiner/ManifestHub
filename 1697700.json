@@ -4,8 +4,8 @@
     "name": "Who's Lila?",
     "schinese_name": "莱拉是谁 Who's Lila?",
     "isfreeapp": "0",
-    "change_number": "25605674",
-    "update_time": "2024-10-09 04:28:30",
+    "change_number": "27973378",
+    "update_time": "2025-03-15 23:21:30",
     "depot": {
         "hasdepotsindlc": "1",
         "workshopdepot": "1697700",
@@ -26,6 +26,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "a5e2a4049ca04c8ce86cfb780e3c09d4cfddf01161d06a0eeedd04580470cead"
+        "workshopdepotdecryptionkey": ""
     }
 }
