@@ -4,23 +4,23 @@
     "name": "互联网大亨",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27432456",
-    "update_time": "2025-02-12 12:20:19",
+    "change_number": "27994989",
+    "update_time": "2025-03-17 22:02:55",
     "depot": {
         "2249341": {
             "manifests": {
                 "public": {
-                    "gid": "8130718759063017811",
-                    "size": "551524158",
-                    "download": "403912240"
+                    "gid": "3036601551862126900",
+                    "size": "581213408",
+                    "download": "408052320"
                 }
             },
             "decryptionkey": "b7d06a8b55ea4201850617f895acbc393256a21e6ec1c79e6ea7340de3847228"
         },
         "branches": {
             "public": {
-                "buildid": "13047881",
-                "timeupdated": "1703606565"
+                "buildid": "17752400",
+                "timeupdated": "1742220170"
             }
         }
     }
