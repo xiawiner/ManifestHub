@@ -4,15 +4,15 @@
     "name": "BDSM Oasis",
     "schinese_name": "BDSM 绿洲",
     "isfreeapp": "0",
-    "change_number": "27509550",
-    "update_time": "2025-02-17 12:16:53",
+    "change_number": "27819208",
+    "update_time": "2025-03-07 01:02:20",
     "depot": {
         "3432601": {
             "manifests": {
                 "public": {
-                    "gid": "5037808465174890336",
-                    "size": "3744747911",
-                    "download": "1577842720"
+                    "gid": "6188562088857926650",
+                    "size": "2100078199",
+                    "download": "773274048"
                 }
             },
             "decryptionkey": "de15edfde8f805bf22347f5e677530a1becf00728e8933e95b7391e1483b69f7"
@@ -20,8 +20,8 @@
         "baselanguages": "english,schinese,tchinese",
         "branches": {
             "public": {
-                "buildid": "16914857",
-                "timeupdated": "1736142828"
+                "buildid": "17573087",
+                "timeupdated": "1741000012"
             }
         }
     }
