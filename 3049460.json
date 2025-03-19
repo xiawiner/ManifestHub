@@ -4,11 +4,11 @@
     "name": "Milking Mira!",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27413640",
-    "update_time": "2025-02-11 12:36:29",
+    "change_number": "27983114",
+    "update_time": "2025-03-17 02:29:40",
     "depot": {
         "hasdepotsindlc": "0",
-        "baselanguages": "english",
+        "baselanguages": "english,german,french,spanish,japanese,latam",
         "3049461": {
             "config": {
                 "oslist": "windows"
