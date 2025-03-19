@@ -4,23 +4,23 @@
     "name": "SkyBrew: Entropic Strategist",
     "schinese_name": "原地起啡 / SkyBrew: Entropic Strategist",
     "isfreeapp": "0",
-    "change_number": "27728035",
-    "update_time": "2025-03-01 08:45:52",
+    "change_number": "27904127",
+    "update_time": "2025-03-12 12:34:37",
     "depot": {
         "2990511": {
             "manifests": {
                 "public": {
-                    "gid": "5900835267131603026",
-                    "size": "273442801",
-                    "download": "179298224"
+                    "gid": "4557429177822630944",
+                    "size": "273432089",
+                    "download": "179287616"
                 }
             },
             "decryptionkey": "d808ccfc425a300b530f2d6c3798d3fbfe5802a5a4d499a6f618ffe7a3ba8063"
         },
         "branches": {
             "public": {
-                "buildid": "16466664",
-                "timeupdated": "1732070135"
+                "buildid": "17687448",
+                "timeupdated": "1741754073"
             }
         }
     }
