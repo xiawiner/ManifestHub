@@ -4,8 +4,8 @@
     "name": "420BLAZEIT2: GAME OF THE YEAR -=Dank Dreams and Goated Memes=- [#wow/11 Like and Subscribe] Poggerz Edition",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27474756",
-    "update_time": "2025-02-14 15:46:41",
+    "change_number": "27829671",
+    "update_time": "2025-03-07 14:08:59",
     "depot": {
         "2624281": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6249418901862814543",
-                    "size": "15868283649",
-                    "download": "5810703344"
+                    "gid": "3495383802610127588",
+                    "size": "16268702279",
+                    "download": "5948036736"
                 },
                 "publictesting": {
                     "gid": "6249418901862814543",
@@ -27,8 +27,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16809531",
-                "timeupdated": "1734672631"
+                "buildid": "17627505",
+                "timeupdated": "1741327735"
             },
             "publictesting": {
                 "buildid": "16809531",
