@@ -4,8 +4,8 @@
     "name": "谜题姐妹 Puzzle Sisters",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27199639",
-    "update_time": "2025-01-28 19:34:43",
+    "change_number": "27979814",
+    "update_time": "2025-03-16 17:58:08",
     "depot": {
         "workshopdepot": "710190",
         "hasdepotsindlc": "1",
@@ -26,6 +26,6 @@
                 "timeupdated": "1723192328"
             }
         },
-        "workshopdepotdecryptionkey": "666b6e5f760185178f7a9f2a410924f0c63002334aea7e5b4414b9f9f4536ad0"
+        "workshopdepotdecryptionkey": ""
     }
 }
