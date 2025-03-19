@@ -4,17 +4,17 @@
     "name": "Heretic's Fork",
     "schinese_name": "异端尖叉",
     "isfreeapp": "0",
-    "change_number": "27408837",
-    "update_time": "2025-02-11 05:17:34",
+    "change_number": "27835642",
+    "update_time": "2025-03-07 21:06:22",
     "depot": {
         "baselanguages": "english,german,french,spanish,schinese,russian,portuguese",
         "hasdepotsindlc": "1",
         "2181611": {
             "manifests": {
                 "public": {
-                    "gid": "3358935401497964463",
-                    "size": "1483133365",
-                    "download": "1438327856"
+                    "gid": "4712449262012551164",
+                    "size": "1504376835",
+                    "download": "1464204352"
                 },
                 "demo": {
                     "gid": "3422896682606681210",
@@ -22,17 +22,17 @@
                     "download": "151872144"
                 },
                 "beta": {
-                    "gid": "9135082582823664269",
-                    "size": "1506359653",
-                    "download": "1465762672"
+                    "gid": "4712449262012551164",
+                    "size": "1504376835",
+                    "download": "1464204352"
                 }
             },
             "decryptionkey": "5a03d9d0c80ec83426e64dc7850226cd8471d4715a8d6274913d832946937f1a"
         },
         "branches": {
             "public": {
-                "buildid": "15227117",
-                "timeupdated": "1722524535"
+                "buildid": "17481516",
+                "timeupdated": "1741352778"
             },
             "demo": {
                 "buildid": "11953757",
@@ -40,9 +40,9 @@
                 "timeupdated": "1692180528"
             },
             "beta": {
-                "buildid": "15470935",
+                "buildid": "17481516",
                 "description": "Open Beta",
-                "timeupdated": "1724409119"
+                "timeupdated": "1740391677"
             }
         },
         "privatebranches": "1"
