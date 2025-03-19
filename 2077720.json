@@ -4,23 +4,23 @@
     "name": "Moth Lake",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27159509",
-    "update_time": "2025-01-25 10:26:11",
+    "change_number": "27971403",
+    "update_time": "2025-03-15 18:24:47",
     "depot": {
         "2077721": {
             "manifests": {
                 "public": {
-                    "gid": "6741264012305411812",
-                    "size": "109482765",
-                    "download": "89754640"
+                    "gid": "227185826534333021",
+                    "size": "109862437",
+                    "download": "89818272"
                 }
             },
             "decryptionkey": "d7dc9f8fad1b3e71d5697628154aebc13e5c172076d58d35ab645bfaf6c20505"
         },
         "branches": {
             "public": {
-                "buildid": "13720371",
-                "timeupdated": "1710287457"
+                "buildid": "17714704",
+                "timeupdated": "1741897441"
             }
         }
     }
