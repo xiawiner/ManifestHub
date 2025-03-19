@@ -4,8 +4,8 @@
     "name": "硬币与仙人掌 (Coins & Wishpalm)",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27534323",
-    "update_time": "2025-02-18 20:47:26",
+    "change_number": "27985184",
+    "update_time": "2025-03-17 07:36:54",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english,schinese",
@@ -15,17 +15,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "24855248471477427",
-                    "size": "3858868934",
-                    "download": "864702224"
+                    "gid": "3005043204329898760",
+                    "size": "3858599782",
+                    "download": "864342176"
                 }
             },
             "decryptionkey": "27f3544567f36861841387fbc22c2e44cda19aa753f7c0e69fca9b3fdd3e7ab6"
         },
         "branches": {
             "public": {
-                "buildid": "17449355",
-                "timeupdated": "1740111776"
+                "buildid": "17741461",
+                "timeupdated": "1742168205"
             }
         }
     }
