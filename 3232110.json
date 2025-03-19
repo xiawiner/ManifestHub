@@ -4,8 +4,8 @@
     "name": "Nightmare Shift Playtest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27260641",
-    "update_time": "2025-02-01 04:06:04",
+    "change_number": "27971515",
+    "update_time": "2025-03-15 18:43:58",
     "depot": {
         "3232111": {
             "config": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "518275486400013931",
-                    "size": "7704746275",
-                    "download": "2997001888"
+                    "gid": "4269358918209503359",
+                    "size": "7711470199",
+                    "download": "3019171920"
                 }
             },
             "decryptionkey": "d7857f6e460fd185966d49331dca4cc7a2d484cd09d73e4ff42e34ef04a27844"
         },
         "branches": {
             "public": {
-                "buildid": "16733298",
-                "timeupdated": "1734087197"
+                "buildid": "17736388",
+                "timeupdated": "1742035433"
             }
         },
         "privatebranches": "1"
