@@ -4,8 +4,8 @@
     "name": "Combat Air Patrol 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27411826",
-    "update_time": "2025-02-11 09:30:13",
+    "change_number": "27998165",
+    "update_time": "2025-03-18 00:39:28",
     "depot": {
         "347171": {
             "manifests": {
@@ -15,14 +15,14 @@
                     "download": "5638248336"
                 },
                 "beta": {
-                    "gid": "5122067749279905594",
-                    "size": "8817582748",
-                    "download": "5638248336"
+                    "gid": "7230364240207580617",
+                    "size": "14103353922",
+                    "download": "9376697936"
                 },
                 "vrbeta": {
-                    "gid": "5122067749279905594",
-                    "size": "8817582748",
-                    "download": "5638248336"
+                    "gid": "7230364240207580617",
+                    "size": "14103353922",
+                    "download": "9376697936"
                 }
             },
             "decryptionkey": "792e85f0d54e935198565e9ebc2abaaa913bd995265f4d2cb0909eac08f3844e"
@@ -33,14 +33,14 @@
                 "timeupdated": "1721872072"
             },
             "beta": {
-                "buildid": "15143969",
+                "buildid": "17701995",
                 "description": "Faster Release Branch",
-                "timeupdated": "1721871937"
+                "timeupdated": "1741830883"
             },
             "vrbeta": {
-                "buildid": "15143969",
+                "buildid": "17701995",
                 "description": "VR focused releases",
-                "timeupdated": "1721871968"
+                "timeupdated": "1741830792"
             }
         },
         "privatebranches": "1"
