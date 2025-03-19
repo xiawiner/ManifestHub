@@ -4,8 +4,8 @@
     "name": "Doraemon Dorayaki Shop Story",
     "schinese_name": "哆啦A夢的銅鑼燒店物語 (Doraemon Dorayaki Shop Story)",
     "isfreeapp": "0",
-    "change_number": "27344420",
-    "update_time": "2025-02-06 20:17:50",
+    "change_number": "27926805",
+    "update_time": "2025-03-13 14:07:11",
     "depot": {
         "2934181": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5167758238052285015",
-                    "size": "117374774",
-                    "download": "55452976"
+                    "gid": "7631950240312163479",
+                    "size": "120152673",
+                    "download": "57018368"
                 }
             },
             "decryptionkey": "2165efcdf4e74ce23492cea660fad6562b6f9889bfd16b1e6eef4f8b62f7e467"
@@ -23,8 +23,8 @@
         "baselanguages": "",
         "branches": {
             "public": {
-                "buildid": "16325922",
-                "timeupdated": "1730975133"
+                "buildid": "17703195",
+                "timeupdated": "1741845293"
             }
         },
         "privatebranches": "1"
