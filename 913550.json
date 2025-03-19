@@ -4,8 +4,8 @@
     "name": "I wanna be the Creator",
     "schinese_name": "我想成为创造者",
     "isfreeapp": "0",
-    "change_number": "26828676",
-    "update_time": "2025-01-01 05:41:25",
+    "change_number": "27979897",
+    "update_time": "2025-03-16 18:08:44",
     "depot": {
         "baselanguages": "",
         "hasdepotsindlc": "0",
@@ -15,17 +15,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "298489189054231402",
-                    "size": "958695103",
-                    "download": "371635472"
+                    "gid": "422139720095537431",
+                    "size": "959222763",
+                    "download": "372097456"
                 }
             },
             "decryptionkey": "ef5cdb61edb59dbe1344d9f7f63bc6c86958de192c8c211927e7cfcd1c553b74"
         },
         "branches": {
             "public": {
-                "buildid": "16883653",
-                "timeupdated": "1735681278"
+                "buildid": "17742175",
+                "timeupdated": "1742119720"
             }
         }
     }
