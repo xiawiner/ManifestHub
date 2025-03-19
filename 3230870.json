@@ -4,23 +4,23 @@
     "name": "Archaeology - FROZEN WALL",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26999885",
-    "update_time": "2025-01-15 10:18:37",
+    "change_number": "27764166",
+    "update_time": "2025-03-04 08:10:22",
     "depot": {
         "3230871": {
             "manifests": {
                 "public": {
-                    "gid": "6667486237682822590",
-                    "size": "1226484811",
-                    "download": "218081888"
+                    "gid": "7928312258612420434",
+                    "size": "1226484979",
+                    "download": "218081808"
                 }
             },
             "decryptionkey": "569737f9ddab7a6a817123f988b63ecea5cdce90250e2f6b17b107b6cb2c0e89"
         },
         "branches": {
             "public": {
-                "buildid": "16573080",
-                "timeupdated": "1732843434"
+                "buildid": "17581503",
+                "timeupdated": "1741047019"
             }
         }
     }
