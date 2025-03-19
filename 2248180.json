@@ -4,8 +4,8 @@
     "name": "Just Xiangqi",
     "schinese_name": "棋弈无限：中国象棋",
     "isfreeapp": "0",
-    "change_number": "27061289",
-    "update_time": "2025-01-19 12:56:26",
+    "change_number": "27871701",
+    "update_time": "2025-03-10 21:16:39",
     "depot": {
         "2248181": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3563199254516525610",
-                    "size": "2107241058",
-                    "download": "946481744"
+                    "gid": "1125199649637119304",
+                    "size": "2129099409",
+                    "download": "1006657888"
                 }
             },
             "decryptionkey": "46ed3208d8d08bc745c0e27bde2178eff013d2ce3baa736ca4ec03a3dd0c23e8"
@@ -35,8 +35,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "14004640",
-                "timeupdated": "1712716051"
+                "buildid": "17661943",
+                "timeupdated": "1741612592"
             }
         }
     }
