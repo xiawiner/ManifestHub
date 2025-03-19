@@ -4,8 +4,8 @@
     "name": "幻想乡妖怪塔防 ~ Touhou Monster TD",
     "schinese_name": "幻想乡妖怪塔防 ~ Touhou Monster TD",
     "isfreeapp": "0",
-    "change_number": "26719627",
-    "update_time": "2024-12-20 03:19:13",
+    "change_number": "28001455",
+    "update_time": "2025-03-18 04:20:42",
     "depot": {
         "baselanguages": "english,koreana,schinese,japanese",
         "workshopdepot": "1671350",
@@ -73,6 +73,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "37927648ae6ac97d396605adc5b64728a386089bac62bbbd6c258691db70f62c"
+        "workshopdepotdecryptionkey": ""
     }
 }
