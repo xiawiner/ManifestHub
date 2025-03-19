@@ -4,8 +4,8 @@
     "name": "Ball 2D: Soccer Online",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27299835",
-    "update_time": "2025-02-04 10:11:38",
+    "change_number": "27954081",
+    "update_time": "2025-03-14 18:41:40",
     "depot": {
         "703941": {
             "config": {
@@ -33,6 +33,7 @@
             },
             "decryptionkey": "e9b2afe67995e2ee22575478334ed548cbaae34473f501229242b5ad6445219d"
         },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,brazilian,bulgarian,greek,ukrainian,latam,vietnamese,indonesian",
         "branches": {
             "public": {
                 "buildid": "15496915",
