@@ -4,8 +4,8 @@
     "name": "Pathfinder: Wrath of the Righteous – The Treasure of the Midnight Isles",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27540814",
-    "update_time": "2025-02-19 03:16:30",
+    "change_number": "27890844",
+    "update_time": "2025-03-11 20:51:09",
     "depot": {
         "2064590": {
             "config": {
@@ -19,7 +19,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4062596622614938291",
+                    "gid": "4930596880469480432",
                     "size": "8194798949",
                     "download": "6106858624"
                 },
@@ -68,9 +68,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1729036862048552401",
-                    "size": "8194086573",
-                    "download": "6106367264"
+                    "gid": "8708090396819110177",
+                    "size": "8194453533",
+                    "download": "6105912592"
                 },
                 "1.4.4g": {
                     "gid": "2956632346182776644",
@@ -113,8 +113,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16759051",
-                "timeupdated": "1734353506"
+                "buildid": "17412104",
+                "timeupdated": "1741697459"
             },
             "1.4.4g": {
                 "buildid": "9568354",
