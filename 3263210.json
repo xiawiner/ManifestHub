@@ -4,23 +4,23 @@
     "name": "Subway Exorcist Girl",
     "schinese_name": "电车除灵少女",
     "isfreeapp": "0",
-    "change_number": "27493081",
-    "update_time": "2025-02-15 18:15:13",
+    "change_number": "27974526",
+    "update_time": "2025-03-16 01:58:32",
     "depot": {
         "3263211": {
             "manifests": {
                 "public": {
-                    "gid": "5682471174217352262",
-                    "size": "1481927184",
-                    "download": "1049650624"
+                    "gid": "7968268637485828133",
+                    "size": "1512665350",
+                    "download": "1071727168"
                 }
             },
             "decryptionkey": "d655269f17f8cf81bc9507fc7e3b8697150e175bc07e97e165744dbaa7019f5a"
         },
         "branches": {
             "public": {
-                "buildid": "17293896",
-                "timeupdated": "1739051380"
+                "buildid": "17675049",
+                "timeupdated": "1741686831"
             }
         }
     }
