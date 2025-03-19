@@ -39,7 +39,7 @@
                     "download": "1254343072"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "8c3817a1fc90744498d552b6abfe7879c98fe0c824a7087f57fd9c8aef9386d5"
         },
         "2255060": {
             "dlcappid": "2255060",
@@ -58,7 +58,7 @@
             "config": {
                 "optionaldlc": "2255060"
             },
-            "decryptionkey": ""
+            "decryptionkey": "e7ac77d0e9491bcd58e2e150d07226da949dee1eabe5f0cf4343e8d1f078650a"
         },
         "branches": {
             "public": {
