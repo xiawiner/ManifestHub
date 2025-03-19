@@ -4,8 +4,8 @@
     "name": "rFactor 2",
     "schinese_name": "R元素 2",
     "isfreeapp": "0",
-    "change_number": "27525138",
-    "update_time": "2025-02-18 08:15:06",
+    "change_number": "27884944",
+    "update_time": "2025-03-11 14:01:17",
     "depot": {
         "228984": {
             "config": {
@@ -118,6 +118,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "468c0b495ecb01cf57d8fedcf0cc417c699aad1ac358cbe975f7d7790f3c018d"
+        "workshopdepotdecryptionkey": ""
     }
 }
