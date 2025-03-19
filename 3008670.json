@@ -4,8 +4,8 @@
     "name": "Poppy Playtime - Chapter 4",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27541687",
-    "update_time": "2025-02-19 04:14:57",
+    "change_number": "27945996",
+    "update_time": "2025-03-14 08:39:09",
     "depot": {
         "3008670": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4186044975313216471",
-                    "size": "7359220205",
-                    "download": "6928998192"
+                    "gid": "4811752737085405084",
+                    "size": "7499725982",
+                    "download": "7076024688"
                 },
                 "test-beta": {
                     "gid": "1226483291721449645",
@@ -28,8 +28,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17369985",
-                "timeupdated": "1739562638"
+                "buildid": "17717270",
+                "timeupdated": "1741912745"
             },
             "test-beta": {
                 "buildid": "14626962",
