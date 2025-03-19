@@ -4,8 +4,8 @@
     "name": "Stronghold 2",
     "schinese_name": "要塞2",
     "isfreeapp": "0",
-    "change_number": "27165302",
-    "update_time": "2025-01-26 01:21:00",
+    "change_number": "28007162",
+    "update_time": "2025-03-18 13:20:56",
     "depot": {
         "overridescddb": "1",
         "workshopdepot": "40960",
@@ -121,6 +121,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "c213d44aa5e2f85d593e9358f9be95c2282fbc3883ac46746e4028be069dd8d2"
+        "workshopdepotdecryptionkey": ""
     }
 }
