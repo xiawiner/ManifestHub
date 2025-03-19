@@ -4,8 +4,8 @@
     "name": "Star Dynasties",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26920969",
-    "update_time": "2025-01-09 17:14:04",
+    "change_number": "27982882",
+    "update_time": "2025-03-17 01:55:25",
     "depot": {
         "1194591": {
             "manifests": {
@@ -55,6 +55,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "81df425d07f9170a4d1ec7aa7e3aec5b562acedcf1baacc584ed4f64548d2005"
+        "workshopdepotdecryptionkey": ""
     }
 }
