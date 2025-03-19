@@ -4,8 +4,8 @@
     "name": "Yomi 2",
     "schinese_name": "先觉斗牌 2",
     "isfreeapp": "0",
-    "change_number": "27283619",
-    "update_time": "2025-02-03 12:32:33",
+    "change_number": "27845012",
+    "update_time": "2025-03-08 07:08:12",
     "depot": {
         "2022231": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7052249201285949060",
-                    "size": "3276510453",
-                    "download": "1946601040"
+                    "gid": "6078669867738369865",
+                    "size": "3150962467",
+                    "download": "1923830928"
                 }
             },
             "decryptionkey": "3a087f4dae1221a5505e229e96108eae01d24f4e0c56e9d506e3d8ce788414b3"
@@ -26,9 +26,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3881767483287157792",
-                    "size": "3194255685",
-                    "download": "1934390416"
+                    "gid": "8362186258521920912",
+                    "size": "3201493381",
+                    "download": "1937441952"
                 }
             },
             "decryptionkey": ""
@@ -39,17 +39,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1508227834737266373",
-                    "size": "2579192435",
-                    "download": "1215326720"
+                    "gid": "9158734041856661587",
+                    "size": "2487877581",
+                    "download": "1208373520"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17032185",
-                "timeupdated": "1737077342"
+                "buildid": "17641676",
+                "timeupdated": "1741385809"
             }
         },
         "privatebranches": "1"
