@@ -4,23 +4,23 @@
     "name": "Trapped: Family Vacation",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27532859",
-    "update_time": "2025-02-18 19:15:14",
+    "change_number": "27787656",
+    "update_time": "2025-03-05 12:09:15",
     "depot": {
         "3163731": {
             "manifests": {
                 "public": {
-                    "gid": "1222018611210946212",
-                    "size": "1372145243",
-                    "download": "575825584"
+                    "gid": "5498948621545328174",
+                    "size": "1371058099",
+                    "download": "575823344"
                 }
             },
             "decryptionkey": "001578334cdffdb15f726fb99d2f52d01421da85d33bd62dc8d6046611347a22"
         },
         "branches": {
             "public": {
-                "buildid": "17110620",
-                "timeupdated": "1737666516"
+                "buildid": "17588333",
+                "timeupdated": "1741089999"
             }
         }
     }
