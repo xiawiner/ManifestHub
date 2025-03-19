@@ -1,11 +1,11 @@
 {
     "appid": "2841640",
     "type": "Beta",
-    "name": "GOALS Playtest",
+    "name": "GOALS Alpha",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27728035",
-    "update_time": "2025-03-01 08:45:50",
+    "change_number": "27981608",
+    "update_time": "2025-03-16 22:55:13",
     "depot": {
         "2841641": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2136441282746122877",
-                    "size": "95896321",
-                    "download": "31926192"
+                    "gid": "1471103866316035889",
+                    "size": "95858265",
+                    "download": "31901168"
                 }
             },
             "decryptionkey": "76085c909acd1cdaa6e7139584c12c9a564fc1c8ae8974f1894bfd6752151f21"
         },
         "branches": {
             "public": {
-                "buildid": "17396861",
-                "timeupdated": "1739815798"
+                "buildid": "17611361",
+                "timeupdated": "1741261191"
             }
         },
         "privatebranches": "1"
