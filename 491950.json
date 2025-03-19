@@ -4,8 +4,8 @@
     "name": "Orwell",
     "schinese_name": "奥威尔：注视着你",
     "isfreeapp": "0",
-    "change_number": "27105108",
-    "update_time": "2025-01-22 11:26:53",
+    "change_number": "27990736",
+    "update_time": "2025-03-17 17:45:31",
     "depot": {
         "491951": {
             "config": {
@@ -16,11 +16,6 @@
                     "gid": "8341423251235009597",
                     "size": "753726821",
                     "download": "474295568"
-                },
-                "fix32bit": {
-                    "gid": "7399628031156789134",
-                    "size": "639300332",
-                    "download": "285331808"
                 }
             },
             "decryptionkey": "1f4ab188d37923aebe9f69765dddc56457cea51d81c4800676217680819900a3"
@@ -34,11 +29,6 @@
                     "gid": "7880229118892682572",
                     "size": "670718973",
                     "download": "407675792"
-                },
-                "fix32bit": {
-                    "gid": "9194511143036599697",
-                    "size": "645873252",
-                    "download": "287284640"
                 }
             },
             "decryptionkey": "3bd3e4d55278317a2e43905a165d9de014c0ce02ef6c0b463e1c834e7fc30673"
@@ -52,11 +42,6 @@
                     "gid": "2889149985958619292",
                     "size": "759665866",
                     "download": "476847344"
-                },
-                "fix32bit": {
-                    "gid": "2235532883574826459",
-                    "size": "682056480",
-                    "download": "297167584"
                 }
             },
             "decryptionkey": "7d3317a7e9583f049f2f4859acb565494534bc06bca4e206330dfe428d2a9de5"
@@ -65,10 +50,6 @@
             "public": {
                 "buildid": "5208977",
                 "timeupdated": "1593007365"
-            },
-            "fix32bit": {
-                "buildid": "1528808",
-                "timeupdated": "1485701825"
             }
         },
         "privatebranches": "1"
