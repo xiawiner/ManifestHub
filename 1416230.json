@@ -4,8 +4,8 @@
     "name": "Panzer Knights",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27086827",
-    "update_time": "2025-01-21 11:50:41",
+    "change_number": "27912216",
+    "update_time": "2025-03-12 21:51:31",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "tchinese",
@@ -27,6 +27,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "97f978f5da72e200694a08911fd454a785cf259b6df62d59643d81e966870900"
+        "workshopdepotdecryptionkey": ""
     }
 }
