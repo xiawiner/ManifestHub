@@ -4,8 +4,8 @@
     "name": "BLADE CHIMERA Demo",
     "schinese_name": "幻刃奇美拉 体验版",
     "isfreeapp": "0",
-    "change_number": "27020864",
-    "update_time": "2025-01-16 16:10:29",
+    "change_number": "27907175",
+    "update_time": "2025-03-12 16:55:32",
     "depot": {
         "228983": {
             "config": {
@@ -35,8 +35,7 @@
                     "size": "297709018",
                     "download": "189528000"
                 }
-            },
-            "decryptionkey": "c450b1406c4803fe6bd92eb73c67bb63d62524d0c668fb137f2fdcc552ebab85"
+            }
         },
         "branches": {
             "public": {
