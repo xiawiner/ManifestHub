@@ -4,15 +4,15 @@
     "name": "Harvest Island - Expanded Ending",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26915407",
-    "update_time": "2025-01-09 07:37:00",
+    "change_number": "27977902",
+    "update_time": "2025-03-16 11:16:44",
     "depot": {
         "2972441": {
             "manifests": {
                 "public": {
-                    "gid": "2805157987065795988",
-                    "size": "997317689",
-                    "download": "600187024"
+                    "gid": "1048439429943796611",
+                    "size": "997317760",
+                    "download": "600187056"
                 }
             },
             "dlcappid": "2972440",
@@ -20,8 +20,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16945182",
-                "timeupdated": "1736379416"
+                "buildid": "17740559",
+                "timeupdated": "1742095000"
             }
         }
     }
