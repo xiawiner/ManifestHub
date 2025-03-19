@@ -4,23 +4,23 @@
     "name": "Tescaris  -  A Soothing Cute Puzzle Game",
     "schinese_name": "软糖方块  -  一款治愈系解谜游戏",
     "isfreeapp": "0",
-    "change_number": "26827737",
-    "update_time": "2025-01-01 02:22:16",
+    "change_number": "27735862",
+    "update_time": "2025-03-02 03:32:27",
     "depot": {
         "3201881": {
             "manifests": {
                 "public": {
-                    "gid": "7618260935552901520",
-                    "size": "308495269",
-                    "download": "50432736"
+                    "gid": "6649301828930466636",
+                    "size": "308673982",
+                    "download": "50438976"
                 }
             },
             "decryptionkey": "03f51492241c99a7638aebddcfbc0c87940c9cc9e52a20a4d6dc1ae74387b3b5"
         },
         "branches": {
             "public": {
-                "buildid": "16883036",
-                "timeupdated": "1735669327"
+                "buildid": "17558705",
+                "timeupdated": "1740857541"
             }
         }
     }
