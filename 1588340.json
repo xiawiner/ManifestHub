@@ -1,0 +1,54 @@
+{
+    "appid": "1588340",
+    "type": "Game",
+    "name": "Riftbound",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27819335",
+    "update_time": "2025-03-07 01:07:46",
+    "depot": {
+        "1588341": {
+            "manifests": {
+                "public": {
+                    "gid": "5155740268767957252",
+                    "size": "4034798243",
+                    "download": "1289080752"
+                },
+                "public_test_demonlore": {
+                    "gid": "5155740268767957252",
+                    "size": "4034798243",
+                    "download": "1289080752"
+                },
+                "public_test": {
+                    "gid": "5155740268767957252",
+                    "size": "4034798243",
+                    "download": "1289080752"
+                }
+            },
+            "decryptionkey": "e9f1cf1a84a5873cf8939d10850d04b63e907fe608135479cb179e8b0573eccb"
+        },
+        "1588342": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "15658918",
+                "timeupdated": "1726710294"
+            },
+            "public_test_demonlore": {
+                "buildid": "15658918",
+                "description": "Demonlore Public Test Build",
+                "timeupdated": "1726045544"
+            },
+            "public_test": {
+                "buildid": "15658918",
+                "description": "Public Test Build",
+                "timeupdated": "1726708310"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
