@@ -4,28 +4,28 @@
     "name": "Milky Way Idle Playtest",
     "schinese_name": "Milky Way Idle Playtest - 银河奶牛放置测试",
     "isfreeapp": "0",
-    "change_number": "27534391",
-    "update_time": "2025-02-18 20:51:34",
+    "change_number": "27968108",
+    "update_time": "2025-03-15 09:36:22",
     "depot": {
+        "baselanguages": "english,schinese",
         "3224741": {
             "config": {
-                "language": "english",
                 "oslist": "windows",
                 "osarch": "64"
             },
             "manifests": {
                 "public": {
-                    "gid": "7082158145836409490",
-                    "size": "288350006",
-                    "download": "91598000"
+                    "gid": "4991599619136323743",
+                    "size": "288351417",
+                    "download": "91598688"
                 }
             },
             "decryptionkey": "cc293068b15752edf32dad5f0ed70304634b9ddbc371e0341719962ce1e25a05"
         },
         "branches": {
             "public": {
-                "buildid": "17221020",
-                "timeupdated": "1738566658"
+                "buildid": "17596835",
+                "timeupdated": "1741135369"
             }
         },
         "privatebranches": "1"
