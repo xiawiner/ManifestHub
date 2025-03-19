@@ -26,7 +26,7 @@
                     "download": "21596240"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "eafcfcc0f7229768cf9003d34545f7296f16ff1239f2c7b68066027a4dcb8569"
         },
         "828920": {
             "manifests": {
@@ -37,7 +37,7 @@
                 }
             },
             "dlcappid": "828920",
-            "decryptionkey": ""
+            "decryptionkey": "b1229bb47d35d118498a0d4bb75d9facb956bb1b2df31b355523bb2a61e60c7d"
         },
         "branches": {
             "public": {
