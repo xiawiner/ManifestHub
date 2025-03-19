@@ -4,9 +4,10 @@
     "name": "100 hidden cats",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27539549",
-    "update_time": "2025-02-19 01:59:47",
+    "change_number": "27979002",
+    "update_time": "2025-03-16 15:14:05",
     "depot": {
+        "hasdepotsindlc": "1",
         "1587561": {
             "manifests": {
                 "public": {
