@@ -4,23 +4,23 @@
     "name": "Space Cycle",
     "schinese_name": "空间循环站",
     "isfreeapp": "0",
-    "change_number": "27304831",
-    "update_time": "2025-02-04 18:22:45",
+    "change_number": "27777389",
+    "update_time": "2025-03-05 00:11:15",
     "depot": {
         "3162111": {
             "manifests": {
                 "public": {
-                    "gid": "4681758472809843627",
-                    "size": "306704541",
-                    "download": "127106400"
+                    "gid": "4332972900841232631",
+                    "size": "335946690",
+                    "download": "136731648"
                 }
             },
             "decryptionkey": "072f43be030489a5c4e3e5ece426eacf8c753286a70a11b08d31f308eed12497"
         },
         "branches": {
             "public": {
-                "buildid": "17464850",
-                "timeupdated": "1740204884"
+                "buildid": "17591217",
+                "timeupdated": "1741102893"
             }
         }
     }
