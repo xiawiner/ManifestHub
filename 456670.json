@@ -4,8 +4,8 @@
     "name": "Hand of Fate 2",
     "schinese_name": "命运之手2",
     "isfreeapp": "0",
-    "change_number": "27117942",
-    "update_time": "2025-01-23 03:26:25",
+    "change_number": "27918789",
+    "update_time": "2025-03-13 04:02:11",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,brazilian",
         "hasdepotsindlc": "0",
@@ -72,6 +72,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "86a624cbd30489319ee7bd4a496c1474575e4d04e192f93d355db015c009ac5b"
+        "workshopdepotdecryptionkey": ""
     }
 }
