@@ -1,0 +1,30 @@
+{
+    "appid": "2617090",
+    "type": "Game",
+    "name": "Fowl Damage",
+    "schinese_name": "蛋落伤害 Fowl Damage",
+    "isfreeapp": "0",
+    "change_number": "27945985",
+    "update_time": "2025-03-14 08:37:57",
+    "depot": {
+        "2617091": {
+            "manifests": {
+                "public": {
+                    "gid": "6884953814197046416",
+                    "size": "277321354",
+                    "download": "140785440"
+                }
+            },
+            "decryptionkey": "1fd7a8fb031898d34b68cd154f05b093ca754b568e3ac7e5e9c9575cb485804d"
+        },
+        "workshopdepot": "2617090",
+        "branches": {
+            "public": {
+                "buildid": "17613624",
+                "timeupdated": "1741232432"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
