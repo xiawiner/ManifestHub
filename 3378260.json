@@ -4,8 +4,8 @@
     "name": "鸭鸭大冒险 (Duck Duck Adventure)",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27529421",
-    "update_time": "2025-02-18 15:23:25",
+    "change_number": "27769447",
+    "update_time": "2025-03-04 16:00:56",
     "depot": {
         "baselanguages": "english,schinese",
         "3378261": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4105740990306805327",
-                    "size": "2605445310",
-                    "download": "187001296"
+                    "gid": "1287473563793270411",
+                    "size": "2736742217",
+                    "download": "191179840"
                 }
             },
             "decryptionkey": "d94b8cd204d1fd3273d50180d432419f2c026e8acbd5d71d8e6f6db0c589722b"
         },
         "branches": {
             "public": {
-                "buildid": "17333356",
-                "timeupdated": "1739351934"
+                "buildid": "17585336",
+                "timeupdated": "1741075253"
             }
         },
         "privatebranches": "1"
