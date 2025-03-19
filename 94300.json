@@ -4,8 +4,8 @@
     "name": "The Dream Machine",
     "schinese_name": "造梦机器",
     "isfreeapp": "0",
-    "change_number": "27533999",
-    "update_time": "2025-02-18 20:29:48",
+    "change_number": "27797173",
+    "update_time": "2025-03-05 23:12:25",
     "depot": {
         "228988": {
             "config": {
@@ -20,9 +20,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "5499445924646477353",
-                    "size": "147265401",
-                    "download": "104365856"
+                    "gid": "3074441742499901058",
+                    "size": "147199416",
+                    "download": "104357040"
                 },
                 "experimental": {
                     "gid": "7964225173206910903",
@@ -41,9 +41,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "2743921453174921568",
-                    "size": "44976912",
-                    "download": "44539920"
+                    "gid": "8943413912860625876",
+                    "size": "44970794",
+                    "download": "44539616"
                 },
                 "experimental": {
                     "gid": "2743921453174921568",
@@ -62,9 +62,9 @@
             "optional": "1",
             "manifests": {
                 "public": {
-                    "gid": "7023152059049953968",
-                    "size": "40373870",
-                    "download": "39855088"
+                    "gid": "7884791436224130450",
+                    "size": "40367854",
+                    "download": "39855024"
                 },
                 "experimental": {
                     "gid": "7023152059049953968",
@@ -83,9 +83,9 @@
         "94304": {
             "manifests": {
                 "public": {
-                    "gid": "8205482307359302646",
-                    "size": "126092867",
-                    "download": "116745712"
+                    "gid": "6248333466501972126",
+                    "size": "126083099",
+                    "download": "116741280"
                 },
                 "experimental": {
                     "gid": "8205482307359302646",
@@ -104,9 +104,9 @@
         "330260": {
             "manifests": {
                 "public": {
-                    "gid": "517190897047010985",
-                    "size": "202672734",
-                    "download": "190437584"
+                    "gid": "4029724967817483490",
+                    "size": "202656847",
+                    "download": "190433408"
                 },
                 "experimental": {
                     "gid": "517190897047010985",
@@ -125,9 +125,9 @@
         "461900": {
             "manifests": {
                 "public": {
-                    "gid": "8285184996033027629",
-                    "size": "597354855",
-                    "download": "537680736"
+                    "gid": "5159485623556219001",
+                    "size": "597338910",
+                    "download": "537676016"
                 },
                 "experimental": {
                     "gid": "8285184996033027629",
@@ -145,8 +145,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "7277525",
-                "timeupdated": "1648145709"
+                "buildid": "17605975",
+                "timeupdated": "1741187537"
             },
             "experimental": {
                 "buildid": "7272734",
