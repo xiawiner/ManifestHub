@@ -4,8 +4,8 @@
     "name": "Head Goal: Soccer Online",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27298814",
-    "update_time": "2025-02-04 08:32:25",
+    "change_number": "27954115",
+    "update_time": "2025-03-14 18:43:08",
     "depot": {
         "687851": {
             "config": {
@@ -34,6 +34,7 @@
             },
             "decryptionkey": "ba7b6fd980e08a6f9ac12364bb4c98e6546c93d80e1631befa30dc42fb1faacb"
         },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,brazilian,bulgarian,greek,ukrainian,latam,vietnamese,indonesian",
         "branches": {
             "public": {
                 "buildid": "15004494",
