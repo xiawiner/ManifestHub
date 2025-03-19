@@ -4,8 +4,8 @@
     "name": "Arctic Motel Simulator",
     "schinese_name": "北极汽车旅馆模拟器",
     "isfreeapp": "0",
-    "change_number": "27541687",
-    "update_time": "2025-02-19 04:15:05",
+    "change_number": "27983848",
+    "update_time": "2025-03-17 04:21:59",
     "depot": {
         "3098471": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8537510157749417097",
-                    "size": "20079649752",
-                    "download": "7093225296"
+                    "gid": "5748857457798117349",
+                    "size": "20079651960",
+                    "download": "7093229440"
                 }
             },
             "decryptionkey": "beb4924fff3aeddd33728e557b5cd2069aff5277b25b967cb0f80443de42ba67"
         },
         "branches": {
             "public": {
-                "buildid": "17479202",
-                "timeupdated": "1740374750"
+                "buildid": "17678083",
+                "timeupdated": "1741706468"
             }
         }
     }
