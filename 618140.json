@@ -4,8 +4,8 @@
     "name": "Barro",
     "schinese_name": "巴罗Barro",
     "isfreeapp": "0",
-    "change_number": "26931010",
-    "update_time": "2025-01-10 05:51:43",
+    "change_number": "27982729",
+    "update_time": "2025-03-17 01:32:12",
     "depot": {
         "baselanguages": "english",
         "618141": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6322703618979235641",
-                    "size": "2041990634",
-                    "download": "528712960"
+                    "gid": "4765534924846870447",
+                    "size": "2562761311",
+                    "download": "660110496"
                 },
                 "old_version": {
                     "gid": "2457111860135770964",
@@ -24,9 +24,9 @@
                     "download": "253842208"
                 },
                 "pre_release": {
-                    "gid": "6322703618979235641",
-                    "size": "2041990634",
-                    "download": "528712960"
+                    "gid": "4765534924846870447",
+                    "size": "2562761311",
+                    "download": "660110496"
                 }
             },
             "decryptionkey": "4ba36a9bf0198f2725efc006145afad5374f225f2723bcfde4a0d2f348ee0717"
@@ -34,31 +34,36 @@
         "618142": {
             "manifests": {
                 "public": {
-                    "gid": "2848871714087098672",
-                    "size": "146851848",
-                    "download": "45408768"
+                    "gid": "7542476526619690689",
+                    "size": "146853032",
+                    "download": "45409584"
+                },
+                "old_version": {
+                    "gid": "7542476526619690689",
+                    "size": "146853032",
+                    "download": "45409584"
                 },
                 "pre_release": {
-                    "gid": "2848871714087098672",
-                    "size": "146851848",
-                    "download": "45408768"
+                    "gid": "7542476526619690689",
+                    "size": "146853032",
+                    "download": "45409584"
                 }
             },
             "decryptionkey": "3009b5a2d493da5cfedc1723c7d38c4701632c4d884cf9e76b8372f3c08a7cd1"
         },
         "branches": {
             "public": {
-                "buildid": "14993765",
-                "timeupdated": "1720647986"
+                "buildid": "17739277",
+                "timeupdated": "1742092814"
             },
             "old_version": {
-                "buildid": "8973234",
+                "buildid": "17743967",
                 "description": "old_version",
-                "timeupdated": "1669980239"
+                "timeupdated": "1742146327"
             },
             "pre_release": {
-                "buildid": "14993765",
-                "timeupdated": "1720645330"
+                "buildid": "17739277",
+                "timeupdated": "1742087612"
             }
         }
     }
