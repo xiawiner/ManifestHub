@@ -4,8 +4,8 @@
     "name": "Darkest Hour: Europe '44-'45",
     "schinese_name": "红色管弦乐队：至暗之时",
     "isfreeapp": "1",
-    "change_number": "27505631",
-    "update_time": "2025-02-17 03:36:29",
+    "change_number": "27860781",
+    "update_time": "2025-03-10 02:09:59",
     "depot": {
         "1202": {
             "systemdefined": "1",
@@ -29,9 +29,18 @@
                     "gid": "6043955557276725025",
                     "size": "839188951",
                     "download": "379969744"
+                },
+                "italy-playtest": {
+                    "gid": "7145477015282017025",
+                    "size": "2567518451",
+                    "download": "1109560272"
+                },
+                "public-playtest": {
+                    "gid": "7145477015282017025",
+                    "size": "2567518451",
+                    "download": "1109560272"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1281": {
             "systemdefined": "1",
@@ -45,9 +54,18 @@
                     "gid": "4376981082077672751",
                     "size": "2130157052",
                     "download": "627444112"
+                },
+                "italy-playtest": {
+                    "gid": "3054325805750765783",
+                    "size": "10991411891",
+                    "download": "3136375408"
+                },
+                "public-playtest": {
+                    "gid": "3054325805750765783",
+                    "size": "10991411891",
+                    "download": "3136375408"
                 }
-            },
-            "decryptionkey": "138734b199283e7885c9608a0e3084ee8dfd76197283503c8d34fe3be62b77f4"
+            }
         },
         "overridescddb": "1",
         "workshopdepot": "0",
@@ -61,9 +79,18 @@
                 "buildid": "1026292",
                 "description": "v6.0.0",
                 "timeupdated": "1677240308"
+            },
+            "italy-playtest": {
+                "buildid": "17653922",
+                "description": "Public branch for Italy playtest",
+                "timeupdated": "1741543762"
+            },
+            "public-playtest": {
+                "buildid": "17653922",
+                "description": "Public playtesting branch",
+                "timeupdated": "1741543795"
             }
         },
-        "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "privatebranches": "1"
     }
 }
