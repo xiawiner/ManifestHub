@@ -4,8 +4,8 @@
     "name": "(the) Gnorp Apologue",
     "schinese_name": "糯米团子历代记",
     "isfreeapp": "0",
-    "change_number": "27293820",
-    "update_time": "2025-02-04 02:02:17",
+    "change_number": "27824656",
+    "update_time": "2025-03-07 06:49:35",
     "depot": {
         "1473352": {
             "config": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5035509112756291648",
-                    "size": "61348373",
-                    "download": "51639344"
+                    "gid": "8881127631650564647",
+                    "size": "61466133",
+                    "download": "51656912"
                 }
             },
             "decryptionkey": "78b0dc40ddc455179463c1a0c16324a3c7cdea3a3ce1ebff37f012d1346cf632"
         },
         "branches": {
             "public": {
-                "buildid": "17227404",
-                "timeupdated": "1738605383"
+                "buildid": "17626949",
+                "timeupdated": "1741301237"
             }
         },
         "privatebranches": "1"
