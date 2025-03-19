@@ -4,8 +4,8 @@
     "name": "VoiceAttack Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25557517",
-    "update_time": "2024-10-07 01:43:52",
+    "change_number": "27954848",
+    "update_time": "2025-03-14 19:25:17",
     "depot": {
         "229007": {
             "config": {
@@ -21,17 +21,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5646332229528504800",
-                    "size": "45635840",
-                    "download": "17785152"
+                    "gid": "3514997299489885610",
+                    "size": "46189265",
+                    "download": "18137888"
                 }
-            },
-            "decryptionkey": "e6385c341a2889e5c9f1146ff067671009a9b749f1cedbbb13d540940e488302"
+            }
         },
         "branches": {
             "public": {
-                "buildid": "15925012",
-                "timeupdated": "1728236626"
+                "buildid": "17494421",
+                "timeupdated": "1740541946"
             }
         }
     }
