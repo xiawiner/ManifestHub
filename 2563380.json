@@ -4,36 +4,24 @@
     "name": "Reus 2 Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27714483",
-    "update_time": "2025-02-28 17:58:09",
+    "change_number": "27914041",
+    "update_time": "2025-03-12 23:23:13",
     "depot": {
         "1875061": {
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {
-                "public": {
-                    "gid": "5595917679743044397",
-                    "size": "6353697604",
-                    "download": "962484640"
-                }
-            },
-            "depotfromapp": "1875060"
+            "depotfromapp": "1875060",
+            "sharedinstall": "2"
         },
         "1875062": {
             "config": {
                 "oslist": "macos",
                 "osarch": "64"
             },
-            "manifests": {
-                "public": {
-                    "gid": "8131679422765366420",
-                    "size": "6379695471",
-                    "download": "970447504"
-                }
-            },
-            "depotfromapp": "1875060"
+            "depotfromapp": "1875060",
+            "sharedinstall": "2"
         },
         "branches": {
             "public": {
