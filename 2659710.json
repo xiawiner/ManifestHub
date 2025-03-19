@@ -4,8 +4,8 @@
     "name": "Carnaval Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27731535",
-    "update_time": "2025-03-01 17:18:43",
+    "change_number": "27983470",
+    "update_time": "2025-03-17 03:26:29",
     "depot": {
         "2659711": {
             "config": {
@@ -13,14 +13,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7554015768911860340",
-                    "size": "12272192337",
-                    "download": "10212066464"
+                    "gid": "2560631250789703460",
+                    "size": "12274946599",
+                    "download": "10215793808"
                 },
                 "1.0.11": {
                     "gid": "4824134808856621139",
                     "size": "8847154862",
                     "download": "2887444512"
+                },
+                "1.0.13": {
+                    "gid": "4418805976761472824",
+                    "size": "8880719650",
+                    "download": "2890892304"
                 },
                 "1.0.6": {
                     "gid": "1062631658082426177",
@@ -32,11 +37,6 @@
                     "size": "8846581955",
                     "download": "2886991104"
                 },
-                "1.0.13": {
-                    "gid": "4418805976761472824",
-                    "size": "8880719650",
-                    "download": "2890892304"
-                },
                 "1.1.4": {
                     "gid": "1864622351336896737",
                     "size": "9621825014",
@@ -47,20 +47,20 @@
                     "size": "9657418563",
                     "download": "5605340208"
                 },
-                "2.0.3": {
-                    "gid": "1029009056930333702",
-                    "size": "12266452406",
-                    "download": "10209567616"
+                "1.2.3": {
+                    "gid": "5985400679786513499",
+                    "size": "7168280078",
+                    "download": "5858664800"
                 },
                 "compatible_version": {
-                    "gid": "7436899621076725195",
-                    "size": "12234673873",
-                    "download": "10205952544"
+                    "gid": "764973613781187309",
+                    "size": "12230319334",
+                    "download": "10203053312"
                 },
                 "open_beta": {
-                    "gid": "7554015768911860340",
-                    "size": "12272192337",
-                    "download": "10212066464"
+                    "gid": "2560631250789703460",
+                    "size": "12274946599",
+                    "download": "10215793808"
                 }
             },
             "decryptionkey": "bff9a0e45d94c58c21e39be8f808acf92e96d3583b688817da2ae33fc0a96145"
@@ -70,56 +70,55 @@
         "baselanguages": "english,german,french,italian,spanish,portuguese,dutch",
         "branches": {
             "public": {
-                "buildid": "17543504",
-                "timeupdated": "1740731154"
+                "buildid": "17739423",
+                "timeupdated": "1742077276"
             },
             "1.0.11": {
                 "buildid": "13627459",
-                "description": "1.0.11 back up branch",
+                "description": "1.0.11 beta",
                 "timeupdated": "1709590455"
+            },
+            "1.0.13": {
+                "buildid": "13690346",
+                "description": "1.0.13 beta",
+                "timeupdated": "1714129482"
             },
             "1.0.6": {
                 "buildid": "13306646",
-                "description": "1.0.6 back up branch",
+                "description": "1.0.6 beta",
                 "timeupdated": "1706973536"
             },
             "1.0.8.2": {
                 "buildid": "13357017",
-                "description": "1.0.8.2 back up branch",
+                "description": "1.0.8.2 beta",
                 "timeupdated": "1707453827"
-            },
-            "1.0.13": {
-                "buildid": "13690346",
-                "description": "1.0.13 back up branch",
-                "timeupdated": "1714129482"
             },
             "1.1.4": {
                 "buildid": "14202052",
-                "description": "1.1.4 back up branch\t",
+                "description": "1.1.4 beta",
                 "timeupdated": "1715527874"
             },
             "1.1.5": {
                 "buildid": "14365972",
-                "description": "1.1.5 back up branch",
+                "description": "1.1.5 beta",
                 "timeupdated": "1736842315"
             },
-            "2.0.3": {
-                "buildid": "17541106",
-                "description": "2.0.3 back up branch",
-                "timeupdated": "1740820716"
+            "1.2.3": {
+                "buildid": "17122652",
+                "description": "1.2.3 beta",
+                "timeupdated": "1741209928"
             },
             "compatible_version": {
-                "buildid": "17543625",
+                "buildid": "17629942",
                 "description": "To run on Mac using compatible software",
-                "timeupdated": "1740731674"
+                "timeupdated": "1741321272"
             },
             "open_beta": {
-                "buildid": "17543504",
-                "description": "Open Beta Branch",
-                "timeupdated": "1740731192"
+                "buildid": "17739423",
+                "description": "Open beta",
+                "timeupdated": "1742076986"
             }
         },
-        "privatebranches": "1",
-        "workshopdepotdecryptionkey": "080368c670e231fa3d2e3b8e81bca142b1e2f21ac286a3875be347c0687ae1dd"
+        "workshopdepotdecryptionkey": ""
     }
 }
