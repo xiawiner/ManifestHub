@@ -4,15 +4,15 @@
     "name": "Sprout Valley",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27458468",
-    "update_time": "2025-02-13 20:01:11",
+    "change_number": "27855276",
+    "update_time": "2025-03-09 09:08:36",
     "depot": {
         "1964821": {
             "manifests": {
                 "public": {
-                    "gid": "4664242032396315476",
-                    "size": "167706991",
-                    "download": "122956464"
+                    "gid": "7675980550287552778",
+                    "size": "172903839",
+                    "download": "124137328"
                 }
             },
             "decryptionkey": "ab8d136ee492812ab5eff9f625ac687e13f2b83190324b50f9b42c7758bfe887"
@@ -20,8 +20,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "15837577",
-                "timeupdated": "1728290502"
+                "buildid": "17351253",
+                "timeupdated": "1741259192"
             }
         },
         "privatebranches": "1"
