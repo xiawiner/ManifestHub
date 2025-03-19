@@ -4,8 +4,8 @@
     "name": "Starbound - Unstable",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26461881",
-    "update_time": "2024-12-05 10:22:25",
+    "change_number": "27825469",
+    "update_time": "2025-03-07 08:26:00",
     "depot": {
         "workshopdepot": "367540",
         "228986": {
@@ -85,6 +85,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "31e6e7def1cdb4e15704e5bc62a0d88f6176f7183ea0ee46dff858546d3a1909"
+        "workshopdepotdecryptionkey": ""
     }
 }
