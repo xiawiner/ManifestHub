@@ -4,8 +4,8 @@
     "name": "SnaPaul",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27165612",
-    "update_time": "2025-01-26 02:03:55",
+    "change_number": "27974110",
+    "update_time": "2025-03-16 00:58:50",
     "depot": {
         "3358821": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2168441786117726348",
-                    "size": "2247221919",
-                    "download": "852084416"
+                    "gid": "2436054825301177121",
+                    "size": "2247735943",
+                    "download": "852180176"
                 }
             },
             "decryptionkey": "ee39dd3b1dda63177bc5b53f1ebadb99bcb7fac35cf0e4c515871fa0dab4ac63"
@@ -24,8 +24,8 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "17131757",
-                "timeupdated": "1737828230"
+                "buildid": "17498092",
+                "timeupdated": "1740480071"
             }
         }
     }
