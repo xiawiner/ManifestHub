@@ -4,8 +4,8 @@
     "name": "Sailwind",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27500045",
-    "update_time": "2025-02-16 11:49:44",
+    "change_number": "27921482",
+    "update_time": "2025-03-13 06:53:35",
     "depot": {
         "1764531": {
             "manifests": {
@@ -15,9 +15,9 @@
                     "download": "581231984"
                 },
                 "beta": {
-                    "gid": "2990483143635346426",
-                    "size": "3715925867",
-                    "download": "632675008"
+                    "gid": "3371873711750830634",
+                    "size": "3781723419",
+                    "download": "652590512"
                 }
             },
             "decryptionkey": "907ea10d78e84b92043fd808e954ab7d4fa8de5d3eeab0227d2488d7b899cb30"
@@ -28,9 +28,9 @@
                 "timeupdated": "1733237463"
             },
             "beta": {
-                "buildid": "17426870",
+                "buildid": "17700209",
                 "description": "beta testing",
-                "timeupdated": "1739990022"
+                "timeupdated": "1741820010"
             }
         }
     }
