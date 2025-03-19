@@ -4,24 +4,24 @@
     "name": "山水画乡/Shanshui Haven",
     "schinese_name": "山水画乡",
     "isfreeapp": "0",
-    "change_number": "27389176",
-    "update_time": "2025-02-10 01:27:22",
+    "change_number": "27982324",
+    "update_time": "2025-03-17 00:41:38",
     "depot": {
         "baselanguages": "english,schinese",
         "2653485": {
             "manifests": {
                 "public": {
-                    "gid": "3734955466094246896",
-                    "size": "1425617953",
-                    "download": "603238464"
+                    "gid": "8851349116172512531",
+                    "size": "1448123921",
+                    "download": "606193840"
                 }
             },
             "decryptionkey": "c43780174dc01b9f4c262e336f80a2e50e9d7b0aca1493076844b39e9758a61f"
         },
         "branches": {
             "public": {
-                "buildid": "17455699",
-                "timeupdated": "1740144957"
+                "buildid": "17743715",
+                "timeupdated": "1742143290"
             }
         }
     }
