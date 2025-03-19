@@ -4,8 +4,8 @@
     "name": "Disaster Band",
     "schinese_name": "灾难乐队",
     "isfreeapp": "0",
-    "change_number": "26532885",
-    "update_time": "2024-12-07 05:17:18",
+    "change_number": "27907663",
+    "update_time": "2025-03-12 17:25:06",
     "depot": {
         "2216361": {
             "manifests": {
@@ -25,6 +25,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "35e29823aae07b356fce9d48e6ee9d19d6f66a81a64c8e2960275175bc6bdd7d"
+        "workshopdepotdecryptionkey": ""
     }
 }
