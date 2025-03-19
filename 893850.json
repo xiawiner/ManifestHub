@@ -4,8 +4,8 @@
     "name": ":THE LONGING:",
     "schinese_name": "漫长等待",
     "isfreeapp": "0",
-    "change_number": "27401830",
-    "update_time": "2025-02-10 22:17:12",
+    "change_number": "27903161",
+    "update_time": "2025-03-12 11:02:15",
     "depot": {
         "baselanguages": "",
         "893851": {
@@ -59,6 +59,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "f8df8dcc03b9f67bdad7d953f2b795662ce9bcb475b10fb2a3dfbc22e2251505"
+        "workshopdepotdecryptionkey": ""
     }
 }
