@@ -4,8 +4,8 @@
     "name": "Trendpoker 3D: Texas Hold'em Poker",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27319239",
-    "update_time": "2025-02-05 12:10:27",
+    "change_number": "27980969",
+    "update_time": "2025-03-16 21:21:27",
     "depot": {
         "baselanguages": "english,german",
         "228983": {
@@ -21,17 +21,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4961798281970384352",
-                    "size": "260040949",
-                    "download": "161355504"
+                    "gid": "6181272761580056100",
+                    "size": "260129525",
+                    "download": "161390080"
                 }
             },
             "decryptionkey": "eead6d669c1ed3ca7fba5ef3e9a6335174f237b716f9f5942927e0351e36ff72"
         },
         "branches": {
             "public": {
-                "buildid": "16727472",
-                "timeupdated": "1734040824"
+                "buildid": "17742927",
+                "timeupdated": "1742131283"
             }
         }
     }
