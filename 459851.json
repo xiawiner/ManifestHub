@@ -4,8 +4,8 @@
     "name": "Gremlins, Inc. – Original Soundtrack",
     "schinese_name": "Gremlins, Inc. – 原声大碟",
     "isfreeapp": "0",
-    "change_number": "22534048",
-    "update_time": "2024-07-16 02:44:04",
+    "change_number": "27890628",
+    "update_time": "2025-03-11 20:36:39",
     "depot": {
         "459851": {
             "config": {
@@ -13,26 +13,26 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6292786727185491993",
-                    "size": "1281994459",
-                    "download": "1291713232"
+                    "gid": "7087120428909630936",
+                    "size": "1305177096",
+                    "download": "1315099376"
                 },
                 "beta": {
-                    "gid": "6292786727185491993",
-                    "size": "1281994459",
-                    "download": "1291713232"
+                    "gid": "7087120428909630936",
+                    "size": "1305177096",
+                    "download": "1315099376"
                 }
             },
             "decryptionkey": "167318272d304a453c970d07ee0fb24a5251683699f6191ed2fe34192265c6f4"
         },
         "branches": {
             "public": {
-                "buildid": "8464565",
-                "timeupdated": "1648631695"
+                "buildid": "17677001",
+                "timeupdated": "1741696595"
             },
             "beta": {
-                "buildid": "8464565",
-                "timeupdated": "1648631380"
+                "buildid": "17677001",
+                "timeupdated": "1741696207"
             }
         }
     }
