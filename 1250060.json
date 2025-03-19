@@ -4,8 +4,8 @@
     "name": "法利恩戰記 Furion Chronicles",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27051992",
-    "update_time": "2025-01-18 09:54:54",
+    "change_number": "27797083",
+    "update_time": "2025-03-05 23:07:50",
     "depot": {
         "baselanguages": "english,tchinese,japanese",
         "1250061": {
@@ -15,17 +15,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1026768996994416000",
-                    "size": "972899672",
-                    "download": "934000608"
+                    "gid": "3649059170931608248",
+                    "size": "974011720",
+                    "download": "934861504"
                 }
             },
             "decryptionkey": "6ce2a612110584f42d723e2299b2b21cddae649ae1d75966851d894dace548cd"
         },
         "branches": {
             "public": {
-                "buildid": "8062624",
-                "timeupdated": "1642780509"
+                "buildid": "17585692",
+                "timeupdated": "1741076844"
             }
         }
     }
