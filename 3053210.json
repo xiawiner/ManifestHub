@@ -4,24 +4,24 @@
     "name": "Sticker Delight",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27387456",
-    "update_time": "2025-02-09 21:22:19",
+    "change_number": "27741769",
+    "update_time": "2025-03-02 20:55:14",
     "depot": {
         "baselanguages": "english",
         "3053211": {
             "manifests": {
                 "public": {
-                    "gid": "1970416248603474247",
-                    "size": "140436384",
-                    "download": "43933456"
+                    "gid": "3686351341640400197",
+                    "size": "145764638",
+                    "download": "44073008"
                 }
             },
             "decryptionkey": "1e53847b3e5c14d1b3de754695ce26db36c0cc55248578d4915904c05ab077d9"
         },
         "branches": {
             "public": {
-                "buildid": "16380070",
-                "timeupdated": "1731575691"
+                "buildid": "17442351",
+                "timeupdated": "1740568926"
             }
         },
         "privatebranches": "1"
