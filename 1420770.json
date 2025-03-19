@@ -4,8 +4,8 @@
     "name": "Winter Resort Simulator 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27524587",
-    "update_time": "2025-02-18 07:13:24",
+    "change_number": "27758351",
+    "update_time": "2025-03-04 01:17:00",
     "depot": {
         "workshopdepot": "1420770",
         "1420771": {
@@ -83,6 +83,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "49dd66b81a7807e691a64e9d8adfb13c1f80b5afcfc803a8d06a538ce78246bd"
+        "workshopdepotdecryptionkey": ""
     }
 }
