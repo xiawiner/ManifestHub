@@ -4,8 +4,8 @@
     "name": "VARYZNEX",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27399199",
-    "update_time": "2025-02-10 19:22:32",
+    "change_number": "28226654",
+    "update_time": "2025-03-31 19:04:55",
     "depot": {
         "2976801": {
             "config": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3719191711316632301",
-                    "size": "272938054",
-                    "download": "75814912"
+                    "gid": "3527842734454282009",
+                    "size": "275965662",
+                    "download": "78684896"
                 }
             },
             "decryptionkey": "d8d1080a3d767672633408d342c5ca048ad1ec0ad151dfa74489fe89408e350d"
         },
         "branches": {
             "public": {
-                "buildid": "17305920",
-                "timeupdated": "1739186548"
+                "buildid": "17904098",
+                "timeupdated": "1743196850"
             }
         }
     }
