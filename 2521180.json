@@ -4,8 +4,8 @@
     "name": "迷走:二律背反",
     "schinese_name": "迷走:二律背反",
     "isfreeapp": "0",
-    "change_number": "27339648",
-    "update_time": "2025-02-06 14:26:38",
+    "change_number": "28084419",
+    "update_time": "2025-03-22 13:19:52",
     "depot": {
         "2521181": {
             "manifests": {
@@ -25,6 +25,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "4388759709166f9a750dfb84f21b7f859d6eefeef833e1b9dc526fb44bdb1b04"
+        "workshopdepotdecryptionkey": ""
     }
 }
