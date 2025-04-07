@@ -4,10 +4,14 @@
     "name": "Camp Buddy: Scoutmaster Season",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27993279",
-    "update_time": "2025-03-17 20:37:01",
+    "change_number": "28314991",
+    "update_time": "2025-04-05 02:44:43",
     "depot": {
+        "hasdepotsindlc": "1",
         "1968431": {
+            "config": {
+                "oslist": "windows"
+            },
             "manifests": {
                 "public": {
                     "gid": "1869932875393203053",
@@ -42,6 +46,10 @@
                 }
             },
             "decryptionkey": ""
+        },
+        "3601730": {
+            "dlcappid": "3601730",
+            "manifests": {}
         },
         "branches": {
             "public": {
