@@ -4,8 +4,8 @@
     "name": "Virtual Desktop",
     "schinese_name": "VR桌面",
     "isfreeapp": "0",
-    "change_number": "27351969",
-    "update_time": "2025-02-07 03:58:24",
+    "change_number": "28253166",
+    "update_time": "2025-04-02 01:14:43",
     "depot": {
         "228983": {
             "config": {
@@ -49,9 +49,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7098761685895650717",
-                    "size": "744659325",
-                    "download": "537624752"
+                    "gid": "2675076553845168572",
+                    "size": "750237071",
+                    "download": "543140240"
                 },
                 "oldversion": {
                     "gid": "73075683989439411",
@@ -59,9 +59,9 @@
                     "download": "292564176"
                 },
                 "beta": {
-                    "gid": "7098761685895650717",
-                    "size": "744659325",
-                    "download": "537624752"
+                    "gid": "2675076553845168572",
+                    "size": "750237071",
+                    "download": "543140240"
                 }
             },
             "decryptionkey": "1632201f7c9e9870e37676db64ba31aacf8d92098420074795c08cb2b77ce385"
@@ -69,8 +69,8 @@
         "workshopdepot": "382110",
         "branches": {
             "public": {
-                "buildid": "17240278",
-                "timeupdated": "1738871900"
+                "buildid": "17928305",
+                "timeupdated": "1743527678"
             },
             "oldversion": {
                 "buildid": "2335322",
@@ -78,12 +78,12 @@
                 "timeupdated": "1517119660"
             },
             "beta": {
-                "buildid": "17240278",
+                "buildid": "17928305",
                 "description": "Public testing branch",
-                "timeupdated": "1738871881"
+                "timeupdated": "1743527657"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "692e6a0d05f68eebc564ad6cddfdc37cfbee2893530a3548485810ee307c22af"
+        "workshopdepotdecryptionkey": ""
     }
 }
