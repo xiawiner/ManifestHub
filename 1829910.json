@@ -4,8 +4,8 @@
     "name": "Cute Cats 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "24981165",
-    "update_time": "2024-09-17 19:16:44",
+    "change_number": "28273393",
+    "update_time": "2025-04-03 01:33:42",
     "depot": {
         "hasdepotsindlc": "1",
         "1829911": {
@@ -27,7 +27,7 @@
                     "download": "149678176"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "11e43e215260f3a318ca3c3c4377872ecc446738a8369da621ee409884d0cc01"
         },
         "branches": {
             "public": {
