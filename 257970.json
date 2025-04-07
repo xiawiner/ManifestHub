@@ -4,8 +4,8 @@
     "name": "Loren The Amazon Princess",
     "schinese_name": "亚马逊公主罗兰",
     "isfreeapp": "0",
-    "change_number": "26452731",
-    "update_time": "2024-12-05 09:47:32",
+    "change_number": "28212034",
+    "update_time": "2025-03-30 12:14:33",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -45,7 +45,7 @@
                 }
             },
             "dlcappid": "275240",
-            "decryptionkey": ""
+            "decryptionkey": "554ce993f9b4fcba9a29742443c7c2b06ed8f85b3ced3925a555156f4593d334"
         },
         "270700": {
             "config": {
@@ -64,7 +64,7 @@
                 }
             },
             "dlcappid": "270700",
-            "decryptionkey": ""
+            "decryptionkey": "60e8a7b16cc1e11d2e4d5010eb2d59852285e76ef00be593d2e8bec42c03309a"
         },
         "branches": {
             "public": {
