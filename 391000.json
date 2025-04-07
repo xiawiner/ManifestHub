@@ -4,8 +4,8 @@
     "name": "Farm Frenzy Collection",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27032820",
-    "update_time": "2025-01-17 06:33:55",
+    "change_number": "28346151",
+    "update_time": "2025-04-07 21:10:24",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,russian,japanese",
         "391001": {
@@ -90,7 +90,7 @@
                     "download": "1268355296"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "872474c27f05e98226e86c58ce718e55344d4c4eeeb399a88f18e5c3558ace5a"
         },
         "391007": {
             "config": {
