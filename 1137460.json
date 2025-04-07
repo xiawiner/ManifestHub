@@ -4,8 +4,8 @@
     "name": "ALTF4",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27394421",
-    "update_time": "2025-02-10 13:18:01",
+    "change_number": "28027298",
+    "update_time": "2025-03-19 14:44:09",
     "depot": {
         "228988": {
             "config": {
@@ -29,17 +29,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6968531247395207576",
-                    "size": "3308384102",
-                    "download": "3094230272"
+                    "gid": "8182725888909323449",
+                    "size": "3308375910",
+                    "download": "3094346128"
                 }
             },
             "decryptionkey": "595a0beb6eeb614cb9d3f2714adb31c9d0f5d045d5f362d6492e40c22ec0e61d"
         },
         "branches": {
             "public": {
-                "buildid": "17279003",
-                "timeupdated": "1738926256"
+                "buildid": "17776304",
+                "timeupdated": "1742366643"
             }
         }
     }
