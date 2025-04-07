@@ -4,8 +4,8 @@
     "name": "112 Operator",
     "schinese_name": "112接线员",
     "isfreeapp": "0",
-    "change_number": "27226880",
-    "update_time": "2025-01-30 08:12:23",
+    "change_number": "28330789",
+    "update_time": "2025-04-06 17:10:41",
     "depot": {
         "793461": {
             "config": {
@@ -58,6 +58,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "502854089d81c8c121c1277de8da3d540638ba2786fdd7f539b01e293cde8609"
+        "workshopdepotdecryptionkey": ""
     }
 }
