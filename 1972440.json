@@ -4,8 +4,8 @@
     "name": "Shotgun King: The Final Checkmate",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27769910",
-    "update_time": "2025-03-04 16:30:30",
+    "change_number": "28088006",
+    "update_time": "2025-03-22 22:55:25",
     "depot": {
         "workshopdepot": "1972440",
         "1972441": {
@@ -24,9 +24,9 @@
                     "download": "66188192"
                 },
                 "public-beta": {
-                    "gid": "3007503374753021080",
-                    "size": "111937415",
-                    "download": "103614080"
+                    "gid": "233546808186165123",
+                    "size": "112117926",
+                    "download": "103719680"
                 },
                 "v1.245c": {
                     "gid": "2533666272265567767",
@@ -47,9 +47,9 @@
                     "download": "102515920"
                 },
                 "public-beta": {
-                    "gid": "9164166198265211659",
-                    "size": "110126264",
-                    "download": "102515920"
+                    "gid": "3565945274491876012",
+                    "size": "110486071",
+                    "download": "102644912"
                 },
                 "v1.245c": {
                     "gid": "679777779221245838",
@@ -70,9 +70,9 @@
                     "download": "102900864"
                 },
                 "public-beta": {
-                    "gid": "4277845374073078512",
-                    "size": "113600173",
-                    "download": "102900864"
+                    "gid": "724270793351246064",
+                    "size": "113623796",
+                    "download": "102937344"
                 },
                 "v1.245c": {
                     "gid": "6811465580899842243",
@@ -93,9 +93,9 @@
                 "timeupdated": "1705939696"
             },
             "public-beta": {
-                "buildid": "17548715",
+                "buildid": "17820957",
                 "description": "v1.515f - join our discord to give feedback!",
-                "timeupdated": "1740755031"
+                "timeupdated": "1742655320"
             },
             "v1.245c": {
                 "buildid": "16191535",
@@ -103,6 +103,6 @@
                 "timeupdated": "1729948875"
             }
         },
-        "workshopdepotdecryptionkey": "fe6a37eaf4c02699a80d062726024bc52123acf2dda3bde4e64a634f21553b92"
+        "workshopdepotdecryptionkey": ""
     }
 }
