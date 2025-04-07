@@ -4,8 +4,8 @@
     "name": "NEO AQUARIUM - The King of Crustaceans -",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25269390",
-    "update_time": "2024-09-18 07:16:17",
+    "change_number": "28139374",
+    "update_time": "2025-03-26 07:09:00",
     "depot": {
         "228990": {
             "config": {
@@ -46,7 +46,7 @@
                     "download": "104943264"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "8dbe98779d4fa903846d7ec8e76753f246840cb95fb0dec165f2a472ba87893a"
         },
         "branches": {
             "public": {
