@@ -4,8 +4,8 @@
     "name": "Timber Tennis: Versus",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27507238",
-    "update_time": "2025-02-17 07:12:59",
+    "change_number": "28316921",
+    "update_time": "2025-04-05 05:17:28",
     "depot": {
         "321161": {
             "config": {
@@ -31,7 +31,7 @@
                     "download": "62561904"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "fb72332574e7d4b05da50fd02f0f6fd9a7597a09a86377996f0147ef5342b601"
         },
         "branches": {
             "public": {
