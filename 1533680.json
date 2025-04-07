@@ -4,8 +4,8 @@
     "name": "Dead Grid",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27382544",
-    "update_time": "2025-02-09 06:28:59",
+    "change_number": "28250141",
+    "update_time": "2025-04-01 22:22:32",
     "depot": {
         "1533682": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "240448538098188692",
-                    "size": "6851162789",
-                    "download": "2705559536"
+                    "gid": "3821650566562787987",
+                    "size": "7041737596",
+                    "download": "2808236336"
                 },
                 "cu05": {
                     "gid": "6342152732932091884",
@@ -27,8 +27,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17107386",
-                "timeupdated": "1737650619"
+                "buildid": "17939800",
+                "timeupdated": "1743517347"
             },
             "cu05": {
                 "buildid": "12860601",
