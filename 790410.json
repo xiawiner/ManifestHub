@@ -4,8 +4,8 @@
     "name": "Futanari Quest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27070527",
-    "update_time": "2025-01-20 13:55:17",
+    "change_number": "28124126",
+    "update_time": "2025-03-25 15:17:52",
     "depot": {
         "790412": {
             "config": {
@@ -32,7 +32,7 @@
                 }
             },
             "dlcappid": "847840",
-            "decryptionkey": ""
+            "decryptionkey": "9e8464a6b2d112dcae75a1211ce177340b85c34966a782d05718b36028270d97"
         },
         "branches": {
             "public": {
