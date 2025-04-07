@@ -4,8 +4,8 @@
     "name": "The Night of the Rabbit",
     "schinese_name": "兔子之夜",
     "isfreeapp": "0",
-    "change_number": "27881254",
-    "update_time": "2025-03-11 08:00:56",
+    "change_number": "28233377",
+    "update_time": "2025-04-01 01:49:27",
     "depot": {
         "228984": {
             "config": {
@@ -121,7 +121,7 @@
                 }
             },
             "dlcappid": "230830",
-            "decryptionkey": ""
+            "decryptionkey": "34d14c7e0804921a687104c1e384fa29c550ecc1bd47e9367cc8e1bc1d6b491b"
         },
         "230823": {
             "config": {
