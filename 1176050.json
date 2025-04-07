@@ -4,8 +4,8 @@
     "name": "秘封旅行 ~Secret Sealing Travel",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27229414",
-    "update_time": "2025-01-30 12:36:59",
+    "change_number": "28242852",
+    "update_time": "2025-04-01 15:03:30",
     "depot": {
         "1176051": {
             "config": {
@@ -14,8 +14,8 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8199953027824751850",
-                    "size": "90642467",
+                    "gid": "6952579002994813621",
+                    "size": "90642431",
                     "download": "67626160"
                 }
             },
@@ -23,8 +23,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17179980",
-                "timeupdated": "1738211815"
+                "buildid": "17935359",
+                "timeupdated": "1743491006"
             }
         },
         "privatebranches": "1"
