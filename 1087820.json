@@ -4,8 +4,8 @@
     "name": "Bad Mojos",
     "schinese_name": "",
     "isfreeapp": "1",
-    "change_number": "26440651",
-    "update_time": "2024-12-05 09:02:50",
+    "change_number": "28252739",
+    "update_time": "2025-04-02 00:50:31",
     "depot": {
         "baselanguages": "english",
         "228987": {
@@ -19,8 +19,7 @@
                     "download": "22936736"
                 }
             },
-            "depotfromapp": "228980",
-            "decryptionkey": "cf0622b6dec67606fdc42e7afa5ede78cb33e38dfab82670c5ec7e1404e4984e"
+            "depotfromapp": "228980"
         },
         "228990": {
             "config": {
@@ -33,8 +32,7 @@
                     "download": "100658080"
                 }
             },
-            "depotfromapp": "228980",
-            "decryptionkey": "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8"
+            "depotfromapp": "228980"
         },
         "229006": {
             "config": {
@@ -47,8 +45,7 @@
                     "download": "84953712"
                 }
             },
-            "depotfromapp": "228980",
-            "decryptionkey": "9bc3e05ce55153e5c315cb18024602ca15958a7be03adc5ffbe53b00a8524416"
+            "depotfromapp": "228980"
         },
         "229020": {
             "config": {
@@ -61,8 +58,7 @@
                     "download": "591984"
                 }
             },
-            "depotfromapp": "228980",
-            "decryptionkey": "efca2304d92ac2bb7ebca174e6e5015fb0daf45d7db8ecfc1db6eaccdc7b27d9"
+            "depotfromapp": "228980"
         },
         "229030": {
             "config": {
@@ -75,8 +71,7 @@
                     "download": "50071472"
                 }
             },
-            "depotfromapp": "228980",
-            "decryptionkey": "92f0f88867c8d5f351090eb2d27aeb50e2b621ae8a34708265d2c20c36fbcf5e"
+            "depotfromapp": "228980"
         },
         "1087821": {
             "config": {
@@ -89,8 +84,7 @@
                     "size": "432756586",
                     "download": "120263104"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
