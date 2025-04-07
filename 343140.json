@@ -4,8 +4,8 @@
     "name": "Cars Radiator Springs Adventures",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27975101",
-    "update_time": "2025-03-16 03:20:38",
+    "change_number": "28325370",
+    "update_time": "2025-04-06 01:17:46",
     "depot": {
         "228990": {
             "config": {
@@ -79,7 +79,7 @@
                     "download": "259739312"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "edad3c89a97f017eeb5f23a562ff144eaec1ea013cc2187bb0cb216f32e7748b"
         },
         "343146": {
             "config": {
@@ -107,7 +107,7 @@
                     "download": "251178992"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "de3427de94e8b66a9de63f2f38a74bb9e0cc1ab10d3eb9bc87df1c5b82648c15"
         },
         "branches": {
             "public": {
