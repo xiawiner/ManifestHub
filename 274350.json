@@ -4,8 +4,8 @@
     "name": "Dropsy",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27886542",
-    "update_time": "2025-03-11 16:22:12",
+    "change_number": "28152042",
+    "update_time": "2025-03-26 23:15:09",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian",
@@ -58,7 +58,7 @@
                     "download": "233945024"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "ba9868512d73bd2e33f2842892231a0b4f503b095cdb108394801e7a8cb0143e"
         },
         "branches": {
             "public": {
