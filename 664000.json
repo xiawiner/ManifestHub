@@ -4,8 +4,8 @@
     "name": "HammerHelm",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26644542",
-    "update_time": "2024-12-15 02:02:51",
+    "change_number": "28098617",
+    "update_time": "2025-03-24 03:27:48",
     "depot": {
         "baselanguages": "",
         "664001": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3670472245246920134",
-                    "size": "3455233267",
-                    "download": "1592005152"
+                    "gid": "917871561451584393",
+                    "size": "3455234291",
+                    "download": "1592001552"
                 }
             },
             "decryptionkey": "ab8806ea280df00910bf4c38e7f9db16fd4a021b8f53eb17ca1e7663cbfec98a"
@@ -36,8 +36,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16746880",
-                "timeupdated": "1734199365"
+                "buildid": "17828181",
+                "timeupdated": "1742758061"
             }
         },
         "privatebranches": "1"
