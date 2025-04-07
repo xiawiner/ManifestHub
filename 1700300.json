@@ -4,8 +4,8 @@
     "name": "World Warfare & Economics",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27983680",
-    "update_time": "2025-03-17 03:55:23",
+    "change_number": "28277937",
+    "update_time": "2025-04-03 06:40:04",
     "depot": {
         "baselanguages": "english,german,french,russian",
         "hasdepotsindlc": "1",
@@ -36,14 +36,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2301809227532305802",
-                    "size": "8025640667",
-                    "download": "2358381136"
+                    "gid": "8870827714467743127",
+                    "size": "7957187390",
+                    "download": "2365718784"
                 },
                 "public-beta": {
-                    "gid": "3677606649549562052",
-                    "size": "7961331128",
-                    "download": "2365791872"
+                    "gid": "8870827714467743127",
+                    "size": "7957187390",
+                    "download": "2365718784"
                 }
             },
             "decryptionkey": "9e302ff310351f40c8227c049200a023fa2b77f4a176710df7fe8293fa3857a3"
@@ -54,27 +54,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4284668172957699159",
-                    "size": "7914106342",
-                    "download": "2344533952"
+                    "gid": "3773477331691517900",
+                    "size": "7928800803",
+                    "download": "2356275264"
                 },
                 "public-beta": {
-                    "gid": "4169835199115421859",
-                    "size": "7930486093",
-                    "download": "2355006688"
+                    "gid": "3773477331691517900",
+                    "size": "7928800803",
+                    "download": "2356275264"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17566500",
-                "timeupdated": "1740939773"
+                "buildid": "17961568",
+                "timeupdated": "1743633583"
             },
             "public-beta": {
-                "buildid": "17740412",
+                "buildid": "17961568",
                 "description": "Public Beta",
-                "timeupdated": "1742091421"
+                "timeupdated": "1743633592"
             }
         },
         "privatebranches": "1"
