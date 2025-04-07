@@ -4,8 +4,8 @@
     "name": "fpsVR",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27756332",
-    "update_time": "2025-03-03 23:26:29",
+    "change_number": "28224869",
+    "update_time": "2025-03-31 16:58:22",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "908521": {
             "manifests": {
                 "public": {
-                    "gid": "584935970502853044",
-                    "size": "7017434",
-                    "download": "2251696"
+                    "gid": "4183155497354440186",
+                    "size": "7569984",
+                    "download": "2553808"
                 },
                 "very_old": {
                     "gid": "6420304624275571592",
@@ -34,9 +34,9 @@
                     "download": "2213200"
                 },
                 "beta": {
-                    "gid": "7597082799851275964",
-                    "size": "7567424",
-                    "download": "2553184"
+                    "gid": "4183155497354440186",
+                    "size": "7569984",
+                    "download": "2553808"
                 },
                 "previous_": {
                     "gid": "6677746182150205773",
@@ -54,8 +54,8 @@
         "baselanguages": "english,russian",
         "branches": {
             "public": {
-                "buildid": "16666608",
-                "timeupdated": "1734014543"
+                "buildid": "17795853",
+                "timeupdated": "1743411496"
             },
             "very_old": {
                 "buildid": "6121895",
@@ -63,8 +63,8 @@
                 "timeupdated": "1698430692"
             },
             "beta": {
-                "buildid": "17566741",
-                "timeupdated": "1741015583"
+                "buildid": "17795853",
+                "timeupdated": "1742546397"
             },
             "previous_": {
                 "buildid": "9490525",
