@@ -4,8 +4,8 @@
     "name": "The Stillness of the Wind",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26539152",
-    "update_time": "2024-12-07 20:10:55",
+    "change_number": "28206087",
+    "update_time": "2025-03-29 21:10:53",
     "depot": {
         "828901": {
             "config": {
@@ -41,7 +41,7 @@
                     "download": "282191392"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "4b612c117185fb413386e52b08093de43108a3f6508e0c6500c3517e9e09069f"
         },
         "828904": {
             "config": {
