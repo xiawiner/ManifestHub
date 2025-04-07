@@ -4,8 +4,8 @@
     "name": "Primordia",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27291268",
-    "update_time": "2025-02-03 23:31:07",
+    "change_number": "28226060",
+    "update_time": "2025-03-31 18:21:19",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,italian",
@@ -45,7 +45,7 @@
                     "download": "1098901264"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "7d3c59eee3a7dd3f977ab23b7a7a911775c16b2ce1f3430f9230f3d3aad2d72d"
         },
         "227003": {
             "config": {
@@ -63,7 +63,7 @@
                     "download": "1101854880"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "d0ed11ebfd9609638411b402a7ffc11b51e6d93b675645666304cbf64b15a9fc"
         },
         "227007": {
             "config": {
