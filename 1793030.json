@@ -4,8 +4,8 @@
     "name": "Romancing SaGa -Minstrel Song- Remastered",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26597875",
-    "update_time": "2024-12-12 02:14:31",
+    "change_number": "28240278",
+    "update_time": "2025-04-01 10:52:26",
     "depot": {
         "baselanguages": "english,japanese",
         "1793031": {
@@ -31,7 +31,7 @@
                     "download": "19562496"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "333a7b833aec4b3c75c74b9069c18963a8c24446082b30c8cd4e6f655222135b"
         },
         "branches": {
             "public": {
