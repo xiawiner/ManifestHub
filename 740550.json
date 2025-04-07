@@ -4,8 +4,8 @@
     "name": "Record of Agarest War Mariage",
     "schinese_name": "阿加雷斯特战记　甜蜜新婚",
     "isfreeapp": "0",
-    "change_number": "26065933",
-    "update_time": "2024-11-06 12:01:52",
+    "change_number": "28222095",
+    "update_time": "2025-03-31 12:51:36",
     "depot": {
         "baselanguages": "english,schinese,tchinese,japanese",
         "228984": {
@@ -74,7 +74,7 @@
                     "download": "2354420608"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "bc6fcddc29500fe0f3dffb7552973d7f84c293a0564b1b7d4c1fcdac9db4d1e3"
         },
         "740552": {
             "config": {
@@ -87,7 +87,7 @@
                     "download": "2319120"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "cc784046db3ebb1c97521ebd5647f01faceda9e8ddc1242e03eabb27c865385c"
         },
         "740553": {
             "config": {
@@ -100,7 +100,7 @@
                     "download": "2324840256"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "b035fda492026eca543354db7deb9518e2064b99b560abbc35593de797b780a4"
         },
         "740554": {
             "config": {
@@ -113,7 +113,7 @@
                     "download": "2318112"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "245bbbf6d244911e6182095d353a72c4d0ce1819b31a9c6248270fbc5fcc0dd0"
         },
         "740555": {
             "config": {
