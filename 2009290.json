@@ -4,8 +4,8 @@
     "name": "叛逆神魂GODSOUL_Demo试玩版",
     "schinese_name": "叛逆神魂GODSOUL_Demo试玩版",
     "isfreeapp": "0",
-    "change_number": "27172394",
-    "update_time": "2025-01-26 22:35:25",
+    "change_number": "28329279",
+    "update_time": "2025-04-06 12:09:47",
     "depot": {
         "228989": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "1727873192",
                     "download": "1629878560"
                 }
-            },
-            "decryptionkey": "751db1713937e9242ee52c324c446d1692f342638e7654fa461a43c1bde1f362"
+            }
         },
         "baselanguages": "english,schinese",
         "branches": {
