@@ -4,8 +4,8 @@
     "name": "Avenger Bird",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26925915",
-    "update_time": "2025-01-09 23:16:00",
+    "change_number": "28215168",
+    "update_time": "2025-03-30 21:54:30",
     "depot": {
         "557031": {
             "config": {
@@ -44,7 +44,7 @@
                     "download": "55097056"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "742a7bb042c84d1917df109f294760e2d04f881edb996dd6238fc9c33796672e"
         },
         "branches": {
             "public": {
