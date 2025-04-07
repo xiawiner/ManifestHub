@@ -4,8 +4,8 @@
     "name": "Darkest Hour: Europe '44-'45 Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27860780",
-    "update_time": "2025-03-10 02:09:52",
+    "change_number": "28095028",
+    "update_time": "2025-03-23 18:42:39",
     "depot": {
         "overridescddb": "1",
         "1281": {
@@ -22,9 +22,9 @@
                     "download": "627444112"
                 },
                 "italy-playtest": {
-                    "gid": "3054325805750765783",
-                    "size": "10991411891",
-                    "download": "3136375408"
+                    "gid": "8342936862534756095",
+                    "size": "10979085637",
+                    "download": "3134928496"
                 }
             },
             "depotfromapp": "1280",
@@ -62,9 +62,9 @@
                 "timeupdated": "1677240195"
             },
             "italy-playtest": {
-                "buildid": "17653924",
+                "buildid": "17825825",
                 "description": "Public branch for Italy playtest",
-                "timeupdated": "1741543787"
+                "timeupdated": "1742726551"
             }
         },
         "privatebranches": "1"
