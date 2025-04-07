@@ -4,8 +4,8 @@
     "name": "Sam & Max Save the World",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26900250",
-    "update_time": "2025-01-08 08:20:38",
+    "change_number": "28335013",
+    "update_time": "2025-04-07 03:16:28",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,russian,polish,hungarian,czech",
         "hasdepotsindlc": "0",
@@ -49,7 +49,7 @@
                     "download": "395687488"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "6e38cc202f8f6159dbebbc587d2211184c7f4e2c875c31cd5dd80820ff3fb817"
         },
         "1488603": {
             "dlcappid": "1488600",
