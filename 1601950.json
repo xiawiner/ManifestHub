@@ -4,8 +4,8 @@
     "name": "Hentai VR",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27446428",
-    "update_time": "2025-02-13 04:16:10",
+    "change_number": "28086285",
+    "update_time": "2025-03-22 18:20:00",
     "depot": {
         "hasdepotsindlc": "1",
         "1601951": {
@@ -29,7 +29,7 @@
                     "download": "75685088"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "a179b32e031c56ec33c0c02692936f2f776b85606feff1cb2e229498a5290b76"
         },
         "branches": {
             "public": {
