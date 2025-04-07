@@ -4,8 +4,8 @@
     "name": "The Backrooms Regret Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "24494828",
-    "update_time": "2024-07-25 00:31:37",
+    "change_number": "28257225",
+    "update_time": "2025-04-02 06:52:28",
     "depot": {
         "228989": {
             "config": {
@@ -28,8 +28,7 @@
                     "size": "5864477174",
                     "download": "2284009856"
                 }
-            },
-            "decryptionkey": "af87399038163685b1bbc5980275a766ca69412a33ae88567afd531706f437a2"
+            }
         },
         "baselanguages": "english,spanish",
         "branches": {
