@@ -4,8 +4,8 @@
     "name": "The Thing: Remastered",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27752176",
-    "update_time": "2025-03-03 18:47:21",
+    "change_number": "28181860",
+    "update_time": "2025-03-28 09:25:16",
     "depot": {
         "228989": {
             "config": {
@@ -17,9 +17,9 @@
         "2958971": {
             "manifests": {
                 "public": {
-                    "gid": "1252541771307104643",
-                    "size": "4788830490",
-                    "download": "2228683984"
+                    "gid": "2968358844784895996",
+                    "size": "4788832165",
+                    "download": "2228681648"
                 },
                 "old_version": {
                     "gid": "2574421567003023286",
@@ -36,9 +36,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2753004773719888794",
-                    "size": "33210777",
-                    "download": "9876192"
+                    "gid": "8552566512058024132",
+                    "size": "33250704",
+                    "download": "9871920"
                 },
                 "old_version": {
                     "gid": "3633883499667521020",
@@ -50,8 +50,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17076443",
-                "timeupdated": "1737570383"
+                "buildid": "17891232",
+                "timeupdated": "1743125112"
             },
             "old_version": {
                 "buildid": "16547990",
