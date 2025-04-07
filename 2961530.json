@@ -4,23 +4,23 @@
     "name": "Fears to Fathom - Woodbury Getaway",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27859196",
-    "update_time": "2025-03-09 22:02:35",
+    "change_number": "28196316",
+    "update_time": "2025-03-29 01:55:16",
     "depot": {
         "2961531": {
             "manifests": {
                 "public": {
-                    "gid": "2577502915854789086",
-                    "size": "9513794671",
-                    "download": "3825916096"
+                    "gid": "3192230322384416859",
+                    "size": "9513860847",
+                    "download": "3825948160"
                 }
             },
             "decryptionkey": "dff8b76588bfbefe7aceedf3312c31c7eab25b590d1a95485d82bad8d4ba225b"
         },
         "branches": {
             "public": {
-                "buildid": "16242739",
-                "timeupdated": "1730319774"
+                "buildid": "17902063",
+                "timeupdated": "1743184512"
             }
         }
     }
