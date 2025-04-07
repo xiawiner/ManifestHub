@@ -4,8 +4,8 @@
     "name": "My Hero After the Fall",
     "schinese_name": "我的英雄：陨落之后",
     "isfreeapp": "0",
-    "change_number": "24833792",
-    "update_time": "2024-08-18 11:58:17",
+    "change_number": "28082530",
+    "update_time": "2025-03-22 09:00:12",
     "depot": {
         "baselanguages": "schinese",
         "2374411": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4696456679168485322",
-                    "size": "115592508",
-                    "download": "58257088"
+                    "gid": "7744111398516723693",
+                    "size": "115603408",
+                    "download": "58262816"
                 }
             },
             "decryptionkey": "abb6f6ab0c0eb7a38d56bb3fe8895169cc5f06a09955c78e284578387628989e"
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "59126372375364131",
-                    "size": "138150037",
-                    "download": "64771408"
+                    "gid": "8763790352438306752",
+                    "size": "138147823",
+                    "download": "64771728"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "15408557",
-                "timeupdated": "1723947007"
+                "buildid": "17816666",
+                "timeupdated": "1742605207"
             }
         }
     }
