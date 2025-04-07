@@ -4,8 +4,8 @@
     "name": "Allegiance Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27412893",
-    "update_time": "2025-02-11 11:10:21",
+    "change_number": "28209852",
+    "update_time": "2025-03-30 05:30:41",
     "depot": {
         "1004": {
             "config": {
@@ -59,9 +59,9 @@
         "730811": {
             "manifests": {
                 "public": {
-                    "gid": "4978770252357921062",
-                    "size": "62121479",
-                    "download": "5034176"
+                    "gid": "4028483008206935491",
+                    "size": "62133094",
+                    "download": "5037568"
                 }
             },
             "decryptionkey": ""
@@ -69,17 +69,17 @@
         "730812": {
             "manifests": {
                 "public": {
-                    "gid": "6918582285595627463",
-                    "size": "94065530",
-                    "download": "14298544"
+                    "gid": "1117582609124441120",
+                    "size": "95835002",
+                    "download": "14319888"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17315767",
-                "timeupdated": "1739243418"
+                "buildid": "17912021",
+                "timeupdated": "1743283838"
             }
         }
     }
