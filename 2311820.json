@@ -4,8 +4,8 @@
     "name": "Special Operations Unit - SIGNAL FORCES",
     "schinese_name": "特警 Signal Force",
     "isfreeapp": "0",
-    "change_number": "27845022",
-    "update_time": "2025-03-08 07:08:28",
+    "change_number": "28078099",
+    "update_time": "2025-03-22 02:18:32",
     "depot": {
         "baselanguages": "english,koreana,schinese,tchinese,japanese",
         "hasdepotsindlc": "1",
@@ -82,7 +82,7 @@
                     "download": "314904688"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "13c022316662a70ea07840af6b900ae7c9fd373ce858c7f312f719d4f7ddbc55"
         },
         "branches": {
             "public": {
