@@ -4,15 +4,15 @@
     "name": "Halo MCC Mod Uploader",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25200748",
-    "update_time": "2024-09-13 07:12:03",
+    "change_number": "28122759",
+    "update_time": "2025-03-25 13:19:36",
     "depot": {
         "1701280": {
             "manifests": {
                 "public": {
-                    "gid": "6367935247596888591",
-                    "size": "187816004",
-                    "download": "103125120"
+                    "gid": "7886600136037106104",
+                    "size": "187820430",
+                    "download": "103130624"
                 }
             },
             "decryptionkey": "040c3961ac4597d1e827004cdff9e754856d787cc64f72b801deb1b3987816d3"
@@ -20,8 +20,8 @@
         "workshopdepot": "1695795",
         "branches": {
             "public": {
-                "buildid": "13469874",
-                "timeupdated": "1708038080"
+                "buildid": "17554222",
+                "timeupdated": "1740792119"
             }
         },
         "privatebranches": "1",
