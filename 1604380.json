@@ -4,8 +4,8 @@
     "name": "常轨脱离Creative",
     "schinese_name": "常轨脱离Creative",
     "isfreeapp": "0",
-    "change_number": "27985448",
-    "update_time": "2025-03-17 08:20:43",
+    "change_number": "28181428",
+    "update_time": "2025-03-28 08:44:50",
     "depot": {
         "baselanguages": "schinese",
         "1604381": {
@@ -22,19 +22,18 @@
             "dlcappid": "3407830",
             "manifests": {
                 "public": {
-                    "gid": "5989194433553797515",
-                    "size": "3007923964",
-                    "download": "2829443696"
+                    "gid": "6943974855929066600",
+                    "size": "3106313564",
+                    "download": "2970733600"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "d6dcb3fdc71052751a7b72b7ad2d198d33ce84b7c85d10991b208cf70de122d0"
         },
         "branches": {
             "public": {
-                "buildid": "16980778",
-                "timeupdated": "1736703597"
+                "buildid": "17886446",
+                "timeupdated": "1743095382"
             }
-        },
-        "privatebranches": "1"
+        }
     }
 }
