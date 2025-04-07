@@ -4,8 +4,8 @@
     "name": "Realistic Tower Destruction",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27220014",
-    "update_time": "2025-01-29 23:35:03",
+    "change_number": "28210461",
+    "update_time": "2025-03-30 07:16:12",
     "depot": {
         "228986": {
             "config": {
@@ -57,6 +57,6 @@
                 "timeupdated": "1582230896"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "7458cda14c0e558620624b3db278eeae688aa80509f2035481941dfca1b1fb19"
     }
 }
