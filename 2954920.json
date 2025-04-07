@@ -4,8 +4,8 @@
     "name": "Zero-Sum Heart",
     "schinese_name": "零和之心",
     "isfreeapp": "0",
-    "change_number": "27842753",
-    "update_time": "2025-03-08 04:09:25",
+    "change_number": "28285049",
+    "update_time": "2025-04-03 17:00:07",
     "depot": {
         "hasdepotsindlc": "1",
         "2954921": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9117012785258631592",
-                    "size": "1208582940",
-                    "download": "693986560"
+                    "gid": "19869685332511264",
+                    "size": "1252410158",
+                    "download": "738261216"
                 }
             },
             "decryptionkey": "f928680559b6e588b7ea01b53108b11dbfc81baa4c1bcf0b4ef83c1ed09a2e2c"
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5785910021207467542",
-                    "size": "1232809213",
-                    "download": "702513616"
+                    "gid": "8659096417351984760",
+                    "size": "1276633407",
+                    "download": "746763248"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16983518",
-                "timeupdated": "1736759662"
+                "buildid": "17966856",
+                "timeupdated": "1743670804"
             }
         },
         "privatebranches": "1"
