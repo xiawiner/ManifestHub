@@ -4,8 +4,8 @@
     "name": "7,62 High Calibre",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26109420",
-    "update_time": "2024-11-08 22:44:05",
+    "change_number": "28132103",
+    "update_time": "2025-03-25 23:12:12",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "russian",
@@ -71,7 +71,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "fa497cd424ac79d05b5bf801e66fd071f4a99551862142ecf7ffe52521e2a08a"
         },
         "289894": {
             "config": {
@@ -85,7 +85,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "d1a40ef2098c9121f25bcebae9bb039531ce7d7d860a3cc1dc4faf7cad28ba57"
         },
         "branches": {
             "public": {
