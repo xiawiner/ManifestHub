@@ -4,8 +4,8 @@
     "name": "COROCONNECT",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27530315",
-    "update_time": "2025-02-18 16:33:03",
+    "change_number": "28300022",
+    "update_time": "2025-04-04 09:15:55",
     "depot": {
         "baselanguages": "english,japanese",
         "1729641": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4593562202843604919",
-                    "size": "135049230",
-                    "download": "71865456"
+                    "gid": "4116298359827740401",
+                    "size": "135353706",
+                    "download": "72149776"
                 }
             },
             "decryptionkey": "fbc8cdeeb499cc366acb297c2b411b871863dc8278cce63bfda0b6c8a53c4c1b"
         },
         "branches": {
             "public": {
-                "buildid": "16865816",
-                "timeupdated": "1735391419"
+                "buildid": "17720774",
+                "timeupdated": "1741935712"
             }
         },
         "privatebranches": "1"
