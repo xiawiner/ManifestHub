@@ -4,8 +4,8 @@
     "name": "Awaken - Astral Blade Demo",
     "schinese_name": "觉醒异刃 Demo",
     "isfreeapp": "0",
-    "change_number": "27532632",
-    "update_time": "2025-02-18 18:59:46",
+    "change_number": "28026108",
+    "update_time": "2025-03-19 12:20:08",
     "depot": {
         "228989": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "4771340178",
                     "download": "4175218720"
                 }
-            },
-            "decryptionkey": "c8ca05a8a7b89cdf80a2a50d2988eb1c7c4ef15c2d5ac69707ab00ec683b0d8d"
+            }
         },
         "1726002": {
             "config": {
@@ -46,8 +45,7 @@
                     "size": "4771340178",
                     "download": "4173503216"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
