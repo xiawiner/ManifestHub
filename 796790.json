@@ -4,24 +4,24 @@
     "name": "GLAD VALAKAS SIMULATOR",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25440229",
-    "update_time": "2024-09-29 14:19:23",
+    "change_number": "28241695",
+    "update_time": "2025-04-01 13:16:29",
     "depot": {
         "hasdepotsindlc": "1",
         "796791": {
             "manifests": {
                 "public": {
-                    "gid": "2922644755773772719",
-                    "size": "123495556",
-                    "download": "123412416"
+                    "gid": "2150864304839908930",
+                    "size": "154762349",
+                    "download": "136866368"
                 }
             },
             "decryptionkey": "707f4a7ed6663b1a63c2e61b00b9e2d114a4dca005ad48138dcdd3c1e52b1bc1"
         },
         "branches": {
             "public": {
-                "buildid": "2826691",
-                "timeupdated": "1527877717"
+                "buildid": "17915171",
+                "timeupdated": "1743483863"
             }
         }
     }
