@@ -4,8 +4,8 @@
     "name": "Hatred",
     "schinese_name": "仇恨",
     "isfreeapp": "0",
-    "change_number": "27502412",
-    "update_time": "2025-02-16 20:14:47",
+    "change_number": "28037620",
+    "update_time": "2025-03-20 01:55:21",
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "341940",
@@ -111,6 +111,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "f2787cfe81aa233bef74cda9beeba8da1c3500c404c3332eff7bffbc5bf2cd50"
+        "workshopdepotdecryptionkey": ""
     }
 }
