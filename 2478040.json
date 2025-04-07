@@ -4,23 +4,23 @@
     "name": "Slugs and Bugs: Conversion",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26217458",
-    "update_time": "2024-11-16 02:27:47",
+    "change_number": "28089951",
+    "update_time": "2025-03-23 03:07:22",
     "depot": {
         "2478041": {
             "manifests": {
                 "public": {
-                    "gid": "3420534642695962621",
-                    "size": "1847910331",
-                    "download": "1664255504"
+                    "gid": "3102371770119618721",
+                    "size": "1903183053",
+                    "download": "1700883824"
                 }
             },
             "decryptionkey": "6bcec586391de3874f7b8c0c330549c2fb4004610241a0b6afff747d31514e5a"
         },
         "branches": {
             "public": {
-                "buildid": "14446861",
-                "timeupdated": "1716326034"
+                "buildid": "17822103",
+                "timeupdated": "1742670437"
             }
         }
     }
