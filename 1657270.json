@@ -4,8 +4,8 @@
     "name": "Mini Royale Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28008705",
-    "update_time": "2025-03-18 15:52:02",
+    "change_number": "28147275",
+    "update_time": "2025-03-26 18:18:36",
     "depot": {
         "228989": {
             "config": {
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6512226225513913437",
-                    "size": "13558191000",
-                    "download": "3021901904"
+                    "gid": "8188972063162911859",
+                    "size": "15975480351",
+                    "download": "3473031760"
                 }
             }
         },
@@ -39,16 +39,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2716976196491320551",
-                    "size": "12891944947",
-                    "download": "2811631376"
+                    "gid": "8556408090482184714",
+                    "size": "15080789247",
+                    "download": "3254965232"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "17762030",
-                "timeupdated": "1742284318"
+                "buildid": "17854483",
+                "timeupdated": "1742919758"
             }
         },
         "privatebranches": "1"
