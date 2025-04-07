@@ -4,8 +4,8 @@
     "name": "Grimm",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27103756",
-    "update_time": "2025-01-22 09:26:32",
+    "change_number": "28274858",
+    "update_time": "2025-04-03 03:12:06",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -204,7 +204,7 @@
                 }
             },
             "dlcappid": "261406",
-            "decryptionkey": ""
+            "decryptionkey": "d9efd70c7c14f1d5cc7cf779a6b3f956b980368683c4c0f444bfd4bfb8ec9b3d"
         },
         "261407": {
             "manifests": {
@@ -215,7 +215,7 @@
                 }
             },
             "dlcappid": "261407",
-            "decryptionkey": ""
+            "decryptionkey": "46be41ccb0e92d6f4f36bb2a12e3ccf34a20700b01f4f9741ff11912c8d6a490"
         },
         "261408": {
             "manifests": {
@@ -226,7 +226,7 @@
                 }
             },
             "dlcappid": "261408",
-            "decryptionkey": ""
+            "decryptionkey": "b50f9e38480af7a672b8fe300ec48cfb2e37941370f9a9e8bcaa3bcc80353496"
         },
         "261409": {
             "manifests": {
@@ -237,7 +237,7 @@
                 }
             },
             "dlcappid": "261409",
-            "decryptionkey": ""
+            "decryptionkey": "2a8fa749596a93bf397a6987ca54d5aa99b86cf566ff515ec58e2408ae17a998"
         },
         "261410": {
             "manifests": {
@@ -248,7 +248,7 @@
                 }
             },
             "dlcappid": "261410",
-            "decryptionkey": ""
+            "decryptionkey": "1a6df196266390f6c64bea7002532d933d3d10c59f9c8a3787a3c09f7a4ce4eb"
         },
         "261411": {
             "manifests": {
@@ -259,7 +259,7 @@
                 }
             },
             "dlcappid": "261411",
-            "decryptionkey": ""
+            "decryptionkey": "0da53dd3f1c0235b2d92bc320bf057fff1634ce857b42ef018ec264a9ce929b3"
         },
         "261412": {
             "manifests": {
@@ -270,7 +270,7 @@
                 }
             },
             "dlcappid": "261412",
-            "decryptionkey": ""
+            "decryptionkey": "271a9e4e7e0bb9acf5dd161dd6654fdad7b55c5e61a5ed29467633fc933ce784"
         },
         "branches": {
             "public": {
