@@ -4,8 +4,8 @@
     "name": "Fort Defense",
     "schinese_name": "海盗防御",
     "isfreeapp": "0",
-    "change_number": "25786023",
-    "update_time": "2024-10-18 21:00:21",
+    "change_number": "28280206",
+    "update_time": "2025-04-03 10:16:10",
     "depot": {
         "baselanguages": "english,german,french,russian",
         "343931": {
@@ -43,7 +43,7 @@
                     "download": "115746160"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "16a1d2adc3648357bf031c770f140695d58085d0130911beb266c63388957e14"
         },
         "363350": {
             "manifests": {
