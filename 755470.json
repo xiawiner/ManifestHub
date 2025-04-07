@@ -4,8 +4,8 @@
     "name": "The World Next Door",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25734536",
-    "update_time": "2024-10-16 03:37:55",
+    "change_number": "28255448",
+    "update_time": "2025-04-02 03:50:41",
     "depot": {
         "228986": {
             "config": {
@@ -50,7 +50,7 @@
                     "download": "482386384"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "421d3f6014674a08786e50b0bf02230f90eb713866f6a74b328bbbd82f1e1af4"
         },
         "1053860": {
             "manifests": {
