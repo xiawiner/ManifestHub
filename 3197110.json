@@ -4,8 +4,8 @@
     "name": "Permafrost Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27906383",
-    "update_time": "2025-03-12 16:06:01",
+    "change_number": "28334130",
+    "update_time": "2025-04-07 01:17:29",
     "depot": {
         "228989": {
             "config": {
@@ -24,16 +24,16 @@
         "3197111": {
             "manifests": {
                 "public": {
-                    "gid": "4540412653216457966",
-                    "size": "16672505636",
-                    "download": "15771081280"
+                    "gid": "8108721939789277349",
+                    "size": "16739227380",
+                    "download": "15839732128"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "16165138",
-                "timeupdated": "1730208201"
+                "buildid": "17855530",
+                "timeupdated": "1743169657"
             }
         },
         "privatebranches": "1"
