@@ -4,8 +4,8 @@
     "name": "Factory Town",
     "schinese_name": "工业小镇",
     "isfreeapp": "0",
-    "change_number": "26862021",
-    "update_time": "2025-01-05 00:07:22",
+    "change_number": "28249092",
+    "update_time": "2025-04-01 21:24:40",
     "depot": {
         "860891": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2028461956548864620",
-                    "size": "359691795",
-                    "download": "184184480"
+                    "gid": "6096378447342621888",
+                    "size": "359765795",
+                    "download": "184221472"
                 },
                 "beta": {
-                    "gid": "2659461137459791091",
-                    "size": "359688931",
-                    "download": "184183296"
+                    "gid": "9017734031404728140",
+                    "size": "359767219",
+                    "download": "184223296"
                 },
                 "experimental": {
                     "gid": "8676332599352318592",
@@ -51,14 +51,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "911119504076202810",
-                    "size": "357511271",
-                    "download": "183183984"
+                    "gid": "7042352031130474518",
+                    "size": "357586463",
+                    "download": "183223120"
                 },
                 "beta": {
-                    "gid": "8055579950654424561",
-                    "size": "357509615",
-                    "download": "183184288"
+                    "gid": "3391139822906926872",
+                    "size": "357585463",
+                    "download": "183223296"
                 },
                 "experimental": {
                     "gid": "2517399262228277756",
@@ -86,13 +86,13 @@
         "workshopdepot": "860890",
         "branches": {
             "public": {
-                "buildid": "16486676",
-                "timeupdated": "1732194849"
+                "buildid": "17853044",
+                "timeupdated": "1742913153"
             },
             "beta": {
-                "buildid": "16480378",
+                "buildid": "17940093",
                 "description": "Public testing branch",
-                "timeupdated": "1732154902"
+                "timeupdated": "1743513876"
             },
             "experimental": {
                 "buildid": "15064813",
@@ -116,6 +116,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "e05c97e74ed05144ad0529a4fd2ce1746b05d093f639e5def70cbad330c64347"
+        "workshopdepotdecryptionkey": ""
     }
 }
