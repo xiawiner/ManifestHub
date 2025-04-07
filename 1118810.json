@@ -4,8 +4,8 @@
     "name": "Midnight Ghost Hunt Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27406504",
-    "update_time": "2025-02-11 02:36:35",
+    "change_number": "28309705",
+    "update_time": "2025-04-04 21:46:14",
     "depot": {
         "1004": {
             "config": {
@@ -76,17 +76,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2944144023633172243",
-                    "size": "1878884680",
-                    "download": "1438841008"
+                    "gid": "9204645054023373384",
+                    "size": "1929125259",
+                    "download": "1480370912"
                 }
             },
             "decryptionkey": "71634d9e66b26d622181be81b6590a57ca1bdee6a116150748a418b7b7e50bf1"
         },
         "branches": {
             "public": {
-                "buildid": "17295450",
-                "timeupdated": "1739212591"
+                "buildid": "17798924",
+                "timeupdated": "1742578449"
             }
         },
         "privatebranches": "1"
