@@ -4,8 +4,8 @@
     "name": "Wet Slits Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26195305",
-    "update_time": "2024-11-14 23:18:54",
+    "change_number": "28257225",
+    "update_time": "2025-04-02 06:46:25",
     "depot": {
         "228989": {
             "config": {
@@ -33,8 +33,7 @@
                     "size": "722064040",
                     "download": "596713648"
                 }
-            },
-            "decryptionkey": "0205e8907d676cafd5ef4305da66ae985c40edf911c4ce180c9d8a5f76290dfa"
+            }
         },
         "branches": {
             "public": {
