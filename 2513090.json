@@ -4,15 +4,15 @@
     "name": "云玩家",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27838768",
-    "update_time": "2025-03-08 00:08:39",
+    "change_number": "28101900",
+    "update_time": "2025-03-24 11:10:58",
     "depot": {
         "2513091": {
             "manifests": {
                 "public": {
-                    "gid": "6667476285272871150",
-                    "size": "245367111",
-                    "download": "40841840"
+                    "gid": "361897896575780418",
+                    "size": "245367647",
+                    "download": "40841616"
                 }
             },
             "decryptionkey": "82318b2bcbf2b140527cf3cb98322f76768d33063c8f11e59e4eb53464eb523e"
@@ -20,11 +20,11 @@
         "workshopdepot": "2513090",
         "branches": {
             "public": {
-                "buildid": "17531083",
-                "timeupdated": "1740660557"
+                "buildid": "17830717",
+                "timeupdated": "1742785854"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "4850c5be1e85fb10b9620b0129fcbf1b0ea6e26d2cf36714ecc93a5038355f14"
     }
 }
