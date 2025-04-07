@@ -4,17 +4,17 @@
     "name": "CHARMING HEART",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26833192",
-    "update_time": "2025-01-02 00:18:53",
+    "change_number": "28027221",
+    "update_time": "2025-03-19 14:37:27",
     "depot": {
         "baselanguages": "english,thai",
         "hasdepotsindlc": "1",
         "1985681": {
             "manifests": {
                 "public": {
-                    "gid": "5146866162891628873",
-                    "size": "1693596516",
-                    "download": "1612733168"
+                    "gid": "5793521093579271665",
+                    "size": "1693582821",
+                    "download": "1612714912"
                 }
             },
             "decryptionkey": "eec4381ef2b77611f5cccdebf9bcfc96350e5746a97012537dea91977167a69e"
@@ -77,8 +77,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "12494963",
-                "timeupdated": "1697820185"
+                "buildid": "17776287",
+                "timeupdated": "1742366242"
             }
         }
     }
