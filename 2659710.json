@@ -4,8 +4,8 @@
     "name": "Carnaval Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27983470",
-    "update_time": "2025-03-17 03:26:29",
+    "change_number": "28143066",
+    "update_time": "2025-03-26 13:05:49",
     "depot": {
         "2659711": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2560631250789703460",
-                    "size": "12274946599",
-                    "download": "10215793808"
+                    "gid": "768747826974437501",
+                    "size": "12276355908",
+                    "download": "10216324560"
                 },
                 "1.0.11": {
                     "gid": "4824134808856621139",
@@ -58,9 +58,9 @@
                     "download": "10203053312"
                 },
                 "open_beta": {
-                    "gid": "2560631250789703460",
-                    "size": "12274946599",
-                    "download": "10215793808"
+                    "gid": "768747826974437501",
+                    "size": "12276355908",
+                    "download": "10216324560"
                 }
             },
             "decryptionkey": "bff9a0e45d94c58c21e39be8f808acf92e96d3583b688817da2ae33fc0a96145"
@@ -70,8 +70,8 @@
         "baselanguages": "english,german,french,italian,spanish,portuguese,dutch",
         "branches": {
             "public": {
-                "buildid": "17739423",
-                "timeupdated": "1742077276"
+                "buildid": "17862016",
+                "timeupdated": "1742965532"
             },
             "1.0.11": {
                 "buildid": "13627459",
@@ -114,9 +114,9 @@
                 "timeupdated": "1741321272"
             },
             "open_beta": {
-                "buildid": "17739423",
+                "buildid": "17862016",
                 "description": "Open beta",
-                "timeupdated": "1742076986"
+                "timeupdated": "1742965543"
             }
         },
         "workshopdepotdecryptionkey": ""
