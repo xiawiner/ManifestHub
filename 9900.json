@@ -4,8 +4,8 @@
     "name": "Star Trek Online",
     "schinese_name": "星际迷航OL",
     "isfreeapp": "1",
-    "change_number": "27504000",
-    "update_time": "2025-02-17 00:12:35",
+    "change_number": "28160032",
+    "update_time": "2025-03-27 08:26:21",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french",
@@ -21,8 +21,7 @@
                     "download": "100658080"
                 }
             },
-            "depotfromapp": "228980",
-            "decryptionkey": "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8"
+            "depotfromapp": "228980"
         },
         "9901": {
             "systemdefined": "1",
@@ -35,8 +34,7 @@
                     "size": "442829325",
                     "download": "101075040"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
