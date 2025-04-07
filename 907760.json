@@ -4,8 +4,8 @@
     "name": "ARIDA: Backland's Awakening",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27783306",
-    "update_time": "2025-03-05 06:15:50",
+    "change_number": "28232946",
+    "update_time": "2025-04-01 01:18:37",
     "depot": {
         "baselanguages": "english,brazilian",
         "907761": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3840455558929011149",
-                    "size": "928061844",
-                    "download": "234192480"
+                    "gid": "7426073496328489412",
+                    "size": "928351374",
+                    "download": "234467072"
                 }
             },
             "decryptionkey": "f066c8fc33cec6a0ecf73a1f7998fb5a9382c6a68ebea8f354ec20f58d804262"
@@ -49,8 +49,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "15065516",
-                "timeupdated": "1721238150"
+                "buildid": "17928043",
+                "timeupdated": "1743441512"
             }
         },
         "privatebranches": "1"
