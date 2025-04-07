@@ -4,8 +4,8 @@
     "name": "Stranded Deep",
     "schinese_name": "深海搁浅",
     "isfreeapp": "0",
-    "change_number": "27103115",
-    "update_time": "2025-01-22 08:51:12",
+    "change_number": "28218445",
+    "update_time": "2025-03-31 05:15:06",
     "depot": {
         "313121": {
             "config": {
@@ -564,6 +564,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "fcf7ff6e658aeb78d794c09662c18dc494093ed71baf1777205b9c813df5a13a"
+        "workshopdepotdecryptionkey": ""
     }
 }
