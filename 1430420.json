@@ -4,8 +4,8 @@
     "name": "CBT With Yuuka Kazami",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26906801",
-    "update_time": "2025-01-08 19:13:34",
+    "change_number": "28222519",
+    "update_time": "2025-03-31 13:47:44",
     "depot": {
         "1430421": {
             "manifests": {
@@ -31,6 +31,7 @@
             "decryptionkey": "cdb2082c32901faa8ef97c89454484a5c7e36d31de36570e93d93d4ff5844350"
         },
         "1518670": {
+            "dlcappid": "1518670",
             "manifests": {
                 "public": {
                     "gid": "2052268572396634526",
@@ -38,13 +39,25 @@
                     "download": "67218080"
                 }
             },
-            "dlcappid": "1518670",
+            "decryptionkey": "10f9aaf322cb54e71968450f17778d21d5c6c4da410ab279e3d81357b78f51cf"
+        },
+        "1430423": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1298187163532304119",
+                    "size": "126390789",
+                    "download": "67203360"
+                }
+            },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "6217746",
-                "timeupdated": "1612949201"
+                "buildid": "17920713",
+                "timeupdated": "1743400058"
             }
         },
         "privatebranches": "1"
