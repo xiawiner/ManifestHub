@@ -4,8 +4,8 @@
     "name": "Fair Strike",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26853433",
-    "update_time": "2025-01-04 00:11:12",
+    "change_number": "28248490",
+    "update_time": "2025-04-01 20:50:45",
     "depot": {
         "352121": {
             "config": {
@@ -61,7 +61,7 @@
                     "download": "769161936"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "0485c5671fc010a0f80d7489963d6cd0496a42d2d86f836c84ccc51f7ca2a775"
         },
         "352125": {
             "config": {
