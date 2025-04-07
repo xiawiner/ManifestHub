@@ -4,8 +4,8 @@
     "name": "Alice in Wonderland",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27915965",
-    "update_time": "2025-03-13 01:08:07",
+    "change_number": "28199105",
+    "update_time": "2025-03-29 05:15:21",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,russian,polish,dutch",
         "228990": {
@@ -36,7 +36,7 @@
                     "download": "3123660825355"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "fdb8fe011e9f40d0af514cfb8224e761cb431240224a7f45699a7a36e388a160"
         },
         "316033": {
             "config": {
