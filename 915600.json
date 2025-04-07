@@ -4,8 +4,8 @@
     "name": "Them and Us",
     "schinese_name": "孤岛诡影 Them and Us",
     "isfreeapp": "0",
-    "change_number": "27229493",
-    "update_time": "2025-01-30 12:45:58",
+    "change_number": "28303773",
+    "update_time": "2025-04-04 15:38:17",
     "depot": {
         "228983": {
             "config": {
@@ -33,9 +33,9 @@
         "915601": {
             "manifests": {
                 "public": {
-                    "gid": "7225591526827636185",
-                    "size": "31628243876",
-                    "download": "16930629824"
+                    "gid": "8406200990361083688",
+                    "size": "31612490482",
+                    "download": "16919625680"
                 }
             },
             "decryptionkey": "6a461c3ef42e82d34af47a390c24e88f5a10d8dc271e5fc14d456b0151514f12"
@@ -202,8 +202,8 @@
         "workshopdepot": "915600",
         "branches": {
             "public": {
-                "buildid": "16022640",
-                "timeupdated": "1729524094"
+                "buildid": "17932992",
+                "timeupdated": "1743752290"
             }
         },
         "privatebranches": "1",
