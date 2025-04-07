@@ -4,8 +4,8 @@
     "name": "Notruf 112 - 2 Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27992809",
-    "update_time": "2025-03-17 20:00:31",
+    "change_number": "28190754",
+    "update_time": "2025-03-28 20:59:00",
     "depot": {
         "1004": {
             "config": {
@@ -52,27 +52,27 @@
         "1480081": {
             "manifests": {
                 "public": {
-                    "gid": "8825534038730938875",
-                    "size": "4243122079",
-                    "download": "3453247152"
+                    "gid": "5562666295178927628",
+                    "size": "4272867126",
+                    "download": "3480389360"
                 },
                 "open_beta": {
-                    "gid": "4822297028279125441",
-                    "size": "4243122098",
-                    "download": "3453245712"
+                    "gid": "6571732029634812334",
+                    "size": "4260787700",
+                    "download": "3468401600"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17065042",
-                "timeupdated": "1737636724"
+                "buildid": "17866677",
+                "timeupdated": "1743166734"
             },
             "open_beta": {
-                "buildid": "17064792",
+                "buildid": "17751134",
                 "description": "Public Beta Branch",
-                "timeupdated": "1737546661"
+                "timeupdated": "1743164881"
             }
         },
         "privatebranches": "1"
