@@ -4,8 +4,8 @@
     "name": "Anime And Your Life",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27051168",
-    "update_time": "2025-01-18 08:08:00",
+    "change_number": "28179673",
+    "update_time": "2025-03-28 06:16:01",
     "depot": {
         "baselanguages": "english,german,french,koreana,tchinese,russian,japanese",
         "hasdepotsindlc": "1",
@@ -64,7 +64,7 @@
                     "download": "768940352"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "09d4d9899ef160db8943bfc4bbd9cefbb4636d599e8ee863ece03b44a80c7789"
         },
         "985861": {
             "dlcappid": "985860",
