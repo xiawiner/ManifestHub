@@ -4,8 +4,8 @@
     "name": "sheepChat",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27839980",
-    "update_time": "2025-03-08 01:08:10",
+    "change_number": "28256249",
+    "update_time": "2025-04-02 04:52:26",
     "depot": {
         "baselanguages": "english,russian",
         "hasdepotsindlc": "0",
@@ -50,22 +50,22 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5995606949555246108",
-                    "size": "374851329",
-                    "download": "118431056"
+                    "gid": "4835300934589613609",
+                    "size": "377387997",
+                    "download": "119229632"
                 },
                 "beta": {
-                    "gid": "7328184711536511468",
-                    "size": "377390325",
-                    "download": "118807008"
+                    "gid": "4835300934589613609",
+                    "size": "377387997",
+                    "download": "119229632"
                 },
                 "nightly-v1.x.x": {
-                    "gid": "7328184711536511468",
-                    "size": "377390325",
-                    "download": "118807008"
+                    "gid": "4835300934589613609",
+                    "size": "377387997",
+                    "download": "119229632"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "b7f6633a57a61339726d6dec99855b090a1e032b29c56c2941e837685adcccd1"
         },
         "944772": {
             "config": {
@@ -74,19 +74,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7373872220258260150",
-                    "size": "351042209",
-                    "download": "115384160"
+                    "gid": "8739704318774696762",
+                    "size": "353578877",
+                    "download": "114958736"
                 },
                 "beta": {
-                    "gid": "5533362044128947699",
-                    "size": "353581205",
-                    "download": "114951728"
+                    "gid": "8739704318774696762",
+                    "size": "353578877",
+                    "download": "114958736"
                 },
                 "nightly-v1.x.x": {
-                    "gid": "5533362044128947699",
-                    "size": "353581205",
-                    "download": "114951728"
+                    "gid": "8739704318774696762",
+                    "size": "353578877",
+                    "download": "114958736"
                 }
             },
             "decryptionkey": ""
@@ -98,19 +98,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5108387570725022440",
-                    "size": "380811254",
-                    "download": "114740176"
+                    "gid": "1204280580195475283",
+                    "size": "383347922",
+                    "download": "115334400"
                 },
                 "beta": {
-                    "gid": "6031854452918940611",
-                    "size": "383350250",
-                    "download": "115115296"
+                    "gid": "1204280580195475283",
+                    "size": "383347922",
+                    "download": "115334400"
                 },
                 "nightly-v1.x.x": {
-                    "gid": "6031854452918940611",
-                    "size": "383350250",
-                    "download": "115115296"
+                    "gid": "1204280580195475283",
+                    "size": "383347922",
+                    "download": "115334400"
                 }
             },
             "decryptionkey": ""
@@ -141,18 +141,18 @@
         },
         "branches": {
             "public": {
-                "buildid": "16904945",
-                "timeupdated": "1735974127"
+                "buildid": "17945045",
+                "timeupdated": "1743540739"
             },
             "beta": {
-                "buildid": "17207477",
+                "buildid": "17945045",
                 "description": "Beta build",
-                "timeupdated": "1738457866"
+                "timeupdated": "1743540678"
             },
             "nightly-v1.x.x": {
-                "buildid": "17207477",
+                "buildid": "17945045",
                 "description": "Nightly builds, branch 1.x.x",
-                "timeupdated": "1738457874"
+                "timeupdated": "1743540702"
             }
         },
         "privatebranches": "1"
