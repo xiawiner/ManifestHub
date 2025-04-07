@@ -4,25 +4,25 @@
     "name": "REYNATIS",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28007296",
-    "update_time": "2025-03-18 13:36:52",
+    "change_number": "28253158",
+    "update_time": "2025-04-02 01:14:19",
     "depot": {
         "hasdepotsindlc": "1",
         "2738751": {
             "manifests": {
                 "public": {
-                    "gid": "4868391605154436119",
-                    "size": "12142793879",
-                    "download": "9885824256"
+                    "gid": "2701870594981814130",
+                    "size": "12165884965",
+                    "download": "9904830480"
                 }
             },
             "decryptionkey": "3f6c8d14a4dc195981168e7a8567ddd765004cb9816417b8c29642c1aa9f0f20"
         },
-        "baselanguages": "english,japanese",
+        "baselanguages": "english,koreana,tchinese,japanese",
         "branches": {
             "public": {
-                "buildid": "17060894",
-                "timeupdated": "1740851997"
+                "buildid": "17672696",
+                "timeupdated": "1743526808"
             }
         },
         "privatebranches": "1"
