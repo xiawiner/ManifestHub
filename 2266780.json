@@ -4,8 +4,8 @@
     "name": "Ascendant",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27959137",
-    "update_time": "2025-03-14 23:14:01",
+    "change_number": "28084417",
+    "update_time": "2025-03-22 13:19:39",
     "depot": {
         "2266781": {
             "config": {
@@ -31,7 +31,7 @@
                     "download": "307017328"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "ac946f5171d601e2129f3607eb5ccad88a7c574f6f579a32ba1ede6ef3fa11fe"
         },
         "branches": {
             "public": {
