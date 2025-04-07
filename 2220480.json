@@ -4,8 +4,8 @@
     "name": "Burst Hero",
     "schinese_name": "爆弹英雄",
     "isfreeapp": "0",
-    "change_number": "26906808",
-    "update_time": "2025-01-08 19:13:55",
+    "change_number": "28300637",
+    "update_time": "2025-04-04 10:16:08",
     "depot": {
         "2220481": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "134458908849138717",
-                    "size": "324064519",
-                    "download": "67596496"
+                    "gid": "8056600139684218134",
+                    "size": "324119159",
+                    "download": "67835024"
                 }
             },
             "decryptionkey": "079fd4b76fce4a1a8dada38c27566bc2f230466c651c31db28ccf5ecc1535653"
@@ -38,8 +38,8 @@
         "baselanguages": "english,schinese",
         "branches": {
             "public": {
-                "buildid": "16838366",
-                "timeupdated": "1734993494"
+                "buildid": "17788090",
+                "timeupdated": "1742433263"
             }
         }
     }
