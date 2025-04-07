@@ -4,8 +4,8 @@
     "name": "Chloe's Requiem -encore-",
     "schinese_name": "克罗艾的镇魂曲 -encore-",
     "isfreeapp": "0",
-    "change_number": "27846130",
-    "update_time": "2025-03-08 09:09:13",
+    "change_number": "28203654",
+    "update_time": "2025-03-29 14:11:05",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english,koreana,schinese,japanese",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8531924711203028412",
-                    "size": "1662877839",
-                    "download": "1122934960"
+                    "gid": "536392260401143171",
+                    "size": "1662882848",
+                    "download": "1122934448"
                 }
             },
             "decryptionkey": "76c51cc5b8972b9978814647f1fcfb0e98497fdd4b334d3abf0ff9241ff4023e"
@@ -37,8 +37,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "13490698",
-                "timeupdated": "1708267906"
+                "buildid": "17907722",
+                "timeupdated": "1743228662"
             }
         },
         "privatebranches": "1"
