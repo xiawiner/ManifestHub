@@ -4,8 +4,8 @@
     "name": "The Last Plague: Blight",
     "schinese_name": "最后的瘟疫：枯萎",
     "isfreeapp": "0",
-    "change_number": "27275595",
-    "update_time": "2025-02-02 17:11:42",
+    "change_number": "28335010",
+    "update_time": "2025-04-07 03:16:05",
     "depot": {
         "hasdepotsindlc": "0",
         "1564601": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5520807049750043746",
-                    "size": "5385361570",
-                    "download": "2337506432"
+                    "gid": "5347253886394565475",
+                    "size": "5470033458",
+                    "download": "2369056624"
                 }
             },
             "decryptionkey": ""
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3926258045360229471",
-                    "size": "5287794757",
-                    "download": "2313456512"
+                    "gid": "6229818264236065984",
+                    "size": "5372479697",
+                    "download": "2345128784"
                 }
             },
             "decryptionkey": "1da35cc535878c4b14d381335faeb900987cb61ad57e9db8c3a649ed028c722c"
@@ -40,17 +40,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2994709683188109681",
-                    "size": "5401414640",
-                    "download": "2355162544"
+                    "gid": "4406502879231347870",
+                    "size": "5487347872",
+                    "download": "2387785120"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16931893",
-                "timeupdated": "1736282617"
+                "buildid": "17988997",
+                "timeupdated": "1743793343"
             }
         }
     }
