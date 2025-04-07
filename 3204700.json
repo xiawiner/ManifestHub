@@ -4,15 +4,15 @@
     "name": "少年期の終り (Boyhood's End) デジタルアートブック",
     "schinese_name": "少年的终结 Digital Artbook",
     "isfreeapp": "0",
-    "change_number": "27500904",
-    "update_time": "2025-02-16 15:15:18",
+    "change_number": "28313769",
+    "update_time": "2025-04-05 01:27:21",
     "depot": {
         "3204700": {
             "manifests": {
                 "public": {
-                    "gid": "3624747032320972569",
-                    "size": "118591799",
-                    "download": "105065600"
+                    "gid": "5454817885777989252",
+                    "size": "357986564",
+                    "download": "238170912"
                 }
             },
             "dlcappid": "3204700",
@@ -20,8 +20,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "15562702",
-                "timeupdated": "1725590497"
+                "buildid": "17984943",
+                "timeupdated": "1743787633"
             }
         }
     }
