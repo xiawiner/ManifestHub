@@ -4,8 +4,8 @@
     "name": "MudRunner",
     "schinese_name": "旋转轮胎：泥泞奔驰",
     "isfreeapp": "0",
-    "change_number": "27343724",
-    "update_time": "2025-02-06 19:26:13",
+    "change_number": "28334066",
+    "update_time": "2025-04-07 01:10:12",
     "depot": {
         "baselanguages": "",
         "workshopdepot": "675010",
@@ -172,6 +172,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "10385fc7be4322300f5df983ebb0c2dd5272ba6f7782aac63e71a6ee7d9ac02c"
+        "workshopdepotdecryptionkey": ""
     }
 }
