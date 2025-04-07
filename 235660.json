@@ -4,8 +4,8 @@
     "name": "Eador. Genesis",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26841073",
-    "update_time": "2025-01-02 23:17:47",
+    "change_number": "28185507",
+    "update_time": "2025-03-28 15:16:21",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english",
@@ -41,7 +41,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "c9c056ea6ea1d06d2e669b231e0498eb8a391cddab9da4d09cf7eb1d84424e31"
         },
         "235663": {
             "config": {
@@ -59,7 +59,7 @@
                     "download": "154634704"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "0bba22a0b80b0f958ad8085134d5dc42eddaacbf94144494348415e0efc9f389"
         },
         "235664": {
             "config": {
@@ -77,7 +77,7 @@
                     "download": "154663184"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "66909341c93b0389eba2109d1c7a8680db5006033347b51a169ee2a20254519b"
         },
         "235665": {
             "config": {
@@ -95,7 +95,7 @@
                     "download": "154588432"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "7e7070a81e04d530106e847c9b8a3679f46b9918421141a520d6a93787aa7710"
         },
         "235666": {
             "config": {
@@ -113,7 +113,7 @@
                     "download": "154589200"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "f23e62d8bf7c61a92a057f1fb6d3aa7d8484f2e04d845fa25e17546201d3f22a"
         },
         "branches": {
             "public": {
