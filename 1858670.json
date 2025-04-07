@@ -4,8 +4,8 @@
     "name": "Mocap Fusion [ VR ] Playtest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27392151",
-    "update_time": "2025-02-10 08:18:54",
+    "change_number": "28146252",
+    "update_time": "2025-03-26 17:20:09",
     "depot": {
         "1858671": {
             "config": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2339326631409178760",
-                    "size": "5297609246",
-                    "download": "1918276416"
+                    "gid": "5164558563471348619",
+                    "size": "5371857586",
+                    "download": "1937516720"
                 },
                 "oculus": {
                     "gid": "6657441263453794405",
@@ -30,6 +30,11 @@
                     "download": "1565829664"
                 },
                 "previous_version": {
+                    "gid": "2339326631409178760",
+                    "size": "5297609246",
+                    "download": "1918276416"
+                },
+                "legacy_version": {
                     "gid": "9193474645823450006",
                     "size": "5248996223",
                     "download": "1897476016"
@@ -46,8 +51,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "17300911",
-                "timeupdated": "1739146731"
+                "buildid": "17864594",
+                "timeupdated": "1742980805"
             },
             "oculus": {
                 "buildid": "17198310",
@@ -60,9 +65,14 @@
                 "timeupdated": "1737452816"
             },
             "previous_version": {
+                "buildid": "17300911",
+                "description": "APS LUXOR v9.5.7",
+                "timeupdated": "1740470510"
+            },
+            "legacy_version": {
                 "buildid": "16750135",
-                "description": "APS LUXOR v7.7.8",
-                "timeupdated": "1735317129"
+                "description": " APS LUXOR v9.4.6",
+                "timeupdated": "1740469433"
             },
             "workshop_downloader": {
                 "buildid": "16871133",
@@ -70,6 +80,7 @@
                 "timeupdated": "1735497179"
             }
         },
-        "workshopdepotdecryptionkey": "a6c192623c4f2c2bf58610cc634b18794ba388f8048d99cf18001296a89a60d5"
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
     }
 }
