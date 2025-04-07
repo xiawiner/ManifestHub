@@ -4,8 +4,8 @@
     "name": "The Wardrobe",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27522504",
-    "update_time": "2025-02-18 04:13:12",
+    "change_number": "28202543",
+    "update_time": "2025-03-29 11:12:39",
     "depot": {
         "228990": {
             "config": {
@@ -64,7 +64,7 @@
                 }
             },
             "dlcappid": "1085200",
-            "decryptionkey": ""
+            "decryptionkey": "ad91e33b69cc4a2a0841ad1623af620c5f14882536c7d8d6abce9f265b8c165a"
         },
         "branches": {
             "public": {
