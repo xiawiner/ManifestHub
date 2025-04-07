@@ -4,8 +4,8 @@
     "name": "Dedicated Server (Linux)",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26457216",
-    "update_time": "2024-12-05 10:00:41",
+    "change_number": "28322021",
+    "update_time": "2025-04-05 16:44:03",
     "depot": {
         "1004": {
             "config": {
@@ -56,17 +56,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5921287292362289381",
-                    "size": "2827461706",
-                    "download": "793789408"
+                    "gid": "8231861438766781022",
+                    "size": "5966166646",
+                    "download": "1148797168"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16170680",
-                "timeupdated": "1729801042"
+                "buildid": "17994696",
+                "timeupdated": "1743842638"
             }
         }
     }
