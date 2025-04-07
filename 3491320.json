@@ -1,11 +1,11 @@
 {
     "appid": "3491320",
     "type": "Demo",
-    "name": "Mechaknights Legends Demo",
+    "name": "Mecha Legends Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27468521",
-    "update_time": "2025-02-14 06:28:17",
+    "change_number": "28276503",
+    "update_time": "2025-04-03 05:00:45",
     "depot": {
         "228989": {
             "config": {
@@ -27,18 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7843653488747760237",
-                    "size": "1175953630",
-                    "download": "1023614544"
+                    "gid": "4337740310459510941",
+                    "size": "1171379881",
+                    "download": "1018838544"
                 }
-            },
-            "decryptionkey": "f8f4dfaf3ee0235cd8087e98cd232269fca8efbbe18e34edb420cb7fb87a76eb"
+            }
         },
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "17427780",
-                "timeupdated": "1739995145"
+                "buildid": "17960608",
+                "timeupdated": "1743627638"
             }
         }
     }
