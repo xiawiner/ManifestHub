@@ -2,10 +2,10 @@
     "appid": "451760",
     "type": "Game",
     "name": "Highway Blossoms",
-    "schinese_name": "花开公路",
+    "schinese_name": "Highway Blossoms - 花开公路",
     "isfreeapp": "0",
-    "change_number": "27111606",
-    "update_time": "2025-01-22 20:26:56",
+    "change_number": "28221611",
+    "update_time": "2025-03-31 11:46:53",
     "depot": {
         "hasdepotsindlc": "1",
         "451768": {
@@ -476,7 +476,7 @@
                     "download": "128"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "34d01f95bfb04767e221ba24d3a1d1591ae7d9d97b306f5e1870ee5eb155c194"
         },
         "490270": {
             "dlcappid": "490270",
@@ -530,7 +530,7 @@
                     "download": "128"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "07c381c2d725f1ff338f62fdd210605a02c76188014fb586c6771e53c9b26c14"
         },
         "451761": {
             "dlcappid": "943720",
