@@ -4,8 +4,8 @@
     "name": "Depth",
     "schinese_name": "深海惊魂 Depth",
     "isfreeapp": "0",
-    "change_number": "27105017",
-    "update_time": "2025-01-22 11:17:37",
+    "change_number": "28118090",
+    "update_time": "2025-03-25 06:12:46",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,turkish,brazilian",
@@ -17,9 +17,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "943779221366254708",
-                    "size": "5960243675",
-                    "download": "3926036896"
+                    "gid": "6393146922121685822",
+                    "size": "5960243965",
+                    "download": "3926047408"
                 }
             },
             "decryptionkey": "b88a85a04f753010e90665ddd787a4ffc397df00d2b42ca9a4fb91ba188f65ce"
@@ -33,9 +33,9 @@
             "dlcappid": "335640",
             "manifests": {
                 "public": {
-                    "gid": "2176571324059880751",
-                    "size": "32298764219",
-                    "download": "20296666656"
+                    "gid": "7604481858015829160",
+                    "size": "32298764513",
+                    "download": "20296667328"
                 }
             },
             "decryptionkey": "cbf9e042ceccbb642129df3485d60db69b307428e2284e331d129b2efb2f9297"
@@ -67,12 +67,12 @@
         },
         "branches": {
             "public": {
-                "buildid": "17085957",
-                "timeupdated": "1737515847"
+                "buildid": "17843280",
+                "timeupdated": "1742854360"
             }
         },
         "privatebranches": "1",
         "appmanagesdlc": "1",
-        "workshopdepotdecryptionkey": "4760b943e129f92f4c34f68c3b28ae1c050d89d73806d2389e31619bd6b8501c"
+        "workshopdepotdecryptionkey": ""
     }
 }
