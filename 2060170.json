@@ -4,8 +4,8 @@
     "name": "Solas City Heroes",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27471435",
-    "update_time": "2025-02-14 10:28:15",
+    "change_number": "28194064",
+    "update_time": "2025-03-28 23:54:12",
     "depot": {
         "hasdepotsindlc": "0",
         "2060171": {
@@ -27,27 +27,27 @@
             "dlcappid": "2594150",
             "manifests": {
                 "public": {
-                    "gid": "8267567300787215887",
-                    "size": "4558305403",
-                    "download": "3362691648"
+                    "gid": "4896079276604094736",
+                    "size": "4580191104",
+                    "download": "3374462528"
                 },
                 "dlc1": {
-                    "gid": "8267567300787215887",
-                    "size": "4558305403",
-                    "download": "3362691648"
+                    "gid": "7039791064072863624",
+                    "size": "4580177153",
+                    "download": "3374455824"
                 }
             },
             "decryptionkey": "e85ee6c6c747a77fd5f1f9992f2b0d4d0d3c88592ec4a7627998019312dbb509"
         },
         "branches": {
             "public": {
-                "buildid": "13743984",
-                "timeupdated": "1710447988"
+                "buildid": "17900445",
+                "timeupdated": "1743177243"
             },
             "dlc1": {
-                "buildid": "13743984",
+                "buildid": "17836934",
                 "description": "Rise of the Succubus DLC",
-                "timeupdated": "1710447895"
+                "timeupdated": "1742825739"
             }
         }
     }
