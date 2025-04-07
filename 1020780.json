@@ -4,8 +4,8 @@
     "name": "DarkStory Online",
     "schinese_name": "",
     "isfreeapp": "1",
-    "change_number": "27230180",
-    "update_time": "2025-01-30 14:18:01",
+    "change_number": "28080089",
+    "update_time": "2025-03-22 04:55:38",
     "depot": {
         "228983": {
             "config": {
@@ -18,8 +18,7 @@
                     "download": "19214528"
                 }
             },
-            "depotfromapp": "228980",
-            "decryptionkey": "77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b"
+            "depotfromapp": "228980"
         },
         "229006": {
             "config": {
@@ -32,8 +31,7 @@
                     "download": "84953712"
                 }
             },
-            "depotfromapp": "228980",
-            "decryptionkey": ""
+            "depotfromapp": "228980"
         },
         "229007": {
             "config": {
@@ -46,25 +44,23 @@
                     "download": "118846656"
                 }
             },
-            "depotfromapp": "228980",
-            "decryptionkey": ""
+            "depotfromapp": "228980"
         },
         "1020781": {
             "manifests": {
                 "public": {
-                    "gid": "603328662622490976",
-                    "size": "352610020",
-                    "download": "301754656"
+                    "gid": "7841258560396143268",
+                    "size": "353312873",
+                    "download": "301960880"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "baselanguages": "english,spanish,latam",
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "16840274",
-                "timeupdated": "1735014919"
+                "buildid": "17814599",
+                "timeupdated": "1742590530"
             }
         }
     }
