@@ -4,8 +4,8 @@
     "name": " Marfusha",
     "schinese_name": "熔铁少女:Sentinel Girls ",
     "isfreeapp": "0",
-    "change_number": "25660306",
-    "update_time": "2024-10-11 23:39:08",
+    "change_number": "28210840",
+    "update_time": "2025-03-30 08:14:43",
     "depot": {
         "baselanguages": "english,schinese,japanese",
         "hasdepotsindlc": "1",
@@ -35,7 +35,7 @@
                     "download": "89029984"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "f0839f5ae8a1d8ae984464c4e6070ec72da6bb0a01b4d67c3930a9dab240db13"
         },
         "1456823": {
             "config": {
