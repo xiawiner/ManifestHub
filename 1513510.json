@@ -4,8 +4,8 @@
     "name": "AudioTheory Piano Keys",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27984967",
-    "update_time": "2025-03-17 06:56:50",
+    "change_number": "28247305",
+    "update_time": "2025-04-01 19:38:47",
     "depot": {
         "1513511": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1783330671113505738",
-                    "size": "345063965",
-                    "download": "121572288"
+                    "gid": "8944356628098058013",
+                    "size": "345064958",
+                    "download": "121573600"
                 }
             },
             "decryptionkey": ""
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "55884753373935082",
-                    "size": "330735112",
-                    "download": "115296704"
+                    "gid": "4054762729391022989",
+                    "size": "330736616",
+                    "download": "115296096"
                 }
             },
             "decryptionkey": "1f7c605563ba7c9e0d30f6a6a037cbee3c995d881bbe1b780ee4992016b3d764"
@@ -55,17 +55,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7772231111843065216",
-                    "size": "326245450",
-                    "download": "113922176"
+                    "gid": "970199446974721476",
+                    "size": "326246442",
+                    "download": "113923120"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17545541",
-                "timeupdated": "1740742966"
+                "buildid": "17938669",
+                "timeupdated": "1743507519"
             }
         },
         "privatebranches": "1"
