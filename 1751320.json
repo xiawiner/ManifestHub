@@ -4,8 +4,8 @@
     "name": "HotGirls Sliding Puzzle",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27508616",
-    "update_time": "2025-02-17 10:14:14",
+    "change_number": "28086603",
+    "update_time": "2025-03-22 19:18:46",
     "depot": {
         "1751321": {
             "manifests": {
@@ -26,7 +26,7 @@
                     "download": "791232"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "86a0353dfa643200c65ee476826635be5fa76c8da3aab69488fd59037246caa4"
         },
         "1751322": {
             "config": {
