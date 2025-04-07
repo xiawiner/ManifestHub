@@ -4,9 +4,16 @@
     "name": "Miami Hotel Sim Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27506197",
-    "update_time": "2025-02-17 04:53:35",
+    "change_number": "28108994",
+    "update_time": "2025-03-24 21:14:40",
     "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
         "2405531": {
             "config": {
                 "oslist": "windows"
@@ -17,8 +24,7 @@
                     "size": "6778931423",
                     "download": "2163673488"
                 }
-            },
-            "decryptionkey": "990833f3fa4b5081928ec82d18cc1ddcb83d313b23872b7d8c07904acdfd1b35"
+            }
         },
         "branches": {
             "public": {
