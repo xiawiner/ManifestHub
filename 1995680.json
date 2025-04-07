@@ -4,8 +4,8 @@
     "name": "沃姆斯传说：午夜新娘",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25788112",
-    "update_time": "2024-10-18 23:07:38",
+    "change_number": "28067123",
+    "update_time": "2025-03-21 16:15:30",
     "depot": {
         "baselanguages": "english,schinese,tchinese",
         "hasdepotsindlc": "1",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2691825028756006950",
-                    "size": "630913627",
-                    "download": "416111152"
+                    "gid": "1079859011240921171",
+                    "size": "410357206",
+                    "download": "195169632"
                 }
             },
             "decryptionkey": "4da94335659e46128a2d24ccb7e9d036f171438691aa81f7d88f02b45a47aa39"
@@ -32,8 +32,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "9483693",
-                "timeupdated": "1663034669"
+                "buildid": "17794931",
+                "timeupdated": "1742544923"
             }
         }
     }
