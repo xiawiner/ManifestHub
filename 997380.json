@@ -4,8 +4,8 @@
     "name": "The Sapling",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27975364",
-    "update_time": "2025-03-16 03:57:41",
+    "change_number": "28084887",
+    "update_time": "2025-03-22 14:45:15",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english",
@@ -16,14 +16,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2756014328766015823",
-                    "size": "591944706",
-                    "download": "341652192"
+                    "gid": "925372848265975600",
+                    "size": "592027084",
+                    "download": "341675152"
                 },
                 "beta": {
-                    "gid": "2756014328766015823",
-                    "size": "591944706",
-                    "download": "341652192"
+                    "gid": "925372848265975600",
+                    "size": "592027084",
+                    "download": "341675152"
                 },
                 "foodfire": {
                     "gid": "898737288997590600",
@@ -45,14 +45,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5472654269500218837",
-                    "size": "597783012",
-                    "download": "343149136"
+                    "gid": "1502611152934414321",
+                    "size": "597865895",
+                    "download": "343174288"
                 },
                 "beta": {
-                    "gid": "5472654269500218837",
-                    "size": "597783012",
-                    "download": "343149136"
+                    "gid": "1502611152934414321",
+                    "size": "597865895",
+                    "download": "343174288"
                 },
                 "foodfire": {
                     "gid": "7320285725283609068",
@@ -74,14 +74,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1312379907350778657",
-                    "size": "612473538",
-                    "download": "351901472"
+                    "gid": "2124457290070713862",
+                    "size": "612555916",
+                    "download": "351923488"
                 },
                 "beta": {
-                    "gid": "1312379907350778657",
-                    "size": "612473538",
-                    "download": "351901472"
+                    "gid": "2124457290070713862",
+                    "size": "612555916",
+                    "download": "351923488"
                 },
                 "foodfire": {
                     "gid": "7639980843187443130",
@@ -98,13 +98,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17646254",
-                "timeupdated": "1741433117"
+                "buildid": "17818672",
+                "timeupdated": "1742625901"
             },
             "beta": {
-                "buildid": "17646254",
+                "buildid": "17818672",
                 "description": "Experimental build for the new Scary & Sexy update",
-                "timeupdated": "1741433096"
+                "timeupdated": "1742625910"
             },
             "foodfire": {
                 "buildid": "15545230",
