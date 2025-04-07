@@ -4,8 +4,8 @@
     "name": "Robin Morningwood Adventure",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26900183",
-    "update_time": "2025-01-08 08:10:21",
+    "change_number": "28246833",
+    "update_time": "2025-04-01 19:11:41",
     "depot": {
         "baselanguages": "",
         "hasdepotsindlc": "1",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2140206103841756285",
-                    "size": "1625294529",
-                    "download": "1077345680"
+                    "gid": "6641968667754584971",
+                    "size": "1647901042",
+                    "download": "1079945776"
                 },
                 "applesilicon": {
                     "gid": "351711212010568039",
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4640471188727188930",
-                    "size": "1610596026",
-                    "download": "1066870624"
+                    "gid": "922905752186127665",
+                    "size": "1633586961",
+                    "download": "1068422384"
                 },
                 "applesilicon": {
                     "gid": "4704782320109049835",
@@ -53,27 +53,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4566781417703914765",
-                    "size": "2493287474",
-                    "download": "1605943664"
+                    "gid": "6716166833842924471",
+                    "size": "2517371769",
+                    "download": "1714423328"
                 },
                 "applesilicon": {
-                    "gid": "6326693326285298240",
-                    "size": "1969204565",
-                    "download": "1075390848"
+                    "gid": "3482985747723657930",
+                    "size": "2548236875",
+                    "download": "1400777744"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "15029959",
-                "timeupdated": "1720982620"
+                "buildid": "17938428",
+                "timeupdated": "1743505896"
             },
             "applesilicon": {
-                "buildid": "14547668",
+                "buildid": "17885118",
                 "description": "Used for mac using Apple Silicon processors",
-                "timeupdated": "1717075392"
+                "timeupdated": "1743090316"
             }
         },
         "privatebranches": "1"
