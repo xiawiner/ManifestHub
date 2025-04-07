@@ -4,8 +4,8 @@
     "name": "Nova-Life_GameServer",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27861570",
-    "update_time": "2025-03-10 04:14:51",
+    "change_number": "28257110",
+    "update_time": "2025-04-02 05:59:33",
     "depot": {
         "1004": {
             "config": {
@@ -55,9 +55,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1965833584641808636",
-                    "size": "9090958486",
-                    "download": "3105106224"
+                    "gid": "8296016448949400922",
+                    "size": "9205707507",
+                    "download": "3147956816"
                 },
                 "test-update": {
                     "gid": "5080067753680448940",
@@ -69,8 +69,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17653058",
-                "timeupdated": "1741551285"
+                "buildid": "17942998",
+                "timeupdated": "1743544768"
             },
             "test-update": {
                 "buildid": "11201842",
