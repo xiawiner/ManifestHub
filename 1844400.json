@@ -4,8 +4,8 @@
     "name": "Rasetsu Fumaden",
     "schinese_name": "罗刹封魔传",
     "isfreeapp": "0",
-    "change_number": "26445018",
-    "update_time": "2024-12-05 09:25:18",
+    "change_number": "28063863",
+    "update_time": "2025-03-21 11:19:36",
     "depot": {
         "baselanguages": "english,schinese,japanese",
         "1844401": {
@@ -19,7 +19,7 @@
                     "download": "1142931968"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "fd4ad80dd111054aaf6a83307a5c9a351bebc9f6ed76ba73f9fe6ffe87481d9c"
         },
         "1844402": {
             "config": {
@@ -45,7 +45,7 @@
                     "download": "1183474864"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "2c6edec8e606bc91f41489b45b0ff678d236849abea0641f3e565716cf52d83d"
         },
         "branches": {
             "public": {
