@@ -4,8 +4,8 @@
     "name": "CatTuber",
     "schinese_name": "CatTuber",
     "isfreeapp": "0",
-    "change_number": "26908943",
-    "update_time": "2025-01-08 22:15:07",
+    "change_number": "28047561",
+    "update_time": "2025-03-20 16:55:40",
     "depot": {
         "baselanguages": "english,schinese",
         "hasdepotsindlc": "0",
@@ -91,6 +91,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "4c22c8cc91c9898471cc87fb80f624188e4f1da8964cc273aff5bfaa5256191f"
+        "workshopdepotdecryptionkey": ""
     }
 }
