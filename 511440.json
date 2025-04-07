@@ -4,8 +4,8 @@
     "name": "Last Year: The Nightmare",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27796079",
-    "update_time": "2025-03-05 22:07:51",
+    "change_number": "28133265",
+    "update_time": "2025-03-26 00:09:24",
     "depot": {
         "hasdepotsindlc": "1",
         "228988": {
@@ -51,7 +51,7 @@
                     "download": "61315952"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "896088e1bf9a5837b20657e1d3b8305f334897207b315e836978ba71c5c15120"
         },
         "branches": {
             "public": {
