@@ -4,8 +4,8 @@
     "name": "Highway Police Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28001895",
-    "update_time": "2025-03-18 04:56:31",
+    "change_number": "28336601",
+    "update_time": "2025-04-07 06:57:45",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "19472666496"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "08fe257efe8783e52e4cf5f5f0d49c87da1448cef591b737b8a5cd6f510f6452"
         },
         "2789132": {
             "manifests": {
