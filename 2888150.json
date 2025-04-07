@@ -4,8 +4,8 @@
     "name": "ZOMBIE RAID: No One Survives DEMO",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27792426",
-    "update_time": "2025-03-05 18:21:16",
+    "change_number": "28191568",
+    "update_time": "2025-03-28 21:47:16",
     "depot": {
         "228989": {
             "config": {
@@ -28,16 +28,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2616154588992304647",
-                    "size": "12236931663",
-                    "download": "3028539712"
+                    "gid": "6152222800661008922",
+                    "size": "11911833830",
+                    "download": "2702737280"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "17594453",
-                "timeupdated": "1741170073"
+                "buildid": "17898216",
+                "timeupdated": "1743169630"
             }
         },
         "privatebranches": "1"
