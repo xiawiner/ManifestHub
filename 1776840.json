@@ -4,23 +4,23 @@
     "name": "Overbowed",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27307556",
-    "update_time": "2025-02-04 21:33:09",
+    "change_number": "28206139",
+    "update_time": "2025-03-29 21:22:53",
     "depot": {
         "1776841": {
             "manifests": {
                 "public": {
-                    "gid": "1129803896673095667",
-                    "size": "279339535",
-                    "download": "207770608"
+                    "gid": "1555543855792775091",
+                    "size": "258031753",
+                    "download": "209831312"
                 }
             },
             "decryptionkey": "53b56e798feb313df2b1f2053d4f1de786330cb26a5bfa63a031d0d1cac8b707"
         },
         "branches": {
             "public": {
-                "buildid": "14680384",
-                "timeupdated": "1718122820"
+                "buildid": "17886614",
+                "timeupdated": "1743096285"
             }
         }
     }
