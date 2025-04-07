@@ -4,8 +4,8 @@
     "name": "Defunct",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "24735123",
-    "update_time": "2024-08-11 05:31:13",
+    "change_number": "28190017",
+    "update_time": "2025-03-28 20:14:40",
     "depot": {
         "359351": {
             "config": {
@@ -59,7 +59,7 @@
                 }
             },
             "dlcappid": "439680",
-            "decryptionkey": ""
+            "decryptionkey": "466e48a6cc61282c29d2fd27a5d36a3f3aa7c9d041510ed168d2b581c75722ac"
         },
         "branches": {
             "public": {
