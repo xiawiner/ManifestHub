@@ -4,8 +4,8 @@
     "name": "Ziggurat 2",
     "schinese_name": "通灵塔2",
     "isfreeapp": "0",
-    "change_number": "27980813",
-    "update_time": "2025-03-16 20:55:41",
+    "change_number": "28117377",
+    "update_time": "2025-03-25 05:19:26",
     "depot": {
         "228983": {
             "config": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6882270389281758947",
+                    "gid": "9137305190577660",
                     "size": "1397705782",
-                    "download": "878207504"
+                    "download": "878206640"
                 }
             },
             "decryptionkey": "92b09555aadea1758ef9ac6cf576f241c061d6cd2e5dada5f545c2d7e3f0948d"
@@ -42,9 +42,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3458679975610862182",
+                    "gid": "1139464024484128923",
                     "size": "1420475788",
-                    "download": "885371104"
+                    "download": "885371616"
                 }
             },
             "decryptionkey": ""
@@ -56,17 +56,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5731252721718552216",
+                    "gid": "4335436446140629733",
                     "size": "1452011893",
-                    "download": "899113440"
+                    "download": "899113888"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16240521",
-                "timeupdated": "1730309584"
+                "buildid": "17834995",
+                "timeupdated": "1742826378"
             }
         },
         "privatebranches": "1"
