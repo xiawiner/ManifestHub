@@ -4,8 +4,8 @@
     "name": "Battle Realms: Zen Edition",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27878475",
-    "update_time": "2025-03-11 04:02:58",
+    "change_number": "28314278",
+    "update_time": "2025-04-05 01:58:44",
     "depot": {
         "1025601": {
             "config": {
@@ -18,9 +18,9 @@
                     "download": "1428554800"
                 },
                 "beta": {
-                    "gid": "4302467495811976608",
-                    "size": "2659313772",
-                    "download": "1459328032"
+                    "gid": "3583814604926066776",
+                    "size": "2638264227",
+                    "download": "1483391392"
                 }
             },
             "decryptionkey": "4fcdfcbad24c7f621af25f25edd05bfd7d5061b6b698e3b4634b53f7003f1341"
@@ -33,9 +33,9 @@
                 "timeupdated": "1738446137"
             },
             "beta": {
-                "buildid": "17666984",
+                "buildid": "17988921",
                 "description": "Public beta version",
-                "timeupdated": "1741636965"
+                "timeupdated": "1743789510"
             }
         },
         "privatebranches": "1",
