@@ -4,8 +4,8 @@
     "name": "Under The Ghost Mountain",
     "schinese_name": "鬼山之下",
     "isfreeapp": "0",
-    "change_number": "27317488",
-    "update_time": "2025-02-05 09:15:25",
+    "change_number": "28346884",
+    "update_time": "2025-04-07 21:55:55",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english,schinese",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "549003298828925826",
-                    "size": "281051975",
-                    "download": "135555568"
+                    "gid": "7609289743243342271",
+                    "size": "279270541",
+                    "download": "132689792"
                 }
             },
             "decryptionkey": ""
@@ -37,8 +37,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "15442249",
-                "timeupdated": "1724205807"
+                "buildid": "18012208",
+                "timeupdated": "1744034147"
             }
         }
     }
