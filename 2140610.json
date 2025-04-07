@@ -4,8 +4,8 @@
     "name": "The Sims™ 4 For Rent Expansion Pack",
     "schinese_name": "《The Sims™ 4 乐租生活》资料片",
     "isfreeapp": "0",
-    "change_number": "27385014",
-    "update_time": "2025-02-09 14:26:58",
+    "change_number": "28136520",
+    "update_time": "2025-03-26 03:10:41",
     "depot": {
         "2140610": {
             "dlcappid": "2140610",
@@ -100,7 +100,7 @@
                 }
             },
             "dlcappid": "2140610",
-            "decryptionkey": ""
+            "decryptionkey": "518993a2b489deea0c25922c7163f4025f7f1e6a9034fb0877619f869e31149a"
         },
         "2140617": {
             "config": {
