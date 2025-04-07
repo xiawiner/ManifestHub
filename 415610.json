@@ -4,8 +4,8 @@
     "name": "Red Comrades Save the Galaxy: Reloaded",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27974506",
-    "update_time": "2025-03-16 01:56:50",
+    "change_number": "28074680",
+    "update_time": "2025-03-21 23:18:42",
     "depot": {
         "baselanguages": "english,russian",
         "415611": {
@@ -20,7 +20,7 @@
                     "download": "453849328"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "b98315e093bcd3705f50a4e54fb32dd3c2af758956c57e5808254f28697d2a5b"
         },
         "415612": {
             "config": {
