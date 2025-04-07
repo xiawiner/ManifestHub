@@ -4,8 +4,8 @@
     "name": "Strip Fighter 5: Chimpocon Edition",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26099318",
-    "update_time": "2024-11-08 09:03:17",
+    "change_number": "28223861",
+    "update_time": "2025-03-31 15:51:09",
     "depot": {
         "baselanguages": "english,schinese,tchinese,japanese",
         "228984": {
@@ -48,7 +48,7 @@
                     "download": "544743568"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "c4b605094dc0604b37618d56b6e210eb725c7747e40345f4f79007e00df79f01"
         },
         "1524472": {
             "config": {
