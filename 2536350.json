@@ -4,8 +4,8 @@
     "name": "ZSGO Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27965196",
-    "update_time": "2025-03-15 05:12:50",
+    "change_number": "28255800",
+    "update_time": "2025-04-02 04:18:56",
     "depot": {
         "1004": {
             "config": {
@@ -66,9 +66,9 @@
         "2536351": {
             "manifests": {
                 "public": {
-                    "gid": "6930840391141704292",
-                    "size": "2106791054",
-                    "download": "1934503776"
+                    "gid": "8355877257978870993",
+                    "size": "2107865930",
+                    "download": "1935345984"
                 },
                 "0.4.12": {
                     "gid": "4796451585370756277",
@@ -80,8 +80,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17730524",
-                "timeupdated": "1741986764"
+                "buildid": "17944765",
+                "timeupdated": "1743538731"
             },
             "0.4.12": {
                 "buildid": "15695104",
