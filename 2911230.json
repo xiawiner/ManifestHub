@@ -4,8 +4,8 @@
     "name": "StellarPlans",
     "schinese_name": "星辰计划",
     "isfreeapp": "0",
-    "change_number": "27955916",
-    "update_time": "2025-03-14 20:24:19",
+    "change_number": "28065300",
+    "update_time": "2025-03-21 13:53:56",
     "depot": {
         "228988": {
             "config": {
@@ -31,17 +31,17 @@
         "2911231": {
             "manifests": {
                 "public": {
-                    "gid": "5926167556575097267",
-                    "size": "15920749435",
-                    "download": "15814667168"
+                    "gid": "4647498280758700090",
+                    "size": "15920770063",
+                    "download": "15814784272"
                 }
             },
             "decryptionkey": "dd2bf981e95adfaf239badaa57e0c052dac0608a06b06e7754d5f66bae5cb020"
         },
         "branches": {
             "public": {
-                "buildid": "17651896",
-                "timeupdated": "1741514094"
+                "buildid": "17804334",
+                "timeupdated": "1742536432"
             }
         }
     }
