@@ -4,8 +4,8 @@
     "name": "World to the West",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27758596",
-    "update_time": "2025-03-04 01:30:44",
+    "change_number": "28285029",
+    "update_time": "2025-04-03 16:58:24",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,polish,dutch,norwegian,arabic",
         "530021": {
@@ -93,7 +93,6 @@
             "decryptionkey": "cda2a94efe55f296263dfb241613272906e63b66b64194bc49f76d012e4d6aef"
         },
         "631580": {
-            "dlcappid": "631580",
             "manifests": {
                 "public": {
                     "gid": "5088249642770757756",
