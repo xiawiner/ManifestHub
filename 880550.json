@@ -4,8 +4,8 @@
     "name": "How to be Best Russian Game Developer",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "23591175",
-    "update_time": "2024-05-27 08:29:02",
+    "change_number": "28271021",
+    "update_time": "2025-04-02 23:15:52",
     "depot": {
         "880551": {
             "manifests": {
@@ -26,7 +26,7 @@
                 }
             },
             "dlcappid": "887980",
-            "decryptionkey": ""
+            "decryptionkey": "5997a6672d9eec0aff9dd0b56bdf4d5919df8392fb429f1e6e264fc9f9e5f531"
         },
         "branches": {
             "public": {
