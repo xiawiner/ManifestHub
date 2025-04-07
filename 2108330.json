@@ -4,8 +4,8 @@
     "name": "F1® 23",
     "schinese_name": "F1® 23",
     "isfreeapp": "0",
-    "change_number": "26998600",
-    "update_time": "2025-01-15 08:23:26",
+    "change_number": "28252768",
+    "update_time": "2025-04-02 00:51:49",
     "depot": {
         "workshopdepot": "2108330",
         "baselanguages": "english,german,french,italian,spanish,schinese,japanese,polish,dutch,arabic,brazilian,latam",
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6166685386210663865",
-                    "size": "28613874767",
-                    "download": "24397983936"
+                    "gid": "2154138114214080799",
+                    "size": "28613874759",
+                    "download": "24397980176"
                 }
             },
             "decryptionkey": "9b7c17f4c9dc84e556c2df053aad13dc7291d2a53f5a21cc6dd81f777c623295"
@@ -44,9 +44,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6339783558418216117",
+                    "gid": "3351176316731990672",
                     "size": "28570621742",
-                    "download": "21523554864"
+                    "download": "21522603056"
                 }
             },
             "decryptionkey": "be52dc2ad64d97ba0255f3d422a115534db8cbd20d996cc716c6c343a4c10d63"
@@ -58,9 +58,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6000440206000885977",
+                    "gid": "6525425508321753581",
                     "size": "1062323849",
-                    "download": "1065082832"
+                    "download": "1065082816"
                 }
             },
             "decryptionkey": "aae26fdc4f2cbee4bbcd2b0023583d9d9f9fad04279d9bc49e534e2c108b5315"
@@ -72,7 +72,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3329108619064807980",
+                    "gid": "8655743977322013302",
                     "size": "732593457",
                     "download": "735762368"
                 }
@@ -86,7 +86,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3541077515254710210",
+                    "gid": "4055619380187050568",
                     "size": "741697610",
                     "download": "744203200"
                 }
@@ -100,7 +100,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9154715367312892656",
+                    "gid": "7168977779531886215",
                     "size": "677036849",
                     "download": "678786176"
                 }
@@ -114,7 +114,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2408802180445359713",
+                    "gid": "5595353131826142056",
                     "size": "740238983",
                     "download": "742900544"
                 }
@@ -128,7 +128,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9075040140139474984",
+                    "gid": "8835085362590226233",
                     "size": "664192076",
                     "download": "665827504"
                 }
@@ -142,7 +142,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6743750956768596413",
+                    "gid": "2385440274765724822",
                     "size": "722680395",
                     "download": "725489264"
                 }
@@ -156,7 +156,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8347558533746530513",
+                    "gid": "312231001720505985",
                     "size": "929704668",
                     "download": "931530352"
                 }
@@ -170,7 +170,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "717198382193106099",
+                    "gid": "8168188656023412473",
                     "size": "701650068",
                     "download": "704627904"
                 }
@@ -184,8 +184,8 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7291412423297051650",
-                    "size": "382189909",
+                    "gid": "7572540464257930817",
+                    "size": "382189898",
                     "download": "383155152"
                 }
             },
@@ -198,7 +198,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3251092440315053416",
+                    "gid": "5079846606383949209",
                     "size": "684075388",
                     "download": "680276928"
                 }
@@ -212,9 +212,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5182563844054119999",
-                    "size": "397780280",
-                    "download": "219308464"
+                    "gid": "5210673570465846080",
+                    "size": "376631088",
+                    "download": "205554336"
                 }
             },
             "decryptionkey": "da79eea163f019194ada6c00a0c3d6ac778cf9ffc7ddccbda0d522710258777b"
@@ -226,7 +226,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2531594319037017998",
+                    "gid": "4730881267771278892",
                     "size": "0",
                     "download": "0"
                 }
@@ -240,7 +240,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3101714950913555190",
+                    "gid": "3412724189541854157",
                     "size": "0",
                     "download": "0"
                 }
@@ -254,7 +254,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1490167419478843822",
+                    "gid": "7788705169204251643",
                     "size": "0",
                     "download": "0"
                 }
@@ -263,8 +263,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "13789241",
-                "timeupdated": "1714557602"
+                "buildid": "17731237",
+                "timeupdated": "1743156002"
             }
         },
         "privatebranches": "1",
