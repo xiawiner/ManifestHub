@@ -4,8 +4,8 @@
     "name": "花奴令 HUANU POEMS",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27134077",
-    "update_time": "2025-01-24 00:28:09",
+    "change_number": "28281604",
+    "update_time": "2025-04-03 12:29:56",
     "depot": {
         "228990": {
             "config": {
@@ -17,9 +17,9 @@
         "3196551": {
             "manifests": {
                 "public": {
-                    "gid": "659893218204171291",
-                    "size": "32699123500",
-                    "download": "28797582224"
+                    "gid": "5361893115854040917",
+                    "size": "32707704141",
+                    "download": "28797820544"
                 }
             },
             "decryptionkey": "219c98232ac909c816efe8fce4d1f41ac51190d80bbc9616ce691e6180ec6ac3"
@@ -27,8 +27,8 @@
         "baselanguages": "english,tchinese",
         "branches": {
             "public": {
-                "buildid": "17010924",
-                "timeupdated": "1736940343"
+                "buildid": "17525736",
+                "timeupdated": "1740635201"
             }
         }
     }
