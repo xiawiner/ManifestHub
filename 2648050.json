@@ -4,8 +4,8 @@
     "name": "Sam & Max: The Devil's Playhouse",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26855445",
-    "update_time": "2025-01-04 04:01:13",
+    "change_number": "28239017",
+    "update_time": "2025-04-01 08:54:36",
     "depot": {
         "baselanguages": "english,german,french,russian",
         "228990": {
@@ -23,7 +23,7 @@
                     "download": "1916721056"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "8003b2e8ee42c8673c714d4a74712e8566f9f78df60fcfc3b08faddda0d1804c"
         },
         "3162640": {
             "dlcappid": "3162640",
