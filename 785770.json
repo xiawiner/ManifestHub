@@ -4,8 +4,8 @@
     "name": "Notruf 112 - Die Feuerwehr Simulation 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27992859",
-    "update_time": "2025-03-17 20:04:24",
+    "change_number": "28246277",
+    "update_time": "2025-04-01 18:34:46",
     "depot": {
         "785771": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5070196348234967904",
-                    "size": "6505986599",
-                    "download": "5564828960"
+                    "gid": "4938289512580637578",
+                    "size": "10515312640",
+                    "download": "6826409968"
                 },
                 "open_beta": {
-                    "gid": "5995694172409557429",
-                    "size": "8608319140",
-                    "download": "5320910576"
+                    "gid": "3906759474029843690",
+                    "size": "8637961240",
+                    "download": "5347935120"
                 }
             },
             "decryptionkey": "2c7097ddbc5e503a653700238917cebd42e5cb34f1bd54118c32df3457f45516"
@@ -30,16 +30,16 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "17065140",
-                "timeupdated": "1737636620"
+                "buildid": "17866875",
+                "timeupdated": "1743166806"
             },
             "open_beta": {
-                "buildid": "17064821",
+                "buildid": "17751174",
                 "description": "Public Beta Branch",
-                "timeupdated": "1737546602"
+                "timeupdated": "1743164853"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "5992cdb48336cc6adc4e12a1f63e5c0750d19b7e9a82dd6f7c51c56d2a0def9d"
+        "workshopdepotdecryptionkey": ""
     }
 }
