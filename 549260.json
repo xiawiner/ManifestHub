@@ -4,8 +4,8 @@
     "name": "Alwa's Awakening",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27002103",
-    "update_time": "2025-01-15 14:14:23",
+    "change_number": "28318760",
+    "update_time": "2025-04-05 08:16:23",
     "depot": {
         "hasdepotsindlc": "1",
         "549261": {
@@ -56,7 +56,7 @@
                     "download": "937376"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "60f19b45ae85f0035f9eda766cc00d03df217f0573988ca1399f7a600f1ed1c1"
         },
         "branches": {
             "public": {
