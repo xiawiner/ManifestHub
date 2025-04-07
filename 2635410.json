@@ -4,8 +4,8 @@
     "name": "Holdfast: Nations At War - Testing Branch",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28013548",
-    "update_time": "2025-03-18 21:06:49",
+    "change_number": "28309736",
+    "update_time": "2025-04-04 21:47:37",
     "depot": {
         "hasdepotsindlc": "1",
         "2635411": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8692294246104987733",
-                    "size": "20897109208",
-                    "download": "7464056896"
+                    "gid": "6617956998870421257",
+                    "size": "21116973265",
+                    "download": "7533592544"
                 }
             },
             "decryptionkey": "85f25cf9fce063cc563d5a014d870365cf60e0cb9d4dbac66663659ce78b1a28"
@@ -24,11 +24,11 @@
         "workshopdepot": "2635410",
         "branches": {
             "public": {
-                "buildid": "17440375",
-                "timeupdated": "1740077850"
+                "buildid": "17968610",
+                "timeupdated": "1743695114"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "fc1d3a9b3a9bb888726600af931ebf31c5b30a09d4c7b1f52865fac003578b2d"
     }
 }
