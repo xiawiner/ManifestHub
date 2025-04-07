@@ -4,8 +4,8 @@
     "name": "The Smurfs – Dreams Demo",
     "schinese_name": "蓝精灵：梦境 Demo",
     "isfreeapp": "0",
-    "change_number": "26475157",
-    "update_time": "2024-12-05 00:53:07",
+    "change_number": "28055803",
+    "update_time": "2025-03-21 01:06:38",
     "depot": {
         "228989": {
             "config": {
@@ -28,8 +28,7 @@
                     "size": "2935310310",
                     "download": "2049915408"
                 }
-            },
-            "decryptionkey": "29e3f3e7f71e9a86951bb29b547f955df37c6e88370119ae94780b466bcb867f"
+            }
         },
         "branches": {
             "public": {
