@@ -4,8 +4,8 @@
     "name": "Resident Evil 4 (2005)",
     "schinese_name": "生化危机4",
     "isfreeapp": "0",
-    "change_number": "27103115",
-    "update_time": "2025-01-22 08:50:19",
+    "change_number": "28323260",
+    "update_time": "2025-04-05 20:10:54",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -109,7 +109,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "887fbc832b41f133430f20d78b365b07c724dd04c51ddcc48f879d907c4fd055"
         },
         "254704": {
             "manifests": {
@@ -124,7 +124,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "870c561ed9cbeb8f5733db64c240b45b609f1b8440890d999af03e206733d31d"
         },
         "branches": {
             "public": {
