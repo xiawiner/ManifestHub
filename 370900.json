@@ -4,8 +4,8 @@
     "name": "CrossCode Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "23634434",
-    "update_time": "2024-07-16 02:43:57",
+    "change_number": "28164432",
+    "update_time": "2025-03-27 14:55:01",
     "depot": {
         "228990": {
             "config": {
@@ -24,8 +24,7 @@
                     "size": "133091107",
                     "download": "94577040"
                 }
-            },
-            "decryptionkey": "bba5cd0ff99d4d40e6556861b335712dc4ad960286ec187226d9cde8b06e5b3a"
+            }
         },
         "370902": {
             "config": {
@@ -38,8 +37,7 @@
                     "size": "226527216",
                     "download": "116126080"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "370903": {
             "config": {
@@ -52,8 +50,7 @@
                     "size": "216462904",
                     "download": "115571488"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "370904": {
             "config": {
@@ -65,8 +62,7 @@
                     "size": "221197938",
                     "download": "111442208"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
