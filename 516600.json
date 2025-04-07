@@ -4,8 +4,8 @@
     "name": "Bai Qu: Hundreds of Melodies",
     "schinese_name": "百曲",
     "isfreeapp": "0",
-    "change_number": "27324309",
-    "update_time": "2025-02-05 19:16:25",
+    "change_number": "28247321",
+    "update_time": "2025-04-01 19:39:33",
     "depot": {
         "baselanguages": "english,french,spanish,schinese,tchinese,russian,japanese",
         "516601": {
@@ -42,6 +42,7 @@
             },
             "decryptionkey": "249b4d8de87d866e93f37565f80306c14696605f3f06a6ebb4d5fd6b15ac39cc"
         },
+        "hasdepotsindlc": "1",
         "branches": {
             "public": {
                 "buildid": "10190695",
