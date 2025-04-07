@@ -4,8 +4,8 @@
     "name": "Old School Musical",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27820446",
-    "update_time": "2025-03-07 02:07:31",
+    "change_number": "28302795",
+    "update_time": "2025-04-04 14:15:55",
     "depot": {
         "baselanguages": "english,french",
         "398031": {
@@ -36,7 +36,7 @@
                     "download": "362460208"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "3d27899934ce118973b9c52ab393886d6fa74960f49875a960932eee6210beee"
         },
         "398033": {
             "config": {
