@@ -4,8 +4,8 @@
     "name": "Barro",
     "schinese_name": "巴罗Barro",
     "isfreeapp": "0",
-    "change_number": "27982729",
-    "update_time": "2025-03-17 01:32:12",
+    "change_number": "28031979",
+    "update_time": "2025-03-19 20:17:15",
     "depot": {
         "baselanguages": "english",
         "618141": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4765534924846870447",
-                    "size": "2562761311",
-                    "download": "660110496"
+                    "gid": "3885058298039860414",
+                    "size": "2599694707",
+                    "download": "677915872"
                 },
                 "old_version": {
                     "gid": "2457111860135770964",
@@ -24,9 +24,9 @@
                     "download": "253842208"
                 },
                 "pre_release": {
-                    "gid": "4765534924846870447",
-                    "size": "2562761311",
-                    "download": "660110496"
+                    "gid": "3885058298039860414",
+                    "size": "2599694707",
+                    "download": "677915872"
                 }
             },
             "decryptionkey": "4ba36a9bf0198f2725efc006145afad5374f225f2723bcfde4a0d2f348ee0717"
@@ -53,8 +53,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17739277",
-                "timeupdated": "1742092814"
+                "buildid": "17779880",
+                "timeupdated": "1742386625"
             },
             "old_version": {
                 "buildid": "17743967",
@@ -62,8 +62,8 @@
                 "timeupdated": "1742146327"
             },
             "pre_release": {
-                "buildid": "17739277",
-                "timeupdated": "1742087612"
+                "buildid": "17779880",
+                "timeupdated": "1742386292"
             }
         }
     }
