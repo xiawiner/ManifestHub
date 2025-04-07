@@ -4,8 +4,8 @@
     "name": "Automobilista 2 - Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27960701",
-    "update_time": "2025-03-15 00:30:26",
+    "change_number": "28132683",
+    "update_time": "2025-03-25 23:40:34",
     "depot": {
         "1338041": {
             "config": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6347963098645495791",
-                    "size": "16026784",
-                    "download": "5190592"
+                    "gid": "4424219708150701409",
+                    "size": "16026876",
+                    "download": "5190704"
                 }
             },
             "decryptionkey": "8911dcbe313c35b1019d4d342f813b31cfb22f65726890eb1f9eeaaea5dfc951"
         },
         "branches": {
             "public": {
-                "buildid": "17728083",
-                "timeupdated": "1741969819"
+                "buildid": "17853583",
+                "timeupdated": "1742917221"
             }
         },
         "privatebranches": "1"
