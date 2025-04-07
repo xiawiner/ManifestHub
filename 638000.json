@@ -4,8 +4,8 @@
     "name": "When Ski Lifts Go Wrong ",
     "schinese_name": "当滑雪升降机发生了故障",
     "isfreeapp": "0",
-    "change_number": "27925725",
-    "update_time": "2025-03-13 12:22:14",
+    "change_number": "28227253",
+    "update_time": "2025-03-31 19:46:55",
     "depot": {
         "workshopdepot": "638000",
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,brazilian",
@@ -45,7 +45,7 @@
                     "download": "34554224"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "2a728a98cd2715264209245713ddf8c1e1ba812e648ba50fadec4c514c47a5a6"
         },
         "branches": {
             "public": {
