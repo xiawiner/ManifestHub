@@ -4,8 +4,8 @@
     "name": "Echo",
     "schinese_name": "回音",
     "isfreeapp": "0",
-    "change_number": "26403166",
-    "update_time": "2024-12-05 06:42:29",
+    "change_number": "28150455",
+    "update_time": "2025-03-26 21:46:59",
     "depot": {
         "baselanguages": "english,spanish,schinese,tchinese,japanese,latam",
         "hasdepotsindlc": "1",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7483405613723278670",
-                    "size": "485044896",
-                    "download": "427792432"
+                    "gid": "8741594203252987685",
+                    "size": "485044937",
+                    "download": "427792480"
                 }
             },
             "decryptionkey": "b0e9b31725f060e5ab5c1d1d5590717d24e16538538399ced18634eb977bbf59"
@@ -102,8 +102,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "15707737",
-                "timeupdated": "1726416086"
+                "buildid": "17867724",
+                "timeupdated": "1742996813"
             }
         }
     }
