@@ -4,8 +4,8 @@
     "name": "Goofy Gorillas",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28004816",
-    "update_time": "2025-03-18 09:20:13",
+    "change_number": "28337654",
+    "update_time": "2025-04-07 09:12:47",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "2627571": {
             "manifests": {
                 "public": {
-                    "gid": "9127566245975396154",
-                    "size": "724599254",
-                    "download": "375072496"
+                    "gid": "2862010503500183618",
+                    "size": "723222602",
+                    "download": "373811584"
                 },
                 "original": {
                     "gid": "3354654784983720102",
@@ -38,8 +38,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17759226",
-                "timeupdated": "1742260809"
+                "buildid": "18005485",
+                "timeupdated": "1743988363"
             },
             "original": {
                 "buildid": "12853609",
