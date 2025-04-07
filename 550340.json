@@ -4,8 +4,8 @@
     "name": "Umineko: Golden Fantasia",
     "schinese_name": "海猫：黄金梦想曲",
     "isfreeapp": "0",
-    "change_number": "25776492",
-    "update_time": "2024-10-18 08:01:20",
+    "change_number": "28318272",
+    "update_time": "2025-04-05 07:25:55",
     "depot": {
         "baselanguages": "english,japanese",
         "228984": {
@@ -63,9 +63,9 @@
                     "download": "2306586400"
                 },
                 "testing": {
-                    "gid": "6967267542671519481",
-                    "size": "2711761318",
-                    "download": "2309000864"
+                    "gid": "3485513777921608817",
+                    "size": "2750991239",
+                    "download": "2310835264"
                 }
             },
             "decryptionkey": "ae41825923aa46bf19b0b6e453f64aa72a5a766fe36532aebef46bd6e4ef18c3"
@@ -81,8 +81,8 @@
                 "timeupdated": "1727054143"
             },
             "testing": {
-                "buildid": "16088573",
-                "timeupdated": "1729209677"
+                "buildid": "17991828",
+                "timeupdated": "1743809150"
             }
         }
     }
