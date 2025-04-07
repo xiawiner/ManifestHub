@@ -4,8 +4,8 @@
     "name": "Damned 2 Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26037758",
-    "update_time": "2024-11-04 21:47:37",
+    "change_number": "28079512",
+    "update_time": "2025-03-22 04:10:41",
     "depot": {
         "228989": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "12008920238",
                     "download": "4882910976"
                 }
-            },
-            "decryptionkey": "d4f80e5d2e8e7948144b80b99d7d2c970d63e699b9cde5a1d7971512c9655620"
+            }
         },
         "branches": {
             "public": {
