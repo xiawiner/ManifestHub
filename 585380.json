@@ -4,8 +4,8 @@
     "name": "Acceleration of SUGURI 2 DEMO",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "23634434",
-    "update_time": "2024-07-16 02:44:16",
+    "change_number": "28094339",
+    "update_time": "2025-03-23 16:53:05",
     "depot": {
         "228986": {
             "config": {
@@ -28,8 +28,7 @@
                     "size": "520306164",
                     "download": "456410640"
                 }
-            },
-            "decryptionkey": "659e43421d24d5a877689318befc2397cda0a4673df4b40b939bc9e54595964e"
+            }
         },
         "branches": {
             "public": {
