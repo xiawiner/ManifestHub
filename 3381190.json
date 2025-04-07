@@ -4,8 +4,8 @@
     "name": "I Am Motherfucker",
     "schinese_name": "对不起操了你的妈",
     "isfreeapp": "0",
-    "change_number": "27502868",
-    "update_time": "2025-02-16 21:14:52",
+    "change_number": "28278834",
+    "update_time": "2025-04-03 08:09:50",
     "depot": {
         "3381191": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5069290220165318183",
-                    "size": "1796856261",
-                    "download": "1653657008"
+                    "gid": "6497289937414986143",
+                    "size": "1677291213",
+                    "download": "1546136352"
                 }
             },
             "decryptionkey": "2ee7f8fea3255e45451d02af15ce3f8059e09b13a90646c45691a20cefff9dc5"
@@ -35,8 +35,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17285378",
-                "timeupdated": "1738961031"
+                "buildid": "17325433",
+                "timeupdated": "1742578336"
             }
         },
         "privatebranches": "1"
