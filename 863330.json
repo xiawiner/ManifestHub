@@ -4,8 +4,8 @@
     "name": "RPG in a Box Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27879639",
-    "update_time": "2025-03-11 05:33:08",
+    "change_number": "28299412",
+    "update_time": "2025-04-04 08:24:05",
     "depot": {
         "863331": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2933103859722273554",
-                    "size": "223559364",
-                    "download": "157275200"
+                    "gid": "8075699360698846884",
+                    "size": "224084036",
+                    "download": "157634048"
                 }
             }
         },
@@ -52,9 +52,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5159554906641077340",
-                    "size": "796025261",
-                    "download": "442101488"
+                    "gid": "2208848291304271101",
+                    "size": "796549933",
+                    "download": "442464160"
                 }
             }
         },
@@ -99,8 +99,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17561712",
-                "timeupdated": "1740870491"
+                "buildid": "17977813",
+                "timeupdated": "1743726240"
             }
         }
     }
