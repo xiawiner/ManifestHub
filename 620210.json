@@ -4,10 +4,16 @@
     "name": "Fatal Twelve",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27892360",
-    "update_time": "2025-03-11 22:37:33",
+    "change_number": "28078842",
+    "update_time": "2025-03-22 03:16:42",
     "depot": {
-        "baselanguages": "",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
         "228990": {
             "config": {
                 "oslist": "windows"
@@ -15,6 +21,7 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
+        "baselanguages": "",
         "620211": {
             "config": {
                 "oslist": "windows"
