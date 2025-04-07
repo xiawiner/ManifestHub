@@ -4,8 +4,8 @@
     "name": "Underground Blossom",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26584428",
-    "update_time": "2024-12-11 08:17:36",
+    "change_number": "28085775",
+    "update_time": "2025-03-22 17:15:25",
     "depot": {
         "2291851": {
             "config": {
@@ -26,17 +26,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8830656126397419515",
-                    "size": "211806592",
-                    "download": "174984656"
+                    "gid": "3475961985785925937",
+                    "size": "208525999",
+                    "download": "171600432"
                 }
             },
             "decryptionkey": "05e2d8fb8b99a17a8551bddf53421a9298b43602f6f14b99f2056cf4cad9daf7"
         },
         "branches": {
             "public": {
-                "buildid": "15198704",
-                "timeupdated": "1722354909"
+                "buildid": "17819431",
+                "timeupdated": "1742634919"
             }
         },
         "privatebranches": "1"
