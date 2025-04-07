@@ -4,8 +4,8 @@
     "name": "Crib Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26427941",
-    "update_time": "2024-12-05 08:05:03",
+    "change_number": "28260175",
+    "update_time": "2025-04-02 10:55:43",
     "depot": {
         "228989": {
             "config": {
@@ -28,8 +28,7 @@
                     "size": "2307846166",
                     "download": "2201171488"
                 }
-            },
-            "decryptionkey": "c0f48e30d873475ddad3a6cffd2a0df27f4965059601dcd9cfcd56355c63dd90"
+            }
         },
         "branches": {
             "public": {
