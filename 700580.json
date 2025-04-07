@@ -4,30 +4,25 @@
     "name": "Rust - Staging Branch",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28013822",
-    "update_time": "2025-03-18 21:24:26",
+    "change_number": "28346760",
+    "update_time": "2025-04-07 21:48:47",
     "depot": {
         "700581": {
             "manifests": {
                 "public": {
-                    "gid": "9073312687053387718",
-                    "size": "38761415387",
-                    "download": "21745829072"
-                },
-                "crash": {
-                    "gid": "6544165040415151734",
-                    "size": "17642197804",
-                    "download": "9150407856"
+                    "gid": "3509022504502739822",
+                    "size": "38869672892",
+                    "download": "21809679440"
                 },
                 "aux02": {
-                    "gid": "1773912976762834301",
-                    "size": "38762338419",
-                    "download": "21746665408"
+                    "gid": "4260975882763175682",
+                    "size": "38920714860",
+                    "download": "21834234032"
                 },
                 "main": {
-                    "gid": "7137173315588675153",
-                    "size": "38762082733",
-                    "download": "21746526352"
+                    "gid": "3509022504502739822",
+                    "size": "38869672892",
+                    "download": "21809679440"
                 }
             },
             "decryptionkey": "11dbcaba4039cb23465ba0d18059f05d2b7e8867ffb431b3f462e3c56b29c858"
@@ -39,24 +34,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "503644689168404335",
-                    "size": "888465660",
-                    "download": "478341072"
-                },
-                "crash": {
-                    "gid": "6643408220322733983",
-                    "size": "603349952",
-                    "download": "318946912"
+                    "gid": "3008535883506376761",
+                    "size": "888637031",
+                    "download": "478245216"
                 },
                 "aux02": {
-                    "gid": "850507560947734313",
-                    "size": "852620613",
-                    "download": "470788368"
+                    "gid": "4393178575577002644",
+                    "size": "849130541",
+                    "download": "470274272"
                 },
                 "main": {
-                    "gid": "993858080597707933",
-                    "size": "888302553",
-                    "download": "478170512"
+                    "gid": "3008535883506376761",
+                    "size": "888637031",
+                    "download": "478245216"
                 }
             },
             "decryptionkey": "17c1e0e2d0921b8d4039e3cd99e18b70b86b7bac55df65e0d40084b5c5e3397d"
@@ -68,14 +58,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8893956978160810827",
-                    "size": "8351034776",
-                    "download": "2888856944"
-                },
-                "crash": {
-                    "gid": "8971463725738639198",
-                    "size": "3106614358",
-                    "download": "1012075248"
+                    "gid": "1089846192927508441",
+                    "size": "8369822301",
+                    "download": "2902932576"
                 },
                 "aux02": {
                     "gid": "1686720267532408226",
@@ -83,31 +68,26 @@
                     "download": "0"
                 },
                 "main": {
-                    "gid": "965241385751246879",
-                    "size": "8350003098",
-                    "download": "2888649424"
+                    "gid": "1089846192927508441",
+                    "size": "8369822301",
+                    "download": "2902932576"
                 }
             },
             "decryptionkey": "e9b68dff41c21fc3331149d63647d74a524adead33c5e9e4948bb52d4cb9fa4c"
         },
         "branches": {
             "public": {
-                "buildid": "17742774",
-                "timeupdated": "1742162493"
-            },
-            "crash": {
-                "buildid": "6485627",
-                "description": "troubleshoot",
-                "timeupdated": "1617450529"
+                "buildid": "18011877",
+                "timeupdated": "1744033723"
             },
             "aux02": {
-                "buildid": "17761737",
+                "buildid": "18011435",
                 "description": "upandcoming",
-                "timeupdated": "1742281594"
+                "timeupdated": "1744029876"
             },
             "main": {
-                "buildid": "17766037",
-                "timeupdated": "1742304121"
+                "buildid": "18011877",
+                "timeupdated": "1744032201"
             }
         },
         "privatebranches": "1"
