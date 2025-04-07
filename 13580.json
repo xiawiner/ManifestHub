@@ -4,8 +4,8 @@
     "name": "Tom Clancy's Splinter Cell: Double Agent",
     "schinese_name": "细胞分裂4：双重间谍",
     "isfreeapp": "0",
-    "change_number": "27861785",
-    "update_time": "2025-03-10 04:50:21",
+    "change_number": "28323259",
+    "update_time": "2025-04-05 20:10:12",
     "depot": {
         "13581": {
             "systemdefined": "1",
@@ -42,7 +42,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "cd4eabea43cb192f8d9b20581914cc2d40afd064776d5998ea756216fb519584"
         },
         "13584": {
             "config": {
@@ -81,7 +81,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "b45a78b55a7296340d25ed04f0cbf88c00017f2085d67e976d28378de7ae4822"
         },
         "overridescddb": "1",
         "branches": {
