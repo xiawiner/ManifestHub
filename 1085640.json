@@ -4,8 +4,8 @@
     "name": "Hentai Waifu II",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26802358",
-    "update_time": "2024-12-28 13:40:36",
+    "change_number": "28219548",
+    "update_time": "2025-03-31 07:50:28",
     "depot": {
         "1085641": {
             "manifests": {
@@ -36,7 +36,7 @@
                 }
             },
             "dlcappid": "1087011",
-            "decryptionkey": ""
+            "decryptionkey": "355c0677ecadb9f36a29adc6d08384209a078588ca9f6298e8edd6fed8f4bd48"
         },
         "1087010": {
             "manifests": {
@@ -52,7 +52,7 @@
                 }
             },
             "dlcappid": "1087010",
-            "decryptionkey": ""
+            "decryptionkey": "46a32c0258afb43ded086cfd3a212441f9978a94d0b12c6a0e244ccf60fa41b7"
         },
         "branches": {
             "public": {
