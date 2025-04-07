@@ -4,8 +4,8 @@
     "name": "RollerCoaster Tycoon Classic",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27826838",
-    "update_time": "2025-03-07 09:38:03",
+    "change_number": "28319352",
+    "update_time": "2025-04-05 09:26:06",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,dutch",
         "228984": {
@@ -34,9 +34,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "397802173415791120",
-                    "size": "378469939",
-                    "download": "221735824"
+                    "gid": "6927383785444323906",
+                    "size": "435200307",
+                    "download": "241827952"
                 }
             },
             "decryptionkey": "6c8ec21f32d0ad18e712e5fb00572d7a8dd3f00bad4e8ba3bdec3e4464388717"
@@ -48,8 +48,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "2410737",
-                "timeupdated": "1516555236"
+                "buildid": "17992609",
+                "timeupdated": "1743816362"
             }
         },
         "privatebranches": "1"
