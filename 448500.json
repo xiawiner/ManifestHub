@@ -4,8 +4,8 @@
     "name": "Little Walker",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "23591175",
-    "update_time": "2024-05-24 10:34:19",
+    "change_number": "28103707",
+    "update_time": "2025-03-24 14:59:46",
     "depot": {
         "hasdepotsindlc": "1",
         "448501": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8606217564406391527",
-                    "size": "21923950",
-                    "download": "20399088"
+                    "gid": "4506636580414299913",
+                    "size": "24046229",
+                    "download": "20069664"
                 }
             },
             "decryptionkey": "01dc2cf74607201e87ee2a9cb1073fde3dbccf93cb9acd9d9930f6445ff5c2cc"
         },
         "branches": {
             "public": {
-                "buildid": "6984286",
-                "timeupdated": "1625558122"
+                "buildid": "17756103",
+                "timeupdated": "1742239297"
             }
         },
         "privatebranches": "1"
