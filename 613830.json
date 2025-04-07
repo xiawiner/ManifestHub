@@ -4,8 +4,8 @@
     "name": "CHRONO TRIGGER",
     "schinese_name": "时空之轮",
     "isfreeapp": "0",
-    "change_number": "27522527",
-    "update_time": "2025-02-18 04:14:59",
+    "change_number": "28042915",
+    "update_time": "2025-03-20 09:20:38",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese",
         "228981": {
@@ -72,7 +72,7 @@
                 }
             },
             "dlcappid": "775290",
-            "decryptionkey": ""
+            "decryptionkey": "ef7fc1356ab3d71703a865e920536fa58566c38c00f224f49ecc5c7e60ced83e"
         },
         "branches": {
             "public": {
