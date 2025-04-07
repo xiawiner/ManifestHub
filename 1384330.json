@@ -4,8 +4,8 @@
     "name": "Princess Daphne and the Orcs",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25598192",
-    "update_time": "2024-10-09 02:06:07",
+    "change_number": "28297059",
+    "update_time": "2025-04-04 05:15:51",
     "depot": {
         "1384331": {
             "manifests": {
@@ -26,7 +26,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "7da4449a0cc7ed9b3cce65b00bcf6f902c996570183f223052b2664b6eeef9b2"
         },
         "1560192": {
             "dlcappid": "1560192",
@@ -59,7 +59,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "7f3c2c378a62c82b456d2ae1cfaa4a84465b6ee5f8817666cc3644902a40edf4"
         },
         "branches": {
             "public": {
