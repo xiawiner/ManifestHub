@@ -4,8 +4,8 @@
     "name": "Xargon Remake Ep.3",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27383340",
-    "update_time": "2025-02-09 08:38:35",
+    "change_number": "28089504",
+    "update_time": "2025-03-23 02:01:06",
     "depot": {
         "2447531": {
             "config": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5249894520732016180",
-                    "size": "7502606787",
-                    "download": "946150832"
+                    "gid": "4149488773273440854",
+                    "size": "7580290706",
+                    "download": "996622976"
                 }
             },
             "decryptionkey": "ffc7ece858b6fcf52a7f30ac1b29aa05c2caf6861b977e0268c1e0904dc766ea"
         },
         "branches": {
             "public": {
-                "buildid": "17014889",
-                "timeupdated": "1736956021"
+                "buildid": "17821855",
+                "timeupdated": "1742666460"
             }
         }
     }
