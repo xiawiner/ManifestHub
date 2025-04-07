@@ -4,8 +4,8 @@
     "name": "Power & Revolution 2023 Edition",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27969610",
-    "update_time": "2025-03-15 13:24:02",
+    "change_number": "28323260",
+    "update_time": "2025-04-05 20:11:02",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,russian,japanese,portuguese",
         "2392521": {
@@ -35,7 +35,7 @@
                     "download": "439775488"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "d6f63a9fd392914b1da4212b7c7b23aaca5071a527c36483eb8c881c98579dfe"
         },
         "2392523": {
             "config": {
@@ -50,7 +50,7 @@
                     "download": "428593328"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "24d7c7684992b951129d91fc65b32ae98d4763ac2ed1edb55d0f57bc2758f6a6"
         },
         "2392524": {
             "config": {
