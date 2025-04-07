@@ -4,8 +4,8 @@
     "name": "ONE WAY HOME Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27903853",
-    "update_time": "2025-03-12 12:06:23",
+    "change_number": "28323311",
+    "update_time": "2025-04-05 20:16:46",
     "depot": {
         "hasdepotsindlc": "0",
         "228989": {
@@ -28,16 +28,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "717391093923164224",
-                    "size": "8762727683",
-                    "download": "7465109264"
+                    "gid": "6437933812658061605",
+                    "size": "8535866375",
+                    "download": "7708941872"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "17646199",
-                "timeupdated": "1741433546"
+                "buildid": "17949854",
+                "timeupdated": "1743573594"
             }
         }
     }
