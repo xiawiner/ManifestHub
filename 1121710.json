@@ -3,9 +3,9 @@
     "type": "Game",
     "name": "Total Lockdown",
     "schinese_name": "",
-    "isfreeapp": "0",
-    "change_number": "26330600",
-    "update_time": "2024-12-05 01:17:39",
+    "isfreeapp": "1",
+    "change_number": "28247768",
+    "update_time": "2025-04-01 20:06:15",
     "depot": {
         "228988": {
             "config": {
@@ -37,8 +37,7 @@
                     "size": "5441210873",
                     "download": "2200677696"
                 }
-            },
-            "decryptionkey": "19b2c9644e597d99e64a983dcbe50b003fddb90f6dd3b2ab68540ca5cf1c0f74"
+            }
         },
         "branches": {
             "public": {
