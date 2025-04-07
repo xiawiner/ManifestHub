@@ -4,8 +4,8 @@
     "name": "Call from the darkness Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27257259",
-    "update_time": "2025-02-01 00:39:54",
+    "change_number": "28334764",
+    "update_time": "2025-04-07 02:45:20",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,16 @@
         "3408881": {
             "manifests": {
                 "public": {
-                    "gid": "7100780441110017756",
-                    "size": "7185484696",
-                    "download": "6788841040"
+                    "gid": "8226651898616716331",
+                    "size": "8479299115",
+                    "download": "8025373456"
                 }
-            },
-            "decryptionkey": "fe6a3f21538ba5fccb13b5c42be59bcb837ae4d8ea537dc5829a3e18d2fe26fb"
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17201520",
-                "timeupdated": "1738341394"
+                "buildid": "18003387",
+                "timeupdated": "1743965116"
             }
         }
     }
