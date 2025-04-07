@@ -4,15 +4,15 @@
     "name": "再刷一把2：金色传说",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27375376",
-    "update_time": "2025-02-08 13:07:30",
+    "change_number": "28121153",
+    "update_time": "2025-03-25 10:33:01",
     "depot": {
         "3358511": {
             "manifests": {
                 "public": {
-                    "gid": "8703832896416586299",
-                    "size": "696657132",
-                    "download": "478134528"
+                    "gid": "4951724462399695512",
+                    "size": "696990610",
+                    "download": "478364480"
                 }
             },
             "decryptionkey": "5fdfeef6973a4e678cbdecbf4e0e1fd9f41e2fc6b37c7926bd7b61b3df165e27"
@@ -20,8 +20,8 @@
         "baselanguages": "schinese",
         "branches": {
             "public": {
-                "buildid": "17435859",
-                "timeupdated": "1740105198"
+                "buildid": "17845016",
+                "timeupdated": "1742869977"
             }
         },
         "privatebranches": "1"
