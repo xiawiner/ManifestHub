@@ -4,8 +4,8 @@
     "name": "Pacifist Kunoichi Kikyo",
     "schinese_name": "不战斗的女忍者桔梗",
     "isfreeapp": "0",
-    "change_number": "27387875",
-    "update_time": "2025-02-09 22:27:53",
+    "change_number": "28124924",
+    "update_time": "2025-03-25 16:08:06",
     "depot": {
         "baselanguages": "english,schinese,tchinese,japanese",
         "2499681": {
@@ -48,7 +48,7 @@
                     "download": "234069568"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "7fcb4d67f7d44a2173d740472fa263a5d9f13f336fda6a8aa3b58018df10a539"
         },
         "2499684": {
             "config": {
