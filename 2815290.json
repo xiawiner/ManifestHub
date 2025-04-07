@@ -4,8 +4,8 @@
     "name": "The Sims™ 4 Life & Death Expansion Pack",
     "schinese_name": "《The Sims™ 4 生与死》资料片",
     "isfreeapp": "0",
-    "change_number": "27475150",
-    "update_time": "2025-02-14 16:16:48",
+    "change_number": "28319275",
+    "update_time": "2025-04-05 09:16:32",
     "depot": {
         "2815290": {
             "dlcappid": "2815290",
@@ -128,7 +128,7 @@
                 }
             },
             "dlcappid": "2815290",
-            "decryptionkey": ""
+            "decryptionkey": "ea9022bed7a97dcaeee189af9fc55715f988d8bd39f8c558c8599f0d60abc2cb"
         },
         "2815299": {
             "config": {
