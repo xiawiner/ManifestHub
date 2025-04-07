@@ -4,8 +4,8 @@
     "name": "DeadPoly Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27853718",
-    "update_time": "2025-03-09 04:47:24",
+    "change_number": "28063092",
+    "update_time": "2025-03-21 10:08:18",
     "depot": {
         "1004": {
             "config": {
@@ -66,9 +66,9 @@
         "2208381": {
             "manifests": {
                 "public": {
-                    "gid": "8422468215366408956",
-                    "size": "745481899",
-                    "download": "475432800"
+                    "gid": "6509887132698197850",
+                    "size": "735903588",
+                    "download": "465737056"
                 },
                 "legacy": {
                     "gid": "1287940941906054355",
@@ -81,8 +81,8 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "17648705",
-                "timeupdated": "1741466841"
+                "buildid": "17802757",
+                "timeupdated": "1742522894"
             },
             "legacy": {
                 "buildid": "10965348",
