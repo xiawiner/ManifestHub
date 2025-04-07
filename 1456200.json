@@ -4,23 +4,23 @@
     "name": "Initial Drift Online",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27898530",
-    "update_time": "2025-03-12 04:28:11",
+    "change_number": "28337334",
+    "update_time": "2025-04-07 08:39:16",
     "depot": {
         "1456201": {
             "manifests": {
                 "public": {
-                    "gid": "8842188100326993750",
-                    "size": "4905927364",
-                    "download": "1438413072"
+                    "gid": "5896833956896021661",
+                    "size": "6493750672",
+                    "download": "2067314416"
                 }
             },
             "decryptionkey": "eed2cdba2247e0e72d722b8073f6981c92fedf61e4f3a8bc078f539144132fd2"
         },
         "branches": {
             "public": {
-                "buildid": "11500473",
-                "timeupdated": "1687109731"
+                "buildid": "18005185",
+                "timeupdated": "1743986353"
             }
         }
     }
