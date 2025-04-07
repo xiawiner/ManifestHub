@@ -4,8 +4,8 @@
     "name": "Space Colony",
     "schinese_name": "太空殖民地",
     "isfreeapp": "0",
-    "change_number": "26125734",
-    "update_time": "2024-11-10 09:19:14",
+    "change_number": "28053001",
+    "update_time": "2025-03-20 22:46:32",
     "depot": {
         "workshopdepot": "297920",
         "baselanguages": "",
@@ -126,7 +126,7 @@
                     "download": "502727376"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "ea807b06289a9b2baefb74ca4fad5d84d2e0616fce937fa65029a67a5487dede"
         },
         "297928": {
             "config": {
