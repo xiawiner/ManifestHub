@@ -4,8 +4,8 @@
     "name": "TYRONE vs COPS",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27084597",
-    "update_time": "2025-01-21 08:09:30",
+    "change_number": "28270937",
+    "update_time": "2025-04-02 23:11:14",
     "depot": {
         "1853201": {
             "config": {
@@ -31,7 +31,7 @@
                     "download": "680946448"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "2ac62fcace20bceeaac76b117518f206f57d91160812e48443ca48aaba20df75"
         },
         "1874460": {
             "dlcappid": "1874460"
