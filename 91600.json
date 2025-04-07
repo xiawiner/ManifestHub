@@ -4,8 +4,8 @@
     "name": "Sanctum",
     "schinese_name": "幽闭圣地",
     "isfreeapp": "0",
-    "change_number": "27103115",
-    "update_time": "2025-01-22 08:48:45",
+    "change_number": "28040321",
+    "update_time": "2025-03-20 05:21:50",
     "depot": {
         "91620": {
             "config": {
@@ -94,7 +94,7 @@
                 }
             },
             "dlcappid": "91606",
-            "decryptionkey": ""
+            "decryptionkey": "0d5cf24bce194011a0e0f19be3c5d14a37d0e2cd8b74f783c8d3d0907a313eac"
         },
         "91607": {
             "optional": "1",
@@ -111,7 +111,7 @@
                 }
             },
             "dlcappid": "91607",
-            "decryptionkey": ""
+            "decryptionkey": "1ce4debb81e58b0dc61decaaf5762f31269f79e6677e12fde08943e507ff87d0"
         },
         "91609": {
             "optional": "1",
@@ -161,7 +161,7 @@
                 }
             },
             "dlcappid": "91614",
-            "decryptionkey": ""
+            "decryptionkey": "58355bdbd7ca51c0c2056811ec9b63002fa31693c66d385c61dae262a6357305"
         },
         "91615": {
             "manifests": {
