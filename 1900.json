@@ -4,8 +4,8 @@
     "name": "Earth 2160",
     "schinese_name": "地球2160",
     "isfreeapp": "0",
-    "change_number": "27130158",
-    "update_time": "2025-01-23 20:25:12",
+    "change_number": "28078794",
+    "update_time": "2025-03-22 03:14:04",
     "depot": {
         "overridescddb": "1",
         "1905": {
@@ -273,7 +273,7 @@
                     "download": "1512772864"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "50ebd85b196dec96dfe78831f7f78c203d114429b518f611a96ce62a4f53f87c"
         },
         "986111": {
             "dlcappid": "986110",
@@ -287,7 +287,7 @@
                     "download": "118189280"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "edb212159072ec86ff5725d937c212cf431679bfaf8ce0642e67fcb4e4585fc0"
         },
         "986112": {
             "config": {
