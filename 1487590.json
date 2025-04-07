@@ -4,8 +4,8 @@
     "name": "吉原彼岸花",
     "schinese_name": "吉原彼岸花",
     "isfreeapp": "0",
-    "change_number": "27914876",
-    "update_time": "2025-03-13 00:08:38",
+    "change_number": "28022547",
+    "update_time": "2025-03-19 06:55:19",
     "depot": {
         "baselanguages": "schinese,tchinese,japanese",
         "1487591": {
@@ -20,7 +20,7 @@
                     "download": "1947772208"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "9fb696ff1b6dee2408af97bdfa596e6a2d9f31491ab869160a00774e6b371ea4"
         },
         "1487592": {
             "config": {
@@ -48,7 +48,7 @@
                     "download": "1944965728"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "468c068990a5997e16015875f0c6ed8f4c31ae2abde19be9bd842500ed8df62f"
         },
         "branches": {
             "public": {
