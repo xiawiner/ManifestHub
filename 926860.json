@@ -4,8 +4,8 @@
     "name": "Bloody Rally Show",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27989236",
-    "update_time": "2025-03-17 15:55:36",
+    "change_number": "28211497",
+    "update_time": "2025-03-30 10:15:53",
     "depot": {
         "workshopdepot": "926860",
         "926861": {},
@@ -146,6 +146,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "c3df59a83b1179ae06be4e976bd4b579f6f57d0f9bcaac5d15e91672c0b3e64c"
     }
 }
