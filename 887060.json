@@ -4,8 +4,8 @@
     "name": "Asterix & Obelix XXL 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25392646",
-    "update_time": "2024-09-26 03:03:15",
+    "change_number": "28190892",
+    "update_time": "2025-03-28 21:08:16",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,tchinese,russian,polish",
         "887061": {
@@ -32,7 +32,7 @@
                     "download": "1204069728"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "caf40250abff1ea9896326909e1448c6e4b1f4dbcd1491daff8346c83873f2d9"
         },
         "branches": {
             "public": {
