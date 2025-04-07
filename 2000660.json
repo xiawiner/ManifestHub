@@ -4,8 +4,8 @@
     "name": "IN HEAT: Lustful Nights Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27978169",
-    "update_time": "2025-03-16 12:10:26",
+    "change_number": "28271692",
+    "update_time": "2025-04-02 23:51:38",
     "depot": {
         "228990": {
             "config": {
@@ -20,9 +20,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1612704855546576771",
-                    "size": "1261153285",
-                    "download": "920436816"
+                    "gid": "8620085506090425289",
+                    "size": "1245580157",
+                    "download": "917761520"
                 }
             }
         },
@@ -32,9 +32,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1615992698814038472",
-                    "size": "1375509134",
-                    "download": "949413904"
+                    "gid": "1132904867167493159",
+                    "size": "1358523122",
+                    "download": "946603024"
                 }
             }
         },
@@ -44,16 +44,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6898002295742474388",
-                    "size": "1259399215",
-                    "download": "858781472"
+                    "gid": "8068479308544719483",
+                    "size": "1241084267",
+                    "download": "855615040"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "17740830",
-                "timeupdated": "1742098222"
+                "buildid": "17956799",
+                "timeupdated": "1743609091"
             }
         },
         "privatebranches": "1"
