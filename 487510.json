@@ -4,8 +4,8 @@
     "name": "fault - SILENCE THE PEDANT Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "22534048",
-    "update_time": "2024-07-16 02:44:06",
+    "change_number": "28271021",
+    "update_time": "2025-04-02 23:15:49",
     "depot": {
         "228990": {
             "config": {
@@ -22,8 +22,7 @@
                     "size": "1563466376",
                     "download": "1458319600"
                 }
-            },
-            "decryptionkey": "d5f2fc5f678853461cbe74475f473395ea520c9a64436b2a5df8a5b2036cdbb3"
+            }
         },
         "branches": {
             "public": {
