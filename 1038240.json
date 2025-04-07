@@ -4,8 +4,8 @@
     "name": "RainDesktop",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "22534048",
-    "update_time": "2024-05-24 09:21:45",
+    "change_number": "28046739",
+    "update_time": "2025-03-20 15:55:18",
     "depot": {
         "1038241": {
             "manifests": {
@@ -24,6 +24,6 @@
                 "timeupdated": "1556623049"
             }
         },
-        "workshopdepotdecryptionkey": "2401231c819922595ca64d77e3ec2065a4235be43576cc3a6a3ca5934b041b41"
+        "workshopdepotdecryptionkey": ""
     }
 }
