@@ -4,8 +4,8 @@
     "name": "Deep GachiGASM",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25699055",
-    "update_time": "2024-10-14 08:57:43",
+    "change_number": "28063218",
+    "update_time": "2025-03-21 10:19:01",
     "depot": {
         "baselanguages": "english,russian",
         "744431": {
@@ -33,7 +33,7 @@
                 }
             },
             "dlcappid": "761900",
-            "decryptionkey": ""
+            "decryptionkey": "f1763edd40c1d651df1e544d5a0c1b1bf2a1160161f46a8d9617bcbd4e0dfda8"
         },
         "branches": {
             "public": {
