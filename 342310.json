@@ -4,8 +4,8 @@
     "name": "RIOT - Civil Unrest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27200619",
-    "update_time": "2025-01-28 20:52:03",
+    "change_number": "28116513",
+    "update_time": "2025-03-25 04:14:58",
     "depot": {
         "workshopdepot": "342310",
         "hasdepotsindlc": "1",
@@ -69,6 +69,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "a665e8f7d0f48fd4518826a2d7ece54c36f3e09e712dc61c9257041d28f2fbfc"
+        "workshopdepotdecryptionkey": ""
     }
 }
