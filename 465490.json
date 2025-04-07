@@ -4,8 +4,8 @@
     "name": "Stellar Tactics",
     "schinese_name": "一流战术",
     "isfreeapp": "0",
-    "change_number": "27517918",
-    "update_time": "2025-02-17 23:13:52",
+    "change_number": "28208873",
+    "update_time": "2025-03-30 03:15:37",
     "depot": {
         "228983": {
             "config": {
@@ -56,14 +56,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1496403058912083002",
-                    "size": "8698536544",
-                    "download": "8715993472"
+                    "gid": "1203033301679800133",
+                    "size": "8698535145",
+                    "download": "8715992304"
                 },
                 "publictest": {
-                    "gid": "1496403058912083002",
-                    "size": "8698536544",
-                    "download": "8715993472"
+                    "gid": "1203033301679800133",
+                    "size": "8698535145",
+                    "download": "8715992304"
                 }
             },
             "decryptionkey": ""
@@ -75,14 +75,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6859826642498642758",
-                    "size": "8695751400",
-                    "download": "8713857472"
+                    "gid": "8451875280098890527",
+                    "size": "8695750001",
+                    "download": "8713856304"
                 },
                 "publictest": {
-                    "gid": "6859826642498642758",
-                    "size": "8695751400",
-                    "download": "8713857472"
+                    "gid": "8451875280098890527",
+                    "size": "8695750001",
+                    "download": "8713856304"
                 }
             },
             "decryptionkey": "ac918fe0ba06171c5c4e54f51907d68cc905204dd68ff689929ba1af3f3435e4"
@@ -143,13 +143,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17425190",
-                "timeupdated": "1739982429"
+                "buildid": "17899778",
+                "timeupdated": "1743177144"
             },
             "publictest": {
-                "buildid": "17425190",
+                "buildid": "17899778",
                 "description": "Public Testing Branch",
-                "timeupdated": "1739982208"
+                "timeupdated": "1743177096"
             }
         },
         "privatebranches": "1"
