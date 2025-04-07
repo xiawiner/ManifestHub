@@ -4,8 +4,8 @@
     "name": "Virtual AI - KURONYAM",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27951686",
-    "update_time": "2025-03-14 16:23:13",
+    "change_number": "28221199",
+    "update_time": "2025-03-31 10:51:31",
     "depot": {
         "baselanguages": "english",
         "2588861": {
@@ -55,7 +55,7 @@
                     "download": "484413664"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "138d84ef908fd47c840a15d65020836e50a6ec7595f3bef9bb61085550ddd869"
         },
         "2588867": {
             "config": {
@@ -69,7 +69,7 @@
                     "download": "418619312"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "cfffd01f082ae82a79ce2525c340a7ede3a03f2086be2964d28c4e6fa1f6b9f1"
         },
         "2588868": {
             "config": {
