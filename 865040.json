@@ -4,8 +4,8 @@
     "name": "Super Bit Blaster XL",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27976856",
-    "update_time": "2025-03-16 08:06:56",
+    "change_number": "28257142",
+    "update_time": "2025-04-02 06:03:00",
     "depot": {
         "865041": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3643264767047972473",
-                    "size": "124955514",
-                    "download": "71861328"
+                    "gid": "9091555392666068198",
+                    "size": "125056655",
+                    "download": "71858624"
                 }
             },
             "decryptionkey": "5d0ab197caecf3318014b9c77389078031ccf4c0ed488fa9c8acb19d87704d6f"
@@ -26,9 +26,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4041976627542666467",
-                    "size": "117350306",
-                    "download": "69741392"
+                    "gid": "7152967176961541052",
+                    "size": "117454427",
+                    "download": "69744848"
                 }
             },
             "decryptionkey": "4c152cb60b8036b15cdd16ce787d37061cbe8477d1895e6bf027918e5946f614"
@@ -39,17 +39,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "444233116647368870",
-                    "size": "122158183",
-                    "download": "69239856"
+                    "gid": "7349023427122880681",
+                    "size": "122253586",
+                    "download": "69298224"
                 }
             },
             "decryptionkey": "56996769a459864dabc2d9c85f5acf784d0317dc4531150b30ab302412044266"
         },
         "branches": {
             "public": {
-                "buildid": "17739487",
-                "timeupdated": "1742077186"
+                "buildid": "17946063",
+                "timeupdated": "1743544976"
             }
         }
     }
