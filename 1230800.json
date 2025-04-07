@@ -4,8 +4,8 @@
     "name": "Beach Buggy Racing 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27784431",
-    "update_time": "2025-03-05 07:57:26",
+    "change_number": "28125979",
+    "update_time": "2025-03-25 17:14:48",
     "depot": {
         "228989": {
             "config": {
@@ -55,7 +55,7 @@
                     "download": "80"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "a61762ac5c553c5ff08b948d5657dabc0d061288f989dec7092f7f2cc613f705"
         },
         "2486090": {
             "dlcappid": "2486090",
@@ -66,7 +66,7 @@
                     "download": "80"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "ac72f76af0e360c8018e3fd23b36ea03d3dbe19847ce43c618c14b589199da12"
         },
         "2486300": {
             "dlcappid": "2486300",
@@ -77,7 +77,7 @@
                     "download": "80"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "f1afb74c2ee199f7b1717b2cbd4bf449a3247231d5133f0f50f7b00137c33950"
         },
         "branches": {
             "public": {
