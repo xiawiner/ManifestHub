@@ -4,11 +4,9 @@
     "name": "Temple-Cobolia-Benchmark",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27859972",
-    "update_time": "2025-03-10 00:09:43",
+    "change_number": "28329794",
+    "update_time": "2025-04-06 13:51:02",
     "depot": {
-        "hasdepotsindlc": "1",
-        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese,indonesian",
         "1004": {
             "config": {
                 "oslist": "windows"
@@ -51,24 +49,81 @@
             "depotfromapp": "1007",
             "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
         },
-        "3420501": {
+        "228989": {
             "config": {
-                "oslist": "linux",
-                "osarch": "64"
+                "oslist": "windows"
             },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese,indonesian",
+        "3636810": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64",
+                "optionaldlc": "3636810"
+            },
+            "dlcappid": "3636810",
             "manifests": {
                 "public": {
-                    "gid": "4821336799735936288",
-                    "size": "9930273024",
-                    "download": "4583593696"
+                    "gid": "1400352632105523995",
+                    "size": "2142599713",
+                    "download": "606239536"
+                }
+            },
+            "depotfromapp": "3636810",
+            "decryptionkey": ""
+        },
+        "3420501": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows",
+                "language": "english"
+            },
+            "dlcappid": "3636810",
+            "manifests": {
+                "public": {
+                    "gid": "2829911804792953962",
+                    "size": "15919912561",
+                    "download": "11796241920"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17010643",
-                "timeupdated": "1736931532"
+                "buildid": "18000071",
+                "timeupdated": "1743918658"
             }
         },
         "privatebranches": "1"
