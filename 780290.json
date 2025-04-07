@@ -4,8 +4,8 @@
     "name": "Gloomhaven",
     "schinese_name": "幽港迷城",
     "isfreeapp": "0",
-    "change_number": "27884948",
-    "update_time": "2025-03-11 14:02:22",
+    "change_number": "28228608",
+    "update_time": "2025-03-31 21:15:30",
     "depot": {
         "workshopdepot": "780290",
         "228988": {
@@ -72,7 +72,7 @@
                     "download": "9328030992"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "12f6ead505a8cbecc6ad3d247b35354e6c1e559719461616ca1411cf624f2e65"
         },
         "hasdepotsindlc": "1",
         "branches": {
