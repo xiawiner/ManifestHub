@@ -4,8 +4,8 @@
     "name": "Stronghold Legends",
     "schinese_name": "要塞传奇",
     "isfreeapp": "0",
-    "change_number": "27915965",
-    "update_time": "2025-03-13 01:08:05",
+    "change_number": "28053081",
+    "update_time": "2025-03-20 22:50:10",
     "depot": {
         "overridescddb": "1",
         "workshopdepot": "40980",
@@ -107,7 +107,7 @@
                     "download": "253507648"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "20b764f1d64aaa1bdc533ef7ee12c7b74d9ae51ca76d77dbf63dfe1ac3f87d5d"
         },
         "40989": {
             "config": {
