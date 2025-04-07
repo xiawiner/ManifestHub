@@ -4,8 +4,8 @@
     "name": "Shoujo City",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25692841",
-    "update_time": "2024-10-13 19:57:30",
+    "change_number": "28143260",
+    "update_time": "2025-03-26 13:26:46",
     "depot": {
         "764231": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7557231599197482871",
-                    "size": "1191030270",
-                    "download": "395002432"
+                    "gid": "8181753531769276495",
+                    "size": "1191330693",
+                    "download": "395093440"
                 }
             },
             "decryptionkey": "f0c70efe9c46592f764f79ec27c81e4dfd1d9568831d504a5f9d8605794a8a12"
@@ -26,17 +26,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5494220474481638507",
-                    "size": "1216946504",
-                    "download": "403428800"
+                    "gid": "6802412779784364107",
+                    "size": "1217253806",
+                    "download": "403581776"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "15112896",
-                "timeupdated": "1721657993"
+                "buildid": "17828917",
+                "timeupdated": "1742766746"
             }
         }
     }
