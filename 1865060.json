@@ -4,8 +4,8 @@
     "name": "14 Minesweeper Variants",
     "schinese_name": "14种扫雷变体",
     "isfreeapp": "0",
-    "change_number": "27261580",
-    "update_time": "2025-02-01 05:32:04",
+    "change_number": "28334617",
+    "update_time": "2025-04-07 02:26:21",
     "depot": {
         "228989": {
             "config": {
@@ -20,9 +20,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7915653093105857995",
-                    "size": "106383499",
-                    "download": "38127984"
+                    "gid": "650603975043413039",
+                    "size": "106398507",
+                    "download": "38128816"
                 }
             },
             "decryptionkey": "4ae22980c89ef9c369bc1b344f2975f560de3e2878c7beb7070c5133f577e172"
@@ -34,17 +34,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8367207747492885812",
-                    "size": "164864525",
-                    "download": "51672160"
+                    "gid": "3676464649732019488",
+                    "size": "164866893",
+                    "download": "51670272"
                 }
             },
             "decryptionkey": "37a96bda4b136fceebe0fc4debf0beabfcb17afa23ac29a28c50fcb2d9d35c1c"
         },
         "branches": {
             "public": {
-                "buildid": "15177566",
-                "timeupdated": "1722167410"
+                "buildid": "18003289",
+                "timeupdated": "1743963978"
             }
         },
         "privatebranches": "1"
