@@ -4,8 +4,8 @@
     "name": "Thought Experiment Simulator",
     "schinese_name": "哲学梗模拟器",
     "isfreeapp": "0",
-    "change_number": "27988611",
-    "update_time": "2025-03-17 14:55:23",
+    "change_number": "28250673",
+    "update_time": "2025-04-01 22:52:56",
     "depot": {
         "2696321": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "695234304"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "424c2b7bdbcb213ac0cb6be1f05db48160ec93f7e6b892b819ddd1f45e08658e"
         },
         "branches": {
             "public": {
