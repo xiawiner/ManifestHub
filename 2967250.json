@@ -4,8 +4,8 @@
     "name": "Parasomnia Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27164277",
-    "update_time": "2025-01-25 22:47:41",
+    "change_number": "28303502",
+    "update_time": "2025-04-04 15:18:36",
     "depot": {
         "228989": {
             "config": {
@@ -28,8 +28,7 @@
                     "size": "7103403090",
                     "download": "6821307600"
                 }
-            },
-            "decryptionkey": "a5317c114b6518f9b55de1abdef337503b2869ab25e665e55c1a187c55ff01d7"
+            }
         },
         "branches": {
             "public": {
