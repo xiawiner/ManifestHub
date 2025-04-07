@@ -4,8 +4,8 @@
     "name": "STASIS",
     "schinese_name": "沉睡",
     "isfreeapp": "0",
-    "change_number": "27449549",
-    "update_time": "2025-02-13 08:16:03",
+    "change_number": "28029399",
+    "update_time": "2025-03-19 17:20:36",
     "depot": {
         "228984": {
             "config": {
@@ -66,7 +66,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "d2b79e813c36793bd01fb883dcf3636dd6ebd1910187b75290fc9a7fce7d5e1d"
         },
         "380154": {
             "config": {
@@ -84,7 +84,7 @@
                     "download": "2973163104"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "afde9791665939eadf920b9857f19299dfc483fd4e5834a5224571c857be2adf"
         },
         "380155": {
             "config": {
@@ -102,7 +102,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "c0d4fbb919658560b937fad4b8c77da5ae4e7503b3c17448078ebb0b865446c0"
         },
         "380156": {
             "config": {
@@ -120,7 +120,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "5f481cb98f0e7f13343c5e489f75f5921353f886328bb9d830022a9bbd113725"
         },
         "380157": {
             "manifests": {
