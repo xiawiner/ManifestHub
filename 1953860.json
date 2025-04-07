@@ -4,8 +4,8 @@
     "name": "Garden in!",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27901783",
-    "update_time": "2025-03-12 09:10:48",
+    "change_number": "28292066",
+    "update_time": "2025-04-03 23:40:06",
     "depot": {
         "baselanguages": "english,italian",
         "228989": {
@@ -43,9 +43,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1929191478917848494",
-                    "size": "590627498",
-                    "download": "335328592"
+                    "gid": "6400667077659317164",
+                    "size": "718587424",
+                    "download": "458140608"
                 }
             },
             "decryptionkey": ""
@@ -90,8 +90,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17269214",
-                "timeupdated": "1738860258"
+                "buildid": "17972473",
+                "timeupdated": "1743694802"
             }
         },
         "privatebranches": "1"
