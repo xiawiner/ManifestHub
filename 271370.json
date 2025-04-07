@@ -4,8 +4,8 @@
     "name": "Transport Giant",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27907933",
-    "update_time": "2025-03-12 17:37:09",
+    "change_number": "28194432",
+    "update_time": "2025-03-29 00:14:36",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "",
@@ -63,7 +63,7 @@
                     "download": "479968"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "ae3060a7466b7764a0009b2f46d924ffc5b50e3efa6e73239f29becf604ec3b6"
         },
         "271375": {
             "config": {
@@ -147,7 +147,7 @@
                     "download": "6300144"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "9babebab03093aa974d8ebafb9b86c2ef37f3773fb017509d79a76f7b58916b3"
         },
         "321521": {
             "config": {
