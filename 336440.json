@@ -4,8 +4,8 @@
     "name": "Super Cane Magic ZERO",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26670265",
-    "update_time": "2024-12-17 09:37:39",
+    "change_number": "28167464",
+    "update_time": "2025-03-27 18:14:24",
     "depot": {
         "baselanguages": "",
         "hasdepotsindlc": "1",
@@ -122,7 +122,7 @@
                     "download": "113603808"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "a8e7dcf7bbcf7aebf4bf07cc0e4ace9b69adffb0a53386a765d49d5d44cf7cda"
         },
         "branches": {
             "public": {
