@@ -4,8 +4,8 @@
     "name": "Feed and Grow: Fish",
     "schinese_name": "海底大猎杀",
     "isfreeapp": "0",
-    "change_number": "27103127",
-    "update_time": "2025-01-22 08:53:07",
+    "change_number": "28083510",
+    "update_time": "2025-03-22 11:13:50",
     "depot": {
         "229000": {
             "config": {
@@ -49,6 +49,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "7457263331aad47d08966f52a2797fdd5119e12cc17a03a072d0aead2f317b85"
+        "workshopdepotdecryptionkey": ""
     }
 }
