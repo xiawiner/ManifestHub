@@ -4,23 +4,23 @@
     "name": "Plane Accident",
     "schinese_name": "飞机失事模拟器",
     "isfreeapp": "0",
-    "change_number": "27713270",
-    "update_time": "2025-02-28 16:52:16",
+    "change_number": "28235959",
+    "update_time": "2025-04-01 04:51:30",
     "depot": {
         "1682341": {
             "manifests": {
                 "public": {
-                    "gid": "642926052007742392",
-                    "size": "11489743714",
-                    "download": "5544352960"
+                    "gid": "9137954101364481939",
+                    "size": "11532092942",
+                    "download": "5557594368"
                 }
             },
             "decryptionkey": "9d8dc6e9b546b33e3a2cd0157851cd96060dab29f61fde00f68a36dbd45bb038"
         },
         "branches": {
             "public": {
-                "buildid": "15587670",
-                "timeupdated": "1726510648"
+                "buildid": "17655277",
+                "timeupdated": "1742233492"
             }
         },
         "privatebranches": "1"
