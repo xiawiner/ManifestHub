@@ -4,8 +4,8 @@
     "name": "Ni no Kuni Wrath of the White Witch™ Remastered",
     "schinese_name": "二之国：白色圣灰的女王",
     "isfreeapp": "0",
-    "change_number": "27940222",
-    "update_time": "2025-03-14 02:21:22",
+    "change_number": "28346157",
+    "update_time": "2025-04-07 21:11:54",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,russian,japanese",
         "hasdepotsindlc": "1",
@@ -53,7 +53,7 @@
             },
             "dlcappid": "1154000",
             "depotfromapp": "1154000",
-            "decryptionkey": ""
+            "decryptionkey": "8ce42d40489dd4eb6b3e1fc33a88f87687751d03d5f4a56e6d79ac2d852f919b"
         },
         "branches": {
             "public": {
