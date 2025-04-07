@@ -4,16 +4,16 @@
     "name": "The Crew Motorfest - Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27960897",
-    "update_time": "2025-03-15 00:41:16",
+    "change_number": "28264933",
+    "update_time": "2025-04-02 17:31:58",
     "depot": {
         "2829101": {},
         "2698941": {
             "manifests": {
                 "public": {
-                    "gid": "7768897723152917618",
-                    "size": "59807687348",
-                    "download": "55116821696"
+                    "gid": "7163692487466211441",
+                    "size": "59807688270",
+                    "download": "55116835600"
                 }
             },
             "depotfromapp": "2698940"
