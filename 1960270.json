@@ -4,8 +4,8 @@
     "name": "Lootun",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27992761",
-    "update_time": "2025-03-17 19:58:04",
+    "change_number": "28206504",
+    "update_time": "2025-03-29 22:11:17",
     "depot": {
         "1960271": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5782845408132248536",
-                    "size": "170010940",
-                    "download": "61340320"
+                    "gid": "3339928194426264839",
+                    "size": "170009220",
+                    "download": "61330832"
                 },
                 "0.6.7": {
                     "gid": "8636792052454398490",
@@ -48,8 +48,8 @@
         "workshopdepot": "1960270",
         "branches": {
             "public": {
-                "buildid": "17751096",
-                "timeupdated": "1742212623"
+                "buildid": "17909889",
+                "timeupdated": "1743257089"
             },
             "0.6.7": {
                 "buildid": "9732328",
