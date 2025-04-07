@@ -4,8 +4,8 @@
     "name": "The Scourge | Tai Ương",
     "schinese_name": "灾殃The Scourge",
     "isfreeapp": "0",
-    "change_number": "27502866",
-    "update_time": "2025-02-16 21:14:18",
+    "change_number": "28204572",
+    "update_time": "2025-03-29 16:37:44",
     "depot": {
         "2456351": {
             "config": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4818417572859982290",
-                    "size": "9064152314",
-                    "download": "5415958080"
+                    "gid": "3716107547149492447",
+                    "size": "9065464669",
+                    "download": "5417510016"
                 },
                 "khoai-only": {
-                    "gid": "4818417572859982290",
-                    "size": "9064152314",
-                    "download": "5415958080"
+                    "gid": "3716107547149492447",
+                    "size": "9065464669",
+                    "download": "5417510016"
                 },
                 "no-warmup": {
                     "gid": "4386670902190074434",
@@ -33,13 +33,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "16475284",
-                "timeupdated": "1732181928"
+                "buildid": "17907746",
+                "timeupdated": "1743237458"
             },
             "khoai-only": {
-                "buildid": "16475284",
+                "buildid": "17907746",
                 "description": "Don't touch it",
-                "timeupdated": "1732121616"
+                "timeupdated": "1743229143"
             },
             "no-warmup": {
                 "buildid": "16190679",
