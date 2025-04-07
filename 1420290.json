@@ -4,8 +4,8 @@
     "name": "No More Heroes",
     "schinese_name": "英雄不再",
     "isfreeapp": "0",
-    "change_number": "27497216",
-    "update_time": "2025-02-16 04:15:30",
+    "change_number": "28141105",
+    "update_time": "2025-03-26 09:48:21",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,japanese",
         "228983": {
@@ -46,6 +46,11 @@
                     "size": "4430231967",
                     "download": "1452113440"
                 },
+                "2024-07-31": {
+                    "gid": "4529667158961749222",
+                    "size": "4430231967",
+                    "download": "1452113440"
+                },
                 "2024-05-13": {
                     "gid": "6376128770185422544",
                     "size": "4430298820",
@@ -63,6 +68,11 @@
             "public": {
                 "buildid": "15218206",
                 "timeupdated": "1723053401"
+            },
+            "2024-07-31": {
+                "buildid": "15218206",
+                "description": "Jul 31, 2024 version",
+                "timeupdated": "1742332793"
             },
             "2024-05-13": {
                 "buildid": "14299494",
