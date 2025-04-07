@@ -4,8 +4,8 @@
     "name": "Astec-Expérimental",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27532598",
-    "update_time": "2025-02-18 18:57:43",
+    "change_number": "28340574",
+    "update_time": "2025-04-07 14:58:18",
     "depot": {
         "hasdepotsindlc": "1",
         "1004": {
@@ -93,9 +93,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2416487920440010922",
-                    "size": "5304800108",
-                    "download": "2316457136"
+                    "gid": "7942011334781415806",
+                    "size": "11957982690",
+                    "download": "9352993920"
                 }
             },
             "decryptionkey": ""
@@ -126,9 +126,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4823127213391415828",
-                    "size": "2253692218",
-                    "download": "614669552"
+                    "gid": "8325751997070934946",
+                    "size": "4038573519",
+                    "download": "976923824"
                 }
             },
             "depotfromapp": "3081330",
@@ -139,8 +139,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "15160050",
-                "timeupdated": "1721979853"
+                "buildid": "17935592",
+                "timeupdated": "1743492022"
             }
         },
         "privatebranches": "1"
