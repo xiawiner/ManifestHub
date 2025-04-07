@@ -4,8 +4,8 @@
     "name": "Synergy Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27103115",
-    "update_time": "2025-01-22 08:48:13",
+    "change_number": "28101293",
+    "update_time": "2025-03-24 09:57:25",
     "depot": {
         "overridescddb": "1",
         "208": {
@@ -95,9 +95,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "3637440939892086343",
-                    "size": "736542781",
-                    "download": "330177792"
+                    "gid": "3351780534749169701",
+                    "size": "736208294",
+                    "download": "330144144"
                 }
             },
             "depotfromapp": "17520",
