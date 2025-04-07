@@ -4,8 +4,8 @@
     "name": "Soccer Online: Ball 3D",
     "schinese_name": "足球在线：球3D",
     "isfreeapp": "0",
-    "change_number": "27965951",
-    "update_time": "2025-03-15 06:07:14",
+    "change_number": "28323383",
+    "update_time": "2025-04-05 20:27:18",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,brazilian,bulgarian,greek,ukrainian,latam,vietnamese,indonesian",
@@ -16,19 +16,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3054371832666696237",
-                    "size": "392858760",
-                    "download": "122743136"
+                    "gid": "6612011756102245513",
+                    "size": "401819132",
+                    "download": "125689136"
                 },
                 "slow": {
                     "gid": "7915175763906594575",
                     "size": "294044808",
                     "download": "91101712"
-                },
-                "directx_11": {
-                    "gid": "1963468790115244241",
-                    "size": "401818564",
-                    "download": "125687824"
                 },
                 "slow_2020": {
                     "gid": "5371930099073750952",
@@ -45,19 +40,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4919646958323080683",
-                    "size": "405238992",
-                    "download": "124764608"
+                    "gid": "8455266479525449593",
+                    "size": "405240528",
+                    "download": "124764256"
                 },
                 "slow": {
                     "gid": "1884591143235218235",
                     "size": "313630576",
                     "download": "94953936"
-                },
-                "directx_11": {
-                    "gid": "4919646958323080683",
-                    "size": "405238992",
-                    "download": "124764608"
                 },
                 "slow_2020": {
                     "gid": "5153479591744052359",
@@ -74,18 +64,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17723857",
-                "timeupdated": "1741950086"
+                "buildid": "17799544",
+                "timeupdated": "1742500304"
             },
             "slow": {
                 "buildid": "7211209",
                 "description": "No Sprint, Old Version",
                 "timeupdated": "1631174544"
-            },
-            "directx_11": {
-                "buildid": "17731950",
-                "description": "Test the DirectX 11 version of the game",
-                "timeupdated": "1741990030"
             },
             "slow_2020": {
                 "buildid": "14691385",
