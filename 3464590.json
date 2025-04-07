@@ -4,8 +4,8 @@
     "name": "Scroll Of Taiwu - 碧霄蛇影",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27435316",
-    "update_time": "2025-02-12 16:37:03",
+    "change_number": "28286712",
+    "update_time": "2025-04-03 18:39:20",
     "depot": {
         "3464590": {
             "config": {
@@ -25,8 +25,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17330851",
-                "timeupdated": "1739349418"
+                "buildid": "17968113",
+                "timeupdated": "1743676756"
             }
         }
     }
