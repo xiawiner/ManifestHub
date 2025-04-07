@@ -4,8 +4,8 @@
     "name": "Blade Kitten",
     "schinese_name": "利刃猫女",
     "isfreeapp": "0",
-    "change_number": "27103115",
-    "update_time": "2025-01-22 08:48:04",
+    "change_number": "28134472",
+    "update_time": "2025-03-26 01:09:06",
     "depot": {
         "overridescddb": "1",
         "228983": {
@@ -36,7 +36,7 @@
                 }
             },
             "dlcappid": "300120",
-            "decryptionkey": ""
+            "decryptionkey": "6f3612f07d3196a1edb58a08d7d7d7d84dbe382e902de0ddb019a7ffdda74244"
         },
         "357170": {
             "manifests": {
@@ -52,7 +52,7 @@
                 }
             },
             "dlcappid": "357170",
-            "decryptionkey": ""
+            "decryptionkey": "de627c232ebc3c2705bd1ce85b8557e8230a19c7f2944a90b92c13fe22b16162"
         },
         "357171": {
             "manifests": {
