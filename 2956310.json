@@ -4,8 +4,8 @@
     "name": "Cosplay Cumdump: Doing it Doujin Style",
     "schinese_name": "爆乳母狗是我的肉便器",
     "isfreeapp": "0",
-    "change_number": "24930327",
-    "update_time": "2024-08-25 16:18:25",
+    "change_number": "28156856",
+    "update_time": "2025-03-27 04:07:48",
     "depot": {
         "2956311": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3713618808009669397",
-                    "size": "1197823548",
-                    "download": "1057691104"
+                    "gid": "6283624063202622569",
+                    "size": "1198321871",
+                    "download": "1057775424"
                 }
             },
             "decryptionkey": "62e5a0f7f6e4e351bcfc8a76c43400ff656d0e5d317c471b96d2c5739876d364"
@@ -35,9 +35,10 @@
         },
         "branches": {
             "public": {
-                "buildid": "14471126",
-                "timeupdated": "1716480969"
+                "buildid": "17857568",
+                "timeupdated": "1743019665"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
