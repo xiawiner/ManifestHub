@@ -4,19 +4,18 @@
     "name": "Orcs Must Die! Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "24981165",
-    "update_time": "2024-09-03 04:21:40",
+    "change_number": "28233619",
+    "update_time": "2025-04-01 02:05:53",
     "depot": {
         "102611": {
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "3974296781436216274",
-                    "size": "22497040",
-                    "download": "0"
+                    "gid": "6186622394592059132",
+                    "size": "22275296",
+                    "download": "11579232"
                 }
-            },
-            "decryptionkey": "460b1292c72eacbbb405cdc2ddc7cb43263261cc68d98b2b5d9045d71aa114f8"
+            }
         },
         "102603": {
             "systemdefined": "1",
@@ -97,8 +96,10 @@
         "baselanguages": "english,spanish,german,french,italian,russian,japanese,portuguese,polish,czech",
         "branches": {
             "public": {
-                "buildid": "16693"
+                "buildid": "17854368",
+                "timeupdated": "1743444349"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
