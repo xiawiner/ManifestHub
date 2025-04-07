@@ -4,8 +4,8 @@
     "name": "Teslagrad",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27162532",
-    "update_time": "2025-01-25 18:26:28",
+    "change_number": "28266384",
+    "update_time": "2025-04-02 18:49:51",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,dutch,norwegian,swedish,czech,brazilian,greek",
@@ -122,7 +122,6 @@
             "decryptionkey": ""
         },
         "650900": {
-            "dlcappid": "650900",
             "config": {
                 "language": ""
             },
