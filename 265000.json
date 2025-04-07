@@ -4,8 +4,8 @@
     "name": "FORCED SHOWDOWN",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26800861",
-    "update_time": "2024-12-28 07:39:33",
+    "change_number": "28091938",
+    "update_time": "2025-03-23 08:14:25",
     "depot": {
         "overridescddb": "1",
         "228990": {
@@ -105,7 +105,7 @@
                     "download": "347744032"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "20dd16ffdbbe0c4e79f29333c9482c7877dfb7b58b8ac77bcac11147287ec44e"
         },
         "453563": {
             "dlcappid": "453563",
@@ -116,7 +116,7 @@
                     "download": "325614672"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "085e90e73b951b2953e55e45dbf28c3f749d3986a5cb935b0bc45d9698b22949"
         },
         "265005": {
             "config": {
