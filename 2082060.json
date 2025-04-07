@@ -4,8 +4,8 @@
     "name": "My Furry Stepmom",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27856464",
-    "update_time": "2025-03-09 13:08:49",
+    "change_number": "28208439",
+    "update_time": "2025-03-30 02:15:24",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english,russian",
@@ -31,7 +31,7 @@
                     "download": "164015424"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "513ec259176b31b332d697ccc2ec8d629feacb6a78bc025c1c25d1e276727d15"
         },
         "branches": {
             "public": {
