@@ -4,8 +4,8 @@
     "name": "Darkest Hour: Europe '44-'45",
     "schinese_name": "红色管弦乐队：至暗之时",
     "isfreeapp": "1",
-    "change_number": "27860781",
-    "update_time": "2025-03-10 02:09:59",
+    "change_number": "28095025",
+    "update_time": "2025-03-23 18:42:25",
     "depot": {
         "1202": {
             "systemdefined": "1",
@@ -56,9 +56,9 @@
                     "download": "627444112"
                 },
                 "italy-playtest": {
-                    "gid": "3054325805750765783",
-                    "size": "10991411891",
-                    "download": "3136375408"
+                    "gid": "8342936862534756095",
+                    "size": "10979085637",
+                    "download": "3134928496"
                 },
                 "public-playtest": {
                     "gid": "3054325805750765783",
@@ -81,9 +81,9 @@
                 "timeupdated": "1677240308"
             },
             "italy-playtest": {
-                "buildid": "17653922",
+                "buildid": "17825824",
                 "description": "Public branch for Italy playtest",
-                "timeupdated": "1741543762"
+                "timeupdated": "1742726540"
             },
             "public-playtest": {
                 "buildid": "17653922",
