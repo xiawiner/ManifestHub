@@ -4,24 +4,24 @@
     "name": "Symphony of War: The Nephilim Saga - Legends",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27848112",
-    "update_time": "2025-03-08 13:59:05",
+    "change_number": "28133497",
+    "update_time": "2025-03-26 00:22:02",
     "depot": {
         "2432430": {
             "dlcappid": "2432430",
             "manifests": {
                 "public": {
-                    "gid": "4067260391640945147",
-                    "size": "1190754220",
-                    "download": "1051763312"
+                    "gid": "5685651696382495742",
+                    "size": "1190783677",
+                    "download": "1051789040"
                 }
             },
             "decryptionkey": "1208c30807177a5cc4fbf47f7fe8e3b94b6bc9e20c72fee1dabd5059ca3e70c6"
         },
         "branches": {
             "public": {
-                "buildid": "12377061",
-                "timeupdated": "1696613206"
+                "buildid": "17854487",
+                "timeupdated": "1742919714"
             }
         },
         "privatebranches": "1"
