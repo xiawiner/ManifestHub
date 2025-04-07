@@ -4,8 +4,8 @@
     "name": "Beyond Astra Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26596535",
-    "update_time": "2024-12-12 00:40:39",
+    "change_number": "28345041",
+    "update_time": "2025-04-07 19:57:25",
     "depot": {
         "228989": {
             "config": {
@@ -33,8 +33,7 @@
                     "size": "1390896313",
                     "download": "1174380064"
                 }
-            },
-            "decryptionkey": "b8e861bf91ce765c276f22d9d63d79f571b8640650c7c8fcbb1fcadc644e8a97"
+            }
         },
         "branches": {
             "public": {
