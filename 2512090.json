@@ -4,8 +4,8 @@
     "name": "The Political Machine 2024",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27776319",
-    "update_time": "2025-03-04 23:00:30",
+    "change_number": "28318689",
+    "update_time": "2025-04-05 08:10:34",
     "depot": {
         "workshopdepot": "2512090",
         "2512091": {
@@ -19,7 +19,7 @@
                     "download": "456085056"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "2b55fc8e622845147ab6ab2b7fd553eef02ef0fd383be1c49b5fe9acea2f95b9"
         },
         "2512092": {
             "config": {
