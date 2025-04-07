@@ -4,8 +4,8 @@
     "name": "UNCHARTED™: Legacy of Thieves Collection",
     "schinese_name": "神秘海域：盗贼传奇合辑",
     "isfreeapp": "0",
-    "change_number": "28010080",
-    "update_time": "2025-03-18 17:21:57",
+    "change_number": "28336697",
+    "update_time": "2025-04-07 07:14:38",
     "depot": {
         "228988": {
             "config": {
@@ -51,7 +51,7 @@
                     "download": "4707285216"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "6bc8b76c2fb8d3e01a2bb8698af8b91196dbcb08fe353fcf64b55649ae766043"
         },
         "2122730": {
             "dlcappid": "2122730",
