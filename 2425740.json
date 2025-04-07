@@ -4,8 +4,8 @@
     "name": "竹书纪年：三国志风云录",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27429931",
-    "update_time": "2025-02-12 08:37:33",
+    "change_number": "28323965",
+    "update_time": "2025-04-05 22:00:37",
     "depot": {
         "baselanguages": "english,german,french,koreana,schinese,tchinese,portuguese",
         "hasdepotsindlc": "1",
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3819259271469285602",
-                    "size": "849540873",
-                    "download": "670425760"
+                    "gid": "3970171116328681261",
+                    "size": "846221023",
+                    "download": "667069568"
                 },
                 "fsyjz": {
                     "gid": "2555598614230061295",
@@ -53,9 +53,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6859904848451755233",
-                    "size": "849540869",
-                    "download": "670425904"
+                    "gid": "4514740630388963995",
+                    "size": "848500467",
+                    "download": "669380448"
                 },
                 "fsyjz": {
                     "gid": "3991872385299137937",
@@ -100,9 +100,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2749386576988177507",
-                    "size": "850298047",
-                    "download": "672114224"
+                    "gid": "1156696310442659192",
+                    "size": "853904838",
+                    "download": "674902832"
                 },
                 "fsyjz": {
                     "gid": "2749386576988177507",
@@ -123,9 +123,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6794536762842951469",
-                    "size": "847430713",
-                    "download": "669207776"
+                    "gid": "4208703312264472050",
+                    "size": "851037488",
+                    "download": "671996032"
                 },
                 "fsyjz": {
                     "gid": "6794536762842951469",
@@ -223,8 +223,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16601010",
-                "timeupdated": "1733145116"
+                "buildid": "17909332",
+                "timeupdated": "1743250371"
             },
             "fsyjz": {
                 "buildid": "14771801",
