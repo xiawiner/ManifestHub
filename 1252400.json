@@ -1,11 +1,11 @@
 {
     "appid": "1252400",
     "type": "Game",
-    "name": "Discord Rich Me!",
+    "name": "Discord Rich Me! Engine",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25594976",
-    "update_time": "2024-10-09 01:02:39",
+    "change_number": "28252239",
+    "update_time": "2025-04-02 00:18:34",
     "depot": {
         "229007": {
             "config": {
