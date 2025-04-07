@@ -4,14 +4,14 @@
     "name": "Kemono Mahjong",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26933860",
-    "update_time": "2025-01-10 10:20:52",
+    "change_number": "28121107",
+    "update_time": "2025-03-25 10:28:19",
     "depot": {
         "1508431": {
             "manifests": {
                 "public": {
-                    "gid": "5554111602286592108",
-                    "size": "481026347",
+                    "gid": "6575311832046416626",
+                    "size": "481026516",
                     "download": "178947936"
                 }
             },
@@ -19,8 +19,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16958925",
-                "timeupdated": "1736475615"
+                "buildid": "17823274",
+                "timeupdated": "1742869692"
             }
         },
         "privatebranches": "1"
