@@ -4,8 +4,8 @@
     "name": "Simson Tuningwerkstatt 3D",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27898603",
-    "update_time": "2025-03-12 04:33:41",
+    "change_number": "28196186",
+    "update_time": "2025-03-29 01:46:02",
     "depot": {
         "baselanguages": "english,german,polish,hungarian,czech,vietnamese",
         "workshopdepot": "956240",
@@ -41,9 +41,9 @@
                     "download": "1203460304"
                 },
                 "beta": {
-                    "gid": "8390940133105364304",
-                    "size": "3717766677",
-                    "download": "1203460304"
+                    "gid": "5152765438439793287",
+                    "size": "3711100928",
+                    "download": "1201829920"
                 }
             },
             "decryptionkey": ""
@@ -59,9 +59,9 @@
                     "download": "1201174608"
                 },
                 "beta": {
-                    "gid": "6907594501968410361",
-                    "size": "3717766677",
-                    "download": "1201174608"
+                    "gid": "7552320542630746492",
+                    "size": "3711100928",
+                    "download": "1199703008"
                 }
             },
             "decryptionkey": "08a8aed2f22320bd2c996be47074e47f17ec538410efc078d752366eca0e3f2b"
@@ -78,9 +78,9 @@
                     "download": "1291469968"
                 },
                 "beta": {
-                    "gid": "2346414244823452980",
-                    "size": "4168507799",
-                    "download": "1291469968"
+                    "gid": "6843402820949831532",
+                    "size": "4208757157",
+                    "download": "1308267584"
                 }
             },
             "decryptionkey": ""
@@ -92,27 +92,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5693143878505518638",
-                    "size": "4168513569",
-                    "download": "1292342704"
+                    "gid": "2897134055110057448",
+                    "size": "4208762927",
+                    "download": "1308593936"
                 },
                 "beta": {
-                    "gid": "5693143878505518638",
-                    "size": "4168513569",
-                    "download": "1292342704"
+                    "gid": "2897134055110057448",
+                    "size": "4208762927",
+                    "download": "1308593936"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17683077",
-                "timeupdated": "1741725217"
+                "buildid": "17901960",
+                "timeupdated": "1743183959"
             },
             "beta": {
-                "buildid": "17683077",
+                "buildid": "17856290",
                 "description": "Beta Version",
-                "timeupdated": "1741725166"
+                "timeupdated": "1742927342"
             }
         },
         "workshopdepotdecryptionkey": ""
