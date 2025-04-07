@@ -4,8 +4,8 @@
     "name": "Dandy Ace",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27916710",
-    "update_time": "2025-03-13 01:49:12",
+    "change_number": "28032495",
+    "update_time": "2025-03-19 20:47:55",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,brazilian,latam",
         "1037131": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3066578884424123303",
-                    "size": "1991669255",
-                    "download": "1020118000"
+                    "gid": "8135311839150432808",
+                    "size": "2593511383",
+                    "download": "1019082128"
                 }
             },
             "decryptionkey": "1d869b4f227caf86a477a0d9a902871fa80682321d406afdbcab4c6db7118058"
@@ -36,8 +36,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "7443235",
-                "timeupdated": "1632922374"
+                "buildid": "17696918",
+                "timeupdated": "1742388464"
             }
         },
         "privatebranches": "1"
