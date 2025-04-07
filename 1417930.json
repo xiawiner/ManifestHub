@@ -4,8 +4,8 @@
     "name": "Lorn's Lure",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27310972",
-    "update_time": "2025-02-05 01:05:29",
+    "change_number": "28037225",
+    "update_time": "2025-03-20 01:29:26",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese,polish,turkish,brazilian,ukrainian",
         "1417931": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "721202876024351319",
-                    "size": "1461294581",
-                    "download": "675303968"
+                    "gid": "3612590553733819512",
+                    "size": "1461298905",
+                    "download": "675304976"
                 }
             },
             "decryptionkey": "5b76612a1259cbc965a2eceef7a1d4d160d6b2e65c2b4fc5681e750fbb003bfe"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3092836518612466219",
-                    "size": "1507263803",
-                    "download": "682536992"
+                    "gid": "6321797019296816310",
+                    "size": "1507267269",
+                    "download": "682536656"
                 }
             },
             "decryptionkey": ""
@@ -40,9 +40,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6443497569574950985",
-                    "size": "1555049677",
-                    "download": "702003792"
+                    "gid": "4286371937157382546",
+                    "size": "1555053147",
+                    "download": "702006560"
                 }
             },
             "decryptionkey": ""
@@ -50,8 +50,8 @@
         "workshopdepot": "1417930",
         "branches": {
             "public": {
-                "buildid": "17239373",
-                "timeupdated": "1738681949"
+                "buildid": "17783750",
+                "timeupdated": "1742405358"
             }
         },
         "workshopdepotdecryptionkey": ""
