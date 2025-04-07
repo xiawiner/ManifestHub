@@ -4,8 +4,8 @@
     "name": "The Sims™ 4 Spa Day",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27505917",
-    "update_time": "2025-02-17 04:13:41",
+    "change_number": "28075861",
+    "update_time": "2025-03-22 00:18:01",
     "depot": {
         "1235740": {
             "config": {
@@ -117,7 +117,7 @@
                 }
             },
             "dlcappid": "1235740",
-            "decryptionkey": ""
+            "decryptionkey": "6bf24132e86958bd2fe332b2ab3b08e0abcd63b245540415d33587675890f7b5"
         },
         "1242465": {
             "config": {
@@ -215,7 +215,7 @@
                 }
             },
             "dlcappid": "1235740",
-            "decryptionkey": ""
+            "decryptionkey": "7f3293c5f911ed171913e740b1c6c1a56b6e225a1697e2589d93557e52478bdb"
         },
         "1242472": {
             "config": {
