@@ -4,8 +4,8 @@
     "name": "Freeways",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27338058",
-    "update_time": "2025-02-06 11:26:00",
+    "change_number": "28280035",
+    "update_time": "2025-04-03 09:59:04",
     "depot": {
         "228985": {
             "config": {
@@ -20,9 +20,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8871608266335983648",
-                    "size": "21457925",
-                    "download": "18992416"
+                    "gid": "991935383683891742",
+                    "size": "19917033",
+                    "download": "18392112"
                 }
             },
             "decryptionkey": "fc6214507735818e62e64d94ab620d9391d6390a62b76e135b489483cdcd4ac0"
@@ -33,18 +33,18 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8879184621569822822",
-                    "size": "56032302",
-                    "download": "51057744"
+                    "gid": "6648661996119193454",
+                    "size": "53304391",
+                    "download": "50078576"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "d72ae46ccdd7fc790cff1f94142f98c782617e1803de262fbcb4d87ad6cf9a14"
         },
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "17242175",
-                "timeupdated": "1738697093"
+                "buildid": "17963330",
+                "timeupdated": "1743645541"
             }
         }
     }
