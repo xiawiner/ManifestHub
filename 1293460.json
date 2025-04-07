@@ -4,8 +4,8 @@
     "name": "Ash of Gods: The Way",
     "schinese_name": "诸神灰烬：抉择",
     "isfreeapp": "0",
-    "change_number": "27791257",
-    "update_time": "2025-03-05 17:08:20",
+    "change_number": "28106269",
+    "update_time": "2025-03-24 18:19:10",
     "depot": {
         "baselanguages": "english,russian",
         "hasdepotsindlc": "0",
@@ -31,7 +31,7 @@
                     "download": "128409776"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "f4e20a5509c99c90ca74169ad5fb1d0b7453b4673d3df84b855361801ded25b1"
         },
         "2397200": {
             "dlcappid": "2397200",
