@@ -4,8 +4,8 @@
     "name": "Dr. Lunatic Supreme With Steam",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27284600",
-    "update_time": "2025-02-03 14:34:40",
+    "change_number": "28044237",
+    "update_time": "2025-03-20 11:23:44",
     "depot": {
         "workshopdepot": "2547330",
         "228989": {
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2253977591461377834",
-                    "size": "6197099",
-                    "download": "2442336"
+                    "gid": "3335660078101479303",
+                    "size": "6201707",
+                    "download": "2441056"
                 }
             },
             "decryptionkey": "9079d57be4ea5b94a2b138306cc44738e39d0e8322496fb394e0a9a10fd6f780"
@@ -54,19 +54,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7855055572861234419",
-                    "size": "8042687",
-                    "download": "2874352"
+                    "gid": "2964385963966897882",
+                    "size": "8046815",
+                    "download": "2875728"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "15490052",
-                "timeupdated": "1724653107"
+                "buildid": "17789150",
+                "timeupdated": "1742441016"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "b15ca3aec77307f750eb882f6b9128c9caea77b7293291e603a6c7d63970a37c"
     }
 }
