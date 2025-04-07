@@ -4,8 +4,8 @@
     "name": "DOOMBRINGER Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27850396",
-    "update_time": "2025-03-08 19:49:50",
+    "change_number": "28198319",
+    "update_time": "2025-03-29 04:08:47",
     "depot": {
         "1004": {
             "config": {
@@ -52,17 +52,17 @@
         "1602471": {
             "manifests": {
                 "public": {
-                    "gid": "7892854096519931459",
-                    "size": "470784528",
-                    "download": "424630608"
+                    "gid": "1295293029252634982",
+                    "size": "475539192",
+                    "download": "429289584"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17646342",
-                "timeupdated": "1741434584"
+                "buildid": "17903523",
+                "timeupdated": "1743192522"
             }
         }
     }
