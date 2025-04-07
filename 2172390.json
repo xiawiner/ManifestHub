@@ -4,8 +4,8 @@
     "name": "Backrooms: Escape Together Playtest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27998582",
-    "update_time": "2025-03-18 01:05:04",
+    "change_number": "28338982",
+    "update_time": "2025-04-07 11:42:06",
     "depot": {
         "228989": {
             "config": {
@@ -54,9 +54,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3928393466769574985",
-                    "size": "21375674277",
-                    "download": "7957982672"
+                    "gid": "6866044377255604924",
+                    "size": "20151449702",
+                    "download": "7801338224"
                 }
             },
             "depotfromapp": "2141730",
