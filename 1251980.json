@@ -4,8 +4,8 @@
     "name": "Jessika",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26914646",
-    "update_time": "2025-01-09 06:15:28",
+    "change_number": "28449996",
+    "update_time": "2025-04-13 10:55:20",
     "depot": {
         "baselanguages": "english,german,schinese,japanese",
         "hasdepotsindlc": "1",
@@ -213,8 +213,7 @@
                     "size": "830308701",
                     "download": "775969168"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
