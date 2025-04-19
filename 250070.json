@@ -4,8 +4,8 @@
     "name": "TorqueL",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "24981165",
-    "update_time": "2024-09-17 10:10:16",
+    "change_number": "28469067",
+    "update_time": "2025-04-14 23:06:56",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "",
@@ -47,8 +47,7 @@
                     "size": "440976861",
                     "download": "144944864"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "250073": {
             "config": {
@@ -61,8 +60,7 @@
                     "size": "413377131",
                     "download": "138998608"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
