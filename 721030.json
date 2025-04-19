@@ -4,8 +4,8 @@
     "name": "La Tale - Evolved",
     "schinese_name": "",
     "isfreeapp": "1",
-    "change_number": "27407566",
-    "update_time": "2025-02-11 03:48:24",
+    "change_number": "28535860",
+    "update_time": "2025-04-18 02:35:27",
     "depot": {
         "228990": {
             "config": {
@@ -24,17 +24,16 @@
         "721031": {
             "manifests": {
                 "public": {
-                    "gid": "401744579702185671",
-                    "size": "6015110633",
-                    "download": "4512243680"
+                    "gid": "7273692394901669691",
+                    "size": "6119172917",
+                    "download": "4577262064"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "16954724",
-                "timeupdated": "1736446553"
+                "buildid": "18148165",
+                "timeupdated": "1744914923"
             }
         }
     }
