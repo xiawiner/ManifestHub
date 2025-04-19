@@ -4,8 +4,8 @@
     "name": "No Return",
     "schinese_name": "无归",
     "isfreeapp": "0",
-    "change_number": "27997324",
-    "update_time": "2025-03-17 23:55:19",
+    "change_number": "28442991",
+    "update_time": "2025-04-12 17:07:19",
     "depot": {
         "228989": {
             "config": {
@@ -63,7 +63,7 @@
                     "download": "21559580816"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "69ae711ad4ecc0dc3778157baf6a50154389487f5c9af17efb4535e56111e423"
         },
         "1967224": {
             "config": {
