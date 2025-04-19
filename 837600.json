@@ -4,8 +4,8 @@
     "name": "The Royal Marines Commando",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26815040",
-    "update_time": "2024-12-30 14:52:28",
+    "change_number": "28459774",
+    "update_time": "2025-04-14 12:07:40",
     "depot": {
         "228981": {
             "config": {
@@ -107,7 +107,7 @@
                     "download": "98978064"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "b3c0d9bbf0172f1b6a6001ced20bba5e25d2df6e3c35dec0e4795dd30801ef89"
         },
         "837608": {
             "config": {
