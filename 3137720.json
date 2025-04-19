@@ -4,8 +4,8 @@
     "name": "Commandos: Origins - Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27803444",
-    "update_time": "2025-03-06 06:17:59",
+    "change_number": "28393149",
+    "update_time": "2025-04-10 03:14:04",
     "depot": {
         "228989": {
             "config": {
@@ -28,7 +28,8 @@
                     "size": "23072041549",
                     "download": "10744865136"
                 }
-            }
+            },
+            "decryptionkey": "99ca77a79de0e2ee5fc084025fde9d6fec734bfdd6db12ea67c42bc18a1b8c40"
         },
         "3137722": {
             "manifests": {
