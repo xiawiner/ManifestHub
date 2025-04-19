@@ -4,8 +4,8 @@
     "name": "IFSolitaire",
     "schinese_name": "IF蜘蛛纸牌",
     "isfreeapp": "0",
-    "change_number": "27781102",
-    "update_time": "2025-03-05 03:22:22",
+    "change_number": "28489970",
+    "update_time": "2025-04-15 23:22:15",
     "depot": {
         "baselanguages": "english,german,french,spanish,schinese,tchinese,russian,japanese,portuguese",
         "3153241": {
@@ -19,9 +19,9 @@
                     "download": "157475456"
                 },
                 "beta": {
-                    "gid": "1878011808542689463",
-                    "size": "275882225",
-                    "download": "157475456"
+                    "gid": "4806523722434318104",
+                    "size": "277328485",
+                    "download": "157906480"
                 },
                 "stable": {
                     "gid": "4496281848897491448",
@@ -42,17 +42,16 @@
                     "download": "194050336"
                 },
                 "beta": {
-                    "gid": "985544088665381182",
-                    "size": "431564748",
-                    "download": "194050336"
+                    "gid": "2254909267615804629",
+                    "size": "434282508",
+                    "download": "194694704"
                 },
                 "stable": {
                     "gid": "6610134250738691661",
                     "size": "372483650",
                     "download": "135376944"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3153243": {
             "config": {
@@ -65,17 +64,16 @@
                     "download": "152341936"
                 },
                 "beta": {
-                    "gid": "8828777797471031661",
-                    "size": "258804951",
-                    "download": "152341936"
+                    "gid": "4285517518710978692",
+                    "size": "261462511",
+                    "download": "152982720"
                 },
                 "stable": {
                     "gid": "5208661832484073754",
                     "size": "199724359",
                     "download": "93669632"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "workshopdepot": "3153240",
         "branches": {
@@ -84,9 +82,9 @@
                 "timeupdated": "1741116138"
             },
             "beta": {
-                "buildid": "17593510",
+                "buildid": "18115578",
                 "description": "Public beta branch",
-                "timeupdated": "1741114407"
+                "timeupdated": "1744730532"
             },
             "stable": {
                 "buildid": "16533405",
