@@ -4,8 +4,8 @@
     "name": "Sokobond",
     "schinese_name": "原子大合体",
     "isfreeapp": "0",
-    "change_number": "26262698",
-    "update_time": "2024-11-19 22:17:50",
+    "change_number": "28495778",
+    "update_time": "2025-04-16 05:26:46",
     "depot": {
         "overridescddb": "1",
         "290261": {
@@ -32,8 +32,7 @@
                     "size": "262661452",
                     "download": "171832512"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
