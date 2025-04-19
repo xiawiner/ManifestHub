@@ -4,8 +4,8 @@
     "name": "Meet me at NooN",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25609531",
-    "update_time": "2024-10-09 05:40:01",
+    "change_number": "28495769",
+    "update_time": "2025-04-16 05:26:13",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,japanese,portuguese,dutch",
         "1880491": {
@@ -31,8 +31,7 @@
                     "size": "432560750",
                     "download": "130573104"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1880493": {
             "config": {
@@ -44,8 +43,7 @@
                     "size": "451524930",
                     "download": "136843088"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
