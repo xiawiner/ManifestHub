@@ -4,8 +4,8 @@
     "name": "Vengeance of Mr. Peppermint",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26667971",
-    "update_time": "2024-12-17 05:45:38",
+    "change_number": "28542127",
+    "update_time": "2025-04-18 11:17:17",
     "depot": {
         "2287562": {
             "config": {
@@ -18,8 +18,7 @@
                     "size": "1106690012",
                     "download": "289281520"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2287563": {
             "config": {
