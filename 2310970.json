@@ -4,8 +4,8 @@
     "name": "Orb Raid Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28044683",
-    "update_time": "2025-03-20 12:10:43",
+    "change_number": "28486521",
+    "update_time": "2025-04-15 20:22:11",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english,german,french,italian,koreana,tchinese,russian,japanese,dutch,brazilian,ukrainian,latam",
@@ -72,17 +72,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3244203662660387672",
-                    "size": "530506548",
-                    "download": "236729856"
+                    "gid": "8112585877168606311",
+                    "size": "558336855",
+                    "download": "263670416"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17669321",
-                "timeupdated": "1741650440"
+                "buildid": "18113221",
+                "timeupdated": "1744719727"
             }
         }
     }
