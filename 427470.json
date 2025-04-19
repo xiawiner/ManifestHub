@@ -4,8 +4,8 @@
     "name": "Democracy 3 Africa",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27858872",
-    "update_time": "2025-03-09 21:07:53",
+    "change_number": "28455868",
+    "update_time": "2025-04-14 03:07:24",
     "depot": {
         "427471": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "136910475",
                     "download": "83152640"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
