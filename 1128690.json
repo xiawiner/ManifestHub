@@ -4,8 +4,8 @@
     "name": "Plunge",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25591959",
-    "update_time": "2024-10-09 00:04:52",
+    "change_number": "28476138",
+    "update_time": "2025-04-15 07:09:16",
     "depot": {
         "baselanguages": "english,brazilian",
         "hasdepotsindlc": "1",
@@ -49,8 +49,7 @@
                     "size": "551612604",
                     "download": "80240320"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1147410": {
             "dlcappid": "1147410",
