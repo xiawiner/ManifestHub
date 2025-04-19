@@ -4,8 +4,8 @@
     "name": "Zerko",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27523939",
-    "update_time": "2025-02-18 06:15:19",
+    "change_number": "28529353",
+    "update_time": "2025-04-17 21:02:11",
     "depot": {
         "2862992": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "150786369",
                     "download": "54845088"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2862991": {
             "config": {
@@ -46,8 +45,7 @@
                     "size": "130204678",
                     "download": "47699056"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
