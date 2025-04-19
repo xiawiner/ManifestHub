@@ -4,8 +4,8 @@
     "name": "Shogi",
     "schinese_name": "日本将棋",
     "isfreeapp": "0",
-    "change_number": "26957116",
-    "update_time": "2025-01-12 04:17:04",
+    "change_number": "28548841",
+    "update_time": "2025-04-18 19:59:59",
     "depot": {
         "3041101": {},
         "3041102": {
@@ -31,8 +31,7 @@
                     "size": "88862684",
                     "download": "58494640"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,dutch,hungarian,czech,turkish,arabic,brazilian,ukrainian,latam,vietnamese,indonesian",
         "branches": {
