@@ -4,8 +4,8 @@
     "name": "Secrets of Grindea",
     "schinese_name": "格兰蒂亚秘闻",
     "isfreeapp": "0",
-    "change_number": "28070216",
-    "update_time": "2025-03-21 19:13:07",
+    "change_number": "28459182",
+    "update_time": "2025-04-14 10:55:16",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -132,6 +132,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "88d45b4e4e0672f0c813ed4dc811f2b646ca6694c9306d549b84e3b252ffe225"
     }
 }
