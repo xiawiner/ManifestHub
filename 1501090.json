@@ -4,8 +4,8 @@
     "name": "Yin yang",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26517736",
-    "update_time": "2024-12-06 08:18:37",
+    "change_number": "28495792",
+    "update_time": "2025-04-16 05:27:37",
     "depot": {
         "1501091": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "117371290",
                     "download": "28208752"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
