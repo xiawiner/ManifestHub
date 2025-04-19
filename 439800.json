@@ -4,8 +4,8 @@
     "name": "Clouds & Sheep 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27353942",
-    "update_time": "2025-02-07 06:26:00",
+    "change_number": "28353148",
+    "update_time": "2025-04-08 04:15:10",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,dutch,turkish,brazilian",
         "439801": {
@@ -31,8 +31,7 @@
                     "size": "288891639",
                     "download": "167368656"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "439803": {
             "config": {
@@ -44,8 +43,7 @@
                     "size": "283390502",
                     "download": "166250576"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
