@@ -4,8 +4,8 @@
     "name": "I'm on Observation Duty 4",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26438712",
-    "update_time": "2024-12-05 08:52:58",
+    "change_number": "28495769",
+    "update_time": "2025-04-16 05:26:10",
     "depot": {
         "1730361": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "4620181342",
                     "download": "1622053744"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1730363": {
             "config": {
@@ -43,8 +42,7 @@
                     "size": "4649922564",
                     "download": "1621903088"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
