@@ -4,8 +4,8 @@
     "name": "Creativerse Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27776222",
-    "update_time": "2025-03-04 22:57:18",
+    "change_number": "28492091",
+    "update_time": "2025-04-16 01:08:34",
     "depot": {
         "workshopdepot": "1098260",
         "hasdepotsindlc": "0",
@@ -74,8 +74,7 @@
                     "size": "186028054",
                     "download": "68083920"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1098264": {
             "config": {
@@ -88,8 +87,7 @@
                     "size": "215580819",
                     "download": "75953744"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
