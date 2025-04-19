@@ -4,8 +4,8 @@
     "name": "Ironsight Test Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28281545",
-    "update_time": "2025-04-03 12:22:46",
+    "change_number": "28381319",
+    "update_time": "2025-04-09 15:59:09",
     "depot": {
         "228988": {
             "config": {
@@ -24,17 +24,17 @@
         "1940991": {
             "manifests": {
                 "public": {
-                    "gid": "2010269653063862603",
-                    "size": "10874691181",
-                    "download": "10527332176"
+                    "gid": "6179948376182595606",
+                    "size": "10874706668",
+                    "download": "10527342144"
                 }
             },
             "decryptionkey": "0d447e3b02e8100fe5eddb985db7d7cc4c87d3681c80bfd779775653f595ba7e"
         },
         "branches": {
             "public": {
-                "buildid": "17964460",
-                "timeupdated": "1743654162"
+                "buildid": "18037542",
+                "timeupdated": "1744185544"
             }
         }
     }
