@@ -4,8 +4,8 @@
     "name": "Highway Police Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28336601",
-    "update_time": "2025-04-07 06:57:45",
+    "change_number": "28525836",
+    "update_time": "2025-04-17 17:32:28",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "2789131": {
             "manifests": {
                 "public": {
-                    "gid": "3685927578010942284",
-                    "size": "24781954102",
-                    "download": "19472666496"
+                    "gid": "3224382374953738478",
+                    "size": "24798110837",
+                    "download": "19561799008"
                 }
             },
             "decryptionkey": "08fe257efe8783e52e4cf5f5f0d49c87da1448cef591b737b8a5cd6f510f6452"
@@ -44,8 +44,8 @@
         "baselanguages": "english,german,french,italian,spanish,schinese,polish,turkish,brazilian",
         "branches": {
             "public": {
-                "buildid": "17682312",
-                "timeupdated": "1741882269"
+                "buildid": "18105166",
+                "timeupdated": "1744882344"
             }
         },
         "privatebranches": "1"
