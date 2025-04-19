@@ -4,8 +4,8 @@
     "name": "Aeruta",
     "schinese_name": "亚路塔：狐狸狐途的面包冒险",
     "isfreeapp": "0",
-    "change_number": "28222857",
-    "update_time": "2025-03-31 14:21:40",
+    "change_number": "28545224",
+    "update_time": "2025-04-18 15:58:45",
     "depot": {
         "2286781": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1323581275412717901",
-                    "size": "1073804980",
-                    "download": "320927584"
+                    "gid": "759053283034915462",
+                    "size": "1073976439",
+                    "download": "320992336"
                 }
             },
             "decryptionkey": "f35f978f4b5c9e3f39fe30c37e6965286a571f2600868f74d364e6ddf8f13ee7"
         },
         "branches": {
             "public": {
-                "buildid": "17705162",
-                "timeupdated": "1741853406"
+                "buildid": "18125664",
+                "timeupdated": "1744873236"
             }
         },
         "privatebranches": "1"
