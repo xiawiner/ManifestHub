@@ -4,8 +4,8 @@
     "name": "Dungeon and Puzzles",
     "schinese_name": "地城谜踪",
     "isfreeapp": "0",
-    "change_number": "25594432",
-    "update_time": "2024-10-09 00:52:32",
+    "change_number": "28495740",
+    "update_time": "2025-04-16 05:23:18",
     "depot": {
         "1229061": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "93035452",
                     "download": "28759984"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
