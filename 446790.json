@@ -4,8 +4,8 @@
     "name": "Diluvion",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "22797350",
-    "update_time": "2024-05-24 08:57:09",
+    "change_number": "28536202",
+    "update_time": "2025-04-18 02:57:23",
     "depot": {
         "baselanguages": "english,german,french,spanish,schinese,russian,japanese,hungarian",
         "446793": {
@@ -98,8 +98,7 @@
                     "size": "45833394",
                     "download": "46455152"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "446794": {
             "dlcappid": "543820",
@@ -146,8 +145,7 @@
                     "size": "45869073",
                     "download": "46491312"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "446795": {
             "dlcappid": "543821",
@@ -194,8 +192,7 @@
                     "size": "10668930",
                     "download": "10810432"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "446796": {
             "dlcappid": "543822",
@@ -242,8 +239,7 @@
                     "size": "32617574",
                     "download": "33058448"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "446797": {
             "dlcappid": "543823",
@@ -290,8 +286,7 @@
                     "size": "54077997",
                     "download": "54812800"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "446798": {
             "dlcappid": "578020",
@@ -315,7 +310,7 @@
                     "download": "54812800"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "aa2038ad8e6918d329cac331d687263387967ed6a198f0a6948efc8a6327a260"
         },
         "576513": {
             "dlcappid": "578030",
@@ -426,7 +421,7 @@
                     "download": "74406208"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "3fd3c243fb9b519258fe3add79470d8b7414eb19225019a3bb6d0afc94feedb8"
         },
         "576514": {
             "dlcappid": "820330",
