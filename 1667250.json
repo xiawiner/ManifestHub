@@ -4,8 +4,8 @@
     "name": "Lovely Composer",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28013346",
-    "update_time": "2025-03-18 20:55:49",
+    "change_number": "28443387",
+    "update_time": "2025-04-12 18:07:07",
     "depot": {
         "1667251": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "405202176",
                     "download": "60071472"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
