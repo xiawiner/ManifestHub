@@ -4,8 +4,8 @@
     "name": "Tech Support: Error Unknown",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28332844",
-    "update_time": "2025-04-06 22:14:35",
+    "change_number": "28510818",
+    "update_time": "2025-04-16 23:10:08",
     "depot": {
         "781481": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "524337624",
                     "download": "191462768"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "781483": {
             "config": {
@@ -43,8 +42,7 @@
                     "size": "533225161",
                     "download": "194976800"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
