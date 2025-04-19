@@ -4,8 +4,8 @@
     "name": "Hatoful Boyfriend: Holiday Star",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "23591175",
-    "update_time": "2024-05-24 08:53:02",
+    "change_number": "28369820",
+    "update_time": "2025-04-09 00:38:11",
     "depot": {
         "377081": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "1297909675",
                     "download": "321436464"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "377083": {
             "config": {
@@ -43,8 +42,7 @@
                     "size": "1296990816",
                     "download": "322202368"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "377084": {
             "manifests": {
@@ -65,7 +63,7 @@
                 }
             },
             "dlcappid": "463090",
-            "decryptionkey": ""
+            "decryptionkey": "3443a63aff40da023b8ca9468fed3029583bd08ced5499b2e08a79dcff87d964"
         },
         "branches": {
             "public": {
