@@ -4,8 +4,8 @@
     "name": "Easy Pose",
     "schinese_name": "易绘伴侣 - Easy Pose",
     "isfreeapp": "0",
-    "change_number": "25130790",
-    "update_time": "2024-09-09 03:21:37",
+    "change_number": "28511949",
+    "update_time": "2025-04-17 00:12:44",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,finnish,hungarian,arabic,brazilian,latam,vietnamese",
         "979711": {
@@ -33,8 +33,7 @@
                     "size": "737006279",
                     "download": "237723024"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "workshopdepot": "979710",
         "branches": {
