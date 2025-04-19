@@ -4,8 +4,8 @@
     "name": "Moonfall Ultimate",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "23101284",
-    "update_time": "2024-05-27 07:23:07",
+    "change_number": "28369896",
+    "update_time": "2025-04-09 00:43:34",
     "depot": {
         "228990": {
             "config": {
@@ -47,8 +47,7 @@
                     "size": "1588411410",
                     "download": "299091200"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
