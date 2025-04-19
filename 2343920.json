@@ -4,8 +4,8 @@
     "name": "Trackline Express",
     "schinese_name": "特快小火车 Trackline Express",
     "isfreeapp": "0",
-    "change_number": "26672100",
-    "update_time": "2024-12-17 12:38:14",
+    "change_number": "28481770",
+    "update_time": "2025-04-15 15:33:13",
     "depot": {
         "2343921": {
             "config": {
@@ -40,8 +40,7 @@
                     "size": "280057681",
                     "download": "114758496"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2343923": {
             "config": {
@@ -58,8 +57,7 @@
                     "size": "257752046",
                     "download": "106656656"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "workshopdepot": "2343920",
         "branches": {
