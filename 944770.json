@@ -4,8 +4,8 @@
     "name": "sheepChat",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28256249",
-    "update_time": "2025-04-02 04:52:26",
+    "change_number": "28442179",
+    "update_time": "2025-04-12 15:05:52",
     "depot": {
         "baselanguages": "english,russian",
         "hasdepotsindlc": "0",
@@ -112,8 +112,7 @@
                     "size": "383347922",
                     "download": "115334400"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "944774": {
             "config": {
@@ -136,8 +135,7 @@
                     "size": "421545185",
                     "download": "128333744"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
