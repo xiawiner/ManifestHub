@@ -4,8 +4,8 @@
     "name": "KUNAI",
     "schinese_name": "酷派忍者 / KUNAI",
     "isfreeapp": "0",
-    "change_number": "26958545",
-    "update_time": "2025-01-12 08:17:22",
+    "change_number": "28544039",
+    "update_time": "2025-04-18 14:30:52",
     "depot": {
         "1001801": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "0",
                     "download": "0"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1001803": {
             "config": {
@@ -43,8 +42,7 @@
                     "size": "0",
                     "download": "0"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
