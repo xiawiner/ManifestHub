@@ -4,8 +4,8 @@
     "name": "You are the weapon",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27874400",
-    "update_time": "2025-03-10 23:51:47",
+    "change_number": "28475410",
+    "update_time": "2025-04-15 05:58:39",
     "depot": {
         "2056251": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5800023980829630969",
-                    "size": "169091159",
-                    "download": "57314496"
+                    "gid": "3946880618740565044",
+                    "size": "162482481",
+                    "download": "51632704"
                 }
             },
             "decryptionkey": "ec2812ae56c7d48f636b375fd2b6d26fa579bc1389393ddcbe764dc7f3629de2"
@@ -33,13 +33,12 @@
                     "size": "126203671",
                     "download": "45123792"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "10677329",
-                "timeupdated": "1677785905"
+                "buildid": "18105348",
+                "timeupdated": "1744667915"
             }
         }
     }
