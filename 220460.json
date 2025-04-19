@@ -4,8 +4,8 @@
     "name": "Cargo Commander",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27166440",
-    "update_time": "2025-01-26 04:26:06",
+    "change_number": "28548387",
+    "update_time": "2025-04-18 19:23:42",
     "depot": {
         "overridescddb": "1",
         "preloadonly": "1",
@@ -46,8 +46,7 @@
                     "size": "176618699",
                     "download": "0"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "220469": {
             "config": {
@@ -59,8 +58,7 @@
                     "size": "170496336",
                     "download": "0"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "220463": {
             "config": {
