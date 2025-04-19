@@ -1,0 +1,46 @@
+{
+    "appid": "3290550",
+    "type": "Game",
+    "name": "MALEVOLENT MADNESS",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28448378",
+    "update_time": "2025-04-13 05:47:34",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese,indonesian",
+        "hasdepotsindlc": "0",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3290551": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8241863942124605676",
+                    "size": "12411507595",
+                    "download": "11909907328"
+                }
+            },
+            "decryptionkey": "52c7b0fda9f0f1fe19dde9739838f4b1d16f8ebd1d0dfd5a1ca6dbeb692fc8e4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17966292",
+                "timeupdated": "1743666662"
+            }
+        }
+    }
+}
