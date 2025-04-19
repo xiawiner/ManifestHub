@@ -4,8 +4,8 @@
     "name": "Dracula 4 and  5 - Special Steam Edition",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28175349",
-    "update_time": "2025-03-28 01:14:28",
+    "change_number": "28474782",
+    "update_time": "2025-04-15 05:08:39",
     "depot": {
         "overridescddb": "1",
         "228983": {
@@ -53,8 +53,7 @@
                     "size": "2302364762",
                     "download": "0"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
