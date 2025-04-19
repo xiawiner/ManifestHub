@@ -4,8 +4,8 @@
     "name": "Never Give Up",
     "schinese_name": "绝不放弃",
     "isfreeapp": "0",
-    "change_number": "25570349",
-    "update_time": "2024-10-07 23:33:37",
+    "change_number": "28363715",
+    "update_time": "2025-04-08 18:42:24",
     "depot": {
         "workshopdepot": "609420",
         "609421": {
@@ -31,8 +31,7 @@
                     "size": "2511257757",
                     "download": "1447781344"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "609423": {
             "config": {
@@ -57,8 +56,7 @@
                     "size": "1162492598",
                     "download": "470442832"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
