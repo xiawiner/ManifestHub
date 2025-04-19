@@ -4,8 +4,8 @@
     "name": "Great Adventure in the World of Sky",
     "schinese_name": "天空之城大冒险",
     "isfreeapp": "0",
-    "change_number": "25590905",
-    "update_time": "2024-10-08 23:43:57",
+    "change_number": "28452239",
+    "update_time": "2025-04-13 18:07:58",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english,schinese",
@@ -36,7 +36,7 @@
                     "download": "213750320"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "a219c32c226b52e872b35423776a4ea6689097a5a43032faa67a3db03f74554f"
         },
         "1035694": {
             "config": {
