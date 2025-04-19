@@ -4,8 +4,8 @@
     "name": "Sky Rogue",
     "schinese_name": "太空流浪者",
     "isfreeapp": "0",
-    "change_number": "24165274",
-    "update_time": "2024-06-28 23:28:44",
+    "change_number": "28500482",
+    "update_time": "2025-04-16 12:10:12",
     "depot": {
         "workshopdepot": "381020",
         "381021": {
@@ -53,8 +53,7 @@
                     "size": "284929310",
                     "download": "120848944"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "381023": {
             "config": {
@@ -77,8 +76,7 @@
                     "size": "319823915",
                     "download": "133001376"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
