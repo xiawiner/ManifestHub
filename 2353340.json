@@ -4,24 +4,24 @@
     "name": "KAMITSUBAKI CITY REGENERATE",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28330495",
-    "update_time": "2025-04-06 16:17:10",
+    "change_number": "28547846",
+    "update_time": "2025-04-18 18:43:42",
     "depot": {
         "hasdepotsindlc": "0",
         "2353341": {
             "manifests": {
                 "public": {
-                    "gid": "1709869485611901726",
-                    "size": "5489459774",
-                    "download": "2961935760"
+                    "gid": "3200804660127673077",
+                    "size": "5539985024",
+                    "download": "2970633312"
                 }
             },
             "decryptionkey": "7e3d6fa9e2c1a8a445788ad9d5f3bac69c02e9a71ebef99685c4c68d126dae83"
         },
         "branches": {
             "public": {
-                "buildid": "17751553",
-                "timeupdated": "1742215547"
+                "buildid": "18012595",
+                "timeupdated": "1744973018"
             }
         },
         "privatebranches": "1"
