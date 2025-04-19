@@ -4,8 +4,8 @@
     "name": "Super BoxMan Ultra",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "23591175",
-    "update_time": "2024-05-27 02:21:58",
+    "change_number": "28495743",
+    "update_time": "2025-04-16 05:23:53",
     "depot": {
         "742341": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "22383489",
                     "download": "16411568"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
