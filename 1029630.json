@@ -4,8 +4,8 @@
     "name": "Power & Revolution 2019 Edition",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "23591175",
-    "update_time": "2024-05-24 06:31:48",
+    "change_number": "28441143",
+    "update_time": "2025-04-12 12:09:34",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,russian,japanese,brazilian",
         "1029631": {
@@ -143,8 +143,7 @@
                     "size": "6853378083",
                     "download": "3281274304"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1050042": {
             "config": {
