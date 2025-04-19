@@ -4,8 +4,8 @@
     "name": "Sizeable",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28335472",
-    "update_time": "2025-04-07 04:16:22",
+    "change_number": "28360319",
+    "update_time": "2025-04-08 15:16:30",
     "depot": {
         "baselanguages": "english",
         "1333911": {
@@ -31,8 +31,7 @@
                     "size": "299953165",
                     "download": "188922384"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
