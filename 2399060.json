@@ -4,8 +4,8 @@
     "name": "Dread Weight",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28098540",
-    "update_time": "2025-03-24 03:19:36",
+    "change_number": "28545265",
+    "update_time": "2025-04-18 16:00:57",
     "depot": {
         "2399061": {
             "manifests": {
@@ -27,8 +27,7 @@
                     "size": "72674192",
                     "download": "21293536"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3120670": {
             "dlcappid": "3120670",
