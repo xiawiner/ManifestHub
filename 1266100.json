@@ -4,8 +4,8 @@
     "name": "Vampire: The Masquerade — Parliament of Knives",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26963555",
-    "update_time": "2025-01-13 01:31:00",
+    "change_number": "28415070",
+    "update_time": "2025-04-11 03:33:24",
     "depot": {
         "1266101": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "22307518",
                     "download": "11364512"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1266103": {
             "config": {
@@ -46,8 +45,7 @@
                     "size": "251413071",
                     "download": "80051648"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
