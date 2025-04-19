@@ -4,8 +4,8 @@
     "name": "Zen Chess: Mate in Three",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27173973",
-    "update_time": "2025-01-27 02:26:26",
+    "change_number": "28393963",
+    "update_time": "2025-04-10 04:09:27",
     "depot": {
         "1042991": {
             "config": {
@@ -40,8 +40,7 @@
                     "size": "158707207",
                     "download": "50851696"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
