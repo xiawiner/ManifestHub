@@ -4,8 +4,8 @@
     "name": "Apocalipsis",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "23692818",
-    "update_time": "2024-05-26 03:13:30",
+    "change_number": "28425199",
+    "update_time": "2025-04-11 16:57:31",
     "depot": {
         "228986": {
             "config": {
@@ -84,8 +84,7 @@
                     "size": "3480067998",
                     "download": "817379216"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "813500": {
             "dlcappid": "813500",
@@ -96,7 +95,7 @@
                     "download": "351687824"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "56d3c4870da02b608aaf7d5cc0add46aeb545643c6bb8e6f07d1d4779987d29e"
         },
         "921870": {
             "dlcappid": "921870"
