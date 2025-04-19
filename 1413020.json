@@ -4,15 +4,15 @@
     "name": "Superfly",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26964587",
-    "update_time": "2025-01-13 04:31:34",
+    "change_number": "28370472",
+    "update_time": "2025-04-09 01:11:27",
     "depot": {
         "1413021": {
             "manifests": {
                 "public": {
-                    "gid": "3140767439598576685",
-                    "size": "2963621112",
-                    "download": "1043157808"
+                    "gid": "8381680240948400417",
+                    "size": "3382901744",
+                    "download": "1074623648"
                 },
                 "cosmos-elite-fix": {
                     "gid": "5545102056715342842",
@@ -49,8 +49,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "15295387",
-                "timeupdated": "1723066289"
+                "buildid": "18029308",
+                "timeupdated": "1744132281"
             },
             "cosmos-elite-fix": {
                 "buildid": "10552519",
