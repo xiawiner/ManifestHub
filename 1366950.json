@@ -4,8 +4,8 @@
     "name": "Driver4VR",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27910388",
-    "update_time": "2025-03-12 20:16:51",
+    "change_number": "28424763",
+    "update_time": "2025-04-11 16:31:22",
     "depot": {
         "228989": {
             "config": {
@@ -37,6 +37,11 @@
                     "gid": "746115563139306735",
                     "size": "271815943",
                     "download": "107263296"
+                },
+                "test": {
+                    "gid": "1112534866628342872",
+                    "size": "283427079",
+                    "download": "110823296"
                 }
             },
             "decryptionkey": "80d8ed60372562417003680d8dead18e48da889f884e42df6a048b6aeb6baf56"
@@ -61,6 +66,11 @@
                     "gid": "8340746259454358626",
                     "size": "89218009",
                     "download": "27776800"
+                },
+                "test": {
+                    "gid": "5160140035814268926",
+                    "size": "89218009",
+                    "download": "27776800"
                 }
             },
             "decryptionkey": "a9a3a29e85e0e9ab9adc64c7e1f9f298f485b992c0359d5e56393c084c4b0452"
@@ -79,6 +89,11 @@
                 "buildid": "14595273",
                 "description": "Previous version",
                 "timeupdated": "1728847075"
+            },
+            "test": {
+                "buildid": "15036835",
+                "description": "Test version",
+                "timeupdated": "1744360276"
             }
         },
         "privatebranches": "1"
