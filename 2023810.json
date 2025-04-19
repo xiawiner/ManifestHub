@@ -4,8 +4,8 @@
     "name": "Island Idle RPG",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28178064",
-    "update_time": "2025-03-28 04:16:01",
+    "change_number": "28455074",
+    "update_time": "2025-04-14 01:12:27",
     "depot": {
         "baselanguages": "english",
         "2023811": {
@@ -41,8 +41,7 @@
                     "size": "969248239",
                     "download": "148139104"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2023813": {
             "config": {
@@ -59,8 +58,7 @@
                     "size": "999798537",
                     "download": "151733520"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
