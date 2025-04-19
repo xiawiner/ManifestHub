@@ -4,8 +4,8 @@
     "name": "Don't Bite Me Bro! +",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27838742",
-    "update_time": "2025-03-08 00:07:38",
+    "change_number": "28469072",
+    "update_time": "2025-04-14 23:07:14",
     "depot": {
         "hasdepotsindlc": "0",
         "786451": {
@@ -56,7 +56,7 @@
                     "download": "128"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "1cf0b8ad1e6b06731c47acf8393c5e2f8265cf0c5752ede229ac663e33daed69"
         },
         "828611": {
             "dlcappid": "828611",
@@ -133,7 +133,7 @@
                     "download": "128"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "33774fdd87c90771ec4f50f1fa6e218e34afdd0ffd4fdc77e9d7f2fd6253ee2b"
         },
         "828621": {
             "dlcappid": "828621",
