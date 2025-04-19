@@ -4,8 +4,8 @@
     "name": "TS:AC Modding Tool",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28162377",
-    "update_time": "2025-03-27 11:25:48",
+    "change_number": "28527698",
+    "update_time": "2025-04-17 19:23:08",
     "depot": {
         "workshopdepot": "3450250",
         "hasdepotsindlc": "0",
@@ -37,9 +37,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8460975500206098077",
-                    "size": "106042504",
-                    "download": "25652624"
+                    "gid": "1663960854420460534",
+                    "size": "107287109",
+                    "download": "26010320"
                 }
             },
             "decryptionkey": "c5efd80adb761a23987922e5e1d6eaf3b249dba405e3cc513570fcf6aaf575ee"
@@ -85,8 +85,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17876883",
-                "timeupdated": "1743045944"
+                "buildid": "18143214",
+                "timeupdated": "1744888982"
             }
         },
         "privatebranches": "1",
