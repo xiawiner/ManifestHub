@@ -4,8 +4,8 @@
     "name": "Cities in Motion",
     "schinese_name": "都市运输",
     "isfreeapp": "0",
-    "change_number": "27960514",
-    "update_time": "2025-03-15 00:21:02",
+    "change_number": "28495743",
+    "update_time": "2025-04-16 05:23:52",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -27,8 +27,7 @@
                     "download": "0"
                 }
             },
-            "dlcappid": "206717",
-            "decryptionkey": ""
+            "dlcappid": "206717"
         },
         "206716": {
             "config": {
@@ -61,8 +60,7 @@
                     "size": "21783084",
                     "download": "0"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "206715": {
             "config": {
@@ -82,8 +80,7 @@
                     "download": "0"
                 }
             },
-            "dlcappid": "206715",
-            "decryptionkey": ""
+            "dlcappid": "206715"
         },
         "206714": {
             "config": {
@@ -117,8 +114,7 @@
                     "download": "0"
                 }
             },
-            "dlcappid": "271389",
-            "decryptionkey": ""
+            "dlcappid": "271389"
         },
         "206713": {
             "config": {
@@ -138,8 +134,7 @@
                     "download": "0"
                 }
             },
-            "dlcappid": "206713",
-            "decryptionkey": ""
+            "dlcappid": "206713"
         },
         "206712": {
             "config": {
@@ -173,8 +168,7 @@
                     "download": "0"
                 }
             },
-            "dlcappid": "271388",
-            "decryptionkey": ""
+            "dlcappid": "271388"
         },
         "206711": {
             "config": {
@@ -194,8 +188,7 @@
                     "download": "0"
                 }
             },
-            "dlcappid": "206711",
-            "decryptionkey": ""
+            "dlcappid": "206711"
         },
         "206710": {
             "config": {
@@ -229,8 +222,7 @@
                     "download": "0"
                 }
             },
-            "dlcappid": "271387",
-            "decryptionkey": ""
+            "dlcappid": "271387"
         },
         "73188": {
             "config": {
@@ -250,8 +242,7 @@
                     "download": "0"
                 }
             },
-            "dlcappid": "73188",
-            "decryptionkey": ""
+            "dlcappid": "73188"
         },
         "73187": {
             "config": {
@@ -285,8 +276,7 @@
                     "download": "0"
                 }
             },
-            "dlcappid": "271386",
-            "decryptionkey": ""
+            "dlcappid": "271386"
         },
         "73186": {
             "config": {
@@ -306,8 +296,7 @@
                     "download": "0"
                 }
             },
-            "dlcappid": "73186",
-            "decryptionkey": ""
+            "dlcappid": "73186"
         },
         "73185": {
             "config": {
@@ -341,8 +330,7 @@
                     "download": "0"
                 }
             },
-            "dlcappid": "271385",
-            "decryptionkey": ""
+            "dlcappid": "271385"
         },
         "73184": {
             "config": {
@@ -362,8 +350,7 @@
                     "download": "0"
                 }
             },
-            "dlcappid": "73184",
-            "decryptionkey": ""
+            "dlcappid": "73184"
         },
         "73183": {
             "config": {
@@ -397,8 +384,7 @@
                     "download": "0"
                 }
             },
-            "dlcappid": "271384",
-            "decryptionkey": ""
+            "dlcappid": "271384"
         },
         "73182": {
             "config": {
@@ -418,8 +404,7 @@
                     "download": "0"
                 }
             },
-            "dlcappid": "73182",
-            "decryptionkey": ""
+            "dlcappid": "73182"
         },
         "73181": {
             "config": {
@@ -453,8 +438,7 @@
                     "download": "0"
                 }
             },
-            "dlcappid": "271383",
-            "decryptionkey": ""
+            "dlcappid": "271383"
         },
         "73180": {
             "config": {
@@ -474,8 +458,7 @@
                     "download": "0"
                 }
             },
-            "dlcappid": "73180",
-            "decryptionkey": ""
+            "dlcappid": "73180"
         },
         "73014": {
             "config": {
@@ -509,8 +492,7 @@
                     "download": "0"
                 }
             },
-            "dlcappid": "271382",
-            "decryptionkey": ""
+            "dlcappid": "271382"
         },
         "73017": {
             "config": {
@@ -530,8 +512,7 @@
                     "download": "0"
                 }
             },
-            "dlcappid": "73017",
-            "decryptionkey": ""
+            "dlcappid": "73017"
         },
         "73013": {
             "config": {
@@ -565,8 +546,7 @@
                     "download": "0"
                 }
             },
-            "dlcappid": "271381",
-            "decryptionkey": ""
+            "dlcappid": "271381"
         },
         "73016": {
             "config": {
@@ -586,8 +566,7 @@
                     "download": "0"
                 }
             },
-            "dlcappid": "73016",
-            "decryptionkey": ""
+            "dlcappid": "73016"
         },
         "73012": {
             "config": {
@@ -621,8 +600,7 @@
                     "download": "0"
                 }
             },
-            "dlcappid": "271380",
-            "decryptionkey": ""
+            "dlcappid": "271380"
         },
         "73015": {
             "config": {
@@ -691,8 +669,7 @@
                     "download": "0"
                 }
             },
-            "dlcappid": "206721",
-            "decryptionkey": ""
+            "dlcappid": "206721"
         },
         "206720": {
             "config": {
@@ -723,8 +700,7 @@
                     "size": "72833988",
                     "download": "0"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "206719": {
             "config": {
@@ -741,8 +717,7 @@
                     "size": "767388",
                     "download": "0"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "206718": {
             "config": {
@@ -773,8 +748,7 @@
                     "size": "767388",
                     "download": "0"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "310040": {
             "manifests": {
