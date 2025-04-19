@@ -4,8 +4,8 @@
     "name": "Asteroids Millennium",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27720442",
-    "update_time": "2025-02-28 23:47:04",
+    "change_number": "28501014",
+    "update_time": "2025-04-16 13:07:33",
     "depot": {
         "228986": {
             "config": {
@@ -44,8 +44,7 @@
                     "size": "99346553",
                     "download": "86317856"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
