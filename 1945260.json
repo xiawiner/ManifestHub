@@ -4,8 +4,8 @@
     "name": "Jelly Express",
     "schinese_name": "果冻快递",
     "isfreeapp": "0",
-    "change_number": "26830466",
-    "update_time": "2025-01-01 12:24:36",
+    "change_number": "28436050",
+    "update_time": "2025-04-12 03:10:14",
     "depot": {
         "1945262": {
             "config": {
@@ -17,8 +17,7 @@
                     "size": "6390609262",
                     "download": "314956800"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1945261": {
             "config": {
