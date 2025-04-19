@@ -4,8 +4,8 @@
     "name": "Hentai MagicalGirl",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27459771",
-    "update_time": "2025-02-13 21:16:02",
+    "change_number": "28447317",
+    "update_time": "2025-04-13 03:08:12",
     "depot": {
         "2293821": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "135808267",
                     "download": "45394896"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2293823": {
             "config": {
@@ -43,8 +42,7 @@
                     "size": "157082666",
                     "download": "39200400"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "baselanguages": "english",
         "branches": {
