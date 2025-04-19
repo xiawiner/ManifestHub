@@ -4,8 +4,8 @@
     "name": "Fugl",
     "schinese_name": "Fugl (鸟)",
     "isfreeapp": "0",
-    "change_number": "27198896",
-    "update_time": "2025-01-28 18:34:34",
+    "change_number": "28516632",
+    "update_time": "2025-04-17 05:10:40",
     "depot": {
         "228985": {
             "config": {
@@ -71,8 +71,7 @@
                     "size": "4280581824",
                     "download": "1292439312"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "643813": {
             "config": {
@@ -90,8 +89,7 @@
                     "size": "4273013188",
                     "download": "1285781376"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,danish,dutch,norwegian,swedish,turkish,brazilian,latam",
         "branches": {
