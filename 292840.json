@@ -4,8 +4,8 @@
     "name": "Pajama Sam's Sock Works",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27895794",
-    "update_time": "2025-03-12 01:20:57",
+    "change_number": "28396257",
+    "update_time": "2025-04-10 07:07:36",
     "depot": {
         "overridescddb": "1",
         "292841": {
@@ -42,8 +42,7 @@
                     "size": "110074384",
                     "download": "63856720"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "292843": {
             "config": {
@@ -60,8 +59,7 @@
                     "size": "56192497",
                     "download": "77830457694"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "292844": {
             "config": {
@@ -116,8 +114,7 @@
                     "size": "426",
                     "download": "5"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "292847": {
             "config": {
@@ -135,8 +132,7 @@
                     "size": "427",
                     "download": "5"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "292848": {
             "config": {
@@ -191,8 +187,7 @@
                     "size": "423",
                     "download": "67777512"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "292851": {
             "config": {
@@ -210,8 +205,7 @@
                     "size": "424",
                     "download": "5"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "baselanguages": "english,dutch",
         "branches": {
