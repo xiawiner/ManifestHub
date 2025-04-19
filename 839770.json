@@ -4,8 +4,8 @@
     "name": "Phoenix Point",
     "schinese_name": "凤凰点：完整版",
     "isfreeapp": "0",
-    "change_number": "28141915",
-    "update_time": "2025-03-26 11:09:01",
+    "change_number": "28353920",
+    "update_time": "2025-04-08 05:10:10",
     "depot": {
         "hasdepotsindlc": "0",
         "228988": {
@@ -74,6 +74,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "0d41e5b2f0274fda368919edf5d919041cd8cfa668a7ae163e5f443347166a4d"
     }
 }
