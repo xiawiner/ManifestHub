@@ -4,8 +4,8 @@
     "name": "Womanizer",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27787652",
-    "update_time": "2025-03-05 12:08:59",
+    "change_number": "28441146",
+    "update_time": "2025-04-12 12:09:54",
     "depot": {
         "hasdepotsindlc": "1",
         "2461461": {
@@ -31,8 +31,7 @@
                     "size": "812780165",
                     "download": "714268112"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2461463": {
             "config": {
@@ -44,8 +43,7 @@
                     "size": "844582795",
                     "download": "723263072"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
