@@ -4,8 +4,8 @@
     "name": "Mask of the Rose",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27859522",
-    "update_time": "2025-03-09 22:54:24",
+    "change_number": "28497752",
+    "update_time": "2025-04-16 08:07:59",
     "depot": {
         "1769981": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "2685241548",
                     "download": "832674032"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1769983": {
             "config": {
@@ -46,8 +45,7 @@
                     "size": "2738391731",
                     "download": "835852144"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
