@@ -4,8 +4,8 @@
     "name": "Banner Of Blood",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27979515",
-    "update_time": "2025-03-16 16:55:56",
+    "change_number": "28366681",
+    "update_time": "2025-04-08 21:44:17",
     "depot": {
         "baselanguages": "english,schinese",
         "1922671": {
@@ -31,8 +31,7 @@
                     "size": "909335924",
                     "download": "385570944"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "workshopdepot": "1922670",
         "branches": {
