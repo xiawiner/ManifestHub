@@ -4,8 +4,8 @@
     "name": "Monument Valley 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28292450",
-    "update_time": "2025-04-04 00:00:24",
+    "change_number": "28528756",
+    "update_time": "2025-04-17 20:29:57",
     "depot": {
         "1927747": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "732523722966247351",
-                    "size": "637955477",
-                    "download": "248669600"
+                    "gid": "3656727961818116286",
+                    "size": "380530418",
+                    "download": "273575744"
                 }
             },
             "decryptionkey": "46c8879eb3ab767756128d64c73865baabf28f92ee55743a1271a051ef4cf5e0"
@@ -43,13 +43,12 @@
                     "size": "667687107",
                     "download": "257079088"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "9229018",
-                "timeupdated": "1659352858"
+                "buildid": "18115556",
+                "timeupdated": "1744730407"
             }
         },
         "privatebranches": "1"
