@@ -1,0 +1,27 @@
+{
+    "appid": "3202110",
+    "type": "Game",
+    "name": "Deadly Heart Gambit",
+    "schinese_name": "死亡红心赌局",
+    "isfreeapp": "0",
+    "change_number": "28542810",
+    "update_time": "2025-04-18 12:21:47",
+    "depot": {
+        "3202111": {
+            "manifests": {
+                "public": {
+                    "gid": "4750960796301958717",
+                    "size": "1518202591",
+                    "download": "177703264"
+                }
+            },
+            "decryptionkey": "49e5cab226d156cbc74eb84e80c3e1d6c1b0f84fe672bf20fd1a93acda0ed13f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17584257",
+                "timeupdated": "1741067004"
+            }
+        }
+    }
+}
