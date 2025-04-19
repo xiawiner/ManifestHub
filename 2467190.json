@@ -4,8 +4,8 @@
     "name": "三國立志傳3",
     "schinese_name": "三国立志传3",
     "isfreeapp": "0",
-    "change_number": "27890383",
-    "update_time": "2025-03-11 20:22:17",
+    "change_number": "28367727",
+    "update_time": "2025-04-08 22:44:03",
     "depot": {
         "2467191": {
             "manifests": {
@@ -41,7 +41,7 @@
                     "download": "2243667952"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "00949ec9b67b5369925e4b80c0485dee373da404c74659f17c1f09d736f82a93"
         },
         "branches": {
             "public": {
