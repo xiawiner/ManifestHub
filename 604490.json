@@ -4,8 +4,8 @@
     "name": "Running Through Russia",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28333698",
-    "update_time": "2025-04-07 00:16:31",
+    "change_number": "28426462",
+    "update_time": "2025-04-11 18:09:32",
     "depot": {
         "baselanguages": "english,russian",
         "hasdepotsindlc": "1",
@@ -32,8 +32,7 @@
                     "size": "90058435",
                     "download": "25463744"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "604493": {
             "config": {
@@ -45,8 +44,7 @@
                     "size": "90876571",
                     "download": "24310816"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
