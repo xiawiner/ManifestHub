@@ -4,10 +4,11 @@
     "name": "Astalon: Tears of the Earth",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28334115",
-    "update_time": "2025-04-07 01:16:28",
+    "change_number": "28381854",
+    "update_time": "2025-04-09 16:26:57",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,japanese,latam",
+        "hasdepotsindlc": "1",
         "1046401": {
             "config": {
                 "oslist": "windows"
@@ -31,8 +32,7 @@
                     "size": "355554743",
                     "download": "191348240"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1046403": {
             "config": {
@@ -44,10 +44,8 @@
                     "size": "354829304",
                     "download": "188986816"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
-        "hasdepotsindlc": "1",
         "branches": {
             "public": {
                 "buildid": "8151994",
