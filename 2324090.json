@@ -4,8 +4,8 @@
     "name": "VRHandsFrame",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28333689",
-    "update_time": "2025-04-07 00:15:23",
+    "change_number": "28450392",
+    "update_time": "2025-04-13 12:16:57",
     "depot": {
         "hasdepotsindlc": "0",
         "2324091": {
@@ -16,9 +16,9 @@
                     "download": "211025584"
                 },
                 "beta": {
-                    "gid": "3298551301374275886",
-                    "size": "512386599",
-                    "download": "211447456"
+                    "gid": "4175024969058328802",
+                    "size": "512429478",
+                    "download": "211444848"
                 }
             },
             "decryptionkey": "9a7809ed206c1931f812d5c41a3e5159493b17a284755f2f95d17564667cae4a"
@@ -30,9 +30,9 @@
                 "timeupdated": "1740745414"
             },
             "beta": {
-                "buildid": "18002619",
+                "buildid": "18085172",
                 "description": "beta",
-                "timeupdated": "1743956119"
+                "timeupdated": "1744517812"
             }
         },
         "privatebranches": "1",
