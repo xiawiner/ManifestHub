@@ -4,8 +4,8 @@
     "name": "Para Ark",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28266720",
-    "update_time": "2025-04-02 19:10:30",
+    "change_number": "28474799",
+    "update_time": "2025-04-15 05:09:45",
     "depot": {
         "baselanguages": "english",
         "2529611": {
@@ -33,8 +33,7 @@
                     "size": "1194121668",
                     "download": "819766144"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
