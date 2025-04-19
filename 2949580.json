@@ -4,8 +4,8 @@
     "name": "琉隐九绝",
     "schinese_name": "琉隐九绝",
     "isfreeapp": "0",
-    "change_number": "28250377",
-    "update_time": "2025-04-01 22:35:35",
+    "change_number": "28458150",
+    "update_time": "2025-04-14 08:44:29",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english,koreana,schinese,tchinese,japanese",
@@ -37,17 +37,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7805364782844756138",
-                    "size": "5737733878",
-                    "download": "5578914928"
+                    "gid": "5981546711018337131",
+                    "size": "5775191027",
+                    "download": "5615518528"
                 }
             },
             "decryptionkey": "85081af97dd5e355512fb526cd99075f1f2a1631b0285fd9412eec3e9195d498"
         },
         "branches": {
             "public": {
-                "buildid": "17471000",
-                "timeupdated": "1740414039"
+                "buildid": "18093018",
+                "timeupdated": "1744591464"
             }
         }
     }
