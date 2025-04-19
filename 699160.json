@@ -4,8 +4,8 @@
     "name": "A Plot Story",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27391037",
-    "update_time": "2025-02-10 05:26:19",
+    "change_number": "28509654",
+    "update_time": "2025-04-16 22:10:33",
     "depot": {
         "699161": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "415195010",
                     "download": "120101360"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
