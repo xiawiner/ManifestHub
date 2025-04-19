@@ -4,8 +4,8 @@
     "name": "Colony Ship: A Post-Earth Role Playing Game",
     "schinese_name": "殖民船：后地球",
     "isfreeapp": "0",
-    "change_number": "28326774",
-    "update_time": "2025-04-06 04:38:18",
+    "change_number": "28542611",
+    "update_time": "2025-04-18 12:04:17",
     "depot": {
         "228989": {
             "config": {
@@ -17,9 +17,9 @@
         "648411": {
             "manifests": {
                 "public": {
-                    "gid": "847707335578913911",
-                    "size": "18365441033",
-                    "download": "7356526784"
+                    "gid": "7704213087564959752",
+                    "size": "18633221569",
+                    "download": "7467090832"
                 },
                 "previous_version": {
                     "gid": "6042291350697311329",
@@ -27,17 +27,17 @@
                     "download": "7303194928"
                 },
                 "public_test": {
-                    "gid": "4528210961448639995",
-                    "size": "18627724349",
-                    "download": "7462310672"
+                    "gid": "7704213087564959752",
+                    "size": "18633221569",
+                    "download": "7467090832"
                 }
             },
             "decryptionkey": "a97d03641af448aa17fbe2613980631ed39b9eb74e746a8bfd164d5c13affbc7"
         },
         "branches": {
             "public": {
-                "buildid": "16395718",
-                "timeupdated": "1731521308"
+                "buildid": "18085781",
+                "timeupdated": "1744563140"
             },
             "previous_version": {
                 "buildid": "14899189",
@@ -45,9 +45,9 @@
                 "timeupdated": "1731371491"
             },
             "public_test": {
-                "buildid": "17997878",
+                "buildid": "18085781",
                 "description": "Public testing branch",
-                "timeupdated": "1743885492"
+                "timeupdated": "1744491468"
             }
         },
         "privatebranches": "1"
