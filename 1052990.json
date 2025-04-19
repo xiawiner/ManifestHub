@@ -4,8 +4,8 @@
     "name": "A Monster's Expedition",
     "schinese_name": "怪兽远征",
     "isfreeapp": "0",
-    "change_number": "26933846",
-    "update_time": "2025-01-10 10:19:38",
+    "change_number": "28495802",
+    "update_time": "2025-04-16 05:28:15",
     "depot": {
         "1052991": {
             "config": {
@@ -43,8 +43,7 @@
                     "size": "566509173",
                     "download": "360945136"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1052993": {
             "config": {
@@ -63,8 +62,7 @@
                     "size": "582096177",
                     "download": "364107008"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
