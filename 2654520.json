@@ -4,8 +4,8 @@
     "name": "Hypnosis Sister Clicker",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25214358",
-    "update_time": "2024-09-14 00:42:06",
+    "change_number": "28356004",
+    "update_time": "2025-04-08 08:18:12",
     "depot": {
         "baselanguages": "english,japanese",
         "2654521": {
@@ -29,7 +29,7 @@
                     "download": "224817056"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "5cf30031e0da67854a63802a88be09818b5eae674ee49c84a8fed99d0c29bde1"
         },
         "branches": {
             "public": {
