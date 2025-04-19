@@ -4,8 +4,8 @@
     "name": "Sex Simulator - Love Room",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28013349",
-    "update_time": "2025-03-18 20:56:07",
+    "change_number": "28475518",
+    "update_time": "2025-04-15 06:08:30",
     "depot": {
         "2185081": {
             "manifests": {
@@ -27,8 +27,7 @@
                     "size": "165394006",
                     "download": "99364112"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2185083": {
             "config": {
@@ -40,8 +39,7 @@
                     "size": "175047941",
                     "download": "100211984"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
