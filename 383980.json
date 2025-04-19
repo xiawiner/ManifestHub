@@ -4,8 +4,8 @@
     "name": "Rivals of Aether",
     "schinese_name": "以太之战",
     "isfreeapp": "0",
-    "change_number": "27895542",
-    "update_time": "2025-03-12 01:01:29",
+    "change_number": "28514318",
+    "update_time": "2025-04-17 02:30:20",
     "depot": {
         "baselanguages": "english,japanese",
         "workshopdepot": "383980",
@@ -196,6 +196,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "78cad22343855a24195dbcc6369aa36c0aaa68cd46b808b7d8fdebba53d87626"
     }
 }
