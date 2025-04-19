@@ -4,8 +4,8 @@
     "name": "Fallout 76 Public Test Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28311119",
-    "update_time": "2025-04-04 23:01:06",
+    "change_number": "28436259",
+    "update_time": "2025-04-12 03:25:07",
     "depot": {
         "228990": {
             "config": {
@@ -17,9 +17,9 @@
         "1836201": {
             "manifests": {
                 "public": {
-                    "gid": "6708093397611228178",
-                    "size": "111003652",
-                    "download": "54938784"
+                    "gid": "6942595061957477174",
+                    "size": "103249192",
+                    "download": "47045120"
                 }
             },
             "decryptionkey": "64994dccc44bb1e5d35f2d3fae8a2697ccbf734c292326f1ca7e8c270c3a811a"
@@ -27,9 +27,9 @@
         "1836202": {
             "manifests": {
                 "public": {
-                    "gid": "6683293150674024848",
-                    "size": "118014433648",
-                    "download": "107219513328"
+                    "gid": "4364263527360524784",
+                    "size": "118052648643",
+                    "download": "107295529184"
                 }
             },
             "decryptionkey": "78b459a0a6dfb3b6e4f6add79b17e0d1d7fd036264670ae4036d303cf3386d35"
@@ -37,9 +37,9 @@
         "1836203": {
             "manifests": {
                 "public": {
-                    "gid": "8382008049443547490",
-                    "size": "3534850366",
-                    "download": "2975247328"
+                    "gid": "121729632973892889",
+                    "size": "3542715661",
+                    "download": "2983180944"
                 }
             },
             "decryptionkey": "5f49022585ddd9b6ec6b49671f87a0e8bc6764206c8de92688217e9c24ca05bb"
@@ -57,17 +57,17 @@
         "1836205": {
             "manifests": {
                 "public": {
-                    "gid": "1227261531896778178",
-                    "size": "4830",
-                    "download": "1472"
+                    "gid": "3066405954317161756",
+                    "size": "4781",
+                    "download": "1456"
                 }
             },
             "decryptionkey": "da29b457d23990994bb15100858d053fdd9bffc0868df7fa35b7bd43e58833c1"
         },
         "branches": {
             "public": {
-                "buildid": "17973361",
-                "timeupdated": "1743778862"
+                "buildid": "18159423",
+                "timeupdated": "1745002885"
             }
         },
         "privatebranches": "1"
