@@ -1,0 +1,35 @@
+{
+    "appid": "1981700",
+    "type": "Game",
+    "name": "Jacob's Quest Anniversary Edition",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28520102",
+    "update_time": "2025-04-17 10:11:19",
+    "depot": {
+        "baselanguages": "english",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1981701": {
+            "manifests": {
+                "public": {
+                    "gid": "7913917964100962883",
+                    "size": "1274852838",
+                    "download": "1107371712"
+                }
+            },
+            "decryptionkey": "581dcaeb951a0df6b9cfed55124a5b588e9d0c56919b306617d1bbd2240d2ebf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16140501",
+                "timeupdated": "1729621860"
+            }
+        }
+    }
+}
