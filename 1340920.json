@@ -4,8 +4,8 @@
     "name": "Piggy Gambit",
     "schinese_name": "猪头三大冒险",
     "isfreeapp": "0",
-    "change_number": "26966362",
-    "update_time": "2025-01-13 09:32:16",
+    "change_number": "28495761",
+    "update_time": "2025-04-16 05:25:20",
     "depot": {
         "baselanguages": "english,schinese,tchinese,japanese",
         "1340921": {
@@ -31,8 +31,7 @@
                     "size": "734249281",
                     "download": "183740896"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "workshopdepot": "1340920",
         "branches": {
