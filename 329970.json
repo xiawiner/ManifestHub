@@ -4,8 +4,8 @@
     "name": "KeeperRL",
     "schinese_name": "地牢扛把子",
     "isfreeapp": "0",
-    "change_number": "28193225",
-    "update_time": "2025-03-28 23:12:18",
+    "change_number": "28508811",
+    "update_time": "2025-04-16 21:22:09",
     "depot": {
         "329971": {
             "manifests": {
@@ -56,8 +56,7 @@
                     "size": "42017652",
                     "download": "6331024"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "329974": {
             "config": {
@@ -75,8 +74,7 @@
                     "size": "0",
                     "download": "0"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "329975": {
             "config": {
@@ -94,8 +92,7 @@
                     "size": "35227460",
                     "download": "8188032"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "329976": {
             "config": {
