@@ -1,0 +1,41 @@
+{
+    "appid": "2901070",
+    "type": "Game",
+    "name": "The Simulation",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28532998",
+    "update_time": "2025-04-18 00:04:04",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2901071": {
+            "manifests": {
+                "public": {
+                    "gid": "3779912005301335299",
+                    "size": "4288420573",
+                    "download": "4188757472"
+                }
+            },
+            "decryptionkey": "3bcdacc25ac903dad651105a3e5aea7cbbaf04086da0d268d9d75c62d5a753e1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18084708",
+                "timeupdated": "1744479677"
+            }
+        }
+    }
+}
