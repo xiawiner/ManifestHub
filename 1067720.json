@@ -4,8 +4,8 @@
     "name": "Hellsinker.",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26539529",
-    "update_time": "2024-12-07 21:15:53",
+    "change_number": "28470155",
+    "update_time": "2025-04-15 00:12:45",
     "depot": {
         "228983": {
             "config": {
@@ -57,7 +57,7 @@
                 }
             },
             "dlcappid": "1113510",
-            "decryptionkey": ""
+            "decryptionkey": "a9861ace051ebec1bc45a76d22b70492a95361632c8438f4b573dbed386349b7"
         },
         "branches": {
             "public": {
