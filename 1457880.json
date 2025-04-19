@@ -4,8 +4,8 @@
     "name": "Genokids Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25064523",
-    "update_time": "2024-09-15 07:59:14",
+    "change_number": "28513643",
+    "update_time": "2025-04-17 01:49:16",
     "depot": {
         "228990": {
             "config": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5368574439872640151",
-                    "size": "446014189",
-                    "download": "136494800"
+                    "gid": "1809484967183629853",
+                    "size": "446351211",
+                    "download": "136604832"
                 },
                 "before_next_fest": {
                     "gid": "3945419080878873852",
@@ -41,17 +41,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6311053421357975942",
-                    "size": "556259086",
-                    "download": "209147552"
+                    "gid": "8705510328262519995",
+                    "size": "556598668",
+                    "download": "209254992"
                 },
                 "before_next_fest": {
                     "gid": "8336846623287734174",
                     "size": "570144484",
                     "download": "212583840"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1457883": {
             "config": {
@@ -59,17 +58,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8345400514925337311",
-                    "size": "444762786",
-                    "download": "134587904"
+                    "gid": "8618475459173438961",
+                    "size": "445102816",
+                    "download": "134701936"
                 },
                 "before_next_fest": {
                     "gid": "5178103114324275282",
                     "size": "458798181",
                     "download": "138061312"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1457884": {
             "config": {
@@ -77,22 +75,21 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1788956484809724295",
-                    "size": "439753603",
-                    "download": "134813040"
+                    "gid": "3047424184496916762",
+                    "size": "471173234",
+                    "download": "144207360"
                 },
                 "before_next_fest": {
                     "gid": "5272658565814811857",
                     "size": "484641306",
                     "download": "147480864"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17464092",
-                "timeupdated": "1740197671"
+                "buildid": "18132616",
+                "timeupdated": "1744825726"
             },
             "before_next_fest": {
                 "buildid": "14699864",
