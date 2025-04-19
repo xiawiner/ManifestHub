@@ -1,0 +1,28 @@
+{
+    "appid": "2500710",
+    "type": "Game",
+    "name": "VoidBound",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28540049",
+    "update_time": "2025-04-18 08:03:39",
+    "depot": {
+        "2500711": {
+            "manifests": {
+                "public": {
+                    "gid": "5192868349915024811",
+                    "size": "5832880099",
+                    "download": "4957793808"
+                }
+            },
+            "decryptionkey": "7652e1f524e128a675ae5781df8731e8cba8bfb20e81868fdcac46e4ca45b94c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17438627",
+                "timeupdated": "1740182463"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
