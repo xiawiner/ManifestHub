@@ -4,8 +4,8 @@
     "name": "Cave Story+",
     "schinese_name": "洞窟物语",
     "isfreeapp": "0",
-    "change_number": "27491326",
-    "update_time": "2025-02-15 13:13:11",
+    "change_number": "28497740",
+    "update_time": "2025-04-16 08:07:12",
     "depot": {
         "228983": {
             "config": {
@@ -43,8 +43,7 @@
                     "size": "3664895",
                     "download": "0"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "200903": {
             "config": {
@@ -71,8 +70,7 @@
                     "size": "1929968",
                     "download": "0"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "overridescddb": "1",
         "workshopdepot": "200900",
