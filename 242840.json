@@ -4,8 +4,8 @@
     "name": "In Verbis Virtus",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26040498",
-    "update_time": "2024-11-05 00:44:55",
+    "change_number": "28351394",
+    "update_time": "2025-04-08 02:15:16",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,spanish,schinese,russian,turkish",
@@ -166,8 +166,7 @@
                     "size": "4482146827",
                     "download": "2757289072"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "242848": {
             "config": {
@@ -180,8 +179,7 @@
                     "size": "6089",
                     "download": "2320"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "242849": {
             "config": {
@@ -194,8 +192,7 @@
                     "size": "6089",
                     "download": "2320"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "242850": {
             "config": {
@@ -208,8 +205,7 @@
                     "size": "6089",
                     "download": "2320"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "242851": {
             "config": {
@@ -222,8 +218,7 @@
                     "size": "6089",
                     "download": "2320"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "242852": {
             "config": {
@@ -236,8 +231,7 @@
                     "size": "6089",
                     "download": "2320"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "242854": {
             "config": {
@@ -250,8 +244,7 @@
                     "size": "6089",
                     "download": "2320"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "242856": {
             "config": {
