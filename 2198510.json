@@ -4,8 +4,8 @@
     "name": "New Cycle",
     "schinese_name": "耀斑纪元 - New Cycle",
     "isfreeapp": "0",
-    "change_number": "28183731",
-    "update_time": "2025-03-28 12:14:55",
+    "change_number": "28370966",
+    "update_time": "2025-04-09 01:43:01",
     "depot": {
         "228990": {
             "config": {
@@ -30,9 +30,9 @@
                     "download": "3130570832"
                 },
                 "public-experimental": {
-                    "gid": "2181372139518610190",
-                    "size": "8705296875",
-                    "download": "4323814544"
+                    "gid": "3583058472366347236",
+                    "size": "8935008783",
+                    "download": "4406190384"
                 },
                 "public-rollback": {
                     "gid": "3993232167501047688",
@@ -79,9 +79,9 @@
                 "timeupdated": "1705609493"
             },
             "public-experimental": {
-                "buildid": "17857056",
+                "buildid": "18029824",
                 "description": "unstable builds with experimental features",
-                "timeupdated": "1742931560"
+                "timeupdated": "1744134158"
             },
             "public-rollback": {
                 "buildid": "13841721",
