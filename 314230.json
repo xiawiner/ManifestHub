@@ -4,8 +4,8 @@
     "name": "Rodina",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28045668",
-    "update_time": "2025-03-20 14:13:12",
+    "change_number": "28498939",
+    "update_time": "2025-04-16 09:48:01",
     "depot": {
         "228983": {
             "config": {
@@ -141,9 +141,9 @@
                     "download": "156192560"
                 },
                 "dev": {
-                    "gid": "2874489521980319403",
-                    "size": "230584962",
-                    "download": "158366304"
+                    "gid": "6059193840278888771",
+                    "size": "230498058",
+                    "download": "158351568"
                 }
             },
             "decryptionkey": "beaabc4186652ff45bd6ee7b8d0d1ca7c1d12af98e0b98ea7cc942adc00046c9"
@@ -261,9 +261,9 @@
                     "download": "6313280"
                 },
                 "dev": {
-                    "gid": "5129417276904019477",
-                    "size": "26524672",
-                    "download": "6359376"
+                    "gid": "8028644001345167468",
+                    "size": "26530304",
+                    "download": "6361008"
                 }
             },
             "decryptionkey": ""
@@ -364,8 +364,8 @@
                 "timeupdated": "1681358589"
             },
             "dev": {
-                "buildid": "17788876",
-                "timeupdated": "1742451187"
+                "buildid": "18060139",
+                "timeupdated": "1744768075"
             }
         },
         "privatebranches": "1"
