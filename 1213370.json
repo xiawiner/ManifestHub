@@ -4,8 +4,8 @@
     "name": "Mr. Fast",
     "schinese_name": "杀手闪先生",
     "isfreeapp": "0",
-    "change_number": "26225211",
-    "update_time": "2024-11-16 18:26:29",
+    "change_number": "28368729",
+    "update_time": "2025-04-08 23:43:41",
     "depot": {
         "1213371": {
             "config": {
@@ -49,8 +49,7 @@
                     "size": "650170667",
                     "download": "224612784"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
