@@ -4,8 +4,8 @@
     "name": "Border of her Heart",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25972739",
-    "update_time": "2024-10-30 23:11:01",
+    "change_number": "28498478",
+    "update_time": "2025-04-16 09:07:21",
     "depot": {
         "795681": {
             "config": {
@@ -45,8 +45,7 @@
                     "size": "557315904",
                     "download": "395806800"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "795688": {
             "config": {
@@ -59,8 +58,7 @@
                     "size": "573638897",
                     "download": "383884400"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "795687": {
             "config": {
@@ -73,8 +71,7 @@
                     "size": "624318732",
                     "download": "391850528"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "812750": {
             "dlcappid": "812750",
@@ -117,8 +114,7 @@
                     "size": "554024056",
                     "download": "395157040"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "795689": {
             "dlcappid": "812750",
@@ -132,8 +128,7 @@
                     "size": "604163194",
                     "download": "414595328"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "795686": {
             "config": {
@@ -147,8 +142,7 @@
                     "size": "633777252",
                     "download": "422575440"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
