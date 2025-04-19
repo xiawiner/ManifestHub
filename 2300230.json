@@ -4,8 +4,8 @@
     "name": "Feather Party",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27936516",
-    "update_time": "2025-03-13 23:42:48",
+    "change_number": "28355890",
+    "update_time": "2025-04-08 08:09:55",
     "depot": {
         "2300231": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "5086326841",
                     "download": "938137216"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "baselanguages": "english",
         "branches": {
