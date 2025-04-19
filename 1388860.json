@@ -4,8 +4,8 @@
     "name": "Unmemory",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28286378",
-    "update_time": "2025-04-03 18:16:41",
+    "change_number": "28459778",
+    "update_time": "2025-04-14 12:07:54",
     "depot": {
         "1388861": {
             "config": {
@@ -42,8 +42,7 @@
                     "size": "2183882878",
                     "download": "961191056"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1388863": {
             "config": {
@@ -61,8 +60,7 @@
                     "size": "2194445904",
                     "download": "963468320"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
