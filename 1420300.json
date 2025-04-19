@@ -4,8 +4,8 @@
     "name": "No More Heroes 2: Desperate Struggle",
     "schinese_name": "英雄不再2：垂死挣扎",
     "isfreeapp": "0",
-    "change_number": "28334119",
-    "update_time": "2025-04-07 01:16:40",
+    "change_number": "28542938",
+    "update_time": "2025-04-18 12:36:27",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,japanese",
         "228983": {
@@ -42,27 +42,37 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "248379257181428444",
-                    "size": "3939248115",
-                    "download": "2129352320"
+                    "gid": "6285551758215279716",
+                    "size": "3887721993",
+                    "download": "2119381856"
                 },
                 "2021-07-12": {
                     "gid": "248379257181428444",
                     "size": "3939248115",
                     "download": "2129352320"
+                },
+                "2025-04-08": {
+                    "gid": "6285551758215279716",
+                    "size": "3887721993",
+                    "download": "2119381856"
                 }
             },
             "decryptionkey": "a60b2013357bb6850214cc837c14505b5af9c1cf6ba7021b26ee0050ab4d2422"
         },
         "branches": {
             "public": {
-                "buildid": "7018796",
-                "timeupdated": "1626284422"
+                "buildid": "18029287",
+                "timeupdated": "1744152451"
             },
             "2021-07-12": {
                 "buildid": "7018796",
                 "description": "Jul 12, 2021 version",
                 "timeupdated": "1742609921"
+            },
+            "2025-04-08": {
+                "buildid": "18029287",
+                "description": "Apr 8, 2025 version",
+                "timeupdated": "1744476040"
             }
         },
         "privatebranches": "1"
