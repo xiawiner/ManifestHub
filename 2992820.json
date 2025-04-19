@@ -4,8 +4,8 @@
     "name": "Shape of Dreams Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27992763",
-    "update_time": "2025-03-17 19:57:59",
+    "change_number": "28508356",
+    "update_time": "2025-04-16 20:58:42",
     "depot": {
         "228989": {
             "config": {
@@ -24,16 +24,17 @@
         "2992821": {
             "manifests": {
                 "public": {
-                    "gid": "6036161824110287114",
-                    "size": "5146077454",
-                    "download": "1848192688"
+                    "gid": "7459191221361131938",
+                    "size": "5218563298",
+                    "download": "1863281312"
                 }
-            }
+            },
+            "decryptionkey": "45455e7fcb64a8099b2f1daaa19c18c76f5ac5955b3255187e96c1e1668850fd"
         },
         "branches": {
             "public": {
-                "buildid": "17747357",
-                "timeupdated": "1742186258"
+                "buildid": "18128977",
+                "timeupdated": "1744808315"
             }
         }
     }
