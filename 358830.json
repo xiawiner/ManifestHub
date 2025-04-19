@@ -4,8 +4,8 @@
     "name": "Good Robot",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26539921",
-    "update_time": "2024-12-07 22:17:39",
+    "change_number": "28453692",
+    "update_time": "2025-04-13 22:07:43",
     "depot": {
         "228985": {
             "config": {
@@ -50,7 +50,7 @@
                 }
             },
             "dlcappid": "439690",
-            "decryptionkey": ""
+            "decryptionkey": "cf96153f134906a5a96d34da3f574a7e6cf1ceadffc4037607f1a351e7cfa7af"
         },
         "358832": {
             "config": {
