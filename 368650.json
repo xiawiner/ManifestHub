@@ -4,8 +4,8 @@
     "name": "Dark Echo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26572123",
-    "update_time": "2024-12-10 17:14:53",
+    "change_number": "28506739",
+    "update_time": "2025-04-16 19:19:52",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,brazilian",
         "368651": {
@@ -31,8 +31,7 @@
                     "size": "128863662",
                     "download": "39938544"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "368653": {
             "config": {
@@ -44,8 +43,7 @@
                     "size": "116369948",
                     "download": "39565888"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
