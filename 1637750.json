@@ -4,8 +4,8 @@
     "name": "Cute Girl 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27063916",
-    "update_time": "2025-01-19 21:54:30",
+    "change_number": "28455876",
+    "update_time": "2025-04-14 03:08:10",
     "depot": {
         "baselanguages": "english",
         "1637751": {
@@ -31,8 +31,7 @@
                     "size": "572117153",
                     "download": "237553152"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1637753": {
             "config": {
@@ -44,8 +43,7 @@
                     "size": "552580576",
                     "download": "244172304"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
