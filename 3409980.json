@@ -4,15 +4,15 @@
     "name": "你的女友",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28198341",
-    "update_time": "2025-03-29 04:10:07",
+    "change_number": "28445883",
+    "update_time": "2025-04-13 00:07:36",
     "depot": {
         "3409981": {
             "manifests": {
                 "public": {
-                    "gid": "3881994651465087559",
-                    "size": "979016030",
-                    "download": "237802448"
+                    "gid": "1072499336584697908",
+                    "size": "1130817162",
+                    "download": "267616944"
                 }
             },
             "decryptionkey": "0bcc2db745ba45e756e94bb7d3bc8c949b2598e72b2f9a0174c451a10abc9158"
@@ -20,10 +20,10 @@
         "workshopdepot": "3409980",
         "branches": {
             "public": {
-                "buildid": "17903429",
-                "timeupdated": "1743192061"
+                "buildid": "18075207",
+                "timeupdated": "1744389861"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "8fa3889b51e4527735eb875bc26d0f57835e25ba5b263b4516b35f9f1e54ef01"
     }
 }
