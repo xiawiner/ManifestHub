@@ -4,8 +4,8 @@
     "name": "Higurashi When They Cry Hou - Rei",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27541702",
-    "update_time": "2025-02-19 04:17:44",
+    "change_number": "28441495",
+    "update_time": "2025-04-12 13:08:32",
     "depot": {
         "baselanguages": "english,japanese",
         "1941111": {
@@ -31,8 +31,7 @@
                     "size": "842179177",
                     "download": "645525488"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1941113": {
             "config": {
@@ -44,8 +43,7 @@
                     "size": "850869876",
                     "download": "646309648"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
