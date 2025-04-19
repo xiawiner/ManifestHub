@@ -4,8 +4,8 @@
     "name": "Battle Shapers Demo",
     "schinese_name": "塑战核心 Demo",
     "isfreeapp": "0",
-    "change_number": "28331163",
-    "update_time": "2025-04-06 18:17:21",
+    "change_number": "28417085",
+    "update_time": "2025-04-11 06:07:18",
     "depot": {
         "228989": {
             "config": {
@@ -28,7 +28,8 @@
                     "size": "7771093672",
                     "download": "6140855168"
                 }
-            }
+            },
+            "decryptionkey": "81116f54598f31121762b9e0c7b8561686f39e9677d3b449b94315b075fb6e00"
         },
         "branches": {
             "public": {
