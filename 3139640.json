@@ -4,8 +4,8 @@
     "name": "야옹 미션",
     "schinese_name": "喵咪任务",
     "isfreeapp": "0",
-    "change_number": "27432058",
-    "update_time": "2025-02-12 11:38:56",
+    "change_number": "28495769",
+    "update_time": "2025-04-16 05:26:33",
     "depot": {
         "baselanguages": "",
         "3139641": {
@@ -31,8 +31,7 @@
                     "size": "165794602",
                     "download": "87957936"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3139643": {
             "config": {
@@ -44,8 +43,7 @@
                     "size": "146212601",
                     "download": "79313328"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3461700": {
             "manifests": {
