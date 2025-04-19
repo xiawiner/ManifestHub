@@ -4,8 +4,8 @@
     "name": "The Aquatic Adventure of the Last Human",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25930223",
-    "update_time": "2024-10-28 19:59:44",
+    "change_number": "28447725",
+    "update_time": "2025-04-13 04:07:44",
     "depot": {
         "401361": {
             "config": {
@@ -40,8 +40,7 @@
                     "size": "169546162",
                     "download": "110830864"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "401363": {
             "config": {
@@ -58,8 +57,7 @@
                     "size": "376477278",
                     "download": "263941680"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "401364": {
             "manifests": {
@@ -74,7 +72,7 @@
                     "download": "739629312"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "8e5cd5dfc8a24a7bf2d68ece686e3b21b3f4629286b82c7810e8d2f4a7ffb96b"
         },
         "401365": {
             "dlcappid": "441710",
@@ -90,7 +88,7 @@
                     "download": "739629312"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "c0362e068bf8b8eb3a881a8c62165b87ed846fdb4346191b9d3605dc3d12261d"
         },
         "441710": {
             "manifests": {
@@ -106,7 +104,7 @@
                 }
             },
             "dlcappid": "441710",
-            "decryptionkey": ""
+            "decryptionkey": "740e0b67a25d0f86fb74c5d4c180a6884b5df74ec39373a0cad0ea3db74a7170"
         },
         "branches": {
             "public": {
