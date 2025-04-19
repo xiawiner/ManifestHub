@@ -4,13 +4,9 @@
     "name": "SpeedRunners",
     "schinese_name": "极速奔跑者",
     "isfreeapp": "0",
-    "change_number": "28272938",
-    "update_time": "2025-04-03 01:04:11",
+    "change_number": "28531685",
+    "update_time": "2025-04-17 22:59:53",
     "depot": {
-        "preloadonly": "1",
-        "overridescddb": "1",
-        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,dutch,finnish,norwegian,hungarian,czech,romanian,turkish,brazilian,greek,ukrainian",
-        "workshopdepot": "207140",
         "228984": {
             "config": {
                 "oslist": "windows"
@@ -25,13 +21,10 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
-        "229012": {
-            "config": {
-                "oslist": "windows"
-            },
-            "depotfromapp": "228980",
-            "sharedinstall": "1"
-        },
+        "preloadonly": "1",
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,dutch,finnish,norwegian,hungarian,czech,romanian,turkish,brazilian,greek,ukrainian",
+        "workshopdepot": "207140",
         "207141": {
             "systemdefined": "1",
             "config": {
@@ -39,14 +32,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4603198000778590483",
-                    "size": "688555662",
-                    "download": "622950144"
+                    "gid": "4976153199281848716",
+                    "size": "694293640",
+                    "download": "628675792"
                 },
                 "beta": {
-                    "gid": "4603198000778590483",
-                    "size": "688555662",
-                    "download": "622950144"
+                    "gid": "4976153199281848716",
+                    "size": "694293640",
+                    "download": "628675792"
                 }
             },
             "decryptionkey": "2a380068679014b0f5249bc4968d341a6467fc4f4eac292e259ad5a5e660f34f"
@@ -57,14 +50,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1025675495619349342",
-                    "size": "743101917",
-                    "download": "637135616"
+                    "gid": "2916607353504802491",
+                    "size": "748839895",
+                    "download": "642861328"
                 },
                 "beta": {
-                    "gid": "1025675495619349342",
-                    "size": "743101917",
-                    "download": "637135616"
+                    "gid": "2916607353504802491",
+                    "size": "748839895",
+                    "download": "642861328"
                 }
             },
             "decryptionkey": "071e1a3caf8dadaaf299c91b768079a0eff26aad6f7fd40334302de0d13e0a83"
@@ -75,14 +68,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3079036174970025652",
-                    "size": "734552081",
-                    "download": "639935904"
+                    "gid": "6023518271407208245",
+                    "size": "740290059",
+                    "download": "645661616"
                 },
                 "beta": {
-                    "gid": "3079036174970025652",
-                    "size": "734552081",
-                    "download": "639935904"
+                    "gid": "6023518271407208245",
+                    "size": "740290059",
+                    "download": "645661616"
                 }
             },
             "decryptionkey": "43694c31e2449eb1b43e9d1d1cc8d4e94053ff8f03451ea4e7ac28f684770b63"
@@ -98,16 +91,16 @@
         },
         "branches": {
             "public": {
-                "buildid": "17925398",
-                "timeupdated": "1743428088"
+                "buildid": "18145770",
+                "timeupdated": "1744901986"
             },
             "beta": {
-                "buildid": "17925398",
+                "buildid": "18145770",
                 "description": "Compatible test builds",
-                "timeupdated": "1743428047"
+                "timeupdated": "1744901964"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "103f304a9e7ffda2f7a393b47f68409a81c235de32521f3a9c571dd376dcf2af"
     }
 }
