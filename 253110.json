@@ -4,8 +4,8 @@
     "name": "The Cat Lady",
     "schinese_name": "猫夫人",
     "isfreeapp": "0",
-    "change_number": "27841006",
-    "update_time": "2025-03-08 02:03:57",
+    "change_number": "28506496",
+    "update_time": "2025-04-16 19:04:03",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -54,8 +54,7 @@
                     "size": "1498861219",
                     "download": "830126224"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "253113": {
             "manifests": {
