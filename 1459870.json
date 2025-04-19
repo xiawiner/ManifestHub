@@ -4,8 +4,8 @@
     "name": "Sokpop S09: King Pins",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27980813",
-    "update_time": "2025-03-16 20:55:44",
+    "change_number": "28473103",
+    "update_time": "2025-04-15 03:08:39",
     "depot": {
         "228983": {
             "config": {
@@ -46,8 +46,7 @@
                     "size": "87087086",
                     "download": "52094880"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
