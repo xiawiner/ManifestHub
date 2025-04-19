@@ -4,8 +4,8 @@
     "name": "The Red One: OCCULTATION Playtest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28333244",
-    "update_time": "2025-04-06 23:11:37",
+    "change_number": "28523805",
+    "update_time": "2025-04-17 15:32:11",
     "depot": {
         "228988": {
             "config": {
@@ -40,9 +40,9 @@
                     "download": "6755864976"
                 },
                 "dev_version": {
-                    "gid": "2942136983583358419",
-                    "size": "7921351898",
-                    "download": "6905125840"
+                    "gid": "2400061734449640156",
+                    "size": "12121961740",
+                    "download": "11022200528"
                 },
                 "qa_version": {
                     "gid": "4856113273222537180",
@@ -63,9 +63,9 @@
                 "timeupdated": "1741932924"
             },
             "dev_version": {
-                "buildid": "18002328",
+                "buildid": "18140358",
                 "description": "dev_version",
-                "timeupdated": "1743952290"
+                "timeupdated": "1744875127"
             },
             "qa_version": {
                 "buildid": "17720589",
