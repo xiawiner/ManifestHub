@@ -4,8 +4,8 @@
     "name": "Suicide Adventures",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27024139",
-    "update_time": "2025-01-16 19:53:14",
+    "change_number": "28547117",
+    "update_time": "2025-04-18 18:00:35",
     "depot": {
         "705301": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "198369464",
                     "download": "96534256"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "705303": {
             "config": {
@@ -43,8 +42,7 @@
                     "size": "203782415",
                     "download": "98268960"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
