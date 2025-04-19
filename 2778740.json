@@ -4,8 +4,8 @@
     "name": "rock climbing",
     "schinese_name": "攀岩",
     "isfreeapp": "0",
-    "change_number": "28254618",
-    "update_time": "2025-04-02 02:52:24",
+    "change_number": "28473212",
+    "update_time": "2025-04-15 03:15:19",
     "depot": {
         "2778744": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "394627551",
                     "download": "112775072"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2778743": {
             "config": {
@@ -46,8 +45,7 @@
                     "size": "348405946",
                     "download": "110803184"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
