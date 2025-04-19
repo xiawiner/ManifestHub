@@ -4,15 +4,15 @@
     "name": "Humans are not that against Lizardwomen",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28308824",
-    "update_time": "2025-04-04 21:01:05",
+    "change_number": "28535782",
+    "update_time": "2025-04-18 02:30:30",
     "depot": {
         "2715651": {
             "manifests": {
                 "public": {
-                    "gid": "779821398991714210",
-                    "size": "752385262",
-                    "download": "435655904"
+                    "gid": "6845036920746763155",
+                    "size": "858755045",
+                    "download": "543598608"
                 }
             },
             "decryptionkey": "af86b49f0af796ad68026a715523722632084cffcb012e7fdf7e7551217b19d6"
@@ -30,8 +30,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17985002",
-                "timeupdated": "1743771661"
+                "buildid": "18159203",
+                "timeupdated": "1744990410"
             }
         },
         "privatebranches": "1"
