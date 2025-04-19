@@ -4,8 +4,8 @@
     "name": "1+1=？ Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27887457",
-    "update_time": "2025-03-11 17:21:42",
+    "change_number": "28359616",
+    "update_time": "2025-04-08 14:17:16",
     "depot": {
         "228989": {
             "config": {
@@ -28,7 +28,8 @@
                     "size": "126974532",
                     "download": "50830640"
                 }
-            }
+            },
+            "decryptionkey": "8fd5162a011ea406c137ec9e26b5fc8549ebc197348cad88ebdfa90516ac54a0"
         },
         "branches": {
             "public": {
