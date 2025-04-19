@@ -4,8 +4,8 @@
     "name": "Fantasia of the Wind 2 风之幻想曲 第二部",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27031716",
-    "update_time": "2025-01-17 04:53:10",
+    "change_number": "28466076",
+    "update_time": "2025-04-14 20:08:19",
     "depot": {
         "baselanguages": "english,schinese",
         "hasdepotsindlc": "1",
@@ -36,8 +36,7 @@
                     "size": "1242822199",
                     "download": "974568512"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
