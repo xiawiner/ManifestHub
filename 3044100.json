@@ -4,8 +4,8 @@
     "name": "Bat to the Heavens",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28337156",
-    "update_time": "2025-04-07 08:16:36",
+    "change_number": "28357937",
+    "update_time": "2025-04-08 11:17:15",
     "depot": {
         "3044101": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "279676976",
                     "download": "181843872"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
