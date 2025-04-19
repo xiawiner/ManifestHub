@@ -4,8 +4,8 @@
     "name": "Fatal Twelve",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28078842",
-    "update_time": "2025-03-22 03:16:42",
+    "change_number": "28461278",
+    "update_time": "2025-04-14 14:55:29",
     "depot": {
         "228989": {
             "config": {
@@ -50,8 +50,7 @@
                     "size": "5309652402",
                     "download": "2382983616"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "620213": {
             "config": {
