@@ -1,0 +1,45 @@
+{
+    "appid": "2826540",
+    "type": "Game",
+    "name": "Invaders Tower Defense Online",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28456720",
+    "update_time": "2025-04-14 05:08:56",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2826541": {
+            "manifests": {
+                "public": {
+                    "gid": "1177053045228496521",
+                    "size": "2560605799",
+                    "download": "683520144"
+                },
+                "linux": {
+                    "gid": "4767641121274344074",
+                    "size": "3303197296",
+                    "download": "800227248"
+                }
+            },
+            "decryptionkey": "1d2f7f6b8816784972ce9e6f9591ea38e2f6a804294927d141c8c440ef82c965"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18015341",
+                "timeupdated": "1744053692"
+            },
+            "linux": {
+                "buildid": "18015553",
+                "description": "Linux Beta Version",
+                "timeupdated": "1744053669"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
