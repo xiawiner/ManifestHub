@@ -4,8 +4,8 @@
     "name": "Sofie: The Echoes",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28332011",
-    "update_time": "2025-04-06 20:16:56",
+    "change_number": "28485773",
+    "update_time": "2025-04-15 19:32:04",
     "depot": {
         "228989": {
             "config": {
@@ -47,8 +47,7 @@
                     "size": "30075634236",
                     "download": "25010161264"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2946323": {
             "config": {
@@ -62,8 +61,7 @@
                     "size": "32892011690",
                     "download": "26870258240"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
