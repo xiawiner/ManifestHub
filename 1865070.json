@@ -4,8 +4,8 @@
     "name": "THE GREAT CIRCLE Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28318690",
-    "update_time": "2025-04-05 08:10:19",
+    "change_number": "28539616",
+    "update_time": "2025-04-18 07:22:08",
     "depot": {
         "228988": {
             "config": {
@@ -29,21 +29,22 @@
                     "download": "27084043152"
                 },
                 "2-beta": {
-                    "gid": "3805470917857296744",
-                    "size": "27391511867",
-                    "download": "27078374336"
+                    "gid": "2025546372082726181",
+                    "size": "27577453611",
+                    "download": "27264840928"
                 },
                 "beta-2-previous": {
-                    "gid": "2251535714801911956",
-                    "size": "27397625391",
-                    "download": "27084043152"
+                    "gid": "408344567461585897",
+                    "size": "27577349159",
+                    "download": "27264921584"
                 },
                 "july-10-2023": {
                     "gid": "2617970147771534445",
                     "size": "17022757382",
                     "download": "16753505376"
                 }
-            }
+            },
+            "decryptionkey": "a09a808bfac698263a7a1db107933e8eab446b713e834d8e4510e313fdc2c8ee"
         },
         "branches": {
             "public": {
@@ -51,14 +52,14 @@
                 "timeupdated": "1743532263"
             },
             "2-beta": {
-                "buildid": "17929934",
+                "buildid": "18144146",
                 "description": "More polished than alpha branch. *Eventually replaces the default demo.",
-                "timeupdated": "1743713603"
+                "timeupdated": "1744898693"
             },
             "beta-2-previous": {
-                "buildid": "17917078",
+                "buildid": "18148759",
                 "description": "Always the previous version of beta-2.",
-                "timeupdated": "1743713780"
+                "timeupdated": "1744932120"
             },
             "july-10-2023": {
                 "buildid": "11667250",
