@@ -4,8 +4,8 @@
     "name": "Urbek City Builder",
     "schinese_name": "城市规划大师",
     "isfreeapp": "0",
-    "change_number": "28241119",
-    "update_time": "2025-04-01 12:15:14",
+    "change_number": "28478657",
+    "update_time": "2025-04-15 10:55:40",
     "depot": {
         "1411741": {
             "config": {
@@ -28,6 +28,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "a4fe3e773c30b0c9708bfe5933a4fe725e0c5f472c01befd0e67360ba19d7435"
     }
 }
