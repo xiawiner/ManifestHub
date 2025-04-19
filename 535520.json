@@ -4,8 +4,8 @@
     "name": "Nidhogg 2",
     "schinese_name": "尼德霍格2",
     "isfreeapp": "0",
-    "change_number": "27489042",
-    "update_time": "2025-02-15 08:00:53",
+    "change_number": "28413619",
+    "update_time": "2025-04-11 01:58:52",
     "depot": {
         "228982": {
             "config": {
@@ -66,6 +66,7 @@
             "dlcappid": "683740",
             "decryptionkey": "49594b56ff5790ccfaf0950b5f9281cd4f5ef63c826489d16b998addf32478f8"
         },
+        "baselanguages": "english,german,french,italian,schinese,russian,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,turkish,brazilian",
         "branches": {
             "public": {
                 "buildid": "7072827",
