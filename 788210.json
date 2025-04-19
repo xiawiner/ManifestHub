@@ -4,8 +4,8 @@
     "name": "The Bonfire: Forsaken Lands",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27021421",
-    "update_time": "2025-01-16 16:52:30",
+    "change_number": "28445016",
+    "update_time": "2025-04-12 22:11:07",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,finnish,turkish,brazilian",
         "788211": {
@@ -33,8 +33,7 @@
                     "size": "380167456",
                     "download": "87920960"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
