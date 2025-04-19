@@ -4,8 +4,8 @@
     "name": "忍者明：悟",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27185585",
-    "update_time": "2025-01-27 23:33:16",
+    "change_number": "28483570",
+    "update_time": "2025-04-15 17:17:38",
     "depot": {
         "baselanguages": "english,schinese",
         "1569752": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3943121688374747891",
-                    "size": "98627597",
-                    "download": "29454944"
+                    "gid": "6759870847898933036",
+                    "size": "108810202",
+                    "download": "35443984"
                 }
             },
             "decryptionkey": "d10299de9a87c0f7248102793f835c70e82179d9d153e4629adb72ef2ada17fa"
@@ -27,12 +27,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4456736812860285631",
-                    "size": "166719324",
-                    "download": "45563200"
+                    "gid": "8726085234098033863",
+                    "size": "171537285",
+                    "download": "47191600"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1569754": {
             "config": {
@@ -40,17 +39,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "231686198005309966",
-                    "size": "120262831",
-                    "download": "30487568"
+                    "gid": "7140277416315427328",
+                    "size": "130637988",
+                    "download": "36540144"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "16770117",
-                "timeupdated": "1734422803"
+                "buildid": "18111203",
+                "timeupdated": "1744708651"
             }
         },
         "privatebranches": "1"
