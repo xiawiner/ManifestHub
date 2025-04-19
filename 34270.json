@@ -4,8 +4,8 @@
     "name": "SEGA Mega Drive & Genesis Classics",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28045731",
-    "update_time": "2025-03-20 14:20:29",
+    "change_number": "28465170",
+    "update_time": "2025-04-14 19:08:15",
     "depot": {
         "228984": {
             "config": {
@@ -1014,6 +1014,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "e47f1d4ed1c1ba3ba3273421ece03630b7d8d9d857fd04856917ae249aa7ab2e"
     }
 }
