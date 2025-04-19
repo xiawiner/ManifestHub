@@ -4,8 +4,8 @@
     "name": "A Long Way Down",
     "schinese_name": "漫漫长路",
     "isfreeapp": "0",
-    "change_number": "26773022",
-    "update_time": "2024-12-24 20:22:58",
+    "change_number": "28447730",
+    "update_time": "2025-04-13 04:08:00",
     "depot": {
         "baselanguages": "",
         "856991": {
@@ -34,8 +34,7 @@
                     "size": "1577660361",
                     "download": "176448896"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "856993": {
             "config": {
@@ -49,8 +48,7 @@
                     "size": "1578658701",
                     "download": "178869744"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
