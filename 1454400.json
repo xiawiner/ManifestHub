@@ -4,8 +4,8 @@
     "name": "Cookie Clicker",
     "schinese_name": "饼干点点乐",
     "isfreeapp": "0",
-    "change_number": "28339621",
-    "update_time": "2025-04-07 13:11:09",
+    "change_number": "28510709",
+    "update_time": "2025-04-16 23:04:35",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,russian,japanese,polish,dutch,czech,brazilian",
         "workshopdepot": "1454400",
@@ -52,6 +52,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "bee35fc41b9a4f44f4d1017924dcc20a9241b2755b02a3178baee78dc2f49ab9"
     }
 }
