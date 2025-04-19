@@ -4,8 +4,8 @@
     "name": "Elite Dangerous",
     "schinese_name": "精英：危机四伏",
     "isfreeapp": "0",
-    "change_number": "28342352",
-    "update_time": "2025-04-07 17:05:35",
+    "change_number": "28366971",
+    "update_time": "2025-04-08 22:00:55",
     "depot": {
         "baselanguages": "english,german,french,spanish,russian",
         "228983": {
@@ -107,9 +107,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7000457328702820127",
-                    "size": "56462843780",
-                    "download": "52495958432"
+                    "gid": "1356007223692798745",
+                    "size": "56595051103",
+                    "download": "52623590768"
                 }
             },
             "decryptionkey": "2568f041e13fd928942f174860ae6a65ae30aef95b668dca52c27bf475d5b36c"
@@ -158,8 +158,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17763871",
-                "timeupdated": "1742382106"
+                "buildid": "18008995",
+                "timeupdated": "1744120850"
             }
         },
         "privatebranches": "1"
