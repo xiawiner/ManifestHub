@@ -4,8 +4,8 @@
     "name": "Billie Bust Up Playtest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28080346",
-    "update_time": "2025-03-22 05:19:11",
+    "change_number": "28520351",
+    "update_time": "2025-04-17 10:31:07",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2364681": {
             "manifests": {
                 "public": {
-                    "gid": "4178883887936983908",
-                    "size": "3118724232",
-                    "download": "2851166208"
+                    "gid": "7326009442126934118",
+                    "size": "3037054529",
+                    "download": "2772557520"
                 }
             },
             "decryptionkey": "e1eabf83cbdfbfced2d7849a20f94f1a7677f8d390912cd0836940f578a61516"
         },
         "branches": {
             "public": {
-                "buildid": "16305613",
-                "timeupdated": "1730836938"
+                "buildid": "18137856",
+                "timeupdated": "1744857064"
             }
         },
         "privatebranches": "1"
