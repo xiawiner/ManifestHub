@@ -4,8 +4,8 @@
     "name": "PortalBox",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26839688",
-    "update_time": "2025-01-02 20:21:02",
+    "change_number": "28495761",
+    "update_time": "2025-04-16 05:25:40",
     "depot": {
         "2891211": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "156385138",
                     "download": "59188432"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese",
         "branches": {
