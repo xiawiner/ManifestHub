@@ -4,8 +4,8 @@
     "name": "Cascadia",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28343259",
-    "update_time": "2025-04-07 18:03:38",
+    "change_number": "28526080",
+    "update_time": "2025-04-17 17:47:03",
     "depot": {
         "2438971": {
             "manifests": {
@@ -27,8 +27,7 @@
                     "size": "978029925",
                     "download": "492063328"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
