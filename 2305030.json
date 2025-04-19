@@ -4,8 +4,8 @@
     "name": "Sex Simulator - The Yacht",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28031702",
-    "update_time": "2025-03-19 19:57:00",
+    "change_number": "28393973",
+    "update_time": "2025-04-10 04:09:58",
     "depot": {
         "2305031": {
             "manifests": {
@@ -27,8 +27,7 @@
                     "size": "155668196",
                     "download": "86651168"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2305033": {
             "config": {
@@ -40,8 +39,7 @@
                     "size": "163949755",
                     "download": "86137184"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
