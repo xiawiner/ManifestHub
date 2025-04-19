@@ -4,8 +4,8 @@
     "name": "Legend of Kay Anniversary",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27972967",
-    "update_time": "2025-03-15 22:24:41",
+    "change_number": "28457099",
+    "update_time": "2025-04-14 06:07:49",
     "depot": {
         "228983": {
             "config": {
@@ -45,8 +45,7 @@
                     "size": "8790509507",
                     "download": "4648654576"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
