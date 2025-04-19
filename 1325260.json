@@ -4,8 +4,8 @@
     "name": "Kitsune Tails",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28337626",
-    "update_time": "2025-04-07 09:10:54",
+    "change_number": "28508146",
+    "update_time": "2025-04-16 20:47:28",
     "depot": {
         "228983": {
             "config": {
@@ -51,8 +51,7 @@
                     "size": "262254162",
                     "download": "225555616"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "workshopdepot": "1325260",
         "branches": {
