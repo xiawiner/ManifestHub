@@ -4,8 +4,8 @@
     "name": "Basingstoke",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27783246",
-    "update_time": "2025-03-05 06:11:05",
+    "change_number": "28367717",
+    "update_time": "2025-04-08 22:43:48",
     "depot": {
         "baselanguages": "english",
         "336941": {
@@ -53,8 +53,7 @@
                     "size": "1732084932",
                     "download": "362252432"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "336943": {
             "config": {
@@ -77,8 +76,7 @@
                     "size": "1712531787",
                     "download": "356242560"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
