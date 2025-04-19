@@ -4,8 +4,8 @@
     "name": "Flagsplosion",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "23591175",
-    "update_time": "2024-05-26 20:20:30",
+    "change_number": "28381522",
+    "update_time": "2025-04-09 16:09:05",
     "depot": {
         "652341": {
             "config": {
@@ -44,8 +44,7 @@
                     "size": "26284696",
                     "download": "7009136"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "652344": {
             "config": {
@@ -58,8 +57,7 @@
                     "size": "26824760",
                     "download": "7230480"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "652345": {
             "config": {
@@ -71,8 +69,7 @@
                     "size": "99501266",
                     "download": "46142416"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
