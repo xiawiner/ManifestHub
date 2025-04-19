@@ -4,15 +4,15 @@
     "name": "RollScape",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28169367",
-    "update_time": "2025-03-27 20:17:10",
+    "change_number": "28514741",
+    "update_time": "2025-04-17 02:59:18",
     "depot": {
         "2904291": {
             "manifests": {
                 "public": {
-                    "gid": "2842284371729451632",
-                    "size": "3794697158",
-                    "download": "1762154400"
+                    "gid": "8375235339828373590",
+                    "size": "4504362179",
+                    "download": "1988757568"
                 }
             },
             "decryptionkey": "a36e3fd357a0b1a84f45f6b89a96fcf17f7ab5c2147f93ff9a462bcfe57608a7"
@@ -20,8 +20,8 @@
         "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese,dutch,brazilian",
         "branches": {
             "public": {
-                "buildid": "16692316",
-                "timeupdated": "1733826790"
+                "buildid": "18132191",
+                "timeupdated": "1744823511"
             }
         },
         "privatebranches": "1"
