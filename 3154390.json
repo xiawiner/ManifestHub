@@ -1,0 +1,37 @@
+{
+    "appid": "3154390",
+    "type": "Game",
+    "name": "Neon Knights",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28431274",
+    "update_time": "2025-04-11 22:44:52",
+    "depot": {
+        "3154391": {
+            "manifests": {
+                "public": {
+                    "gid": "2063029132979747970",
+                    "size": "654680634",
+                    "download": "226816896"
+                },
+                "beta": {
+                    "gid": "634616580183818910",
+                    "size": "653699458",
+                    "download": "226773328"
+                }
+            },
+            "decryptionkey": "927d30feb940c700ada2700474a9e25c647606826660ed2f32903cbdc783b9ca"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17975875",
+                "timeupdated": "1743714418"
+            },
+            "beta": {
+                "buildid": "18061234",
+                "description": "for testing new content",
+                "timeupdated": "1744312078"
+            }
+        }
+    }
+}
