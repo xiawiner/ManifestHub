@@ -4,8 +4,8 @@
     "name": "BARRICADEZ",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27166780",
-    "update_time": "2025-01-26 05:20:46",
+    "change_number": "28514541",
+    "update_time": "2025-04-17 02:44:42",
     "depot": {
         "baselanguages": "english,koreana,schinese,tchinese,russian,thai,japanese",
         "workshopdepot": "1131930",
@@ -32,8 +32,7 @@
                     "size": "485424946",
                     "download": "367728928"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
