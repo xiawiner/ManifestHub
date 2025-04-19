@@ -4,8 +4,8 @@
     "name": "An Assassin in Orlandes",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25829581",
-    "update_time": "2024-10-22 08:17:03",
+    "change_number": "28451178",
+    "update_time": "2025-04-13 15:00:57",
     "depot": {
         "228985": {
             "config": {
@@ -29,8 +29,7 @@
                     "size": "193579280",
                     "download": "53949888"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "335462": {
             "config": {
@@ -47,8 +46,7 @@
                     "size": "174464957",
                     "download": "47860080"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "335463": {
             "config": {
