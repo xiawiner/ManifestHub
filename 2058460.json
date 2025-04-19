@@ -4,8 +4,8 @@
     "name": "Absence of Light",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25514605",
-    "update_time": "2024-10-03 20:54:13",
+    "change_number": "28537171",
+    "update_time": "2025-04-18 03:58:34",
     "depot": {
         "2058461": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "4752539990",
                     "download": "177028448"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2058463": {
             "config": {
@@ -43,8 +42,7 @@
                     "size": "1965417587",
                     "download": "251154640"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "baselanguages": "english",
         "branches": {
