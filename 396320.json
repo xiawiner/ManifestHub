@@ -4,8 +4,8 @@
     "name": "Tank Battle: 1944",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27134957",
-    "update_time": "2025-01-24 01:21:41",
+    "change_number": "28455868",
+    "update_time": "2025-04-14 03:07:24",
     "depot": {
         "228989": {
             "config": {
@@ -37,8 +37,7 @@
                     "size": "158680543",
                     "download": "134331584"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
