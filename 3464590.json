@@ -4,8 +4,8 @@
     "name": "Scroll Of Taiwu - 碧霄蛇影",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28286712",
-    "update_time": "2025-04-03 18:39:20",
+    "change_number": "28544716",
+    "update_time": "2025-04-18 15:26:52",
     "depot": {
         "3464590": {
             "config": {
@@ -16,17 +16,17 @@
             "dlcappid": "3464590",
             "manifests": {
                 "public": {
-                    "gid": "7880653460476395865",
-                    "size": "19569897",
-                    "download": "18572368"
+                    "gid": "473470663804741431",
+                    "size": "19569963",
+                    "download": "18572416"
                 }
             },
             "decryptionkey": "34a15558cad10dbf91bbb3f82e56f56bfdce3e80ca105b90fb69296f4c94d94f"
         },
         "branches": {
             "public": {
-                "buildid": "17968113",
-                "timeupdated": "1743676756"
+                "buildid": "18154128",
+                "timeupdated": "1744961205"
             }
         }
     }
