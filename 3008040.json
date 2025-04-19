@@ -4,8 +4,8 @@
     "name": "Into The Darkness VR Playtest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28118184",
-    "update_time": "2025-03-25 06:19:32",
+    "change_number": "28530399",
+    "update_time": "2025-04-17 21:58:30",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "3008041": {
             "manifests": {
                 "public": {
-                    "gid": "8198198708312980557",
-                    "size": "18040436715",
-                    "download": "17801773024"
+                    "gid": "1685454401015259034",
+                    "size": "10375294700",
+                    "download": "10162672880"
                 }
             },
             "decryptionkey": "803c8993e2d854fa641ca7b6010ff80e43fb6fe91299fecfdef09b50f22901de"
         },
         "branches": {
             "public": {
-                "buildid": "16788277",
-                "timeupdated": "1734537098"
+                "buildid": "18140810",
+                "timeupdated": "1744892441"
             }
         },
         "privatebranches": "1"
