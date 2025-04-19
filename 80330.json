@@ -4,8 +4,8 @@
     "name": "The Blackwell Legacy",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28223959",
-    "update_time": "2025-03-31 15:57:49",
+    "change_number": "28514913",
+    "update_time": "2025-04-17 03:09:16",
     "depot": {
         "overridescddb": "1",
         "80331": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1964005765506209274",
-                    "size": "253486218",
-                    "download": "210029056"
+                    "gid": "1418846427948786556",
+                    "size": "254471928",
+                    "download": "210376288"
                 }
             },
             "decryptionkey": "4d82aad9752fad23ee91d06374c23e26f12cd1c46c0a3cc5276b6660e315ac48"
@@ -28,12 +28,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "201455996353777708",
-                    "size": "320343762",
-                    "download": "227163296"
+                    "gid": "1109963374031654652",
+                    "size": "325750568",
+                    "download": "228329808"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "80333": {
             "config": {
@@ -41,12 +40,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9171755124732986810",
-                    "size": "255774777",
-                    "download": "211649200"
+                    "gid": "8637613131132568389",
+                    "size": "269582319",
+                    "download": "214707904"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2023580": {
             "config": {
@@ -55,17 +53,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "167194583491003555",
-                    "size": "321295735",
-                    "download": "224892816"
+                    "gid": "3398297375728753374",
+                    "size": "326702541",
+                    "download": "226059328"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17313467",
-                "timeupdated": "1739227944"
+                "buildid": "18133666",
+                "timeupdated": "1744830553"
             }
         },
         "privatebranches": "1"
