@@ -4,8 +4,8 @@
     "name": "Sins of a Solar Empire II - Modding Tools",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27800719",
-    "update_time": "2025-03-06 02:41:24",
+    "change_number": "28478512",
+    "update_time": "2025-04-15 10:41:08",
     "depot": {
         "229006": {
             "config": {
@@ -17,9 +17,9 @@
         "3172891": {
             "manifests": {
                 "public": {
-                    "gid": "626230862251927735",
-                    "size": "84809012",
-                    "download": "18583536"
+                    "gid": "8159950049902478984",
+                    "size": "88138593",
+                    "download": "18659440"
                 }
             },
             "decryptionkey": "cc7fe5ea8be0769812de6398aa3d530f616718b5db4e19d5dd5e2558555e954f"
@@ -27,8 +27,8 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "17608223",
-                "timeupdated": "1741200080"
+                "buildid": "18060685",
+                "timeupdated": "1744309412"
             }
         },
         "privatebranches": "1"
