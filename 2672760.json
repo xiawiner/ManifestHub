@@ -4,8 +4,8 @@
     "name": "Maza",
     "schinese_name": "马扎",
     "isfreeapp": "0",
-    "change_number": "28268398",
-    "update_time": "2025-04-02 20:44:26",
+    "change_number": "28351554",
+    "update_time": "2025-04-08 02:24:35",
     "depot": {
         "baselanguages": "english,spanish,schinese,russian",
         "229000": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1614210749436375182",
-                    "size": "162319477",
-                    "download": "152766208"
+                    "gid": "5626978852690631877",
+                    "size": "162090886",
+                    "download": "152632032"
                 }
             },
             "decryptionkey": ""
@@ -36,9 +36,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7194415477039485063",
-                    "size": "192885715",
-                    "download": "103412528"
+                    "gid": "3529253250930854297",
+                    "size": "192884982",
+                    "download": "103110512"
                 }
             },
             "decryptionkey": "5cde1fd8dccf0c765d8d50fc0ed801dd606bf7618bc28abce03cc5a01c1e6f89"
@@ -50,9 +50,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2814585406312657013",
-                    "size": "166386995",
-                    "download": "156909904"
+                    "gid": "8425094165774274152",
+                    "size": "166372663",
+                    "download": "156743840"
                 }
             },
             "decryptionkey": ""
@@ -64,17 +64,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8115447908975194501",
-                    "size": "162954554",
-                    "download": "153407280"
+                    "gid": "9155994992623663171",
+                    "size": "162936946",
+                    "download": "153357248"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17954793",
-                "timeupdated": "1743597860"
+                "buildid": "18015290",
+                "timeupdated": "1744050270"
             }
         }
     }
