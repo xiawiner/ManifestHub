@@ -4,8 +4,8 @@
     "name": "Brass: Birmingham",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28180561",
-    "update_time": "2025-03-28 07:30:45",
+    "change_number": "28414734",
+    "update_time": "2025-04-11 03:10:35",
     "depot": {
         "1287921": {
             "config": {
@@ -44,8 +44,7 @@
                     "size": "994205985",
                     "download": "320468480"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1287923": {
             "config": {
@@ -64,8 +63,7 @@
                     "size": "975516109",
                     "download": "319043072"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
