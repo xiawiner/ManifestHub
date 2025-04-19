@@ -4,8 +4,8 @@
     "name": "Creativerse",
     "schinese_name": "创世纪",
     "isfreeapp": "0",
-    "change_number": "27776217",
-    "update_time": "2025-03-04 22:57:24",
+    "change_number": "28492089",
+    "update_time": "2025-04-16 01:08:11",
     "depot": {
         "228983": {
             "config": {
@@ -84,8 +84,7 @@
                     "size": "213899157",
                     "download": "70676848"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "280792": {
             "config": {
