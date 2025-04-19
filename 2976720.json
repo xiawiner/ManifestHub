@@ -4,8 +4,8 @@
     "name": "1比1人形食玩",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26335894",
-    "update_time": "2024-12-05 01:53:47",
+    "change_number": "28452512",
+    "update_time": "2025-04-13 18:55:49",
     "depot": {
         "baselanguages": "english,schinese",
         "228985": {
@@ -45,8 +45,7 @@
                     "size": "449864272",
                     "download": "347354352"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2976723": {
             "manifests": {
