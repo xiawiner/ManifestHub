@@ -4,8 +4,8 @@
     "name": "Duskers",
     "schinese_name": "宇宙黄昏",
     "isfreeapp": "0",
-    "change_number": "27151772",
-    "update_time": "2025-01-24 23:27:08",
+    "change_number": "28478651",
+    "update_time": "2025-04-15 10:55:37",
     "depot": {
         "overridescddb": "1",
         "254321": {
@@ -52,8 +52,7 @@
                     "size": "280119180",
                     "download": "87403904"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "254323": {
             "config": {
@@ -75,8 +74,7 @@
                     "size": "275052424",
                     "download": "86203344"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
