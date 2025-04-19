@@ -4,8 +4,8 @@
     "name": "The Sims™ 4 Jungle Adventure",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28075861",
-    "update_time": "2025-03-22 00:18:02",
+    "change_number": "28436038",
+    "update_time": "2025-04-12 03:09:43",
     "depot": {
         "1235744": {
             "config": {
@@ -47,7 +47,7 @@
                 }
             },
             "dlcappid": "1235744",
-            "decryptionkey": ""
+            "decryptionkey": "a0eb5f3fa73a387ded2ff51a1afa8fdcdac322b4819a5bb351d5fee8f189331d"
         },
         "1242382": {
             "config": {
