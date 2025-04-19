@@ -4,8 +4,8 @@
     "name": "Antaria Online R",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28166413",
-    "update_time": "2025-03-27 17:14:55",
+    "change_number": "28491267",
+    "update_time": "2025-04-16 00:29:33",
     "depot": {
         "679271": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "283589454",
                     "download": "137829056"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "679273": {
             "config": {
@@ -43,8 +42,7 @@
                     "size": "387497723",
                     "download": "152056192"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
