@@ -4,8 +4,8 @@
     "name": "Hexologic",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28069240",
-    "update_time": "2025-03-21 18:10:56",
+    "change_number": "28495740",
+    "update_time": "2025-04-16 05:23:16",
     "depot": {
         "228990": {
             "config": {
@@ -63,6 +63,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "b0b6fe5ec7c6d05b9390f77d152ca9463843d4cb71203f4708f91543e0306dc7"
     }
 }
