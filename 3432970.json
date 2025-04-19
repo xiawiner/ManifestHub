@@ -4,8 +4,8 @@
     "name": "REMATCH BETA TEST",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27853499",
-    "update_time": "2025-03-09 04:09:24",
+    "change_number": "28549631",
+    "update_time": "2025-04-18 20:59:08",
     "depot": {
         "baselanguages": "english",
         "228989": {
@@ -23,23 +23,19 @@
             "sharedinstall": "1"
         },
         "3432971": {
-            "config": {
-                "oslist": "windows",
-                "osarch": "64"
-            },
             "manifests": {
                 "public": {
-                    "gid": "8103532411965023940",
-                    "size": "0",
-                    "download": "0"
+                    "gid": "949968967569002926",
+                    "size": "4761775889",
+                    "download": "4355797712"
                 }
             },
             "decryptionkey": "acba842da42b42977676788e66c7e7f535f986c7799cdf3fad10e787ea413351"
         },
         "branches": {
             "public": {
-                "buildid": "16953339",
-                "timeupdated": "1741294941"
+                "buildid": "18147100",
+                "timeupdated": "1744981118"
             }
         },
         "privatebranches": "1"
