@@ -4,8 +4,8 @@
     "name": "Judgment: Apocalypse Survival Simulation",
     "schinese_name": "审判：末日生存模拟",
     "isfreeapp": "0",
-    "change_number": "28329909",
-    "update_time": "2025-04-06 14:16:37",
+    "change_number": "28499835",
+    "update_time": "2025-04-16 11:10:40",
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "455980",
@@ -221,6 +221,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "a817d0207f5334d51755945ca59323bc14c94aeb34d71f47e22e124a9ea1e7c2"
     }
 }
