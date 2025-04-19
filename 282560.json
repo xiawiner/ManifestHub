@@ -4,8 +4,8 @@
     "name": "RollerCoaster Tycoon World",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28308077",
-    "update_time": "2025-04-04 20:15:25",
+    "change_number": "28421147",
+    "update_time": "2025-04-11 12:20:25",
     "depot": {
         "overridescddb": "1",
         "workshopdepot": "282560",
@@ -54,6 +54,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "2d0b07c1eaf5cbf94d9c6e8b1fd6d88e7d17588ff8f7da31a7ac26b4b82fec97"
     }
 }
