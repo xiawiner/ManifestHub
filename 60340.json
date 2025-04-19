@@ -4,8 +4,8 @@
     "name": "LUXOR: 5th Passage ",
     "schinese_name": "埃及祖玛5",
     "isfreeapp": "0",
-    "change_number": "27064272",
-    "update_time": "2025-01-19 22:57:50",
+    "change_number": "28526517",
+    "update_time": "2025-04-17 18:10:50",
     "depot": {
         "60342": {
             "config": {
@@ -18,8 +18,7 @@
                     "size": "74682570",
                     "download": "0"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "60341": {
             "config": {
