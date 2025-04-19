@@ -4,8 +4,8 @@
     "name": "Mech Academy",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27146271",
-    "update_time": "2025-01-24 17:27:00",
+    "change_number": "28501020",
+    "update_time": "2025-04-16 13:07:59",
     "depot": {
         "baselanguages": "english",
         "2593851": {
@@ -31,8 +31,7 @@
                     "size": "5253689996",
                     "download": "5058447888"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2593853": {
             "config": {
@@ -44,8 +43,7 @@
                     "size": "5250862754",
                     "download": "5057737616"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
