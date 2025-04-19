@@ -4,24 +4,24 @@
     "name": "Kemono Heroes",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28233419",
-    "update_time": "2025-04-01 01:54:40",
+    "change_number": "28526571",
+    "update_time": "2025-04-17 18:13:25",
     "depot": {
         "hasdepotsindlc": "1",
         "2787701": {
             "manifests": {
                 "public": {
-                    "gid": "557421722055556520",
-                    "size": "1382553390",
-                    "download": "223614368"
+                    "gid": "4186953244066239813",
+                    "size": "1382295762",
+                    "download": "223608896"
                 }
             },
             "decryptionkey": "a5c0c6ce33ba8b9c8865f8e915cae3fd143e9e99f0d76f80947c5ba8131c4f4f"
         },
         "branches": {
             "public": {
-                "buildid": "14977058",
-                "timeupdated": "1720530703"
+                "buildid": "18142370",
+                "timeupdated": "1744884798"
             }
         }
     }
