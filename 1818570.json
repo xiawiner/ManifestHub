@@ -4,8 +4,8 @@
     "name": "Threes!",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26451237",
-    "update_time": "2024-12-05 09:43:49",
+    "change_number": "28495778",
+    "update_time": "2025-04-16 05:27:00",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,dutch,swedish,arabic,brazilian",
         "1818572": {
@@ -18,8 +18,7 @@
                     "size": "204668361",
                     "download": "84675792"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1818573": {
             "config": {
@@ -44,8 +43,7 @@
                     "size": "102174043",
                     "download": "40666768"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
