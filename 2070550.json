@@ -4,8 +4,8 @@
     "name": "A Castle Full of Cats",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27808034",
-    "update_time": "2025-03-06 13:02:17",
+    "change_number": "28517901",
+    "update_time": "2025-04-17 07:04:22",
     "depot": {
         "hasdepotsindlc": "1",
         "2070552": {
@@ -31,8 +31,7 @@
                     "size": "354323344",
                     "download": "304242128"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
