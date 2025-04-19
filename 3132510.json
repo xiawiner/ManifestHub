@@ -4,8 +4,8 @@
     "name": "Astec-Expérimental",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28340574",
-    "update_time": "2025-04-07 14:58:18",
+    "change_number": "28400347",
+    "update_time": "2025-04-10 13:30:50",
     "depot": {
         "hasdepotsindlc": "1",
         "1004": {
@@ -126,9 +126,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8325751997070934946",
-                    "size": "4038573519",
-                    "download": "976923824"
+                    "gid": "8852270187971240744",
+                    "size": "4385385349",
+                    "download": "1011421952"
                 }
             },
             "depotfromapp": "3081330",
