@@ -4,8 +4,8 @@
     "name": "CapitalismCraft",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27403024",
-    "update_time": "2025-02-10 23:28:42",
+    "change_number": "28520459",
+    "update_time": "2025-04-17 10:40:56",
     "depot": {
         "baselanguages": "english",
         "2742931": {
@@ -19,9 +19,9 @@
                     "download": "97230176"
                 },
                 "beta": {
-                    "gid": "4462577512630640768",
-                    "size": "1511112315",
-                    "download": "97230176"
+                    "gid": "8100673520101230293",
+                    "size": "1511241049",
+                    "download": "97235856"
                 },
                 "default-mac": {
                     "gid": "8550525421761241750",
@@ -48,9 +48,9 @@
                     "download": "103883296"
                 },
                 "beta": {
-                    "gid": "2994038024732185401",
-                    "size": "1529064464",
-                    "download": "103883296"
+                    "gid": "5826774306305437511",
+                    "size": "1529859685",
+                    "download": "104711568"
                 },
                 "default-mac": {
                     "gid": "6650279408085393957",
@@ -62,8 +62,7 @@
                     "size": "170539089",
                     "download": "37765568"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
@@ -71,9 +70,9 @@
                 "timeupdated": "1738334990"
             },
             "beta": {
-                "buildid": "17146793",
+                "buildid": "18137932",
                 "description": "strictly for testing",
-                "timeupdated": "1737992269"
+                "timeupdated": "1744857495"
             },
             "default-mac": {
                 "buildid": "14693819",
