@@ -4,8 +4,8 @@
     "name": "CrossCode",
     "schinese_name": "远星物语",
     "isfreeapp": "0",
-    "change_number": "27987398",
-    "update_time": "2025-03-17 12:21:12",
+    "change_number": "28440642",
+    "update_time": "2025-04-12 10:55:34",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english",
@@ -333,8 +333,7 @@
                     "size": "1119404",
                     "download": "1064448"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
