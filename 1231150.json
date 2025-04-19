@@ -4,8 +4,8 @@
     "name": "Rosas are Red",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28329317",
-    "update_time": "2025-04-06 12:16:36",
+    "change_number": "28380470",
+    "update_time": "2025-04-09 15:01:59",
     "depot": {
         "1231152": {
             "config": {
@@ -17,8 +17,7 @@
                     "size": "917747950",
                     "download": "162689200"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1231151": {
             "config": {
@@ -43,8 +42,7 @@
                     "size": "897980804",
                     "download": "169714128"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2640610": {
             "dlcappid": "2640610",
