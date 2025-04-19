@@ -4,8 +4,8 @@
     "name": "FOONDA",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27907371",
-    "update_time": "2025-03-12 17:07:43",
+    "change_number": "28495792",
+    "update_time": "2025-04-16 05:27:43",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
@@ -32,8 +32,7 @@
                     "size": "251333486",
                     "download": "48128176"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
