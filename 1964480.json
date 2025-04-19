@@ -4,8 +4,8 @@
     "name": "Yami RPG Editor",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28149629",
-    "update_time": "2025-03-26 20:55:03",
+    "change_number": "28432946",
+    "update_time": "2025-04-12 00:10:36",
     "depot": {
         "228989": {
             "config": {
@@ -49,8 +49,7 @@
                     "size": "1880589615",
                     "download": "595322096"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "hasdepotsindlc": "0",
         "workshopdepot": "1964480",
