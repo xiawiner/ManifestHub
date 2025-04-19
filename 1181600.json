@@ -4,8 +4,8 @@
     "name": "Jetboard Joust",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28234283",
-    "update_time": "2025-04-01 02:50:58",
+    "change_number": "28496382",
+    "update_time": "2025-04-16 06:19:05",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese",
         "1181601": {
@@ -41,8 +41,7 @@
                     "size": "300139501",
                     "download": "115494624"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1181603": {
             "config": {
@@ -60,8 +59,7 @@
                     "size": "303187647",
                     "download": "115143360"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
