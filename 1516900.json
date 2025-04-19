@@ -4,8 +4,8 @@
     "name": "RASPBERRY MASH",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28095553",
-    "update_time": "2025-03-23 20:12:58",
+    "change_number": "28379906",
+    "update_time": "2025-04-09 14:15:13",
     "depot": {
         "1516901": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "222695403",
                     "download": "128843184"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
