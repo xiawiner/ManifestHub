@@ -1,0 +1,38 @@
+{
+    "appid": "3486160",
+    "type": "Game",
+    "name": "Critical Point",
+    "schinese_name": "临界点",
+    "isfreeapp": "0",
+    "change_number": "28502392",
+    "update_time": "2025-04-16 15:10:52",
+    "depot": {
+        "baselanguages": "schinese",
+        "3486161": {
+            "manifests": {
+                "public": {
+                    "gid": "7573316286801490196",
+                    "size": "311597768",
+                    "download": "55923168"
+                },
+                "demo": {
+                    "gid": "4142202296046095176",
+                    "size": "175626014",
+                    "download": "47084928"
+                }
+            },
+            "decryptionkey": "4294707af852c199238081711a53ecad02bbce02e72152f2fec6bf0fc6c35ffa"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18081297",
+                "timeupdated": "1744441702"
+            },
+            "demo": {
+                "buildid": "17376147",
+                "description": "demo版本",
+                "timeupdated": "1740112936"
+            }
+        }
+    }
+}
