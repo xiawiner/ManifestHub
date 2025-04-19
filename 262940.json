@@ -4,8 +4,8 @@
     "name": "Broken Sword 5 - the Serpent's Curse",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27206668",
-    "update_time": "2025-01-29 03:33:57",
+    "change_number": "28483069",
+    "update_time": "2025-04-15 16:49:05",
     "depot": {
         "228989": {
             "config": {
@@ -87,8 +87,7 @@
                     "size": "4962602",
                     "download": "1597536"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "262950": {
             "config": {
@@ -101,8 +100,7 @@
                     "size": "5059405",
                     "download": "1679088"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "262951": {
             "config": {
@@ -114,8 +112,7 @@
                     "size": "9793640",
                     "download": "4397200"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "262948": {
             "config": {
