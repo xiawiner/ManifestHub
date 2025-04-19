@@ -4,8 +4,8 @@
     "name": "Rec Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28139501",
-    "update_time": "2025-03-26 07:18:55",
+    "change_number": "28402576",
+    "update_time": "2025-04-10 16:08:40",
     "depot": {
         "228989": {
             "config": {
@@ -28,7 +28,8 @@
                     "size": "6196844946",
                     "download": "5950740352"
                 }
-            }
+            },
+            "decryptionkey": "e73edc32cd200bcc5dce0a91ab223c21e89d99992c57a6038bce8e18aa09bc31"
         },
         "branches": {
             "public": {
