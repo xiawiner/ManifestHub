@@ -4,8 +4,8 @@
     "name": "Saints Row: The Third",
     "schinese_name": "黑道圣徒3",
     "isfreeapp": "0",
-    "change_number": "27158991",
-    "update_time": "2025-01-25 09:21:16",
+    "change_number": "28350345",
+    "update_time": "2025-04-08 01:10:46",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,spanish,italian,dutch,russian,polish,czech,japanese,koreana",
@@ -149,8 +149,7 @@
                     "size": "72374586",
                     "download": "8070208"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "55241": {
             "config": {
