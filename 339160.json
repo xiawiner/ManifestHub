@@ -4,8 +4,8 @@
     "name": "Tales of the Orient: The Rising Sun",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27851947",
-    "update_time": "2025-03-09 00:07:15",
+    "change_number": "28450647",
+    "update_time": "2025-04-13 13:08:07",
     "depot": {
         "baselanguages": "english",
         "339163": {
@@ -44,8 +44,7 @@
                     "size": "142076503",
                     "download": "70964848"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
