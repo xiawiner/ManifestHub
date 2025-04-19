@@ -4,8 +4,8 @@
     "name": "Super Fancy Pants Adventure",
     "schinese_name": "超级花裤子冒险",
     "isfreeapp": "0",
-    "change_number": "27002737",
-    "update_time": "2025-01-15 15:15:02",
+    "change_number": "28472889",
+    "update_time": "2025-04-15 02:55:44",
     "depot": {
         "668211": {
             "config": {
@@ -17,8 +17,7 @@
                     "size": "138184028",
                     "download": "111070144"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "668212": {
             "config": {
