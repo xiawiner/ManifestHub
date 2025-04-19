@@ -4,8 +4,8 @@
     "name": "Nobodies: After Death",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25706980",
-    "update_time": "2024-10-14 20:00:37",
+    "change_number": "28493358",
+    "update_time": "2025-04-16 02:29:38",
     "depot": {
         "1816952": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "250520443",
                     "download": "147652048"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1816954": {
             "config": {
@@ -43,8 +42,7 @@
                     "size": "1787292748",
                     "download": "344288256"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
