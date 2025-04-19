@@ -4,8 +4,8 @@
     "name": "Star of Providence",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28100139",
-    "update_time": "2025-03-24 07:19:28",
+    "change_number": "28452515",
+    "update_time": "2025-04-13 18:55:46",
     "depot": {
         "baselanguages": "english,german",
         "228990": {
@@ -58,8 +58,7 @@
                     "size": "56420443",
                     "download": "41903584"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
