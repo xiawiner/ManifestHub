@@ -4,8 +4,8 @@
     "name": "Engaging Destiny",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27993085",
-    "update_time": "2025-03-17 20:22:26",
+    "change_number": "28517972",
+    "update_time": "2025-04-17 07:11:59",
     "depot": {
         "baselanguages": "english",
         "2443992": {
@@ -33,8 +33,7 @@
                     "size": "970309713",
                     "download": "141650256"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
