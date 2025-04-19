@@ -4,8 +4,8 @@
     "name": "Quadrant",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28159204",
-    "update_time": "2025-03-27 07:16:27",
+    "change_number": "28483398",
+    "update_time": "2025-04-15 17:07:47",
     "depot": {
         "365321": {
             "config": {
@@ -50,8 +50,7 @@
                     "size": "1561397625",
                     "download": "783402144"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "365323": {
             "config": {
@@ -73,8 +72,7 @@
                     "size": "1546204093",
                     "download": "774115232"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "500770": {
             "manifests": {
