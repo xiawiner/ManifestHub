@@ -4,8 +4,8 @@
     "name": "DesktopMMD4:Born to Dance",
     "schinese_name": "桌面萌娘MMD4:为舞而生",
     "isfreeapp": "0",
-    "change_number": "28121574",
-    "update_time": "2025-03-25 11:19:27",
+    "change_number": "28460745",
+    "update_time": "2025-04-14 14:08:45",
     "depot": {
         "1968651": {
             "manifests": {
@@ -24,6 +24,6 @@
                 "timeupdated": "1654273782"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "700cf3da0d6325f0e3b2afaa49a05891d562ee3a39c2f53e1a536bbe904a1b90"
     }
 }
