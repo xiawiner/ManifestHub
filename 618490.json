@@ -4,8 +4,8 @@
     "name": "Mr Blaster",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26950918",
-    "update_time": "2025-01-11 10:15:52",
+    "change_number": "28378127",
+    "update_time": "2025-04-09 11:11:07",
     "depot": {
         "618491": {
             "config": {
@@ -43,8 +43,7 @@
                     "size": "448993435",
                     "download": "33046592"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
