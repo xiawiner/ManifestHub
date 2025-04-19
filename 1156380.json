@@ -4,8 +4,8 @@
     "name": "One Dreamer",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28228601",
-    "update_time": "2025-03-31 21:14:46",
+    "change_number": "28375522",
+    "update_time": "2025-04-09 07:10:24",
     "depot": {
         "1156381": {},
         "1156382": {
@@ -19,8 +19,7 @@
                     "size": "1345939833",
                     "download": "606546624"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1156383": {
             "config": {
@@ -47,8 +46,7 @@
                     "size": "1306242560",
                     "download": "604424400"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "baselanguages": "english,koreana,russian",
         "branches": {
