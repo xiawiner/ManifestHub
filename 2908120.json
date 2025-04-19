@@ -4,8 +4,8 @@
     "name": "One Boss One Fight",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27120087",
-    "update_time": "2025-01-23 06:26:51",
+    "change_number": "28497072",
+    "update_time": "2025-04-16 07:09:21",
     "depot": {
         "2908121": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "2469514741",
                     "download": "2009378352"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
