@@ -4,8 +4,8 @@
     "name": "Sokocat - Islands",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27480873",
-    "update_time": "2025-02-14 22:16:29",
+    "change_number": "28495792",
+    "update_time": "2025-04-16 05:27:40",
     "depot": {
         "228990": {
             "config": {
@@ -37,8 +37,7 @@
                     "size": "312279565",
                     "download": "47284160"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "workshopdepot": "1592880",
         "branches": {
