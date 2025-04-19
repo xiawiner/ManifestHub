@@ -4,8 +4,8 @@
     "name": "Tennis Manager 2023",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27198909",
-    "update_time": "2025-01-28 18:35:20",
+    "change_number": "28464634",
+    "update_time": "2025-04-14 18:29:59",
     "depot": {
         "228988": {
             "config": {
@@ -37,8 +37,7 @@
                     "size": "2370592867",
                     "download": "1477590784"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "workshopdepot": "2280390",
         "branches": {
