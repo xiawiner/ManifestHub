@@ -4,8 +4,8 @@
     "name": "Lone Survivor: The Director's Cut",
     "schinese_name": "孤独的幸存者：导演剪辑版",
     "isfreeapp": "0",
-    "change_number": "27106886",
-    "update_time": "2025-01-22 14:26:30",
+    "change_number": "28444578",
+    "update_time": "2025-04-12 21:10:08",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -25,8 +25,7 @@
                     "size": "131005672",
                     "download": "0"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "209831": {
             "config": {
