@@ -4,8 +4,8 @@
     "name": "Umineko When They Cry - Question Arcs",
     "schinese_name": "海猫鸣泣之时：出题篇",
     "isfreeapp": "0",
-    "change_number": "27504020",
-    "update_time": "2025-02-17 00:17:12",
+    "change_number": "28468899",
+    "update_time": "2025-04-14 22:55:45",
     "depot": {
         "406551": {
             "manifests": {
@@ -28,8 +28,7 @@
                     "size": "4119774",
                     "download": "1396832"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
