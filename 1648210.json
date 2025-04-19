@@ -4,8 +4,8 @@
     "name": "Apopia: Prologue",
     "schinese_name": "Apopia：序章",
     "isfreeapp": "0",
-    "change_number": "26751492",
-    "update_time": "2024-12-22 14:51:29",
+    "change_number": "28542761",
+    "update_time": "2025-04-18 12:17:45",
     "depot": {
         "1648211": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "3288577337",
                     "download": "603627840"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1648213": {
             "config": {
