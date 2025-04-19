@@ -4,8 +4,8 @@
     "name": "Project DeepWeb: Artbook",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25065303",
-    "update_time": "2024-09-15 09:27:17",
+    "change_number": "28485486",
+    "update_time": "2025-04-15 19:13:59",
     "depot": {
         "1466981": {
             "config": {
@@ -34,8 +34,7 @@
                     "download": "1015820016"
                 }
             },
-            "dlcappid": "1466980",
-            "decryptionkey": ""
+            "dlcappid": "1466980"
         },
         "branches": {
             "public": {
