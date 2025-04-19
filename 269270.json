@@ -4,8 +4,8 @@
     "name": "LOVE",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "24981165",
-    "update_time": "2024-09-17 15:31:06",
+    "change_number": "28517901",
+    "update_time": "2025-04-17 07:04:19",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -45,8 +45,7 @@
                     "size": "52094241",
                     "download": "42432976"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "269272": {
             "config": {
@@ -64,8 +63,7 @@
                     "size": "57711684",
                     "download": "44826704"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
