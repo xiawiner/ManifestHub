@@ -4,8 +4,8 @@
     "name": "Spell Cast",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27968735",
-    "update_time": "2025-03-15 10:58:32",
+    "change_number": "28494239",
+    "update_time": "2025-04-16 03:29:25",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "0",
@@ -33,8 +33,7 @@
                     "size": "504419258",
                     "download": "264007200"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
