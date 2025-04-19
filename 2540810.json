@@ -4,8 +4,8 @@
     "name": "Nyran Survivors",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28272199",
-    "update_time": "2025-04-03 00:19:35",
+    "change_number": "28508013",
+    "update_time": "2025-04-16 20:39:20",
     "depot": {
         "228989": {
             "config": {
@@ -27,14 +27,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2943823314081778725",
-                    "size": "1245112183",
-                    "download": "948775680"
+                    "gid": "6834983792563447155",
+                    "size": "1245714409",
+                    "download": "948884416"
                 },
                 "beta": {
-                    "gid": "2943823314081778725",
-                    "size": "1245112183",
-                    "download": "948775680"
+                    "gid": "6834983792563447155",
+                    "size": "1245714409",
+                    "download": "948884416"
                 }
             },
             "decryptionkey": "f54464f0864048bf67b60c2dfeb3ed26b20022700777dcfda4afd385431a1180"
@@ -45,27 +45,26 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8522092360300416723",
-                    "size": "1272146435",
-                    "download": "957394336"
+                    "gid": "8098742596057454498",
+                    "size": "1272577042",
+                    "download": "957474192"
                 },
                 "beta": {
-                    "gid": "8522092360300416723",
-                    "size": "1272146435",
-                    "download": "957394336"
+                    "gid": "8098742596057454498",
+                    "size": "1272577042",
+                    "download": "957474192"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "13937758",
-                "timeupdated": "1712693912"
+                "buildid": "18056078",
+                "timeupdated": "1744807156"
             },
             "beta": {
-                "buildid": "13937758",
+                "buildid": "18056078",
                 "description": "beta releases, may be buggy",
-                "timeupdated": "1712160092"
+                "timeupdated": "1744287150"
             }
         }
     }
