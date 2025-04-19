@@ -4,8 +4,8 @@
     "name": "Indiana Jones and the Last Crusade",
     "schinese_name": "印第安娜琼斯与最后十字军东征 ",
     "isfreeapp": "0",
-    "change_number": "27901069",
-    "update_time": "2025-03-12 08:03:17",
+    "change_number": "28472889",
+    "update_time": "2025-04-15 02:55:44",
     "depot": {
         "32313": {
             "config": {
@@ -18,8 +18,7 @@
                     "size": "5817305",
                     "download": "0"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "32311": {
             "config": {
