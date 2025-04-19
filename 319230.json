@@ -4,8 +4,8 @@
     "name": "Gold Rush! Anniversary",
     "schinese_name": "淘金！周年纪念版",
     "isfreeapp": "0",
-    "change_number": "27066443",
-    "update_time": "2025-01-20 04:19:15",
+    "change_number": "28402988",
+    "update_time": "2025-04-10 16:29:40",
     "depot": {
         "319231": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6882672438136003856",
-                    "size": "2369938061",
-                    "download": "725613936"
+                    "gid": "8236891726998082873",
+                    "size": "2371066152",
+                    "download": "725966752"
                 }
             },
             "decryptionkey": "e328c07612d585d9b68c2d7398864b78cfd0a57a37e3eac6c9634ae60fce485f"
@@ -58,10 +58,9 @@
         },
         "branches": {
             "public": {
-                "buildid": "14352775",
-                "timeupdated": "1717060843"
+                "buildid": "17419599",
+                "timeupdated": "1740472658"
             }
-        },
-        "privatebranches": "1"
+        }
     }
 }
