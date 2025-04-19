@@ -4,8 +4,8 @@
     "name": "Hiding Spot",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25885637",
-    "update_time": "2024-10-25 06:15:14",
+    "change_number": "28495740",
+    "update_time": "2025-04-16 05:23:16",
     "depot": {
         "950141": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "90950224",
                     "download": "40380672"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "950143": {
             "config": {
@@ -43,8 +42,7 @@
                     "size": "91141757",
                     "download": "40603824"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
