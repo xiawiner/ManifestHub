@@ -4,8 +4,8 @@
     "name": "Cat in the Box",
     "schinese_name": "盒子里的猫咪（Cat in the Box）",
     "isfreeapp": "0",
-    "change_number": "28085678",
-    "update_time": "2025-03-22 17:04:42",
+    "change_number": "28451152",
+    "update_time": "2025-04-13 14:55:20",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
@@ -95,7 +95,7 @@
                     "download": "464483920"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "22f44f197f94cb0ec9d9501e4787a3ee6a8df20e55dd65ab3ae114c90dc5d172"
         },
         "1257418": {
             "config": {
