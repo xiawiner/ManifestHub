@@ -4,8 +4,8 @@
     "name": "Cthulhu Mythos ADV The Isle Of Ubohoth",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27330374",
-    "update_time": "2025-02-06 01:26:58",
+    "change_number": "28401240",
+    "update_time": "2025-04-10 14:41:57",
     "depot": {
         "2701591": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3472438175650971969",
-                    "size": "1378169249",
-                    "download": "937145200"
+                    "gid": "6769361100557214241",
+                    "size": "1378296342",
+                    "download": "937215440"
                 }
             },
             "decryptionkey": "a75e49f9ab8a885f0a5a14bba249f8a1877bed55604769a8e6da5cb46b343370"
@@ -26,17 +26,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4100553535541291032",
-                    "size": "1378397697",
-                    "download": "936822016"
+                    "gid": "2672484205083843553",
+                    "size": "1627265676",
+                    "download": "1148587280"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "16851991",
-                "timeupdated": "1735184255"
+                "buildid": "18051976",
+                "timeupdated": "1744267314"
             }
         }
     }
