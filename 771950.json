@@ -4,8 +4,8 @@
     "name": "→SUMETRICK←",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28336693",
-    "update_time": "2025-04-07 07:14:12",
+    "change_number": "28507538",
+    "update_time": "2025-04-16 20:11:56",
     "depot": {
         "229005": {
             "config": {
@@ -38,8 +38,7 @@
                     "size": "64635749",
                     "download": "26347184"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "776800": {
             "dlcappid": "776800",
