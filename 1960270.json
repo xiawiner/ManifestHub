@@ -4,8 +4,8 @@
     "name": "Lootun",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28206504",
-    "update_time": "2025-03-29 22:11:17",
+    "change_number": "28537273",
+    "update_time": "2025-04-18 04:04:40",
     "depot": {
         "1960271": {
             "config": {
@@ -78,6 +78,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "34c44e535955b8fd360f7f4cd531efc01566eb70b2eda854494ce887d58fdeea"
     }
 }
