@@ -4,8 +4,8 @@
     "name": "Heavy Bullets",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28213509",
-    "update_time": "2025-03-30 17:15:58",
+    "change_number": "28501010",
+    "update_time": "2025-04-16 13:07:20",
     "depot": {
         "297121": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "195108853",
                     "download": "3638185288"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "297124": {
             "config": {
@@ -43,8 +42,7 @@
                     "size": "216411694",
                     "download": "8287999304"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
