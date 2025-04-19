@@ -4,15 +4,15 @@
     "name": "Darkest Dungeon® II: The Soundtrack",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28257225",
-    "update_time": "2025-04-02 06:55:28",
+    "change_number": "28496382",
+    "update_time": "2025-04-16 06:17:55",
     "depot": {
         "2393241": {
             "manifests": {
                 "public": {
-                    "gid": "7854117349046060861",
-                    "size": "484891401",
-                    "download": "434180768"
+                    "gid": "8497995301756365134",
+                    "size": "509122076",
+                    "download": "452496672"
                 }
             },
             "decryptionkey": "096f839bb412d7cb15f1006ef0c7f1dd23bcc58a2ae060d56d1afb57e15d61b1"
@@ -23,17 +23,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4250862882002835799",
-                    "size": "2178127862",
-                    "download": "2199491888"
+                    "gid": "916231138025183787",
+                    "size": "2300066967",
+                    "download": "2322421488"
                 }
             },
             "decryptionkey": "24fc7e085f8d2bdf7b116aa88604e728eb3e15d29c38008885a5aa311d7f978a"
         },
         "branches": {
             "public": {
-                "buildid": "17425277",
-                "timeupdated": "1739982040"
+                "buildid": "18118768",
+                "timeupdated": "1744748071"
             }
         },
         "privatebranches": "1"
