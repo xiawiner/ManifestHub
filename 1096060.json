@@ -4,8 +4,8 @@
     "name": "Teenage Blob",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25591523",
-    "update_time": "2024-10-08 23:56:13",
+    "change_number": "28526390",
+    "update_time": "2025-04-17 18:03:34",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english,german,italian,koreana,spanish,russian,japanese,polish,brazilian",
@@ -25,8 +25,7 @@
                     "size": "2534911903",
                     "download": "206449760"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1096063": {
             "config": {
@@ -64,7 +63,7 @@
                     "download": "310406976"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "b4c71109edb75200284a8c7674979ac361f7d077bf2f68f00dd590005e92cceb"
         },
         "1096061": {
             "config": {
