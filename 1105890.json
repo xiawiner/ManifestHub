@@ -4,8 +4,8 @@
     "name": "Tilesetter",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25890390",
-    "update_time": "2024-10-25 14:05:22",
+    "change_number": "28372765",
+    "update_time": "2025-04-09 03:43:10",
     "depot": {
         "1105891": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "220251707",
                     "download": "67276368"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1105893": {
             "config": {
@@ -46,8 +45,7 @@
                     "size": "231928827",
                     "download": "66129344"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
