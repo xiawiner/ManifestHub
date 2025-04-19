@@ -4,8 +4,8 @@
     "name": "Verlet Ascend",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26799902",
-    "update_time": "2024-12-28 04:41:52",
+    "change_number": "28456716",
+    "update_time": "2025-04-14 05:08:42",
     "depot": {
         "baselanguages": "english,turkish",
         "2113123": {
@@ -31,8 +31,7 @@
                     "size": "411512945",
                     "download": "159130448"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2113125": {
             "config": {
@@ -44,8 +43,7 @@
                     "size": "391092787",
                     "download": "152058304"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
