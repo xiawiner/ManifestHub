@@ -4,8 +4,8 @@
     "name": "McPixel 3",
     "schinese_name": "像素哥3",
     "isfreeapp": "0",
-    "change_number": "28316929",
-    "update_time": "2025-04-05 05:17:58",
+    "change_number": "28432943",
+    "update_time": "2025-04-12 00:10:20",
     "depot": {
         "228988": {
             "config": {
@@ -37,8 +37,7 @@
                     "size": "167235564",
                     "download": "130586128"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1338583": {
             "config": {
