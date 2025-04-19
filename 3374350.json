@@ -2,10 +2,10 @@
     "appid": "3374350",
     "type": "Demo",
     "name": "Bad Cheese Demo",
-    "schinese_name": "",
+    "schinese_name": "烂奶酪",
     "isfreeapp": "0",
-    "change_number": "28148166",
-    "update_time": "2025-03-26 19:15:28",
+    "change_number": "28434046",
+    "update_time": "2025-04-12 01:09:51",
     "depot": {
         "228989": {
             "config": {
@@ -28,7 +28,8 @@
                     "size": "1170915856",
                     "download": "994639088"
                 }
-            }
+            },
+            "decryptionkey": "0977c0b9d02ee7ce169b2607a5c311169a48a0198a8912bccd0143954f0f28f0"
         },
         "branches": {
             "public": {
