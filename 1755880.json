@@ -4,8 +4,8 @@
     "name": "Island of Lust",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27486443",
-    "update_time": "2025-02-15 04:13:56",
+    "change_number": "28386590",
+    "update_time": "2025-04-09 21:07:39",
     "depot": {
         "baselanguages": "english,russian",
         "1755881": {
@@ -31,8 +31,7 @@
                     "size": "1374673400",
                     "download": "1347294352"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
