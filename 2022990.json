@@ -4,8 +4,8 @@
     "name": "Flying Shark",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26339510",
-    "update_time": "2024-12-05 02:18:52",
+    "change_number": "28450923",
+    "update_time": "2025-04-13 14:08:14",
     "depot": {
         "228989": {
             "config": {
@@ -37,8 +37,7 @@
                     "size": "5029858",
                     "download": "1935600"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2022993": {
             "config": {
@@ -50,8 +49,7 @@
                     "size": "3583867",
                     "download": "1597248"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
