@@ -4,8 +4,8 @@
     "name": "Nary",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26650768",
-    "update_time": "2024-12-15 23:40:44",
+    "change_number": "28438940",
+    "update_time": "2025-04-12 07:18:20",
     "depot": {
         "baselanguages": "english",
         "491721": {
@@ -26,6 +26,7 @@
                 "buildid": "4533328",
                 "timeupdated": "1577728020"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
