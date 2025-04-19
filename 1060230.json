@@ -4,8 +4,8 @@
     "name": "Sapiens",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28061142",
-    "update_time": "2025-03-21 07:19:14",
+    "change_number": "28495346",
+    "update_time": "2025-04-16 04:51:01",
     "depot": {
         "workshopdepot": "1060230",
         "1060231": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6072666085626754447",
-                    "size": "397450339",
-                    "download": "258395248"
+                    "gid": "340972711212256967",
+                    "size": "450876790",
+                    "download": "303219408"
                 },
                 "public-beta-unstable": {
-                    "gid": "4215906466785003062",
-                    "size": "443123866",
-                    "download": "297843504"
+                    "gid": "340972711212256967",
+                    "size": "450876790",
+                    "download": "303219408"
                 }
             },
             "decryptionkey": "f42b9fdda61ea875d9c3be27d29dff037a434b36dab97f7b5d2f53ad3f6e1127"
@@ -33,27 +33,26 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8469267746356079956",
-                    "size": "372602566",
-                    "download": "257045472"
+                    "gid": "6653059418003537993",
+                    "size": "425516604",
+                    "download": "301891600"
                 },
                 "public-beta-unstable": {
-                    "gid": "4389056163242280883",
-                    "size": "418167607",
-                    "download": "296546064"
+                    "gid": "6653059418003537993",
+                    "size": "425516604",
+                    "download": "301891600"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "16480312",
-                "timeupdated": "1732564023"
+                "buildid": "18049649",
+                "timeupdated": "1744750256"
             },
             "public-beta-unstable": {
-                "buildid": "17801348",
+                "buildid": "18049649",
                 "description": "Public Beta (Unstable)",
-                "timeupdated": "1742512750"
+                "timeupdated": "1744249756"
             }
         },
         "privatebranches": "1",
