@@ -4,8 +4,8 @@
     "name": "FoxTail",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25558048",
-    "update_time": "2024-10-07 03:10:06",
+    "change_number": "28423210",
+    "update_time": "2025-04-11 15:15:41",
     "depot": {
         "581361": {
             "config": {
@@ -58,8 +58,7 @@
                     "size": "167916823",
                     "download": "140514336"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "hasdepotsindlc": "1",
         "branches": {
