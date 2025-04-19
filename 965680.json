@@ -4,8 +4,8 @@
     "name": "Boomerang Fu",
     "schinese_name": "随动回旋镖",
     "isfreeapp": "0",
-    "change_number": "28212525",
-    "update_time": "2025-03-30 14:07:19",
+    "change_number": "28450444",
+    "update_time": "2025-04-13 12:26:25",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english",
@@ -17,17 +17,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5302213444813071453",
-                    "size": "697081826",
-                    "download": "120534928"
+                    "gid": "1738001015534433881",
+                    "size": "697095274",
+                    "download": "120527568"
                 }
             },
             "decryptionkey": "05685e2eda75d5459cd0ec3a1735e0eed68414c8fb3a56585c6c0938b3102f57"
         },
         "branches": {
             "public": {
-                "buildid": "17914067",
-                "timeupdated": "1743314834"
+                "buildid": "18087614",
+                "timeupdated": "1744517806"
             }
         },
         "privatebranches": "1"
