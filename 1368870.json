@@ -4,8 +4,8 @@
     "name": "Field of Glory II: Medieval",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27814923",
-    "update_time": "2025-03-06 21:08:00",
+    "change_number": "28347479",
+    "update_time": "2025-04-07 22:27:50",
     "depot": {
         "baselanguages": "english",
         "229006": {
@@ -21,9 +21,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4314667901596395177",
-                    "size": "8593235610",
-                    "download": "2102074176"
+                    "gid": "3144803276480168419",
+                    "size": "8598412134",
+                    "download": "2103109312"
                 },
                 "beta": {
                     "gid": "4314667901596395177",
@@ -39,9 +39,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1117709078296193771",
-                    "size": "127467736",
-                    "download": "124129280"
+                    "gid": "4323511870944929995",
+                    "size": "127500005",
+                    "download": "124158144"
                 },
                 "beta": {
                     "gid": "1117709078296193771",
@@ -53,8 +53,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "14916496",
-                "timeupdated": "1722260642"
+                "buildid": "17853243",
+                "timeupdated": "1744036066"
             },
             "beta": {
                 "buildid": "14916496",
