@@ -4,8 +4,8 @@
     "name": "Ziggurat 2",
     "schinese_name": "通灵塔2",
     "isfreeapp": "0",
-    "change_number": "28117377",
-    "update_time": "2025-03-25 05:19:26",
+    "change_number": "28369896",
+    "update_time": "2025-04-09 00:43:34",
     "depot": {
         "228983": {
             "config": {
@@ -46,8 +46,7 @@
                     "size": "1420475788",
                     "download": "885371616"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1159563": {
             "config": {
@@ -60,8 +59,7 @@
                     "size": "1452011893",
                     "download": "899113888"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
