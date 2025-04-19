@@ -4,8 +4,8 @@
     "name": "Them Bombs",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27826329",
-    "update_time": "2025-03-07 09:04:55",
+    "change_number": "28527515",
+    "update_time": "2025-04-17 19:11:48",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,russian,polish,brazilian,greek",
         "228990": {
@@ -38,14 +38,14 @@
                     "size": "327482129",
                     "download": "51085600"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
                 "buildid": "4939260",
                 "timeupdated": "1587720349"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
