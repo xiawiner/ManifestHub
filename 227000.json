@@ -4,8 +4,8 @@
     "name": "Primordia",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28226060",
-    "update_time": "2025-03-31 18:21:19",
+    "change_number": "28515220",
+    "update_time": "2025-04-17 03:29:26",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,italian",
@@ -81,8 +81,7 @@
                     "size": "1573647624",
                     "download": "1112911760"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
