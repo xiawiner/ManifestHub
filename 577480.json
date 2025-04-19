@@ -4,8 +4,8 @@
     "name": "Higurashi When They Cry Hou - Ch.5 Meakashi",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27541691",
-    "update_time": "2025-02-19 04:15:50",
+    "change_number": "28468894",
+    "update_time": "2025-04-14 22:55:19",
     "depot": {
         "577481": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "683745433",
                     "download": "400885920"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "577483": {
             "config": {
@@ -43,8 +42,7 @@
                     "size": "678596066",
                     "download": "400335792"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
