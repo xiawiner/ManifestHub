@@ -4,8 +4,8 @@
     "name": "Wonderway",
     "schinese_name": "梦转星回",
     "isfreeapp": "0",
-    "change_number": "23591175",
-    "update_time": "2024-05-25 22:21:53",
+    "change_number": "28495778",
+    "update_time": "2025-04-16 05:27:06",
     "depot": {
         "baselanguages": "english,spanish,schinese,russian,japanese,brazilian",
         "2372221": {
@@ -31,8 +31,7 @@
                     "size": "1891018729",
                     "download": "125135328"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
