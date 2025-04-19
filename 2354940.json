@@ -4,8 +4,8 @@
     "name": "Catch & Cook: Fishing Adventure",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27085634",
-    "update_time": "2025-01-21 09:57:40",
+    "change_number": "28534114",
+    "update_time": "2025-04-18 00:58:36",
     "depot": {
         "2354941": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "2033956969",
                     "download": "364658880"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
