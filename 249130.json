@@ -4,8 +4,8 @@
     "name": "LEGO® MARVEL Super Heroes",
     "schinese_name": "乐高漫威超级英雄",
     "isfreeapp": "0",
-    "change_number": "28181108",
-    "update_time": "2025-03-28 08:16:33",
+    "change_number": "28438682",
+    "update_time": "2025-04-12 06:55:45",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,spanish,russian,polish,danish,dutch,brazilian",
@@ -255,8 +255,7 @@
                     "size": "6257487877",
                     "download": "0"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
