@@ -4,8 +4,8 @@
     "name": "Pro Basketball Manager 2024",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28153173",
-    "update_time": "2025-03-27 00:16:08",
+    "change_number": "28358462",
+    "update_time": "2025-04-08 12:17:04",
     "depot": {
         "228989": {
             "config": {
@@ -39,8 +39,7 @@
                     "size": "2789869645",
                     "download": "1464091616"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "workshopdepot": "2328780",
         "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,portuguese,turkish,brazilian,greek",
