@@ -4,8 +4,8 @@
     "name": "Three kingdoms story: Conussia",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28287313",
-    "update_time": "2025-04-03 19:19:28",
+    "change_number": "28457844",
+    "update_time": "2025-04-14 08:00:59",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english,russian",
@@ -52,8 +52,7 @@
                     "size": "2145628444",
                     "download": "1133123024"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1285563": {
             "config": {
@@ -75,8 +74,7 @@
                     "size": "2113825734",
                     "download": "1125579328"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
