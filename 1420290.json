@@ -4,8 +4,8 @@
     "name": "No More Heroes",
     "schinese_name": "英雄不再",
     "isfreeapp": "0",
-    "change_number": "28141105",
-    "update_time": "2025-03-26 09:48:21",
+    "change_number": "28542964",
+    "update_time": "2025-04-18 12:39:43",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,japanese",
         "228983": {
@@ -42,14 +42,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4529667158961749222",
-                    "size": "4430231967",
-                    "download": "1452113440"
+                    "gid": "2260381391692338784",
+                    "size": "3957919441",
+                    "download": "1434083104"
                 },
                 "2024-07-31": {
                     "gid": "4529667158961749222",
                     "size": "4430231967",
                     "download": "1452113440"
+                },
+                "2025-04-08": {
+                    "gid": "2260381391692338784",
+                    "size": "3957919441",
+                    "download": "1434083104"
                 },
                 "2024-05-13": {
                     "gid": "6376128770185422544",
@@ -66,13 +71,18 @@
         },
         "branches": {
             "public": {
-                "buildid": "15218206",
-                "timeupdated": "1723053401"
+                "buildid": "18029258",
+                "timeupdated": "1744152426"
             },
             "2024-07-31": {
                 "buildid": "15218206",
                 "description": "Jul 31, 2024 version",
                 "timeupdated": "1742332793"
+            },
+            "2025-04-08": {
+                "buildid": "18029258",
+                "description": "Apr 8, 2025 version",
+                "timeupdated": "1744476007"
             },
             "2024-05-13": {
                 "buildid": "14299494",
