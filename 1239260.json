@@ -4,15 +4,15 @@
     "name": "Barro F",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28333438",
-    "update_time": "2025-04-06 23:39:57",
+    "change_number": "28473859",
+    "update_time": "2025-04-15 04:00:37",
     "depot": {
         "1239261": {
             "manifests": {
                 "public": {
-                    "gid": "1655346253480079929",
-                    "size": "2871445823",
-                    "download": "827141376"
+                    "gid": "1947848354302068803",
+                    "size": "2922286435",
+                    "download": "841688336"
                 },
                 "old_version": {
                     "gid": "7768391271536550475",
@@ -20,9 +20,9 @@
                     "download": "24283488"
                 },
                 "pre_release": {
-                    "gid": "7574249983644088018",
-                    "size": "2922283711",
-                    "download": "841695584"
+                    "gid": "1947848354302068803",
+                    "size": "2922286435",
+                    "download": "841688336"
                 }
             },
             "decryptionkey": "62cce77026f2c740e7567af9aebe10619f73ea9118d3e701e8a43d81fa0d0772"
@@ -30,9 +30,9 @@
         "1239262": {
             "manifests": {
                 "public": {
-                    "gid": "878962604037941805",
-                    "size": "146853032",
-                    "download": "45409584"
+                    "gid": "342177917166883915",
+                    "size": "148059752",
+                    "download": "44982736"
                 },
                 "old_version": {
                     "gid": "878962604037941805",
@@ -49,8 +49,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17870319",
-                "timeupdated": "1743251990"
+                "buildid": "18104193",
+                "timeupdated": "1744660833"
             },
             "old_version": {
                 "buildid": "17780033",
@@ -58,8 +58,8 @@
                 "timeupdated": "1742386898"
             },
             "pre_release": {
-                "buildid": "18002453",
-                "timeupdated": "1743953993"
+                "buildid": "18104193",
+                "timeupdated": "1744660796"
             }
         }
     }
