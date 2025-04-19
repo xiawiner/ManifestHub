@@ -4,8 +4,8 @@
     "name": "Cozy Space Survivors",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27014064",
-    "update_time": "2025-01-16 05:05:12",
+    "change_number": "28517972",
+    "update_time": "2025-04-17 07:11:59",
     "depot": {
         "baselanguages": "english",
         "2657851": {
@@ -31,8 +31,7 @@
                     "size": "161071536",
                     "download": "95522656"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2657853": {
             "config": {
@@ -44,8 +43,7 @@
                     "size": "237920724",
                     "download": "112430112"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2966740": {
             "dlcappid": "2966740",
