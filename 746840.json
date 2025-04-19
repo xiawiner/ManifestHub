@@ -4,8 +4,8 @@
     "name": "Chronicles of Magic: Divided Kingdoms",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27329390",
-    "update_time": "2025-02-06 00:26:02",
+    "change_number": "28429453",
+    "update_time": "2025-04-11 21:09:39",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,schinese,russian,japanese,polish",
         "746841": {
@@ -31,8 +31,7 @@
                     "size": "1713878283",
                     "download": "1402801456"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "746843": {
             "config": {
@@ -44,8 +43,7 @@
                     "size": "1618588477",
                     "download": "1387306736"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
