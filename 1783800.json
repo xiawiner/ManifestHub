@@ -4,8 +4,8 @@
     "name": "Crossroad OS",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27382244",
-    "update_time": "2025-02-09 05:44:21",
+    "change_number": "28495778",
+    "update_time": "2025-04-16 05:26:59",
     "depot": {
         "baselanguages": "english",
         "1783801": {
@@ -31,8 +31,7 @@
                     "size": "398871904",
                     "download": "254976704"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1783803": {
             "config": {
