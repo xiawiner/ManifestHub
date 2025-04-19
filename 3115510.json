@@ -4,8 +4,8 @@
     "name": "Catgirl Aim Trainer",
     "schinese_name": "猫女瞄准训练师",
     "isfreeapp": "0",
-    "change_number": "27510408",
-    "update_time": "2025-02-17 14:15:26",
+    "change_number": "28537288",
+    "update_time": "2025-04-18 04:05:37",
     "depot": {
         "228989": {
             "config": {
@@ -31,9 +31,9 @@
         "3115511": {
             "manifests": {
                 "public": {
-                    "gid": "3795465963621497257",
-                    "size": "536607653",
-                    "download": "415063616"
+                    "gid": "6107393211286465562",
+                    "size": "536638377",
+                    "download": "415126240"
                 },
                 "censoredstreamermode": {
                     "gid": "2242965653146691696",
@@ -45,8 +45,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17479806",
-                "timeupdated": "1740380865"
+                "buildid": "18148035",
+                "timeupdated": "1744920333"
             },
             "censoredstreamermode": {
                 "buildid": "16528631",
