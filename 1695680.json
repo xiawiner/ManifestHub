@@ -4,8 +4,8 @@
     "name": "Lunar's Chosen - Episode 1",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27852341",
-    "update_time": "2025-03-09 01:07:45",
+    "change_number": "28480547",
+    "update_time": "2025-04-15 14:07:39",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
@@ -31,7 +31,7 @@
             "config": {
                 "optionaldlc": "1820310"
             },
-            "decryptionkey": ""
+            "decryptionkey": "97c5e40b834efcb751e322cdabc38028462e55e88ce016f8cc15bbc4811e3f00"
         },
         "2202210": {
             "dlcappid": "2202210",
