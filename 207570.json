@@ -4,8 +4,8 @@
     "name": "English Country Tune",
     "schinese_name": "华丽推箱子",
     "isfreeapp": "0",
-    "change_number": "22601109",
-    "update_time": "2024-05-31 01:26:03",
+    "change_number": "28495778",
+    "update_time": "2025-04-16 05:26:47",
     "depot": {
         "overridescddb": "1",
         "207571": {
@@ -43,8 +43,7 @@
                     "size": "304541542",
                     "download": "0"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "207573": {
             "config": {
@@ -62,8 +61,7 @@
                     "size": "339455910",
                     "download": "0"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
