@@ -4,8 +4,8 @@
     "name": "Successor Playtest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28171791",
-    "update_time": "2025-03-27 22:31:02",
+    "change_number": "28475692",
+    "update_time": "2025-04-15 06:24:57",
     "depot": {
         "hasdepotsindlc": "1",
         "228988": {
@@ -28,17 +28,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2512173504606175325",
-                    "size": "11650834712",
-                    "download": "11191305968"
+                    "gid": "4744818547776257215",
+                    "size": "11810975279",
+                    "download": "11350596896"
                 }
             },
             "decryptionkey": "9eddc76fcd0dc898c425fc049cdbcc1395d07ab679ee6b5b607957a075feaacf"
         },
         "branches": {
             "public": {
-                "buildid": "17884078",
-                "timeupdated": "1743085858"
+                "buildid": "18105438",
+                "timeupdated": "1744669494"
             }
         }
     }
