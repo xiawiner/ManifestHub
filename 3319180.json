@@ -4,8 +4,8 @@
     "name": "53X Homecoming",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28342517",
-    "update_time": "2025-04-07 17:18:07",
+    "change_number": "28483412",
+    "update_time": "2025-04-15 17:08:39",
     "depot": {
         "3319181": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "756237439",
                     "download": "703225040"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3319183": {
             "config": {
@@ -43,8 +42,7 @@
                     "size": "768762262",
                     "download": "707794048"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
