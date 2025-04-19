@@ -4,8 +4,8 @@
     "name": "Substance 3D Designer 2024",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28300215",
-    "update_time": "2025-04-04 09:34:28",
+    "change_number": "28541001",
+    "update_time": "2025-04-18 09:29:51",
     "depot": {
         "228989": {
             "config": {
@@ -20,9 +20,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1807969332979376789",
-                    "size": "1882062092",
-                    "download": "562115328"
+                    "gid": "148561943611118924",
+                    "size": "1882164806",
+                    "download": "562153120"
                 }
             },
             "decryptionkey": "179a0227ff66b948910c5dc47b6a3e35e3b43d5af15b524739a663ed6cdcce6b"
@@ -33,12 +33,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1647673250769687563",
-                    "size": "2073216868",
-                    "download": "583727824"
+                    "gid": "2121922228941924246",
+                    "size": "2073318622",
+                    "download": "583731552"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2718203": {
             "config": {
@@ -46,17 +45,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3109849251026288329",
-                    "size": "2008754293",
-                    "download": "583194512"
+                    "gid": "948266658036584208",
+                    "size": "2008854959",
+                    "download": "583195664"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17333852",
-                "timeupdated": "1740046645"
+                "buildid": "18034202",
+                "timeupdated": "1744711507"
             }
         },
         "privatebranches": "1"
