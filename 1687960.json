@@ -4,8 +4,8 @@
     "name": "The Wreck",
     "schinese_name": "浮生千百事 The Wreck",
     "isfreeapp": "0",
-    "change_number": "27522516",
-    "update_time": "2025-02-18 04:13:55",
+    "change_number": "28372767",
+    "update_time": "2025-04-09 03:43:25",
     "depot": {
         "1687961": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "1575420966",
                     "download": "579800016"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2342790": {
             "dlcappid": "2342790",
