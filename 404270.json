@@ -1,0 +1,100 @@
+{
+    "appid": "404270",
+    "type": "Game",
+    "name": "All My Gods",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28359606",
+    "update_time": "2025-04-08 14:16:28",
+    "depot": {
+        "404271": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7710376258004462733",
+                    "size": "151366256",
+                    "download": "103910544"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "404272": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1132071965946323978",
+                    "size": "148429561",
+                    "download": "101643728"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "404273": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5235749247497628568",
+                    "size": "150842159",
+                    "download": "103236368"
+                }
+            },
+            "decryptionkey": "b01062508ae09f7df8323fe9c78f4f130fe0359014160c8e78f377b4f4cc6e16"
+        },
+        "404274": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4716046702635053940",
+                    "size": "150873793",
+                    "download": "103264352"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "404275": {
+            "config": {
+                "language": "italian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7285356967070990150",
+                    "size": "150880672",
+                    "download": "103275008"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "404276": {
+            "config": {
+                "language": "spanish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8975914814605658942",
+                    "size": "150888772",
+                    "download": "103277152"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "793569"
+            }
+        }
+    }
+}
