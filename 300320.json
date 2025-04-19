@@ -4,8 +4,8 @@
     "name": "The Few",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28037614",
-    "update_time": "2025-03-20 01:54:59",
+    "change_number": "28370962",
+    "update_time": "2025-04-09 01:42:43",
     "depot": {
         "baselanguages": "english,polish",
         "300321": {
@@ -31,8 +31,7 @@
                     "size": "315628181",
                     "download": "793932917065"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "300323": {
             "config": {
