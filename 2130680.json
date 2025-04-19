@@ -4,8 +4,8 @@
     "name": "Kris and the City of Pleasure",
     "schinese_name": "克莉丝与游乐之街",
     "isfreeapp": "0",
-    "change_number": "27536732",
-    "update_time": "2025-02-18 23:13:59",
+    "change_number": "28464997",
+    "update_time": "2025-04-14 18:55:36",
     "depot": {
         "2130681": {
             "config": {
@@ -44,7 +44,7 @@
                     "download": "883288736"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "9f2a3aa9e943d044aac6e5f1a3a05c28d48c1f2dd0548902f8c1c1c45bcf4f6c"
         },
         "2130684": {
             "config": {
