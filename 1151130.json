@@ -4,8 +4,8 @@
     "name": "Dark Chess",
     "schinese_name": "后翼弃兵：迷雾棋局",
     "isfreeapp": "0",
-    "change_number": "27504012",
-    "update_time": "2025-02-17 00:13:39",
+    "change_number": "28529330",
+    "update_time": "2025-04-17 21:01:18",
     "depot": {
         "baselanguages": "english,french,schinese,tchinese,russian,brazilian,ukrainian",
         "1151131": {
@@ -31,8 +31,7 @@
                     "size": "1136813120",
                     "download": "401173392"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1151133": {
             "config": {
@@ -44,8 +43,7 @@
                     "size": "1157312761",
                     "download": "394359408"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
