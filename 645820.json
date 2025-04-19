@@ -4,8 +4,8 @@
     "name": "Odysseus Kosmos and his Robot Quest: Adventure Game",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27925725",
-    "update_time": "2025-03-13 12:22:15",
+    "change_number": "28479933",
+    "update_time": "2025-04-15 13:08:58",
     "depot": {
         "645821": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "347981993",
                     "download": "98465120"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1065370": {
             "manifests": {
