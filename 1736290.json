@@ -4,8 +4,8 @@
     "name": "Crime O'Clock",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27814028",
-    "update_time": "2025-03-06 20:07:57",
+    "change_number": "28536209",
+    "update_time": "2025-04-18 02:57:52",
     "depot": {
         "1736291": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "1785791867",
                     "download": "276504608"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
