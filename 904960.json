@@ -4,8 +4,8 @@
     "name": "Cine Tracer",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28099342",
-    "update_time": "2025-03-24 05:18:28",
+    "change_number": "28437537",
+    "update_time": "2025-04-12 05:07:38",
     "depot": {
         "228986": {
             "config": {
@@ -109,8 +109,7 @@
                     "size": "18764032104",
                     "download": "8114164464"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
