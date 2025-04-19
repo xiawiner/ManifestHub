@@ -4,25 +4,25 @@
     "name": "Artisan TD",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28270009",
-    "update_time": "2025-04-02 22:20:55",
+    "change_number": "28501654",
+    "update_time": "2025-04-16 14:08:12",
     "depot": {
         "baselanguages": "",
         "hasdepotsindlc": "0",
         "2224641": {
             "manifests": {
                 "public": {
-                    "gid": "5136891048815747866",
-                    "size": "2765252707",
-                    "download": "1238511184"
+                    "gid": "956178928329373697",
+                    "size": "2738391725",
+                    "download": "1225111728"
                 }
             },
             "decryptionkey": "46d866d7d06da5000604b7ddcd02940d6355f2e56c23a2456ba08f6d5b7b93c7"
         },
         "branches": {
             "public": {
-                "buildid": "17351561",
-                "timeupdated": "1739454700"
+                "buildid": "18055348",
+                "timeupdated": "1744385524"
             }
         },
         "privatebranches": "1"
