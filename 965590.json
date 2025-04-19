@@ -4,8 +4,8 @@
     "name": "Sagrada",
     "schinese_name": "神圣",
     "isfreeapp": "0",
-    "change_number": "27116373",
-    "update_time": "2025-01-23 01:37:30",
+    "change_number": "28495769",
+    "update_time": "2025-04-16 05:26:04",
     "depot": {
         "965591": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "397416212",
                     "download": "90474640"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
