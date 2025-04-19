@@ -4,8 +4,8 @@
     "name": "Fruit Salad",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27177275",
-    "update_time": "2025-01-27 11:04:02",
+    "change_number": "28441818",
+    "update_time": "2025-04-12 14:06:05",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,schinese,japanese,portuguese,latam",
         "1848522": {
@@ -33,8 +33,7 @@
                     "size": "169460640",
                     "download": "100907376"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1848525": {
             "config": {
@@ -62,8 +61,7 @@
                     "size": "264243554",
                     "download": "122080848"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
