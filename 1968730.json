@@ -4,8 +4,8 @@
     "name": "Bounty of One",
     "schinese_name": "赏金幸存者",
     "isfreeapp": "0",
-    "change_number": "27983840",
-    "update_time": "2025-03-17 04:20:39",
+    "change_number": "28452509",
+    "update_time": "2025-04-13 18:55:19",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,hungarian,turkish,arabic,brazilian",
         "1968731": {
@@ -41,8 +41,7 @@
                     "size": "2041508925",
                     "download": "394982992"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1968733": {
             "config": {
@@ -59,8 +58,7 @@
                     "size": "2063960988",
                     "download": "403189264"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2900140": {
             "dlcappid": "2900140",
