@@ -4,9 +4,23 @@
     "name": "Hollow Survivors Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26649080",
-    "update_time": "2024-12-15 18:22:10",
+    "change_number": "28407789",
+    "update_time": "2025-04-10 21:04:18",
     "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
         "baselanguages": "english",
         "2589311": {},
         "2589312": {
@@ -16,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6172577287260434333",
-                    "size": "1172016843",
-                    "download": "104959008"
+                    "gid": "2847442832201781223",
+                    "size": "1194757441",
+                    "download": "119327840"
                 }
             },
             "decryptionkey": "cc9e9e77de4a5cf31714a258cc5d8cb82c6acbfe21adbe8a213473834faae409"
@@ -29,12 +43,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6414233438251448652",
-                    "size": "1198165093",
-                    "download": "112426704"
+                    "gid": "6072479057942663748",
+                    "size": "1220857631",
+                    "download": "126731024"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2589314": {
             "config": {
@@ -43,17 +56,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1771104155464786713",
-                    "size": "1211548574",
-                    "download": "104876096"
+                    "gid": "1181177139291076647",
+                    "size": "1234330482",
+                    "download": "119259568"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "16203127",
-                "timeupdated": "1730103280"
+                "buildid": "18047012",
+                "timeupdated": "1744232605"
             }
         },
         "privatebranches": "1"
