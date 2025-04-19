@@ -4,8 +4,8 @@
     "name": "Rising World Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27296335",
-    "update_time": "2025-02-04 05:04:37",
+    "change_number": "28395667",
+    "update_time": "2025-04-10 06:18:53",
     "depot": {
         "1004": {
             "config": {
@@ -117,8 +117,7 @@
                     "size": "2711256237",
                     "download": "800779408"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
