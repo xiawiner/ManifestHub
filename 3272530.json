@@ -4,8 +4,8 @@
     "name": "BrokenLore: DON'T WATCH Demo",
     "schinese_name": "破碎怪谈：切勿直视 试玩版",
     "isfreeapp": "0",
-    "change_number": "28049779",
-    "update_time": "2025-03-20 19:22:19",
+    "change_number": "28382515",
+    "update_time": "2025-04-09 17:04:16",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,18 @@
         "3272531": {
             "manifests": {
                 "public": {
-                    "gid": "3436058507484979279",
-                    "size": "2655769425",
-                    "download": "2332988352"
+                    "gid": "4557130345606931490",
+                    "size": "2657192533",
+                    "download": "2333222080"
                 }
-            }
+            },
+            "decryptionkey": "07cfe6ffe16bcc0caaad67dbf05c9d9e074b011bbb3ef0ab84b5f7dab2f2e813"
         },
         "baselanguages": "english,french,italian,spanish,schinese,tchinese,japanese,portuguese",
         "branches": {
             "public": {
-                "buildid": "17763542",
-                "timeupdated": "1742292031"
+                "buildid": "18038372",
+                "timeupdated": "1744189452"
             }
         }
     }
