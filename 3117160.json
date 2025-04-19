@@ -4,8 +4,8 @@
     "name": "叛军组织的我爱上了贵族大小姐",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27376528",
-    "update_time": "2025-02-08 16:29:10",
+    "change_number": "28495752",
+    "update_time": "2025-04-16 05:25:04",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "0",
@@ -70,7 +70,7 @@
                     "download": "992"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "2b59e7de81aa7fca25609fd63746971a050959cfde801e0d62e1e50da6d83bfe"
         },
         "branches": {
             "public": {
