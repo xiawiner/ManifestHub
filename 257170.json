@@ -4,8 +4,8 @@
     "name": "Rebuild 3: Gangs of Deadsville",
     "schinese_name": "重建僵尸大陆之僵尸村黑帮",
     "isfreeapp": "0",
-    "change_number": "28225108",
-    "update_time": "2025-03-31 17:14:38",
+    "change_number": "28533004",
+    "update_time": "2025-04-18 00:04:24",
     "depot": {
         "overridescddb": "1",
         "workshopdepot": "257170",
@@ -154,8 +154,7 @@
                     "size": "149421844",
                     "download": "109142624"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
