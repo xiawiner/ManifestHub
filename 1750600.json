@@ -4,8 +4,8 @@
     "name": "Crate Mates",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "24981165",
-    "update_time": "2024-09-17 06:40:29",
+    "change_number": "28495769",
+    "update_time": "2025-04-16 05:26:12",
     "depot": {
         "1750601": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "208887308",
                     "download": "59325664"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1750603": {
             "config": {
@@ -43,8 +42,7 @@
                     "size": "202055457",
                     "download": "60202784"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
