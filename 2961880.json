@@ -4,8 +4,8 @@
     "name": "Grocery Store Simulator",
     "schinese_name": "超市模拟器",
     "isfreeapp": "0",
-    "change_number": "28346678",
-    "update_time": "2025-04-07 21:43:58",
+    "change_number": "28504439",
+    "update_time": "2025-04-16 17:11:18",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "2961881": {
             "manifests": {
                 "public": {
-                    "gid": "6115949956892298131",
-                    "size": "6679475521",
-                    "download": "6350326160"
+                    "gid": "4392594948050211226",
+                    "size": "6729003607",
+                    "download": "6398369072"
                 },
                 "local": {
                     "gid": "620895183577641138",
@@ -38,8 +38,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18006672",
-                "timeupdated": "1744008875"
+                "buildid": "18092042",
+                "timeupdated": "1744579251"
             },
             "local": {
                 "buildid": "18003648",
