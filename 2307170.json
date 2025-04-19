@@ -4,8 +4,8 @@
     "name": "Everwarder",
     "schinese_name": "永恒守望",
     "isfreeapp": "0",
-    "change_number": "28160125",
-    "update_time": "2025-03-27 08:32:03",
+    "change_number": "28497684",
+    "update_time": "2025-04-16 08:03:30",
     "depot": {
         "baselanguages": "english",
         "2307172": {
@@ -31,8 +31,7 @@
                     "size": "284470160",
                     "download": "72776016"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2307173": {
             "config": {
@@ -40,17 +39,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4187112114890099078",
+                    "gid": "4937588151359487057",
                     "size": "302465087",
                     "download": "80251488"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17807454",
-                "timeupdated": "1742553766"
+                "buildid": "18036138",
+                "timeupdated": "1744177455"
             }
         },
         "privatebranches": "1"
