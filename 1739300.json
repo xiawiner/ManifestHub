@@ -4,8 +4,8 @@
     "name": "Smack Studio",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27861555",
-    "update_time": "2025-03-10 04:13:03",
+    "change_number": "28450353",
+    "update_time": "2025-04-13 12:09:22",
     "depot": {
         "228988": {
             "config": {
@@ -39,6 +39,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "20f0d898a88a7c624e4f34bf887c94497827160c01f322884c4600b356e70a53"
     }
 }
