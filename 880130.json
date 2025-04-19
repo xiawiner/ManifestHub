@@ -4,8 +4,8 @@
     "name": "Lawless Lands",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27442819",
-    "update_time": "2025-02-13 00:24:38",
+    "change_number": "28478542",
+    "update_time": "2025-04-15 10:43:36",
     "depot": {
         "228989": {
             "config": {
@@ -65,7 +65,7 @@
                     "download": "1627631280"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "b9e42450f5918ed581080ef10eba52dcd2eaa1e0633e974997b8288cfe05806c"
         },
         "929720": {
             "dlcappid": "929720",
