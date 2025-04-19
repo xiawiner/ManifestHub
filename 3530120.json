@@ -1,0 +1,44 @@
+{
+    "appid": "3530120",
+    "type": "Game",
+    "name": "Jump to space",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28520573",
+    "update_time": "2025-04-17 10:50:45",
+    "depot": {
+        "baselanguages": "english,japanese",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3530123": {
+            "manifests": {
+                "public": {
+                    "gid": "4761240455815553340",
+                    "size": "10327084759",
+                    "download": "10231672672"
+                }
+            },
+            "decryptionkey": "0933170051dc2bd6b4024c08e8c0ed12685fde478ddade850ef61af02c865ec7"
+        },
+        "3530125": {},
+        "branches": {
+            "public": {
+                "buildid": "18164092",
+                "timeupdated": "1745032433"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
