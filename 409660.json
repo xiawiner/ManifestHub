@@ -4,8 +4,8 @@
     "name": "Angry Video Game Nerd II: ASSimilation",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28217281",
-    "update_time": "2025-03-31 02:49:35",
+    "change_number": "28453260",
+    "update_time": "2025-04-13 21:08:40",
     "depot": {
         "409661": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "166897087",
                     "download": "84917728"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "409663": {
             "config": {
@@ -43,8 +42,7 @@
                     "size": "195197593",
                     "download": "94599168"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
