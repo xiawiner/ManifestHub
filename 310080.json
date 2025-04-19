@@ -4,8 +4,8 @@
     "name": "Hatoful Boyfriend",
     "schinese_name": "帅鸽男友",
     "isfreeapp": "0",
-    "change_number": "27861785",
-    "update_time": "2025-03-10 04:50:24",
+    "change_number": "28369797",
+    "update_time": "2025-04-09 00:37:05",
     "depot": {
         "310081": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "1273148388",
                     "download": "176728832"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "310083": {
             "config": {
@@ -46,8 +45,7 @@
                     "size": "1270258740",
                     "download": "177055440"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "310084": {
             "config": {
@@ -76,8 +74,7 @@
                     "size": "1561029850",
                     "download": "378240848"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "310086": {
             "config": {
@@ -91,8 +88,7 @@
                     "size": "1558140202",
                     "download": "378203776"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
