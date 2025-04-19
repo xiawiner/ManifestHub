@@ -4,8 +4,8 @@
     "name": "House of Lizards",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27271948",
-    "update_time": "2025-02-02 05:32:25",
+    "change_number": "28452574",
+    "update_time": "2025-04-13 19:07:35",
     "depot": {
         "2230071": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "8482826746",
                     "download": "7080980032"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2230074": {
             "config": {
