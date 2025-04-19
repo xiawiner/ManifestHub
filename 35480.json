@@ -4,8 +4,8 @@
     "name": "Dwarfs!?",
     "schinese_name": "矮人堡垒",
     "isfreeapp": "0",
-    "change_number": "27143458",
-    "update_time": "2025-01-24 13:21:28",
+    "change_number": "28495778",
+    "update_time": "2025-04-16 05:26:46",
     "depot": {
         "35481": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "1638164634",
                     "download": "0"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "35482": {
             "config": {
@@ -43,8 +42,7 @@
                     "size": "1688312267",
                     "download": "0"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "35484": {
             "config": {
