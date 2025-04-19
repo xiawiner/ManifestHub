@@ -4,8 +4,8 @@
     "name": "Chang'an of Tang Dynasty",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28099345",
-    "update_time": "2025-03-24 05:18:43",
+    "change_number": "28495815",
+    "update_time": "2025-04-16 05:28:48",
     "depot": {
         "1282081": {
             "config": {
@@ -34,8 +34,7 @@
                     "size": "3744288548",
                     "download": "1189781424"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1282083": {
             "config": {
@@ -49,8 +48,7 @@
                     "size": "3773859874",
                     "download": "1199972512"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "baselanguages": "english,schinese,tchinese",
         "branches": {
