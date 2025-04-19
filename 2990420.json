@@ -4,8 +4,8 @@
     "name": "The Void Project Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26763854",
-    "update_time": "2024-12-23 23:09:00",
+    "change_number": "28475897",
+    "update_time": "2025-04-15 06:46:22",
     "depot": {
         "228988": {
             "config": {
@@ -55,8 +55,7 @@
                     "size": "172330472",
                     "download": "69817328"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
