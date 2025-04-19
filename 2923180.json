@@ -4,8 +4,8 @@
     "name": "Defense of the Dauntless",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28339138",
-    "update_time": "2025-04-07 12:00:18",
+    "change_number": "28540213",
+    "update_time": "2025-04-18 08:15:55",
     "depot": {
         "2923181": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "60223626",
                     "download": "20952448"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
