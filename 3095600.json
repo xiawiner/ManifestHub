@@ -4,8 +4,8 @@
     "name": "Miracle Heroes: Temporal Bounty Hunter",
     "schinese_name": "奇迹英雄:时空猎宝",
     "isfreeapp": "0",
-    "change_number": "27166820",
-    "update_time": "2025-01-26 05:27:53",
+    "change_number": "28407395",
+    "update_time": "2025-04-10 20:45:18",
     "depot": {
         "228989": {
             "config": {
@@ -24,14 +24,14 @@
         "3095601": {
             "manifests": {
                 "public": {
-                    "gid": "2680144253972247272",
-                    "size": "3007093891",
-                    "download": "2580619520"
+                    "gid": "7523203780312100498",
+                    "size": "3118717438",
+                    "download": "2647897808"
                 },
                 "beta": {
-                    "gid": "2680144253972247272",
-                    "size": "3007093891",
-                    "download": "2580619520"
+                    "gid": "7523203780312100498",
+                    "size": "3118717438",
+                    "download": "2647897808"
                 },
                 "moddebug": {
                     "gid": "3649422964487907268",
@@ -44,13 +44,13 @@
         "workshopdepot": "3095600",
         "branches": {
             "public": {
-                "buildid": "16839560",
-                "timeupdated": "1735006914"
+                "buildid": "18056474",
+                "timeupdated": "1744289098"
             },
             "beta": {
-                "buildid": "16839560",
+                "buildid": "18056474",
                 "description": "beta",
-                "timeupdated": "1735006670"
+                "timeupdated": "1744289111"
             },
             "moddebug": {
                 "buildid": "16754428",
