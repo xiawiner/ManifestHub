@@ -4,8 +4,8 @@
     "name": "Black Forest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27750160",
-    "update_time": "2025-03-03 16:08:30",
+    "change_number": "28371394",
+    "update_time": "2025-04-09 02:10:40",
     "depot": {
         "523071": {
             "config": {
@@ -61,8 +61,7 @@
                     "size": "4983778875",
                     "download": "2323330528"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
