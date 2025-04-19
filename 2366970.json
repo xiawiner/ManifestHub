@@ -4,8 +4,8 @@
     "name": "Arco",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26788988",
-    "update_time": "2024-12-26 21:52:40",
+    "change_number": "28451588",
+    "update_time": "2025-04-13 16:09:28",
     "depot": {
         "2366971": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "684184852",
                     "download": "671328688"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
