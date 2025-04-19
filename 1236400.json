@@ -4,8 +4,8 @@
     "name": "Hentai hentai",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26515124",
-    "update_time": "2024-12-06 04:33:56",
+    "change_number": "28503440",
+    "update_time": "2025-04-16 16:10:56",
     "depot": {
         "1236401": {
             "config": {
@@ -18,8 +18,7 @@
                     "size": "269766413",
                     "download": "58960624"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1236402": {
             "config": {
