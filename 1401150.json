@@ -4,8 +4,8 @@
     "name": "Black Hole Simulator",
     "schinese_name": "黑洞模拟器",
     "isfreeapp": "0",
-    "change_number": "28326625",
-    "update_time": "2025-04-06 04:16:15",
+    "change_number": "28480830",
+    "update_time": "2025-04-15 14:30:14",
     "depot": {
         "228988": {
             "config": {
@@ -20,9 +20,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7215410579189315723",
+                    "gid": "3922217146389533429",
                     "size": "576086568",
-                    "download": "265780432"
+                    "download": "265780416"
                 }
             },
             "decryptionkey": "57d461a344ff5801205fecdc54bf325bc45a35ed44fd83d4812a67f69b5f5233"
@@ -34,9 +34,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "963918431219955402",
-                    "size": "576091314",
-                    "download": "265792800"
+                    "gid": "1577758532094910726",
+                    "size": "576086568",
+                    "download": "265790736"
                 }
             },
             "decryptionkey": "4e6af6c457f18ea54b69284efa6b44a3e79229d16fe4fd0a112b06cba85fada7"
@@ -44,8 +44,8 @@
         "baselanguages": "english,schinese",
         "branches": {
             "public": {
-                "buildid": "17920540",
-                "timeupdated": "1743398120"
+                "buildid": "18109406",
+                "timeupdated": "1744698610"
             }
         }
     }
