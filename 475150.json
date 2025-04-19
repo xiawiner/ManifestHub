@@ -4,8 +4,8 @@
     "name": "Titan Quest Anniversary Edition",
     "schinese_name": "泰坦之旅：不朽王座 十周年纪念版",
     "isfreeapp": "0",
-    "change_number": "28341606",
-    "update_time": "2025-04-07 16:16:23",
+    "change_number": "28457511",
+    "update_time": "2025-04-14 07:08:27",
     "depot": {
         "workshopdepot": "475150",
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,czech,ukrainian",
@@ -181,6 +181,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "f59aa5c950b96da3b2bcbd71e8714048ed9ff198e587d57218e02f6a7afb3ba9"
     }
 }
