@@ -4,8 +4,8 @@
     "name": "Alwa's Awakening",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28318760",
-    "update_time": "2025-04-05 08:16:23",
+    "change_number": "28542757",
+    "update_time": "2025-04-18 12:17:27",
     "depot": {
         "hasdepotsindlc": "1",
         "549261": {
@@ -31,8 +31,7 @@
                     "size": "329320266",
                     "download": "54604448"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "549263": {
             "config": {
@@ -44,8 +43,7 @@
                     "size": "323666170",
                     "download": "54421168"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2001510": {
             "dlcappid": "2001510",
