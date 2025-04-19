@@ -4,8 +4,8 @@
     "name": "Lisa Total investigation!",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28116293",
-    "update_time": "2025-03-25 03:56:11",
+    "change_number": "28540052",
+    "update_time": "2025-04-18 08:03:39",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,russian,portuguese",
         "2691471": {},
@@ -42,8 +42,7 @@
                     "size": "3219726646",
                     "download": "3074557792"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
