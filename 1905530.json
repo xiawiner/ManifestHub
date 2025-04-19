@@ -4,8 +4,8 @@
     "name": "Hammerwatch Anniversary Edition",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28167475",
-    "update_time": "2025-03-27 18:14:59",
+    "change_number": "28448521",
+    "update_time": "2025-04-13 06:11:03",
     "depot": {
         "228988": {
             "config": {
@@ -61,6 +61,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "ccd23a7b93c1c5731914d11085f7b805484eee5f73a3722efddc33351dcfbbd1"
     }
 }
