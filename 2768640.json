@@ -4,8 +4,8 @@
     "name": "杀青",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28251760",
-    "update_time": "2025-04-01 23:51:36",
+    "change_number": "28489006",
+    "update_time": "2025-04-15 22:30:45",
     "depot": {
         "baselanguages": "english,schinese",
         "2768641": {
@@ -31,8 +31,7 @@
                     "size": "964709730",
                     "download": "648346192"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
