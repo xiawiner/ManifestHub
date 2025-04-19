@@ -4,8 +4,8 @@
     "name": "Salome's Kiss",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26935023",
-    "update_time": "2025-01-10 12:17:34",
+    "change_number": "28354742",
+    "update_time": "2025-04-08 06:16:20",
     "depot": {
         "1779961": {
             "manifests": {
@@ -26,7 +26,7 @@
                     "download": "18931088"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "d75a2ca65ad0c5b8db8266e180eecc0dafa1bc44155e619c493c360111782858"
         },
         "branches": {
             "public": {
