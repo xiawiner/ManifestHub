@@ -4,8 +4,8 @@
     "name": "Natsuno-Kanata: Beyond Summer",
     "schinese_name": "夏日彼方 beyond",
     "isfreeapp": "0",
-    "change_number": "28206538",
-    "update_time": "2025-03-29 22:13:05",
+    "change_number": "28358907",
+    "update_time": "2025-04-08 13:10:30",
     "depot": {
         "2597261": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "1163343816",
                     "download": "364598800"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
