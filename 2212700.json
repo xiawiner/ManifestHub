@@ -4,8 +4,8 @@
     "name": "The Book of Bondmaids - Tales",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "23591175",
-    "update_time": "2024-07-16 02:46:20",
+    "change_number": "28388623",
+    "update_time": "2025-04-09 22:54:06",
     "depot": {
         "2212701": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2122549076260515762",
-                    "size": "1499516",
-                    "download": "1179008"
+                    "gid": "6874772122054674902",
+                    "size": "1499547",
+                    "download": "1179152"
                 }
             },
             "dlcappid": "2212700",
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2750457166550517375",
-                    "size": "1499516",
-                    "download": "1179008"
+                    "gid": "6662590627903475796",
+                    "size": "1499547",
+                    "download": "1179152"
                 }
             },
             "dlcappid": "2212700",
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2611329709257804147",
-                    "size": "1499516",
-                    "download": "1179008"
+                    "gid": "7029036661325606422",
+                    "size": "1499547",
+                    "download": "1179152"
                 }
             },
             "dlcappid": "2212700",
@@ -51,8 +51,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17474200",
-                "timeupdated": "1740324208"
+                "buildid": "18042776",
+                "timeupdated": "1744210438"
             }
         },
         "privatebranches": "1"
