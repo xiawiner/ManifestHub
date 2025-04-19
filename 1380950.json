@@ -4,8 +4,8 @@
     "name": "Fadeout Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28208421",
-    "update_time": "2025-03-30 02:12:37",
+    "change_number": "28456205",
+    "update_time": "2025-04-14 03:54:25",
     "depot": {
         "1004": {
             "config": {
@@ -58,14 +58,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "519715645490348908",
-                    "size": "328934560",
-                    "download": "208887584"
+                    "gid": "7581057483658635942",
+                    "size": "329153110",
+                    "download": "209107536"
                 },
                 "sigma": {
-                    "gid": "519715645490348908",
-                    "size": "328934560",
-                    "download": "208887584"
+                    "gid": "7581057483658635942",
+                    "size": "329153110",
+                    "download": "209107536"
                 }
             },
             "decryptionkey": ""
@@ -78,27 +78,26 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "986772068675945335",
-                    "size": "309474252",
-                    "download": "166396336"
+                    "gid": "5603683005367768968",
+                    "size": "309690696",
+                    "download": "166614464"
                 },
                 "sigma": {
-                    "gid": "986772068675945335",
-                    "size": "309474252",
-                    "download": "166396336"
+                    "gid": "5603683005367768968",
+                    "size": "309690696",
+                    "download": "166614464"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17911085",
-                "timeupdated": "1743271953"
+                "buildid": "18091591",
+                "timeupdated": "1744574061"
             },
             "sigma": {
-                "buildid": "17911085",
+                "buildid": "18091591",
                 "description": "Wave Defense Testing",
-                "timeupdated": "1743271823"
+                "timeupdated": "1744573948"
             }
         }
     }
