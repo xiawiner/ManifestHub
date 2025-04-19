@@ -4,8 +4,8 @@
     "name": ":THE LONGING: BookConverter",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28073405",
-    "update_time": "2025-03-21 22:18:47",
+    "change_number": "28485764",
+    "update_time": "2025-04-15 19:31:32",
     "depot": {
         "1318141": {
             "config": {
@@ -33,8 +33,7 @@
                     "size": "73584507",
                     "download": "25514320"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1318143": {
             "config": {
@@ -47,8 +46,7 @@
                     "size": "105166670",
                     "download": "35706576"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "workshopdepot": "1318140",
         "branches": {
