@@ -4,8 +4,8 @@
     "name": "Gloom",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27446431",
-    "update_time": "2025-02-13 04:17:16",
+    "change_number": "28440642",
+    "update_time": "2025-04-12 10:55:34",
     "depot": {
         "228990": {
             "config": {
@@ -37,8 +37,7 @@
                     "size": "64480172",
                     "download": "40307472"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "619283": {
             "config": {
@@ -50,8 +49,7 @@
                     "size": "60032831",
                     "download": "39128032"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "620470": {
             "manifests": {
