@@ -4,8 +4,8 @@
     "name": "The Last Plague: Blight",
     "schinese_name": "最后的瘟疫：枯萎",
     "isfreeapp": "0",
-    "change_number": "28335010",
-    "update_time": "2025-04-07 03:16:05",
+    "change_number": "28494779",
+    "update_time": "2025-04-16 04:08:34",
     "depot": {
         "hasdepotsindlc": "0",
         "1564601": {
@@ -14,12 +14,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5347253886394565475",
-                    "size": "5470033458",
-                    "download": "2369056624"
+                    "gid": "6225079252119843866",
+                    "size": "5502527018",
+                    "download": "2383580416"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1564602": {
             "config": {
@@ -27,9 +26,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6229818264236065984",
-                    "size": "5372479697",
-                    "download": "2345128784"
+                    "gid": "3340521079051070880",
+                    "size": "5405500529",
+                    "download": "2359821584"
                 }
             },
             "decryptionkey": "1da35cc535878c4b14d381335faeb900987cb61ad57e9db8c3a649ed028c722c"
@@ -40,17 +39,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4406502879231347870",
-                    "size": "5487347872",
-                    "download": "2387785120"
+                    "gid": "8580534599818229758",
+                    "size": "5525440184",
+                    "download": "2404835920"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17988997",
-                "timeupdated": "1743793343"
+                "buildid": "18118624",
+                "timeupdated": "1744747710"
             }
         }
     }
