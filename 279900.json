@@ -4,8 +4,8 @@
     "name": "Soul Axiom",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26584275",
-    "update_time": "2024-12-11 08:06:08",
+    "change_number": "28534085",
+    "update_time": "2025-04-18 00:57:36",
     "depot": {
         "overridescddb": "1",
         "228984": {
@@ -53,8 +53,7 @@
                     "size": "4415474630",
                     "download": "1924378352"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "279903": {
             "config": {
@@ -66,8 +65,7 @@
                     "size": "5032838600",
                     "download": "1932491312"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "435820": {
             "manifests": {
