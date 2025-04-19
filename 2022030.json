@@ -4,8 +4,8 @@
     "name": "深渊看守者",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27204047",
-    "update_time": "2025-01-29 00:35:10",
+    "change_number": "28513999",
+    "update_time": "2025-04-17 02:10:36",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese",
         "hasdepotsindlc": "0",
@@ -46,8 +46,7 @@
                     "size": "316454079",
                     "download": "132923392"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
