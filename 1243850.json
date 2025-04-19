@@ -4,8 +4,8 @@
     "name": "This Bed We Made",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28297485",
-    "update_time": "2025-04-04 05:46:53",
+    "change_number": "28494610",
+    "update_time": "2025-04-16 03:58:11",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "1243851": {
             "manifests": {
                 "public": {
-                    "gid": "8876963072121318585",
-                    "size": "8661419159",
-                    "download": "4155922272"
+                    "gid": "8900282185595102694",
+                    "size": "8661557199",
+                    "download": "4155728432"
                 }
             },
             "decryptionkey": "86c396a5290b9f8988b07469182701a3545368ce1f1ad107f95c504d73b7094e"
@@ -34,8 +34,8 @@
         "baselanguages": "english,french",
         "branches": {
             "public": {
-                "buildid": "17678332",
-                "timeupdated": "1741709848"
+                "buildid": "18118665",
+                "timeupdated": "1744747085"
             }
         },
         "privatebranches": "1"
