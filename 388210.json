@@ -4,8 +4,8 @@
     "name": "Day of the Tentacle Remastered",
     "schinese_name": "疯狂时代重制版",
     "isfreeapp": "0",
-    "change_number": "27348500",
-    "update_time": "2025-02-07 00:25:35",
+    "change_number": "28393959",
+    "update_time": "2025-04-10 04:09:13",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish",
         "228984": {
@@ -57,8 +57,7 @@
                     "size": "2741178797",
                     "download": "2306377168"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "388214": {
             "config": {
@@ -77,8 +76,7 @@
                     "size": "2736865590",
                     "download": "2306145520"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "388213": {
             "config": {
@@ -96,8 +94,7 @@
                     "size": "2740940218",
                     "download": "2306880272"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
