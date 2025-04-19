@@ -4,8 +4,8 @@
     "name": "We. The Revolution",
     "schinese_name": "我们，革命",
     "isfreeapp": "0",
-    "change_number": "28186198",
-    "update_time": "2025-03-28 16:14:35",
+    "change_number": "28515809",
+    "update_time": "2025-04-17 04:09:56",
     "depot": {
         "baselanguages": "english",
         "736851": {
@@ -46,8 +46,7 @@
                     "size": "3084426818",
                     "download": "1298240528"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "736854": {
             "config": {
@@ -59,8 +58,7 @@
                     "size": "3085982369",
                     "download": "1305658864"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "736855": {
             "manifests": {
