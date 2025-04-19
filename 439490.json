@@ -4,8 +4,8 @@
     "name": "BLUE REVOLVER",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27395563",
-    "update_time": "2025-02-10 15:25:42",
+    "change_number": "28418121",
+    "update_time": "2025-04-11 07:33:25",
     "depot": {
         "439491": {
             "config": {
@@ -60,8 +60,7 @@
                     "size": "1263362904",
                     "download": "1199866320"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "439493": {
             "config": {
@@ -88,8 +87,7 @@
                     "size": "1249492179",
                     "download": "1195957840"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "439494": {
             "config": {
