@@ -4,8 +4,8 @@
     "name": "Angel Sex Pet",
     "schinese_name": "圣天使夏洛特・淫虐之奴隶调教",
     "isfreeapp": "0",
-    "change_number": "27900462",
-    "update_time": "2025-03-12 07:11:15",
+    "change_number": "28418449",
+    "update_time": "2025-04-11 08:00:55",
     "depot": {
         "baselanguages": "english,spanish,schinese,tchinese,latam",
         "hasdepotsindlc": "1",
@@ -35,8 +35,7 @@
                     "size": "347344149",
                     "download": "278880000"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
