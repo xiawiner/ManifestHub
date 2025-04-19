@@ -4,8 +4,8 @@
     "name": "Assault Android Cactus",
     "schinese_name": "卡图斯：进击的机器人",
     "isfreeapp": "0",
-    "change_number": "27280308",
-    "update_time": "2025-02-03 05:11:36",
+    "change_number": "28530362",
+    "update_time": "2025-04-17 21:55:50",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -52,8 +52,7 @@
                     "size": "1374537945",
                     "download": "869537968"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "250113": {
             "config": {
@@ -71,8 +70,7 @@
                     "size": "1361514183",
                     "download": "866128672"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "403990": {
             "manifests": {
