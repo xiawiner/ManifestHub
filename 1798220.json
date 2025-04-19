@@ -4,8 +4,8 @@
     "name": "Adult Puzzles - Hentai Halloween",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27304523",
-    "update_time": "2025-02-04 18:04:41",
+    "change_number": "28447733",
+    "update_time": "2025-04-13 04:08:30",
     "depot": {
         "1798221": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "413840"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "695a0ece865def0ee3aaac996e513b02e95374fa3c354fde04725de93b156c64"
         },
         "branches": {
             "public": {
