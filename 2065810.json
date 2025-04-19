@@ -4,8 +4,8 @@
     "name": "Undead Horde 2: Necropolis",
     "schinese_name": "不死军团2",
     "isfreeapp": "0",
-    "change_number": "28080345",
-    "update_time": "2025-03-22 05:18:59",
+    "change_number": "28454016",
+    "update_time": "2025-04-13 22:55:47",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,turkish,brazilian",
         "228988": {
@@ -48,8 +48,7 @@
                     "size": "598818216",
                     "download": "274132448"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
