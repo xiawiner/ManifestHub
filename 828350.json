@@ -4,8 +4,8 @@
     "name": "Tomb Towers",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25235335",
-    "update_time": "2024-09-16 03:39:16",
+    "change_number": "28495769",
+    "update_time": "2025-04-16 05:26:03",
     "depot": {
         "baselanguages": "english",
         "828351": {
@@ -31,8 +31,7 @@
                     "size": "124915489",
                     "download": "38827488"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "828353": {
             "config": {
@@ -45,8 +44,7 @@
                     "size": "90306213",
                     "download": "29213408"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "828354": {
             "config": {
@@ -59,8 +57,7 @@
                     "size": "89564470",
                     "download": "29504672"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
