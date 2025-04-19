@@ -4,8 +4,8 @@
     "name": "Dragon's Lair",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27820443",
-    "update_time": "2025-03-07 02:07:02",
+    "change_number": "28432930",
+    "update_time": "2025-04-12 00:09:30",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,spanish",
@@ -33,8 +33,7 @@
                     "size": "1994618642",
                     "download": "1913038272"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "227383": {
             "config": {
@@ -46,8 +45,7 @@
                     "size": "1995504537",
                     "download": "1913437392"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
