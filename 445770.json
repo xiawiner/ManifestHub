@@ -4,8 +4,8 @@
     "name": "Airport Madness 3D",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27997697",
-    "update_time": "2025-03-18 00:14:10",
+    "change_number": "28533151",
+    "update_time": "2025-04-18 00:12:26",
     "depot": {
         "445771": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "594576321",
                     "download": "142909936"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
