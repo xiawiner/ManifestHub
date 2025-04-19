@@ -4,8 +4,8 @@
     "name": "Chinese Chess - Xiangqi",
     "schinese_name": "中国象棋",
     "isfreeapp": "0",
-    "change_number": "27071835",
-    "update_time": "2025-01-20 16:20:39",
+    "change_number": "28388998",
+    "update_time": "2025-04-09 23:11:10",
     "depot": {
         "3430881": {},
         "3430882": {
@@ -18,8 +18,7 @@
                     "size": "88287006",
                     "download": "57997088"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3430883": {
             "config": {
