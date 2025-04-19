@@ -4,8 +4,8 @@
     "name": "TransRoad: USA",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27983263",
-    "update_time": "2025-03-17 02:56:56",
+    "change_number": "28434028",
+    "update_time": "2025-04-12 01:08:29",
     "depot": {
         "baselanguages": "",
         "228983": {
@@ -50,8 +50,7 @@
                     "size": "4066200451",
                     "download": "1209207552"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "494673": {
             "config": {
