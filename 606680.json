@@ -4,8 +4,8 @@
     "name": "Silver",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26655455",
-    "update_time": "2024-12-16 12:39:01",
+    "change_number": "28472884",
+    "update_time": "2025-04-15 02:55:21",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,russian,brazilian",
         "228985": {
@@ -48,8 +48,7 @@
                     "size": "1901498029",
                     "download": "1799114640"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "606683": {
             "config": {
@@ -66,8 +65,7 @@
                     "size": "1899472198",
                     "download": "1800146288"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "647970": {
             "manifests": {
