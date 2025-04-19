@@ -4,8 +4,8 @@
     "name": "Necrophosis Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27876050",
-    "update_time": "2025-03-11 01:23:58",
+    "change_number": "28432852",
+    "update_time": "2025-04-12 00:03:40",
     "depot": {
         "228988": {
             "config": {
@@ -31,16 +31,17 @@
         "2959951": {
             "manifests": {
                 "public": {
-                    "gid": "7810482273805561334",
-                    "size": "7432099167",
-                    "download": "6942494976"
+                    "gid": "938531848027629179",
+                    "size": "12461044087",
+                    "download": "11843699728"
                 }
-            }
+            },
+            "decryptionkey": "cdbb7c0c3b9b73d43de624361688a6749398706c8654ea0bbcc5f583540726c3"
         },
         "branches": {
             "public": {
-                "buildid": "15340655",
-                "timeupdated": "1723458874"
+                "buildid": "18074543",
+                "timeupdated": "1744387414"
             }
         }
     }
