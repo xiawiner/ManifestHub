@@ -4,8 +4,8 @@
     "name": "Naheulbeuk's Dungeon Master",
     "schinese_name": "纳赫鲁博王国地下城大师",
     "isfreeapp": "0",
-    "change_number": "28335014",
-    "update_time": "2025-04-07 03:16:24",
+    "change_number": "28482422",
+    "update_time": "2025-04-15 16:09:11",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,portuguese,polish,brazilian,latam",
         "2005161": {
@@ -31,8 +31,7 @@
                     "size": "5104386279",
                     "download": "3547804640"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
