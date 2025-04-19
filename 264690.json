@@ -4,8 +4,8 @@
     "name": "Coin Crypt",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26892281",
-    "update_time": "2025-01-07 21:08:19",
+    "change_number": "28501643",
+    "update_time": "2025-04-16 14:07:44",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -20,8 +20,7 @@
                     "size": "95402153",
                     "download": "72979456"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "264692": {
             "config": {
@@ -46,8 +45,7 @@
                     "size": "32581815",
                     "download": "19889856"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "396920": {
             "config": {
@@ -74,8 +72,7 @@
                     "size": "359088",
                     "download": "362176"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
