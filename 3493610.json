@@ -4,8 +4,8 @@
     "name": "THREAT -SCREAM AND ESCAPE-",
     "schinese_name": "威嚇：尖叫逃亡",
     "isfreeapp": "0",
-    "change_number": "28346289",
-    "update_time": "2025-04-07 21:18:48",
+    "change_number": "28468066",
+    "update_time": "2025-04-14 22:09:05",
     "depot": {
         "baselanguages": "english,tchinese,japanese",
         "3493613": {
@@ -14,17 +14,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7692084757530844474",
-                    "size": "1575472031",
-                    "download": "780779120"
+                    "gid": "3185528710665467766",
+                    "size": "1481625411",
+                    "download": "740313424"
                 },
                 "beta_02": {
                     "gid": "7692084757530844474",
                     "size": "1575472031",
                     "download": "780779120"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3493614": {
             "config": {
@@ -32,9 +31,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3927671109301117901",
-                    "size": "1547049808",
-                    "download": "778282256"
+                    "gid": "8214616758114683604",
+                    "size": "1453203188",
+                    "download": "737812384"
                 },
                 "beta_02": {
                     "gid": "3927671109301117901",
@@ -50,17 +49,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4253644919946245306",
-                    "size": "1575480567",
-                    "download": "780771632"
+                    "gid": "7419961569000500075",
+                    "size": "1481625411",
+                    "download": "740309504"
                 },
                 "beta_02": {
                     "gid": "2968092562769938816",
                     "size": "1575472031",
                     "download": "780764720"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3493612": {
             "config": {
@@ -68,9 +66,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7454123649148755326",
-                    "size": "1547058096",
-                    "download": "778273744"
+                    "gid": "4294645155697710599",
+                    "size": "1453203188",
+                    "download": "737811296"
                 },
                 "beta_02": {
                     "gid": "65022792786153442",
@@ -82,8 +80,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17983943",
-                "timeupdated": "1743765916"
+                "buildid": "18052987",
+                "timeupdated": "1744272743"
             },
             "beta_02": {
                 "buildid": "17957745",
