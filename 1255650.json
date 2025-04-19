@@ -4,8 +4,8 @@
     "name": "Geometry Arena",
     "schinese_name": "几何竞技场",
     "isfreeapp": "0",
-    "change_number": "27061994",
-    "update_time": "2025-01-19 15:40:55",
+    "change_number": "28443502",
+    "update_time": "2025-04-12 18:22:48",
     "depot": {
         "baselanguages": "english,schinese",
         "1255651": {
@@ -20,9 +20,9 @@
                     "download": "48620832"
                 },
                 "test": {
-                    "gid": "2298308326543188210",
-                    "size": "241719582",
-                    "download": "53857296"
+                    "gid": "8789089332359577003",
+                    "size": "241709738",
+                    "download": "53859552"
                 }
             },
             "decryptionkey": "553da8ea2ddce11479d1b9aad7378f9e04e432ed1c33f1cbce9bb0b9189de300"
@@ -53,9 +53,9 @@
                 "timeupdated": "1626498599"
             },
             "test": {
-                "buildid": "16708218",
+                "buildid": "18082832",
                 "description": "小白鼠臻享版",
-                "timeupdated": "1733924935"
+                "timeupdated": "1744453362"
             }
         }
     }
