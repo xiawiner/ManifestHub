@@ -4,8 +4,8 @@
     "name": "NecroVisioN: Lost Company",
     "schinese_name": "死灵幻象：迷失连队",
     "isfreeapp": "0",
-    "change_number": "28290585",
-    "update_time": "2025-04-03 22:20:31",
+    "change_number": "28474774",
+    "update_time": "2025-04-15 05:08:30",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english",
@@ -49,7 +49,7 @@
                     "download": "292117328"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "20db4b6290288b62b3102f89e1b232523712b2ce8a0e50c20b9e5ea2e899a8eb"
         },
         "46253": {
             "config": {
