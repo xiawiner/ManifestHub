@@ -4,8 +4,8 @@
     "name": "Pretty Girls and Dark Witch. A simple story",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27838198",
-    "update_time": "2025-03-07 23:39:09",
+    "change_number": "28491276",
+    "update_time": "2025-04-16 00:30:05",
     "depot": {
         "baselanguages": "english,russian",
         "1463901": {
@@ -19,8 +19,7 @@
                     "size": "197833561",
                     "download": "163971104"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1463902": {
             "config": {
@@ -61,8 +60,7 @@
                     "size": "83187654",
                     "download": "24448176"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
