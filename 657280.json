@@ -4,8 +4,8 @@
     "name": "Rytmik Studio",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27761783",
-    "update_time": "2025-03-04 05:22:56",
+    "change_number": "28416419",
+    "update_time": "2025-04-11 05:09:43",
     "depot": {
         "hasdepotsindlc": "1",
         "657281": {
@@ -69,8 +69,7 @@
                     "size": "1095116788",
                     "download": "197124496"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "657283": {
             "config": {
