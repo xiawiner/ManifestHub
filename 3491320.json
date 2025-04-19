@@ -4,8 +4,8 @@
     "name": "Mecha Legends Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28276503",
-    "update_time": "2025-04-03 05:00:45",
+    "change_number": "28380896",
+    "update_time": "2025-04-09 15:33:12",
     "depot": {
         "228989": {
             "config": {
@@ -31,7 +31,8 @@
                     "size": "1171379881",
                     "download": "1018838544"
                 }
-            }
+            },
+            "decryptionkey": "f8f4dfaf3ee0235cd8087e98cd232269fca8efbbe18e34edb420cb7fb87a76eb"
         },
         "baselanguages": "english",
         "branches": {
