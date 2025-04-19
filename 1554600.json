@@ -4,8 +4,8 @@
     "name": "Wife Quest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28227334",
-    "update_time": "2025-03-31 19:51:09",
+    "change_number": "28503448",
+    "update_time": "2025-04-16 16:11:12",
     "depot": {
         "baselanguages": "english,brazilian",
         "hasdepotsindlc": "1",
@@ -60,8 +60,7 @@
                     "size": "1396530533",
                     "download": "232737088"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
