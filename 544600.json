@@ -4,8 +4,8 @@
     "name": "Delicious - Emilys Christmas Carol",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "22641446",
-    "update_time": "2024-05-24 07:26:54",
+    "change_number": "28443779",
+    "update_time": "2025-04-12 19:06:08",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,dutch,swedish",
         "544601": {
@@ -31,8 +31,7 @@
                     "size": "489292258",
                     "download": "448984608"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "554360": {
             "manifests": {
@@ -43,7 +42,7 @@
                 }
             },
             "dlcappid": "554360",
-            "decryptionkey": ""
+            "decryptionkey": "ef25f1258fe1551240a5ec1b46f363fd56f745c7e6c63cc6dd906cc4ad9bece9"
         },
         "branches": {
             "public": {
