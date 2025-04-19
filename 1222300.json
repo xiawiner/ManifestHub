@@ -4,8 +4,8 @@
     "name": "Into The Flames",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27976631",
-    "update_time": "2025-03-16 07:29:34",
+    "change_number": "28450279",
+    "update_time": "2025-04-13 11:52:23",
     "depot": {
         "228988": {
             "config": {
@@ -33,15 +33,10 @@
                     "size": "5809868368",
                     "download": "5580549648"
                 },
-                "retro": {
-                    "gid": "6659927421144242897",
-                    "size": "4044670965",
-                    "download": "3888865936"
-                },
-                "wheelsupporttesting": {
-                    "gid": "3436432608780077617",
-                    "size": "5823468425",
-                    "download": "5593903728"
+                "testing": {
+                    "gid": "1730388099333135690",
+                    "size": "5845450841",
+                    "download": "5615661568"
                 }
             },
             "decryptionkey": "21dd651ba7ff6d43543c53112d5dfe96d4e425d31065d714776233eb737aa3b6"
@@ -52,15 +47,10 @@
                 "buildid": "16895600",
                 "timeupdated": "1735864492"
             },
-            "retro": {
-                "buildid": "5903618",
-                "description": "2020 Build",
-                "timeupdated": "1675070251"
-            },
-            "wheelsupporttesting": {
-                "buildid": "17047252",
-                "description": "Testing Wheel Support",
-                "timeupdated": "1737165364"
+            "testing": {
+                "buildid": "18087545",
+                "description": "Update 2077 Early play testing",
+                "timeupdated": "1744516338"
             }
         },
         "privatebranches": "1",
