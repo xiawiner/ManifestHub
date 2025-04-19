@@ -4,8 +4,8 @@
     "name": "Ultra Space Battle Brawl",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26659100",
-    "update_time": "2024-12-16 18:37:30",
+    "change_number": "28463361",
+    "update_time": "2025-04-14 17:08:45",
     "depot": {
         "hasdepotsindlc": "0",
         "658501": {
@@ -41,8 +41,7 @@
                     "size": "532049939",
                     "download": "107086528"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "942070": {
             "manifests": {
