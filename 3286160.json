@@ -4,9 +4,23 @@
     "name": "Liquor Store Simulator Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26977487",
-    "update_time": "2025-01-14 03:17:25",
+    "change_number": "28469140",
+    "update_time": "2025-04-14 23:11:22",
     "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
         "baselanguages": "english,russian",
         "3286161": {
             "manifests": {
