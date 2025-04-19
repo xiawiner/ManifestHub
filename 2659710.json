@@ -4,8 +4,8 @@
     "name": "Carnaval Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28143066",
-    "update_time": "2025-03-26 13:05:49",
+    "change_number": "28448539",
+    "update_time": "2025-04-13 06:13:22",
     "depot": {
         "2659711": {
             "config": {
@@ -58,9 +58,9 @@
                     "download": "10203053312"
                 },
                 "open_beta": {
-                    "gid": "768747826974437501",
-                    "size": "12276355908",
-                    "download": "10216324560"
+                    "gid": "4137025325414609262",
+                    "size": "13622140249",
+                    "download": "11426866912"
                 }
             },
             "decryptionkey": "bff9a0e45d94c58c21e39be8f808acf92e96d3583b688817da2ae33fc0a96145"
@@ -114,11 +114,11 @@
                 "timeupdated": "1741321272"
             },
             "open_beta": {
-                "buildid": "17862016",
+                "buildid": "18086189",
                 "description": "Open beta",
-                "timeupdated": "1742965543"
+                "timeupdated": "1744495998"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "080368c670e231fa3d2e3b8e81bca142b1e2f21ac286a3875be347c0687ae1dd"
     }
 }
