@@ -4,8 +4,8 @@
     "name": "Clothing Store Simulator",
     "schinese_name": "服装店模拟",
     "isfreeapp": "0",
-    "change_number": "28103907",
-    "update_time": "2025-03-24 15:19:09",
+    "change_number": "28535239",
+    "update_time": "2025-04-18 01:58:46",
     "depot": {
         "2923391": {
             "config": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3526320911962973505",
-                    "size": "5611893767",
-                    "download": "1951064496"
+                    "gid": "4869002490201485140",
+                    "size": "5625970146",
+                    "download": "1955906000"
                 }
             },
             "decryptionkey": "d9a7fde689395bd32548f53725ff825360147ba02295ff58d9e021b10b458cbb"
         },
         "branches": {
             "public": {
-                "buildid": "17212232",
-                "timeupdated": "1738446632"
+                "buildid": "18095924",
+                "timeupdated": "1744616980"
             }
         },
         "privatebranches": "1"
