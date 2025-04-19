@@ -4,8 +4,8 @@
     "name": "Infested Planet",
     "schinese_name": "绝命星球",
     "isfreeapp": "0",
-    "change_number": "27184362",
-    "update_time": "2025-01-27 22:20:30",
+    "change_number": "28485213",
+    "update_time": "2025-04-15 18:55:45",
     "depot": {
         "preloadonly": "1",
         "overridescddb": "1",
@@ -54,8 +54,7 @@
                     "size": "316717790",
                     "download": "73483760"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "358020": {
             "config": {
@@ -102,8 +101,7 @@
                     "size": "71265",
                     "download": "21872"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "529620": {
             "dlcappid": "529620",
@@ -150,8 +148,7 @@
                     "size": "46482019",
                     "download": "3454176"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
