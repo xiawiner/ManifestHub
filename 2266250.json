@@ -4,33 +4,33 @@
     "name": "Portal: Revolution Authoring Tools",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26878601",
-    "update_time": "2025-01-06 22:48:16",
+    "change_number": "28455967",
+    "update_time": "2025-04-14 03:22:55",
     "depot": {
         "2266251": {
             "manifests": {
                 "public": {
-                    "gid": "8783497942242921372",
-                    "size": "393847632",
-                    "download": "56422544"
+                    "gid": "267692400548396420",
+                    "size": "394311959",
+                    "download": "56449504"
                 },
                 "preview": {
-                    "gid": "8783497942242921372",
-                    "size": "393847632",
-                    "download": "56422544"
+                    "gid": "267692400548396420",
+                    "size": "394311959",
+                    "download": "56449504"
                 }
             },
             "decryptionkey": "90f44907ac903750542896e03ff15ddc24aef4af6e9bcc22de5b6a4064f2d9f9"
         },
         "branches": {
             "public": {
-                "buildid": "16918195",
-                "timeupdated": "1736174871"
+                "buildid": "18091451",
+                "timeupdated": "1744572171"
             },
             "preview": {
-                "buildid": "16918195",
+                "buildid": "18091451",
                 "description": "Unstable beta",
-                "timeupdated": "1736174890"
+                "timeupdated": "1744572146"
             }
         }
     }
