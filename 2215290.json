@@ -4,8 +4,8 @@
     "name": "我在终点线等你",
     "schinese_name": "我在终点线等你",
     "isfreeapp": "0",
-    "change_number": "25617962",
-    "update_time": "2024-10-11 15:48:04",
+    "change_number": "28509341",
+    "update_time": "2025-04-16 21:51:05",
     "depot": {
         "baselanguages": "schinese",
         "2215291": {
@@ -27,12 +27,12 @@
                     "download": "167632192"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "9ced9ad8a974d85d2244388863e90e1474ca9f54505f23207e6031f79534e5c4"
         },
         "branches": {
             "public": {
-                "buildid": "13195566",
-                "timeupdated": "1705497384"
+                "buildid": "18129676",
+                "timeupdated": "1744811457"
             }
         },
         "privatebranches": "1"
