@@ -4,8 +4,8 @@
     "name": "World Warfare & Economics",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28277937",
-    "update_time": "2025-04-03 06:40:04",
+    "change_number": "28542125",
+    "update_time": "2025-04-18 11:16:57",
     "depot": {
         "baselanguages": "english,german,french,russian",
         "hasdepotsindlc": "1",
@@ -63,8 +63,7 @@
                     "size": "7928800803",
                     "download": "2356275264"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
