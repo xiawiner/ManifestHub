@@ -4,8 +4,8 @@
     "name": "Fire Shark",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26493732",
-    "update_time": "2024-12-05 12:46:56",
+    "change_number": "28451588",
+    "update_time": "2025-04-13 16:09:28",
     "depot": {
         "228989": {
             "config": {
@@ -37,8 +37,7 @@
                     "size": "5196114",
                     "download": "2081536"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2237203": {
             "config": {
@@ -50,8 +49,7 @@
                     "size": "3749876",
                     "download": "1745056"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
