@@ -4,8 +4,8 @@
     "name": "Blackwell Epiphany",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28224343",
-    "update_time": "2025-03-31 16:23:30",
+    "change_number": "28515002",
+    "update_time": "2025-04-17 03:14:27",
     "depot": {
         "overridescddb": "1",
         "236931": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8566259067095256543",
-                    "size": "819043789",
-                    "download": "598908656"
+                    "gid": "9004051928748786172",
+                    "size": "820050044",
+                    "download": "599261968"
                 }
             },
             "decryptionkey": "fe2ba76b24c99aa1f0cec43c3ac8885e7f5127f4064bfd972bcb2ae1f4d83fc3"
@@ -28,12 +28,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "316403173627531653",
-                    "size": "886340925",
-                    "download": "597075296"
+                    "gid": "8177583764882251314",
+                    "size": "891747733",
+                    "download": "598241808"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "236933": {
             "config": {
@@ -41,12 +40,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7203920019986794369",
-                    "size": "821223128",
-                    "download": "579800560"
+                    "gid": "1014305726510474947",
+                    "size": "835030736",
+                    "download": "582860288"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "236934": {
             "config": {
@@ -55,17 +53,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6141371932145657581",
-                    "size": "886858977",
-                    "download": "597107360"
+                    "gid": "2596410695405408408",
+                    "size": "892265785",
+                    "download": "598273872"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "16614404",
-                "timeupdated": "1733230647"
+                "buildid": "18133729",
+                "timeupdated": "1744830862"
             }
         },
         "privatebranches": "1"
