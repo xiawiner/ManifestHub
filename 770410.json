@@ -4,8 +4,8 @@
     "name": "Path to Mnemosyne",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28303471",
-    "update_time": "2025-04-04 15:16:00",
+    "change_number": "28432937",
+    "update_time": "2025-04-12 00:09:49",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,russian,japanese",
         "770411": {
@@ -50,8 +50,7 @@
                     "size": "940509915",
                     "download": "92617232"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "770414": {
             "config": {
@@ -65,8 +64,7 @@
                     "size": "182832770",
                     "download": "113325968"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
