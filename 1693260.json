@@ -4,8 +4,8 @@
     "name": "Yugo Puzzle",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25662418",
-    "update_time": "2024-10-11 23:49:14",
+    "change_number": "28495761",
+    "update_time": "2025-04-16 05:25:26",
     "depot": {
         "1693261": {
             "config": {
@@ -17,8 +17,7 @@
                     "size": "224327612",
                     "download": "147029296"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1693262": {
             "config": {
