@@ -4,8 +4,8 @@
     "name": "The Sims™ 4 Modern Luxe Kit",
     "schinese_name": "《The Sims™ 4 现代奢华》套件包",
     "isfreeapp": "0",
-    "change_number": "27342815",
-    "update_time": "2025-02-06 18:26:53",
+    "change_number": "28393861",
+    "update_time": "2025-04-10 04:01:33",
     "depot": {
         "2397791": {
             "dlcappid": "2397791",
@@ -44,7 +44,7 @@
                 }
             },
             "dlcappid": "2397791",
-            "decryptionkey": ""
+            "decryptionkey": "6ac51223073ed3b2e57baa4b4901a1f796dfd92ddf1fcc5a711f86397431a347"
         },
         "2438912": {
             "config": {
@@ -254,7 +254,7 @@
                 }
             },
             "dlcappid": "2397791",
-            "decryptionkey": ""
+            "decryptionkey": "f7e50b8189e29dd1f2789007cd68df4d9afa927e9bee2c80ef0455b7e7945297"
         },
         "2438927": {
             "config": {
