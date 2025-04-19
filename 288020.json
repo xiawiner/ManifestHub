@@ -4,8 +4,8 @@
     "name": "Rex Rocket",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26742513",
-    "update_time": "2024-12-21 10:19:36",
+    "change_number": "28495795",
+    "update_time": "2025-04-16 05:28:34",
     "depot": {
         "overridescddb": "1",
         "228990": {
@@ -63,8 +63,7 @@
                     "size": "239184273",
                     "download": "88129744"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "288023": {
             "config": {
@@ -81,8 +80,7 @@
                     "size": "223502467",
                     "download": "84063792"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
