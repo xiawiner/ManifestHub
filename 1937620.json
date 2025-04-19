@@ -4,8 +4,8 @@
     "name": "Tennis Manager 2022",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28213514",
-    "update_time": "2025-03-30 17:16:44",
+    "change_number": "28464631",
+    "update_time": "2025-04-14 18:29:29",
     "depot": {
         "228988": {
             "config": {
@@ -50,8 +50,7 @@
                     "size": "1242758023",
                     "download": "774304736"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1937624": {
             "config": {
