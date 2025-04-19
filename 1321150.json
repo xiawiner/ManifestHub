@@ -4,19 +4,20 @@
     "name": "Wild Terra 2: New Lands - Free Weekend",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28269017",
-    "update_time": "2025-04-02 21:22:14",
+    "change_number": "28548431",
+    "update_time": "2025-04-18 19:26:30",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,turkish,brazilian,ukrainian",
         "1134701": {
             "manifests": {
                 "public": {
-                    "gid": "2728742749554020585",
-                    "size": "6683784553",
-                    "download": "3193265392"
+                    "gid": "8288724549971932138",
+                    "size": "6687402201",
+                    "download": "3194155200"
                 }
             },
-            "depotfromapp": "1134700"
+            "depotfromapp": "1134700",
+            "decryptionkey": "4760fc3eb52b780e294b15f3c907e77081c0e04233d5495645c3ac1ff3b6dfc8"
         },
         "1321151": {
             "config": {
