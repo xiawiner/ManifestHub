@@ -4,8 +4,8 @@
     "name": "Luxor 2",
     "schinese_name": "埃及祖玛2",
     "isfreeapp": "0",
-    "change_number": "26947669",
-    "update_time": "2025-01-11 04:14:59",
+    "change_number": "28357926",
+    "update_time": "2025-04-08 11:16:22",
     "depot": {
         "15921": {
             "systemdefined": "1",
@@ -49,7 +49,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "f37b3327666d604a691c5101c66ee2dc02f1206b73e8cbd9b3b4d365d268b50c"
         },
         "15924": {
             "config": {
