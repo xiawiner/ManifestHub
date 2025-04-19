@@ -4,8 +4,8 @@
     "name": "BalanCity",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27498564",
-    "update_time": "2025-02-16 07:13:11",
+    "change_number": "28465170",
+    "update_time": "2025-04-14 19:08:15",
     "depot": {
         "462681": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "380981752",
                     "download": "125955776"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "462683": {
             "config": {
@@ -60,8 +59,7 @@
                     "size": "171359343",
                     "download": "73000400"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "573850": {
             "manifests": {
