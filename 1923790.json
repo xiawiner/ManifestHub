@@ -4,8 +4,8 @@
     "name": "Linelith",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26719627",
-    "update_time": "2024-12-20 03:14:30",
+    "change_number": "28495778",
+    "update_time": "2025-04-16 05:27:03",
     "depot": {
         "1923791": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "101869047",
                     "download": "34378688"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1923793": {
             "config": {
@@ -43,8 +42,7 @@
                     "size": "60339397",
                     "download": "25132480"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
