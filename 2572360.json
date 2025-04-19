@@ -4,8 +4,8 @@
     "name": "InOutPath",
     "schinese_name": "开关 InOutPath",
     "isfreeapp": "0",
-    "change_number": "23012290",
-    "update_time": "2024-05-26 10:20:53",
+    "change_number": "28495740",
+    "update_time": "2025-04-16 05:23:37",
     "depot": {
         "baselanguages": "english",
         "2572361": {
@@ -32,8 +32,7 @@
                     "size": "2089138885",
                     "download": "1476664064"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2572363": {
             "config": {
