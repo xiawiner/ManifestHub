@@ -1,0 +1,48 @@
+{
+    "appid": "1839930",
+    "type": "Game",
+    "name": "Lifecraft",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28512089",
+    "update_time": "2025-04-17 00:18:37",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1839931": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1653860733424777411",
+                    "size": "98890975",
+                    "download": "54479408"
+                },
+                "nightly": {
+                    "gid": "1609583718446480523",
+                    "size": "120348240",
+                    "download": "57941920"
+                }
+            },
+            "decryptionkey": "90e99f7e92b78e8bf291f6be1a6be1298c3a05504b89436cb4f543120987dd38"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17491661",
+                "timeupdated": "1740488762"
+            },
+            "nightly": {
+                "buildid": "18131000",
+                "description": "Nightly",
+                "timeupdated": "1744820312"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
