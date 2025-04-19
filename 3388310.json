@@ -4,8 +4,8 @@
     "name": "The Scouring Playtest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28334885",
-    "update_time": "2025-04-07 03:01:07",
+    "change_number": "28487890",
+    "update_time": "2025-04-15 21:33:11",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "3388311": {
             "manifests": {
                 "public": {
-                    "gid": "896600341297685856",
-                    "size": "627190521",
-                    "download": "600451088"
+                    "gid": "8549868893089752957",
+                    "size": "632279712",
+                    "download": "605427024"
                 }
             },
             "decryptionkey": "855597ff319ee3abc860ad3fab93128e2d9e6f1b39ae4ed5ec33da7eb02b4ff6"
@@ -34,8 +34,8 @@
         "baselanguages": "english,russian",
         "branches": {
             "public": {
-                "buildid": "18003296",
-                "timeupdated": "1743966063"
+                "buildid": "18112002",
+                "timeupdated": "1744723985"
             }
         },
         "privatebranches": "1"
