@@ -4,8 +4,8 @@
     "name": "DSX",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28331993",
-    "update_time": "2025-04-06 20:14:20",
+    "change_number": "28547218",
+    "update_time": "2025-04-18 18:05:17",
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "1812620",
@@ -29,9 +29,9 @@
                     "download": "136630400"
                 },
                 "dsx_v3.1_beta": {
-                    "gid": "4875794725996027228",
-                    "size": "384177601",
-                    "download": "120095888"
+                    "gid": "8142687383202140008",
+                    "size": "385530680",
+                    "download": "120163616"
                 },
                 "dsx_2.5.0": {
                     "gid": "4756084215369874936",
@@ -47,9 +47,9 @@
                 "timeupdated": "1739355094"
             },
             "dsx_v3.1_beta": {
-                "buildid": "18001549",
+                "buildid": "18156238",
                 "description": "v3.1 Beta",
-                "timeupdated": "1743941649"
+                "timeupdated": "1744970711"
             },
             "dsx_2.5.0": {
                 "buildid": "13063683",
@@ -58,6 +58,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "05b5ea90c331ed549da81c199d0c68fc1bedebfd05a698d080303ef859e68a80"
     }
 }
