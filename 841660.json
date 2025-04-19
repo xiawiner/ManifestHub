@@ -4,8 +4,8 @@
     "name": "The Treehouse Man",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27856420",
-    "update_time": "2025-03-09 13:02:02",
+    "change_number": "28453695",
+    "update_time": "2025-04-13 22:08:00",
     "depot": {
         "228990": {
             "config": {
@@ -37,8 +37,7 @@
                     "size": "67662484",
                     "download": "57606992"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "841663": {
             "config": {
@@ -50,8 +49,7 @@
                     "size": "63606364",
                     "download": "56305296"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "855660": {
             "dlcappid": "855660",
