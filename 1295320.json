@@ -4,8 +4,8 @@
     "name": "Can of Wormholes",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27218723",
-    "update_time": "2025-01-29 22:18:30",
+    "change_number": "28495740",
+    "update_time": "2025-04-16 05:23:17",
     "depot": {
         "1295321": {
             "config": {
@@ -40,8 +40,7 @@
                     "size": "53467974",
                     "download": "49884224"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "workshopdepot": "1295320",
         "branches": {
