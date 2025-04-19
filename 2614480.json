@@ -4,8 +4,8 @@
     "name": "PortalSnake",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "24521908",
-    "update_time": "2024-07-26 16:34:36",
+    "change_number": "28495769",
+    "update_time": "2025-04-16 05:26:22",
     "depot": {
         "hasdepotsindlc": "1",
         "2614481": {
@@ -41,8 +41,7 @@
                     "size": "200835104",
                     "download": "79174576"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2614483": {
             "config": {
