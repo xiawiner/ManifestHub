@@ -4,8 +4,8 @@
     "name": "Intravenous",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28212318",
-    "update_time": "2025-03-30 13:17:09",
+    "change_number": "28543736",
+    "update_time": "2025-04-18 14:01:58",
     "depot": {
         "228990": {
             "config": {
@@ -55,6 +55,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "aae0ba8b503c649cbf0771482f015d7053deac8839fb8782cf4a5e1c57551803"
     }
 }
