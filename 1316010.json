@@ -4,8 +4,8 @@
     "name": "Grounded Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26998583",
-    "update_time": "2025-01-15 08:22:27",
+    "change_number": "28534091",
+    "update_time": "2025-04-18 00:57:51",
     "depot": {
         "228988": {
             "config": {
@@ -25,8 +25,7 @@
                     "size": "19",
                     "download": "64"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "962131": {
             "config": {
@@ -34,9 +33,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6864063491286066765",
-                    "size": "12137908076",
-                    "download": "11479487328"
+                    "gid": "4146942671697184416",
+                    "size": "12142645418",
+                    "download": "11489413312"
                 }
             },
             "depotfromapp": "962130",
