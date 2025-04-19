@@ -4,8 +4,8 @@
     "name": "The Talos Principle",
     "schinese_name": "塔罗斯的法则",
     "isfreeapp": "0",
-    "change_number": "27797981",
-    "update_time": "2025-03-06 00:02:19",
+    "change_number": "28418060",
+    "update_time": "2025-04-11 07:27:29",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -650,6 +650,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "e035bb8e2d7f5086ea225da677a73471c8d24aeb330bf8c98eb7ff501904e4ad"
     }
 }
