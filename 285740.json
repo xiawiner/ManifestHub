@@ -4,8 +4,8 @@
     "name": "Kitty Powers' Matchmaker",
     "schinese_name": "猫力婚介所",
     "isfreeapp": "0",
-    "change_number": "27469766",
-    "update_time": "2025-02-14 08:15:14",
+    "change_number": "28478646",
+    "update_time": "2025-04-15 10:55:20",
     "depot": {
         "228988": {
             "config": {
@@ -64,8 +64,7 @@
                     "size": "688804561",
                     "download": "170284336"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
