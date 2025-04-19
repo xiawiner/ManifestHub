@@ -4,8 +4,8 @@
     "name": "Australian trip",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "24057806",
-    "update_time": "2024-06-21 07:10:25",
+    "change_number": "28495752",
+    "update_time": "2025-04-16 05:24:36",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english,russian,ukrainian",
@@ -43,8 +43,7 @@
                     "size": "386195305",
                     "download": "112361104"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "757873": {},
         "branches": {
