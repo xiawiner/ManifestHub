@@ -4,8 +4,8 @@
     "name": "STAR WARS™ Empire at War: Gold Pack",
     "schinese_name": "星球大战：帝国战争黄金版",
     "isfreeapp": "0",
-    "change_number": "28138045",
-    "update_time": "2025-03-26 05:12:49",
+    "change_number": "28452509",
+    "update_time": "2025-04-13 18:55:18",
     "depot": {
         "228983": {
             "config": {
@@ -140,6 +140,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "319d364e1954ba9405bf5d9bf0fb08de085422c9ba81ba2d157e6f8dd4fc1571"
     }
 }
