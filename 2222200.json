@@ -4,8 +4,8 @@
     "name": "Springblades",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28286385",
-    "update_time": "2025-04-03 18:16:56",
+    "change_number": "28419977",
+    "update_time": "2025-04-11 10:27:48",
     "depot": {
         "2222201": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "544915060",
                     "download": "280520768"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
