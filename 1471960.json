@@ -4,8 +4,8 @@
     "name": "Room to Grow",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26958838",
-    "update_time": "2025-01-12 09:16:56",
+    "change_number": "28495752",
+    "update_time": "2025-04-16 05:24:42",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,czech,arabic,brazilian,latam,vietnamese",
         "1471963": {
@@ -32,8 +32,7 @@
                     "size": "160646639",
                     "download": "43577760"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1471962": {
             "config": {
