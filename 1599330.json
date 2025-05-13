@@ -4,8 +4,8 @@
     "name": "Wildmender",
     "schinese_name": "荒原疗者 (Wildmender)",
     "isfreeapp": "0",
-    "change_number": "28491048",
-    "update_time": "2025-04-16 00:15:02",
+    "change_number": "28864022",
+    "update_time": "2025-05-07 22:57:42",
     "depot": {
         "228989": {
             "config": {
@@ -17,17 +17,17 @@
         "1599331": {
             "manifests": {
                 "public": {
-                    "gid": "4112516990283477610",
-                    "size": "2673812508",
-                    "download": "1115287024"
+                    "gid": "1457406922994852507",
+                    "size": "2673812420",
+                    "download": "1115278272"
                 }
             },
             "decryptionkey": "afd9a47ff2961d2300f050adb60d8518347475523c6708a9208f349156cc6835"
         },
         "branches": {
             "public": {
-                "buildid": "16988360",
-                "timeupdated": "1738744924"
+                "buildid": "18278163",
+                "timeupdated": "1746629855"
             }
         },
         "privatebranches": "1"
