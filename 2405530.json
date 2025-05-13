@@ -4,8 +4,8 @@
     "name": "Miami Hotel Sim Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28108994",
-    "update_time": "2025-03-24 21:14:40",
+    "change_number": "28676363",
+    "update_time": "2025-04-26 06:53:59",
     "depot": {
         "228990": {
             "config": {
@@ -24,7 +24,8 @@
                     "size": "6778931423",
                     "download": "2163673488"
                 }
-            }
+            },
+            "decryptionkey": "990833f3fa4b5081928ec82d18cc1ddcb83d313b23872b7d8c07904acdfd1b35"
         },
         "branches": {
             "public": {
