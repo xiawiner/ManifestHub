@@ -4,9 +4,16 @@
     "name": "Super Retro Retry",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26743479",
-    "update_time": "2024-12-21 13:17:56",
+    "change_number": "28634124",
+    "update_time": "2025-04-24 09:21:50",
     "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
         "2648561": {
             "config": {
                 "oslist": "windows"
