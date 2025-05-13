@@ -4,8 +4,8 @@
     "name": "Birthright Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28443125",
-    "update_time": "2025-04-12 17:28:15",
+    "change_number": "28573330",
+    "update_time": "2025-04-21 00:13:54",
     "depot": {
         "1004": {
             "config": {
@@ -57,9 +57,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2411966564258713176",
-                    "size": "4355406355",
-                    "download": "4083330752"
+                    "gid": "4274635349787660788",
+                    "size": "4355401811",
+                    "download": "4083333920"
                 },
                 "0.19.1": {
                     "gid": "4354222138232340694",
@@ -150,14 +150,19 @@
                     "gid": "2411966564258713176",
                     "size": "4355406355",
                     "download": "4083330752"
+                },
+                "v0.29.1": {
+                    "gid": "4274635349787660788",
+                    "size": "4355401811",
+                    "download": "4083333920"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17871394",
-                "timeupdated": "1744450091"
+                "buildid": "18173228",
+                "timeupdated": "1745165631"
             },
             "0.19.1": {
                 "buildid": "7804332",
@@ -248,6 +253,11 @@
                 "buildid": "17871394",
                 "description": "Release",
                 "timeupdated": "1744388801"
+            },
+            "v0.29.1": {
+                "buildid": "18173228",
+                "description": "Release",
+                "timeupdated": "1745165602"
             }
         }
     }
