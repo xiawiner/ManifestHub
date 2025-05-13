@@ -4,8 +4,8 @@
     "name": "Dieselpunk Wars",
     "schinese_name": "柴油朋克：战争巨兽",
     "isfreeapp": "0",
-    "change_number": "27735052",
-    "update_time": "2025-03-02 01:45:40",
+    "change_number": "28773584",
+    "update_time": "2025-05-02 02:37:28",
     "depot": {
         "workshopdepot": "952240",
         "baselanguages": "english,german,french,italian,spanish,schinese,russian,polish",
@@ -30,6 +30,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "2932965b895bb9ef5a2afe81d7df63beac2ef2f640322c94ae663b1aa581dcec"
     }
 }
