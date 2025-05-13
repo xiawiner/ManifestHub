@@ -4,23 +4,23 @@
     "name": "BM General Hospital",
     "schinese_name": "黑山综合医院",
     "isfreeapp": "0",
-    "change_number": "28493363",
-    "update_time": "2025-04-16 02:30:16",
+    "change_number": "28692623",
+    "update_time": "2025-04-27 21:48:17",
     "depot": {
         "3347671": {
             "manifests": {
                 "public": {
-                    "gid": "2636218530033696664",
-                    "size": "2113232135",
-                    "download": "231926048"
+                    "gid": "9098144113725018981",
+                    "size": "2178024115",
+                    "download": "243304048"
                 }
             },
             "decryptionkey": "a3a95249de5708328ccb0fcdffde60c7eefc4125b5f28a6c8e1330a6caea1445"
         },
         "branches": {
             "public": {
-                "buildid": "18113900",
-                "timeupdated": "1744722672"
+                "buildid": "18256097",
+                "timeupdated": "1745761691"
             }
         }
     }
