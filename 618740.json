@@ -4,8 +4,8 @@
     "name": "Beat Hazard 2",
     "schinese_name": "危险节奏2",
     "isfreeapp": "0",
-    "change_number": "27091159",
-    "update_time": "2025-01-21 18:17:56",
+    "change_number": "28721472",
+    "update_time": "2025-04-29 15:12:36",
     "depot": {
         "228983": {
             "config": {
@@ -41,17 +41,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6210321343809379603",
-                    "size": "1012091406",
-                    "download": "671657520"
+                    "gid": "1318044753902592210",
+                    "size": "1014515361",
+                    "download": "672195264"
+                },
+                "steamdeck": {
+                    "gid": "8591553559452853273",
+                    "size": "1012090894",
+                    "download": "671657376"
                 }
             },
             "decryptionkey": "355e583e65f059eb257af3251f24473b397610019f16392f387c213f54b51f22"
         },
         "branches": {
             "public": {
-                "buildid": "17076036",
-                "timeupdated": "1737454672"
+                "buildid": "18266952",
+                "timeupdated": "1745910751"
+            },
+            "steamdeck": {
+                "buildid": "18262963",
+                "description": "Discord",
+                "timeupdated": "1745831988"
             }
         }
     }
