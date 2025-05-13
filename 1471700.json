@@ -4,8 +4,8 @@
     "name": "Minicology",
     "schinese_name": "微生态学",
     "isfreeapp": "0",
-    "change_number": "28497689",
-    "update_time": "2025-04-16 08:03:31",
+    "change_number": "28731921",
+    "update_time": "2025-04-30 00:42:16",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
@@ -22,9 +22,9 @@
                     "download": "1507250288"
                 },
                 "snapshot": {
-                    "gid": "3693700667719171379",
-                    "size": "1974708247",
-                    "download": "1516442576"
+                    "gid": "2166475265957945202",
+                    "size": "2004314710",
+                    "download": "1546446752"
                 }
             },
             "decryptionkey": "ba1a27acb8fb1e3fe63395cf3a72f9441707b7e409cfd878039bf5e747a7f05e"
@@ -40,9 +40,9 @@
                 "timeupdated": "1712099998"
             },
             "snapshot": {
-                "buildid": "15406918",
+                "buildid": "18283182",
                 "description": "Check out updates before they're stable! Please report any bugs you find from the main menu :)",
-                "timeupdated": "1723922855"
+                "timeupdated": "1745944931"
             }
         }
     }
