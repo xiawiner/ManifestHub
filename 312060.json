@@ -4,8 +4,8 @@
     "name": "FINAL FANTASY XIV Online Free Trial",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28023898",
-    "update_time": "2025-03-19 08:52:02",
+    "change_number": "28669790",
+    "update_time": "2025-04-25 23:50:03",
     "depot": {
         "baselanguages": "english,german,french,japanese",
         "228990": {
@@ -19,7 +19,8 @@
                     "download": "100658080"
                 }
             },
-            "depotfromapp": "228980"
+            "depotfromapp": "228980",
+            "decryptionkey": "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8"
         },
         "39211": {
             "config": {
