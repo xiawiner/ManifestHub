@@ -4,8 +4,8 @@
     "name": "Jump to space",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28520573",
-    "update_time": "2025-04-17 10:50:45",
+    "change_number": "28799282",
+    "update_time": "2025-05-03 18:23:27",
     "depot": {
         "baselanguages": "english,japanese",
         "228988": {
@@ -25,9 +25,9 @@
         "3530123": {
             "manifests": {
                 "public": {
-                    "gid": "4761240455815553340",
-                    "size": "10327084759",
-                    "download": "10231672672"
+                    "gid": "1248917784131380452",
+                    "size": "10346973238",
+                    "download": "10249844832"
                 }
             },
             "decryptionkey": "0933170051dc2bd6b4024c08e8c0ed12685fde478ddade850ef61af02c865ec7"
@@ -35,8 +35,8 @@
         "3530125": {},
         "branches": {
             "public": {
-                "buildid": "18164092",
-                "timeupdated": "1745032433"
+                "buildid": "18331161",
+                "timeupdated": "1746267802"
             }
         },
         "privatebranches": "1"
