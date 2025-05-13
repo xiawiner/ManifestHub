@@ -4,8 +4,8 @@
     "name": "Vector Strike Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28543109",
-    "update_time": "2025-04-18 12:58:13",
+    "change_number": "28875124",
+    "update_time": "2025-05-08 12:59:39",
     "depot": {
         "1004": {
             "config": {
@@ -66,17 +66,17 @@
         "3675451": {
             "manifests": {
                 "public": {
-                    "gid": "8712317655829037482",
-                    "size": "819724012",
-                    "download": "612736000"
+                    "gid": "3289242635255550687",
+                    "size": "819728280",
+                    "download": "612727024"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "18141627",
-                "timeupdated": "1744881063"
+                "buildid": "18193902",
+                "timeupdated": "1745329483"
             }
         },
         "privatebranches": "1"
