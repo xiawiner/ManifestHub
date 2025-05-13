@@ -4,8 +4,8 @@
     "name": "9 Years of Shadows",
     "schinese_name": "九年阴影",
     "isfreeapp": "0",
-    "change_number": "28388826",
-    "update_time": "2025-04-09 23:02:26",
+    "change_number": "28647134",
+    "update_time": "2025-04-24 23:13:52",
     "depot": {
         "1402121": {
             "config": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3763897844460228751",
-                    "size": "1864822026",
-                    "download": "1403297296"
+                    "gid": "1708709466314969239",
+                    "size": "1631753734",
+                    "download": "1150099504"
                 }
             },
             "decryptionkey": "523c2a31a7404cd2f56d4396eee97a063c56d21792843befd04d02e962aef91e"
         },
         "branches": {
             "public": {
-                "buildid": "13337337",
-                "timeupdated": "1706809668"
+                "buildid": "18181340",
+                "timeupdated": "1745249740"
             }
         },
         "privatebranches": "1"
