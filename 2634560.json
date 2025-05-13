@@ -4,8 +4,8 @@
     "name": "OMUSUBI",
     "schinese_name": "缘结迷境",
     "isfreeapp": "0",
-    "change_number": "27826602",
-    "update_time": "2025-03-07 09:19:19",
+    "change_number": "28568643",
+    "update_time": "2025-04-20 10:59:19",
     "depot": {
         "baselanguages": "english,schinese,japanese",
         "2634561": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2512825926741884165",
-                    "size": "559891004",
-                    "download": "415052288"
+                    "gid": "5180953488940511995",
+                    "size": "565571831",
+                    "download": "420375040"
                 }
             },
             "decryptionkey": ""
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "154937503287557709",
-                    "size": "555263472",
-                    "download": "407205088"
+                    "gid": "3769033099427856320",
+                    "size": "560914990",
+                    "download": "412524240"
                 }
             },
             "decryptionkey": ""
@@ -43,17 +43,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2658908101831791272",
-                    "size": "558134098",
-                    "download": "410141872"
+                    "gid": "793915980006339347",
+                    "size": "563786668",
+                    "download": "415461184"
                 }
             },
             "decryptionkey": "1910381c1ad39eec875f738f5fa571e58b8c45b2430415b3f9e4af84c70b77bd"
         },
         "branches": {
             "public": {
-                "buildid": "15326719",
-                "timeupdated": "1723273020"
+                "buildid": "18163380",
+                "timeupdated": "1745035902"
             }
         },
         "privatebranches": "1"
