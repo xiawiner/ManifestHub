@@ -4,8 +4,8 @@
     "name": "Lost In Fantaland",
     "schinese_name": "迷失幻途",
     "isfreeapp": "0",
-    "change_number": "28281234",
-    "update_time": "2025-04-03 11:55:57",
+    "change_number": "28634576",
+    "update_time": "2025-04-24 09:56:58",
     "depot": {
         "baselanguages": "",
         "1266431": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "252998628689811735",
-                    "size": "599559738",
-                    "download": "181169456"
+                    "gid": "2484859146124925565",
+                    "size": "599559698",
+                    "download": "181169840"
                 }
             },
             "decryptionkey": "e3b9f795f3c00808cc5bdda941384e8ff28172192504e4da48676a833b8f377c"
@@ -36,8 +36,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17964267",
-                "timeupdated": "1743652551"
+                "buildid": "18217222",
+                "timeupdated": "1745459815"
             }
         }
     }
