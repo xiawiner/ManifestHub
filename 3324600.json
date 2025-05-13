@@ -4,8 +4,8 @@
     "name": "Slitterhead Demo",
     "schinese_name": "野狗子: Slitterhead 试玩版",
     "isfreeapp": "0",
-    "change_number": "26779284",
-    "update_time": "2024-12-25 15:46:14",
+    "change_number": "28873052",
+    "update_time": "2025-05-08 09:37:46",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "3324601": {
             "manifests": {
                 "public": {
-                    "gid": "1985229846327011950",
-                    "size": "15848817789",
-                    "download": "15575559168"
+                    "gid": "1388463228361515786",
+                    "size": "15524590205",
+                    "download": "15361114192"
                 }
             },
             "decryptionkey": "e34300405ffd6ec4f1df8ea37336c2a23478c9a54c8b32ee01ea75afb30ca7ed"
         },
         "branches": {
             "public": {
-                "buildid": "16810841",
-                "timeupdated": "1735112769"
+                "buildid": "18186722",
+                "timeupdated": "1746668263"
             }
         },
         "privatebranches": "1"
