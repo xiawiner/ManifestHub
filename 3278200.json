@@ -4,8 +4,8 @@
     "name": "Scuttle Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26857635",
-    "update_time": "2025-01-04 08:53:29",
+    "change_number": "28827850",
+    "update_time": "2025-05-06 02:32:49",
     "depot": {
         "baselanguages": "english",
         "228989": {
@@ -29,17 +29,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3953329557271880030",
-                    "size": "1633370267",
-                    "download": "1466912416"
+                    "gid": "6481780511717092143",
+                    "size": "2093773962",
+                    "download": "1887944368"
+                },
+                "demobuild3": {
+                    "gid": "6481780511717092143",
+                    "size": "2093773962",
+                    "download": "1887944368"
                 }
             },
             "decryptionkey": "690addbc064527647676a055992fcb694eeb39bddaf2ecf6590265b59bd0569c"
         },
         "branches": {
             "public": {
-                "buildid": "16903552",
-                "timeupdated": "1735952003"
+                "buildid": "18183409",
+                "timeupdated": "1745261074"
+            },
+            "demobuild3": {
+                "buildid": "18183409",
+                "description": "Updated Demo April 2025",
+                "timeupdated": "1745260901"
             }
         }
     }
