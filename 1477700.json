@@ -4,8 +4,8 @@
     "name": "Project Wunderwaffe",
     "schinese_name": "奇迹武器计划",
     "isfreeapp": "0",
-    "change_number": "27162408",
-    "update_time": "2025-01-25 18:03:10",
+    "change_number": "28866586",
+    "update_time": "2025-05-08 01:11:10",
     "depot": {
         "228988": {
             "config": {
@@ -36,27 +36,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "912818683139047288",
-                    "size": "1600499705",
-                    "download": "1471445696"
+                    "gid": "6281326829917906422",
+                    "size": "1600398329",
+                    "download": "1471499392"
                 },
                 "public_beta": {
-                    "gid": "912818683139047288",
-                    "size": "1600499705",
-                    "download": "1471445696"
+                    "gid": "6281326829917906422",
+                    "size": "1600398329",
+                    "download": "1471499392"
                 }
             },
             "decryptionkey": "2a3dda0f6eb109c85c1c45a209417c1ae3a09aaceb80d056bcc378dd2023b702"
         },
         "branches": {
             "public": {
-                "buildid": "17129427",
-                "timeupdated": "1737798832"
+                "buildid": "18172854",
+                "timeupdated": "1745152906"
             },
             "public_beta": {
-                "buildid": "17129427",
+                "buildid": "18172854",
                 "description": "Public Beta",
-                "timeupdated": "1737799386"
+                "timeupdated": "1745154768"
             }
         },
         "privatebranches": "1"
