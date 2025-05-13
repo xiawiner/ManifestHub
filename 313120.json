@@ -4,8 +4,8 @@
     "name": "Stranded Deep",
     "schinese_name": "深海搁浅",
     "isfreeapp": "0",
-    "change_number": "28218445",
-    "update_time": "2025-03-31 05:15:06",
+    "change_number": "28848048",
+    "update_time": "2025-05-07 03:05:04",
     "depot": {
         "313121": {
             "config": {
@@ -554,16 +554,16 @@
             },
             "experimental": {
                 "buildid": "6692228",
-                "description": "Highly experimental branch",
+                "description": "Public experimental branch",
                 "timeupdated": "1620876627"
             },
             "staging": {
                 "buildid": "13234121",
-                "description": "Developer testing branch",
+                "description": "Release testing branch",
                 "timeupdated": "1705887785"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "fcf7ff6e658aeb78d794c09662c18dc494093ed71baf1777205b9c813df5a13a"
     }
 }
