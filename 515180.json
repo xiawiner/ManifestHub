@@ -4,8 +4,8 @@
     "name": "Bus Simulator 18",
     "schinese_name": "模拟巴士18",
     "isfreeapp": "0",
-    "change_number": "27933152",
-    "update_time": "2025-03-13 20:52:51",
+    "change_number": "28782655",
+    "update_time": "2025-05-02 17:08:33",
     "depot": {
         "workshopdepot": "515180",
         "baselanguages": "",
@@ -228,6 +228,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "19a82436714ef73738abd3f745d0c3f809cc104d205604d5fe2ba924cb4b0f50"
     }
 }
