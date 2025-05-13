@@ -4,8 +4,8 @@
     "name": "異世界の創造者",
     "schinese_name": "异世界创造者",
     "isfreeapp": "0",
-    "change_number": "27980487",
-    "update_time": "2025-03-16 19:56:16",
+    "change_number": "28738819",
+    "update_time": "2025-04-30 09:09:13",
     "depot": {
         "baselanguages": "english,japanese",
         "2761611": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2290031972578078745",
-                    "size": "208478851",
-                    "download": "141069456"
+                    "gid": "3535275077415830130",
+                    "size": "208415436",
+                    "download": "141001552"
                 }
             },
             "decryptionkey": "fa02e7f48e17c0c7ac9349565d901e9cb9ce46db13c7d004f378e6f86552497d"
@@ -29,17 +29,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3739125418310151949",
-                    "size": "701560618",
-                    "download": "253972528"
+                    "gid": "7974387320321427413",
+                    "size": "701497203",
+                    "download": "253904576"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17193198",
-                "timeupdated": "1738413978"
+                "buildid": "18275124",
+                "timeupdated": "1745975350"
             }
         },
         "privatebranches": "1"
