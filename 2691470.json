@@ -4,8 +4,8 @@
     "name": "Lisa Total investigation!",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28540052",
-    "update_time": "2025-04-18 08:03:39",
+    "change_number": "28865089",
+    "update_time": "2025-05-07 23:51:38",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,russian,portuguese",
         "2691471": {},
@@ -15,14 +15,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7571973763423044704",
-                    "size": "3549206081",
-                    "download": "3392939760"
+                    "gid": "6433619720456651197",
+                    "size": "3776640023",
+                    "download": "3617009168"
+                },
+                "rollback_minor_updates": {
+                    "gid": "6421941284082823599",
+                    "size": "3776650733",
+                    "download": "3617021024"
                 },
                 "previous_version": {
-                    "gid": "7690481828929759685",
-                    "size": "3232075714",
-                    "download": "3079354192"
+                    "gid": "8753139521008117399",
+                    "size": "3549450073",
+                    "download": "3393182864"
                 }
             },
             "decryptionkey": "131d982b46f8756bbe8a0cfb8f6724fa817d5ea664397ec79dc2af58461886fd"
@@ -33,26 +38,36 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5235104885121787269",
-                    "size": "3536857013",
-                    "download": "3388143360"
+                    "gid": "6031218033332468891",
+                    "size": "3764290956",
+                    "download": "3612212768"
+                },
+                "rollback_minor_updates": {
+                    "gid": "5297308447473985100",
+                    "size": "3764301665",
+                    "download": "3612224624"
                 },
                 "previous_version": {
-                    "gid": "5516204133795323118",
-                    "size": "3219726646",
-                    "download": "3074557792"
+                    "gid": "7613899618381161956",
+                    "size": "3537101005",
+                    "download": "3388386464"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "17839898",
-                "timeupdated": "1742841230"
+                "buildid": "18376317",
+                "timeupdated": "1746632725"
+            },
+            "rollback_minor_updates": {
+                "buildid": "18299959",
+                "description": "rollback_minor_updates",
+                "timeupdated": "1746633095"
             },
             "previous_version": {
-                "buildid": "17175068",
+                "buildid": "18167793",
                 "description": "previous_version",
-                "timeupdated": "1742843814"
+                "timeupdated": "1746036620"
             }
         }
     }
