@@ -4,8 +4,8 @@
     "name": "Epic Fantasy Battle Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28195731",
-    "update_time": "2025-03-29 01:16:09",
+    "change_number": "28633055",
+    "update_time": "2025-04-24 08:04:12",
     "depot": {
         "1724441": {
             "manifests": {
@@ -24,6 +24,6 @@
                 "timeupdated": "1697795871"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "33031aafd1905c9ab38f5566d7c6f91130b2b414ab76f0b5137ec5515022bc17"
     }
 }
