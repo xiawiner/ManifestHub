@@ -4,8 +4,8 @@
     "name": "Evochron Legacy SE",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27120448",
-    "update_time": "2025-01-23 06:59:31",
+    "change_number": "28805966",
+    "update_time": "2025-05-04 10:41:58",
     "depot": {
         "baselanguages": "english",
         "398171": {
@@ -15,27 +15,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2293015270892323734",
-                    "size": "808980302",
-                    "download": "687839280"
-                },
-                "beta": {
-                    "gid": "6835893671853207812",
-                    "size": "762283537",
-                    "download": "685306928"
+                    "gid": "6113693445695998184",
+                    "size": "762366077",
+                    "download": "685364752"
                 }
             },
             "decryptionkey": "a7049f0c044d46c74c90c119a5cae418cb0f0c76a3fdccbc4e0066158f41d7b3"
         },
         "branches": {
             "public": {
-                "buildid": "16877509",
-                "timeupdated": "1737407322"
-            },
-            "beta": {
-                "buildid": "17469308",
-                "description": "Optional branch for beta builds",
-                "timeupdated": "1740264314"
+                "buildid": "18272011",
+                "timeupdated": "1745882685"
             }
         }
     }
