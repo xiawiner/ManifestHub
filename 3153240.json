@@ -4,8 +4,8 @@
     "name": "IFSolitaire",
     "schinese_name": "IF蜘蛛纸牌",
     "isfreeapp": "0",
-    "change_number": "28489970",
-    "update_time": "2025-04-15 23:22:15",
+    "change_number": "28844397",
+    "update_time": "2025-05-06 23:30:01",
     "depot": {
         "baselanguages": "english,german,french,spanish,schinese,tchinese,russian,japanese,portuguese",
         "3153241": {
@@ -19,9 +19,9 @@
                     "download": "157475456"
                 },
                 "beta": {
-                    "gid": "4806523722434318104",
-                    "size": "277328485",
-                    "download": "157906480"
+                    "gid": "4153497200086422799",
+                    "size": "277328501",
+                    "download": "157906400"
                 },
                 "stable": {
                     "gid": "4496281848897491448",
@@ -42,9 +42,9 @@
                     "download": "194050336"
                 },
                 "beta": {
-                    "gid": "2254909267615804629",
-                    "size": "434282508",
-                    "download": "194694704"
+                    "gid": "510520228164873553",
+                    "size": "434282524",
+                    "download": "194694736"
                 },
                 "stable": {
                     "gid": "6610134250738691661",
@@ -82,9 +82,9 @@
                 "timeupdated": "1741116138"
             },
             "beta": {
-                "buildid": "18115578",
+                "buildid": "18167409",
                 "description": "Public beta branch",
-                "timeupdated": "1744730532"
+                "timeupdated": "1745070505"
             },
             "stable": {
                 "buildid": "16533405",
