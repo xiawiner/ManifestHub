@@ -4,8 +4,8 @@
     "name": "The Political Machine 2024",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28539824",
-    "update_time": "2025-04-18 07:45:14",
+    "change_number": "28689070",
+    "update_time": "2025-04-27 12:54:08",
     "depot": {
         "workshopdepot": "2512090",
         "2512091": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7193193844333865127",
-                    "size": "726999455",
-                    "download": "456085056"
+                    "gid": "8903226987137768192",
+                    "size": "727160608",
+                    "download": "456250960"
                 }
             },
             "decryptionkey": "2b55fc8e622845147ab6ab2b7fd553eef02ef0fd383be1c49b5fe9acea2f95b9"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4732330937741912642",
-                    "size": "730737547",
-                    "download": "457483456"
+                    "gid": "8468135489622189764",
+                    "size": "730892070",
+                    "download": "457639680"
                 }
             }
         },
@@ -45,8 +45,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16316788",
-                "timeupdated": "1731419702"
+                "buildid": "18151104",
+                "timeupdated": "1745412647"
             }
         },
         "privatebranches": "1",
