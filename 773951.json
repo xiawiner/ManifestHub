@@ -4,8 +4,8 @@
     "name": "Freeman: Guerrilla Warfare",
     "schinese_name": "自由人：游击战争",
     "isfreeapp": "0",
-    "change_number": "27734894",
-    "update_time": "2025-03-02 01:22:13",
+    "change_number": "28786039",
+    "update_time": "2025-05-02 21:29:40",
     "depot": {
         "773952": {
             "config": {
@@ -49,6 +49,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "9f66ccff3f62a8eef99ba0aaee1bede1e892185af62feb822334a170d4a77592"
     }
 }
