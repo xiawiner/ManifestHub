@@ -1,11 +1,11 @@
 {
     "appid": "2980670",
     "type": "Game",
-    "name": "Cubic Tetris",
+    "name": "3D Blocks",
     "schinese_name": "俄罗斯方体",
     "isfreeapp": "0",
-    "change_number": "28339617",
-    "update_time": "2025-04-07 13:10:39",
+    "change_number": "28889773",
+    "update_time": "2025-05-09 04:24:59",
     "depot": {
         "2980671": {
             "config": {
