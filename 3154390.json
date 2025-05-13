@@ -4,33 +4,33 @@
     "name": "Neon Knights",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28431274",
-    "update_time": "2025-04-11 22:44:52",
+    "change_number": "28758536",
+    "update_time": "2025-05-01 05:23:32",
     "depot": {
         "3154391": {
             "manifests": {
                 "public": {
-                    "gid": "2063029132979747970",
-                    "size": "654680634",
-                    "download": "226816896"
+                    "gid": "5841953601472922954",
+                    "size": "720154474",
+                    "download": "231596240"
                 },
                 "beta": {
-                    "gid": "634616580183818910",
-                    "size": "653699458",
-                    "download": "226773328"
+                    "gid": "5841953601472922954",
+                    "size": "720154474",
+                    "download": "231596240"
                 }
             },
             "decryptionkey": "927d30feb940c700ada2700474a9e25c647606826660ed2f32903cbdc783b9ca"
         },
         "branches": {
             "public": {
-                "buildid": "17975875",
-                "timeupdated": "1743714418"
+                "buildid": "18301881",
+                "timeupdated": "1746048208"
             },
             "beta": {
-                "buildid": "18061234",
+                "buildid": "18301881",
                 "description": "for testing new content",
-                "timeupdated": "1744312078"
+                "timeupdated": "1746047586"
             }
         }
     }
