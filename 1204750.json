@@ -4,24 +4,24 @@
     "name": "Swing & Miss",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27731270",
-    "update_time": "2025-03-01 16:45:46",
+    "change_number": "28825980",
+    "update_time": "2025-05-06 00:29:58",
     "depot": {
         "baselanguages": "english",
         "1204751": {
             "manifests": {
                 "public": {
-                    "gid": "8755617785752731036",
-                    "size": "1269788161",
-                    "download": "1151336368"
+                    "gid": "7374124945491318704",
+                    "size": "1269810904",
+                    "download": "1151361184"
                 }
             },
             "decryptionkey": "6e2ebab83e448de6384816033b4909296e2ed3914870c3e57d51dc7bbe4b9874"
         },
         "branches": {
             "public": {
-                "buildid": "16283976",
-                "timeupdated": "1730699930"
+                "buildid": "18321809",
+                "timeupdated": "1746191533"
             }
         }
     }
