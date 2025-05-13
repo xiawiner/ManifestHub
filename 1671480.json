@@ -4,8 +4,8 @@
     "name": "ABRISS",
     "schinese_name": "一触即发",
     "isfreeapp": "0",
-    "change_number": "27777343",
-    "update_time": "2025-03-05 00:05:57",
+    "change_number": "28918208",
+    "update_time": "2025-05-10 23:33:08",
     "depot": {
         "1671481": {
             "manifests": {
@@ -25,6 +25,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "578b658a2cdaf7944d4948ae311b1ad613f02ac866991c0361635d9db6e731b6"
     }
 }
