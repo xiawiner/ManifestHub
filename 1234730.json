@@ -4,8 +4,8 @@
     "name": "HereSphere VR Video Player",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26912691",
-    "update_time": "2025-01-09 03:15:24",
+    "change_number": "28848416",
+    "update_time": "2025-05-07 03:27:52",
     "depot": {
         "228988": {
             "config": {
@@ -28,27 +28,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5273295336294331519",
-                    "size": "435464005",
-                    "download": "154785536"
+                    "gid": "3078258564457464034",
+                    "size": "435495237",
+                    "download": "154791648"
                 },
                 "beta": {
-                    "gid": "1012164047884006541",
-                    "size": "435472709",
-                    "download": "154777296"
+                    "gid": "3078258564457464034",
+                    "size": "435495237",
+                    "download": "154791648"
                 }
             },
             "decryptionkey": "481d5f4917fb1f79748c8bcd9e1808949bdc561789a10a72f62ca896a4c7ac64"
         },
         "branches": {
             "public": {
-                "buildid": "15571416",
-                "timeupdated": "1726362130"
+                "buildid": "18300890",
+                "timeupdated": "1746559668"
             },
             "beta": {
-                "buildid": "16429248",
+                "buildid": "18300890",
                 "description": "beta test",
-                "timeupdated": "1731741712"
+                "timeupdated": "1746042257"
             }
         },
         "privatebranches": "1"
