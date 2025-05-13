@@ -4,8 +4,8 @@
     "name": "Transport Fever 2",
     "schinese_name": "狂热运输2",
     "isfreeapp": "0",
-    "change_number": "28108071",
-    "update_time": "2025-03-24 20:13:00",
+    "change_number": "28687664",
+    "update_time": "2025-04-27 08:13:15",
     "depot": {
         "baselanguages": "",
         "workshopdepot": "1066780",
@@ -176,6 +176,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "5cbef276a4f684c035e26bb7ed808628e29470e6c280f9b855af0dc63aa48553"
     }
 }
