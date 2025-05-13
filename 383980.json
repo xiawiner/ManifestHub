@@ -4,8 +4,8 @@
     "name": "Rivals of Aether",
     "schinese_name": "以太之战",
     "isfreeapp": "0",
-    "change_number": "28514318",
-    "update_time": "2025-04-17 02:30:20",
+    "change_number": "28736732",
+    "update_time": "2025-04-30 06:16:30",
     "depot": {
         "baselanguages": "english,japanese",
         "workshopdepot": "383980",
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8523388961009583973",
-                    "size": "365266183",
-                    "download": "189732800"
+                    "gid": "7529452767246792232",
+                    "size": "365437897",
+                    "download": "189819136"
                 },
                 "1_0_1_branch": {
                     "gid": "3720016501428317924",
@@ -91,28 +91,28 @@
                     "size": "292053460",
                     "download": "153922464"
                 },
-                "public_test_branch": {
-                    "gid": "4311734279180444203",
-                    "size": "357325763",
-                    "download": "183750032"
-                },
                 "previous_live_branch": {
-                    "gid": "8199885591894013121",
-                    "size": "365171723",
-                    "download": "189708656"
+                    "gid": "8523388961009583973",
+                    "size": "365266183",
+                    "download": "189732800"
                 },
                 "previous_live_branch_2": {
                     "gid": "7044480352448041689",
                     "size": "362540643",
                     "download": "187227392"
+                },
+                "public_test_branch": {
+                    "gid": "6425949892921560034",
+                    "size": "365438921",
+                    "download": "189831488"
                 }
             },
             "decryptionkey": "87e2ac2f9745bbb0e0696dc902d1acf156f859f20a508f91a5cea12095a16519"
         },
         "branches": {
             "public": {
-                "buildid": "17579480",
-                "timeupdated": "1741712070"
+                "buildid": "18212296",
+                "timeupdated": "1745436943"
             },
             "1_0_1_branch": {
                 "buildid": "1724714",
@@ -179,20 +179,20 @@
                 "description": "Original Code Mystics Netcode",
                 "timeupdated": "1600919922"
             },
-            "public_test_branch": {
-                "buildid": "9858143",
-                "description": "For Public Testing",
-                "timeupdated": "1671734757"
-            },
             "previous_live_branch": {
-                "buildid": "15042209",
+                "buildid": "17579480",
                 "description": "For opening old replays",
-                "timeupdated": "1721160430"
+                "timeupdated": "1745437011"
             },
             "previous_live_branch_2": {
                 "buildid": "14164468",
                 "description": "The version before the previous",
                 "timeupdated": "1721160459"
+            },
+            "public_test_branch": {
+                "buildid": "18251478",
+                "description": "For Public Testing",
+                "timeupdated": "1745695407"
             }
         },
         "privatebranches": "1",
