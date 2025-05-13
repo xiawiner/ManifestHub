@@ -4,15 +4,15 @@
     "name": "RICE™",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27188605",
-    "update_time": "2025-01-28 02:33:00",
+    "change_number": "28794173",
+    "update_time": "2025-05-03 07:27:30",
     "depot": {
         "2086141": {
             "manifests": {
                 "public": {
-                    "gid": "3999269704659494734",
-                    "size": "105253588",
-                    "download": "78734416"
+                    "gid": "9026601706047195680",
+                    "size": "105528532",
+                    "download": "78769824"
                 },
                 "test": {
                     "gid": "5486665903914470618",
@@ -24,8 +24,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "14931938",
-                "timeupdated": "1720099575"
+                "buildid": "18322788",
+                "timeupdated": "1746196895"
             },
             "test": {
                 "buildid": "14741205",
