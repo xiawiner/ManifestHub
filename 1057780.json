@@ -4,8 +4,8 @@
     "name": "Jump Off The Bridge",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26946191",
-    "update_time": "2025-01-11 02:15:36",
+    "change_number": "28763400",
+    "update_time": "2025-05-01 12:58:40",
     "depot": {
         "baselanguages": "english",
         "1057781": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1863843495895040221",
-                    "size": "378444391",
-                    "download": "227672912"
+                    "gid": "8776552435276268013",
+                    "size": "370603825",
+                    "download": "224689760"
                 }
             },
             "decryptionkey": "554e34846a8f348a3aed104d5022257a543a878629caf9906ea39b7601a5d30a"
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7656613710196902714",
-                    "size": "378444391",
-                    "download": "227660320"
+                    "gid": "1724207945180885460",
+                    "size": "370603825",
+                    "download": "224680544"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16850040",
-                "timeupdated": "1735147486"
+                "buildid": "18305682",
+                "timeupdated": "1746075516"
             }
         },
         "privatebranches": "1"
