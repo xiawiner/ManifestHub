@@ -4,25 +4,25 @@
     "name": "Mega City Force",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28549612",
-    "update_time": "2025-04-18 20:56:48",
+    "change_number": "28603780",
+    "update_time": "2025-04-22 23:03:25",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english",
         "2259211": {
             "manifests": {
                 "public": {
-                    "gid": "3767824029375637639",
-                    "size": "899891773",
-                    "download": "751800736"
+                    "gid": "7699378693636738342",
+                    "size": "918684069",
+                    "download": "769250080"
                 }
             },
             "decryptionkey": "8bfc3a32cd948f3b67aadf01e873527807da44a6c67708e69303f5991133d4ff"
         },
         "branches": {
             "public": {
-                "buildid": "16824740",
-                "timeupdated": "1734808565"
+                "buildid": "18157892",
+                "timeupdated": "1745334179"
             }
         },
         "privatebranches": "1"
