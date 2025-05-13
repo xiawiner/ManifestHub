@@ -4,8 +4,8 @@
     "name": "Gravelord",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27448182",
-    "update_time": "2025-02-13 06:23:56",
+    "change_number": "28676358",
+    "update_time": "2025-04-26 06:53:34",
     "depot": {
         "1823991": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6554332821437859901",
-                    "size": "4723588776",
-                    "download": "2687092816"
+                    "gid": "1262075364734562693",
+                    "size": "4573422120",
+                    "download": "2622822272"
                 }
             },
             "decryptionkey": "59aab942d9821df15cd3b042a7faf96222812f5afd2be7ae1eda30961ef4bccf"
@@ -24,8 +24,8 @@
         "workshopdepot": "1823990",
         "branches": {
             "public": {
-                "buildid": "17089165",
-                "timeupdated": "1737538443"
+                "buildid": "18115436",
+                "timeupdated": "1744730963"
             }
         },
         "privatebranches": "1",
