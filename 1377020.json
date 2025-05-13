@@ -4,8 +4,8 @@
     "name": "Sanctuary Island dedicated server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "23760255",
-    "update_time": "2024-07-16 02:45:21",
+    "change_number": "28711410",
+    "update_time": "2025-04-29 01:25:24",
     "depot": {
         "1004": {
             "config": {
@@ -66,9 +66,9 @@
         "1377021": {
             "manifests": {
                 "public": {
-                    "gid": "8513669369828195705",
-                    "size": "907546214",
-                    "download": "341756592"
+                    "gid": "4013337334791713592",
+                    "size": "725120715",
+                    "download": "295782864"
                 },
                 "test": {
                     "gid": "4013337334791713592",
@@ -80,8 +80,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "12040464",
-                "timeupdated": "1693080920"
+                "buildid": "12682949",
+                "timeupdated": "1745861120"
             },
             "test": {
                 "buildid": "12682949",
