@@ -4,8 +4,8 @@
     "name": "Uberich: Advent Sinners Demo",
     "schinese_name": "神罪降临 Uberich: Advent Sinners Demo",
     "isfreeapp": "0",
-    "change_number": "27806628",
-    "update_time": "2025-03-06 10:36:36",
+    "change_number": "28697147",
+    "update_time": "2025-04-28 08:13:54",
     "depot": {
         "baselanguages": "english,schinese,tchinese,japanese",
         "228983": {
@@ -28,11 +28,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2011891867666995388",
-                    "size": "2793823690",
-                    "download": "1635845936"
+                    "gid": "4357166206924393148",
+                    "size": "2921748755",
+                    "download": "1659189968"
                 }
-            }
+            },
+            "decryptionkey": "c3a57066b260b3b1ef6825aaf03c45370df0fd218373cb595e5994e9c1f93630"
         },
         "2862532": {
             "config": {
@@ -40,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3092513444610469914",
-                    "size": "2798443795",
-                    "download": "1642166960"
+                    "gid": "9121580554834808926",
+                    "size": "2929473595",
+                    "download": "1664493328"
                 }
             }
         },
@@ -52,11 +53,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "101242919453813226",
-                    "size": "2795372296",
-                    "download": "1637945408"
+                    "gid": "6796898692447655227",
+                    "size": "2923826231",
+                    "download": "1659793280"
                 }
-            }
+            },
+            "decryptionkey": "487ad00a2b6dd32c9f33a23864ad57d62e55eab7dd894bb91cf80828dcfc0932"
         },
         "2862534": {
             "config": {
@@ -64,16 +66,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6863181881944556933",
-                    "size": "2800957114",
-                    "download": "1639802192"
+                    "gid": "6929992619893055169",
+                    "size": "2930472902",
+                    "download": "1660722640"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "17613137",
-                "timeupdated": "1741228591"
+                "buildid": "18259140",
+                "timeupdated": "1745799231"
             }
         }
     }
