@@ -4,8 +4,8 @@
     "name": "Jabroni Brawl: Episode 3 - Authoring Tools",
     "schinese_name": "傻缺大乱斗：第三章 - 创作工具",
     "isfreeapp": "0",
-    "change_number": "26681506",
-    "update_time": "2024-12-18 01:01:40",
+    "change_number": "28918324",
+    "update_time": "2025-05-10 23:48:44",
     "depot": {
         "228988": {
             "config": {
@@ -33,14 +33,14 @@
                     "download": "19206016"
                 },
                 "revert": {
-                    "gid": "3015630368421035921",
-                    "size": "59935433",
-                    "download": "18509008"
-                },
-                "upcoming": {
                     "gid": "8250057453694136275",
                     "size": "62448256",
                     "download": "19206016"
+                },
+                "upcoming": {
+                    "gid": "8290096387024714265",
+                    "size": "57143825",
+                    "download": "18151520"
                 }
             },
             "decryptionkey": "536e8e46862c525349fe556ff5eafa0aa758030d8c43680affc40566a47d98f6"
@@ -48,17 +48,17 @@
         "branches": {
             "public": {
                 "buildid": "16775644",
-                "timeupdated": "1734454888"
+                "timeupdated": "1746892119"
             },
             "revert": {
-                "buildid": "15170412",
+                "buildid": "16775644",
                 "description": "Previous patch",
-                "timeupdated": "1724513704"
+                "timeupdated": "1746890281"
             },
             "upcoming": {
-                "buildid": "16775644",
+                "buildid": "18407463",
                 "description": "Upcoming changes",
-                "timeupdated": "1734452883"
+                "timeupdated": "1746817352"
             }
         },
         "privatebranches": "1"
