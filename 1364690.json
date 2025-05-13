@@ -4,8 +4,8 @@
     "name": "First Racer",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27541682",
-    "update_time": "2025-02-19 04:13:48",
+    "change_number": "28800953",
+    "update_time": "2025-05-03 22:29:55",
     "depot": {
         "1364691": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4180205228936682982",
-                    "size": "736693050",
-                    "download": "440521152"
+                    "gid": "6596218244342286633",
+                    "size": "696156484",
+                    "download": "460369824"
                 },
                 "playtest": {
-                    "gid": "4180205228936682982",
-                    "size": "736693050",
-                    "download": "440521152"
+                    "gid": "6596218244342286633",
+                    "size": "696156484",
+                    "download": "460369824"
                 }
             },
             "decryptionkey": "d6d005f41a24916cdc11d243189902616c54a7adf65ff52138b2d0c35617215f"
@@ -28,13 +28,13 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "13695231",
-                "timeupdated": "1710075919"
+                "buildid": "17737725",
+                "timeupdated": "1742056438"
             },
             "playtest": {
-                "buildid": "13695231",
-                "description": "Read more in the community hub",
-                "timeupdated": "1710075884"
+                "buildid": "17737725",
+                "description": "playtest",
+                "timeupdated": "1742053627"
             }
         },
         "privatebranches": "1"
