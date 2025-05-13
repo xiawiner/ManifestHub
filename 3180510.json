@@ -4,23 +4,23 @@
     "name": "Social Clicker : Persona",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28457107",
-    "update_time": "2025-04-14 06:08:56",
+    "change_number": "28778717",
+    "update_time": "2025-05-02 10:18:25",
     "depot": {
         "3180511": {
             "manifests": {
                 "public": {
-                    "gid": "4885098940248666155",
-                    "size": "1529534494",
-                    "download": "941483056"
+                    "gid": "1186239264943313211",
+                    "size": "1534155097",
+                    "download": "942775264"
                 }
             },
             "decryptionkey": "1c4106a4b588ad71a7af7206ce632621ff9d0234c9b6f0ed19fecd84bdb60285"
         },
         "branches": {
             "public": {
-                "buildid": "17993415",
-                "timeupdated": "1743826284"
+                "buildid": "18316269",
+                "timeupdated": "1746152302"
             }
         }
     }
