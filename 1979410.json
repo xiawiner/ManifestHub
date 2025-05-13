@@ -4,23 +4,23 @@
     "name": "TOP DOG",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28082655",
-    "update_time": "2025-03-22 09:18:59",
+    "change_number": "28804430",
+    "update_time": "2025-05-04 06:29:48",
     "depot": {
         "1979411": {
             "manifests": {
                 "public": {
-                    "gid": "5980291008104033124",
-                    "size": "114962419",
-                    "download": "20496224"
+                    "gid": "1621360407310503541",
+                    "size": "138083716",
+                    "download": "26181952"
                 }
             },
             "decryptionkey": "935d4d15ad021babaf2a0de59c0f1c8f715386e778adb0364410c256350c473f"
         },
         "branches": {
             "public": {
-                "buildid": "17174147",
-                "timeupdated": "1738174318"
+                "buildid": "18311648",
+                "timeupdated": "1746120275"
             }
         },
         "privatebranches": "1"
