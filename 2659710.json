@@ -4,8 +4,8 @@
     "name": "Carnaval Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28448539",
-    "update_time": "2025-04-13 06:13:22",
+    "change_number": "28790360",
+    "update_time": "2025-05-03 02:02:16",
     "depot": {
         "2659711": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "768747826974437501",
-                    "size": "12276355908",
-                    "download": "10216324560"
+                    "gid": "6852601937575010631",
+                    "size": "13612147564",
+                    "download": "11420242912"
                 },
                 "1.0.11": {
                     "gid": "4824134808856621139",
@@ -52,15 +52,10 @@
                     "size": "7168280078",
                     "download": "5858664800"
                 },
-                "compatible_version": {
-                    "gid": "764973613781187309",
-                    "size": "12230319334",
-                    "download": "10203053312"
-                },
                 "open_beta": {
-                    "gid": "4137025325414609262",
-                    "size": "13622140249",
-                    "download": "11426866912"
+                    "gid": "6852601937575010631",
+                    "size": "13612147564",
+                    "download": "11420242912"
                 }
             },
             "decryptionkey": "bff9a0e45d94c58c21e39be8f808acf92e96d3583b688817da2ae33fc0a96145"
@@ -70,8 +65,8 @@
         "baselanguages": "english,german,french,italian,spanish,portuguese,dutch",
         "branches": {
             "public": {
-                "buildid": "17862016",
-                "timeupdated": "1742965532"
+                "buildid": "18324848",
+                "timeupdated": "1746208931"
             },
             "1.0.11": {
                 "buildid": "13627459",
@@ -108,15 +103,10 @@
                 "description": "1.2.3 beta",
                 "timeupdated": "1741209928"
             },
-            "compatible_version": {
-                "buildid": "17629942",
-                "description": "To run on Mac using compatible software",
-                "timeupdated": "1741321272"
-            },
             "open_beta": {
-                "buildid": "18086189",
+                "buildid": "18324848",
                 "description": "Open beta",
-                "timeupdated": "1744495998"
+                "timeupdated": "1746208918"
             }
         },
         "workshopdepotdecryptionkey": "080368c670e231fa3d2e3b8e81bca142b1e2f21ac286a3875be347c0687ae1dd"
