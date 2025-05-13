@@ -4,8 +4,8 @@
     "name": "BOOK OF HOURS: HOUSE OF LIGHT",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27884582",
-    "update_time": "2025-03-11 13:21:37",
+    "change_number": "28822560",
+    "update_time": "2025-05-05 21:07:02",
     "depot": {
         "2834353": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8328668236138504805",
-                    "size": "4375431",
-                    "download": "530656"
+                    "gid": "1775256991251158567",
+                    "size": "4385106",
+                    "download": "530640"
                 },
                 "beta": {
-                    "gid": "8328668236138504805",
-                    "size": "4375431",
-                    "download": "530656"
+                    "gid": "1775256991251158567",
+                    "size": "4385106",
+                    "download": "530640"
                 }
             },
             "dlcappid": "2834350",
@@ -32,14 +32,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7665808340791776625",
-                    "size": "4375431",
-                    "download": "530656"
+                    "gid": "1353314254577828233",
+                    "size": "4385106",
+                    "download": "530640"
                 },
                 "beta": {
-                    "gid": "7665808340791776625",
-                    "size": "4375431",
-                    "download": "530656"
+                    "gid": "1353314254577828233",
+                    "size": "4385106",
+                    "download": "530640"
                 }
             },
             "dlcappid": "2834350",
@@ -51,14 +51,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2749997903247055379",
-                    "size": "4375431",
-                    "download": "530656"
+                    "gid": "7829537583588213356",
+                    "size": "4385106",
+                    "download": "530640"
                 },
                 "beta": {
-                    "gid": "2749997903247055379",
-                    "size": "4375431",
-                    "download": "530656"
+                    "gid": "7829537583588213356",
+                    "size": "4385106",
+                    "download": "530640"
                 }
             },
             "dlcappid": "2834350",
@@ -66,13 +66,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "16538261",
-                "timeupdated": "1732810811"
+                "buildid": "18281606",
+                "timeupdated": "1746450417"
             },
             "beta": {
-                "buildid": "16538261",
+                "buildid": "18281606",
                 "description": "should be stable, might sometimes not be",
-                "timeupdated": "1732626918"
+                "timeupdated": "1745937249"
             }
         },
         "privatebranches": "1"
