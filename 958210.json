@@ -4,8 +4,8 @@
     "name": "Pixelmash",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28392970",
-    "update_time": "2025-04-10 02:52:49",
+    "change_number": "28844836",
+    "update_time": "2025-05-06 23:55:03",
     "depot": {
         "baselanguages": "english",
         "958211": {
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4232677549926911174",
-                    "size": "35081984",
-                    "download": "13891632"
+                    "gid": "4008564565651536905",
+                    "size": "35102976",
+                    "download": "13898736"
                 },
                 "public-beta": {
                     "gid": "4008564565651536905",
@@ -30,8 +30,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17417016",
-                "timeupdated": "1739937480"
+                "buildid": "18045691",
+                "timeupdated": "1746546899"
             },
             "public-beta": {
                 "buildid": "18045691",
