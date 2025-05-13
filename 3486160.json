@@ -4,16 +4,25 @@
     "name": "Critical Point",
     "schinese_name": "临界点",
     "isfreeapp": "0",
-    "change_number": "28502392",
-    "update_time": "2025-04-16 15:10:52",
+    "change_number": "28620568",
+    "update_time": "2025-04-23 19:21:20",
     "depot": {
-        "baselanguages": "schinese",
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "hasdepotsindlc": "0",
         "3486161": {
+            "config": {
+                "oslist": "windows"
+            },
             "manifests": {
                 "public": {
-                    "gid": "7573316286801490196",
-                    "size": "311597768",
-                    "download": "55923168"
+                    "gid": "5533131768436814657",
+                    "size": "311609767",
+                    "download": "55941616"
+                },
+                "macintosh": {
+                    "gid": "994992364009566581",
+                    "size": "311595559",
+                    "download": "55925408"
                 },
                 "demo": {
                     "gid": "4142202296046095176",
@@ -23,10 +32,33 @@
             },
             "decryptionkey": "4294707af852c199238081711a53ecad02bbce02e72152f2fec6bf0fc6c35ffa"
         },
+        "3486162": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2814141550100915084",
+                    "size": "371314817",
+                    "download": "71658896"
+                },
+                "macintosh": {
+                    "gid": "2814141550100915084",
+                    "size": "371314817",
+                    "download": "71658896"
+                }
+            }
+        },
         "branches": {
             "public": {
-                "buildid": "18081297",
-                "timeupdated": "1744441702"
+                "buildid": "18206888",
+                "timeupdated": "1745407275"
+            },
+            "macintosh": {
+                "buildid": "18179335",
+                "description": "mac版",
+                "timeupdated": "1745229834"
             },
             "demo": {
                 "buildid": "17376147",
