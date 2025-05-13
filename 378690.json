@@ -1,0 +1,56 @@
+{
+    "appid": "378690",
+    "type": "Game",
+    "name": "Potions: A Curious Tale",
+    "schinese_name": "魔药奇谭",
+    "isfreeapp": "0",
+    "change_number": "28913037",
+    "update_time": "2025-05-10 10:17:27",
+    "depot": {
+        "378692": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6439939798277320350",
+                    "size": "1387155105",
+                    "download": "1076057856"
+                }
+            }
+        },
+        "378691": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2150708796123007409",
+                    "size": "1393187789",
+                    "download": "1078444496"
+                }
+            },
+            "decryptionkey": "a2309f6a21279764824b797aceabaf894408f4e8a1e6408c8b7b07012fb70bca"
+        },
+        "378693": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7377841819705823918",
+                    "size": "3899507513",
+                    "download": "742552336"
+                }
+            }
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18326523",
+                "timeupdated": "1746221452"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
