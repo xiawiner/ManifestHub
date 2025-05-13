@@ -4,8 +4,8 @@
     "name": "猛鬼大廈",
     "schinese_name": "猛鬼大厦",
     "isfreeapp": "0",
-    "change_number": "27494230",
-    "update_time": "2025-02-15 21:17:05",
+    "change_number": "28719013",
+    "update_time": "2025-04-29 11:05:24",
     "depot": {
         "baselanguages": "schinese,tchinese",
         "hasdepotsindlc": "0",
@@ -18,6 +18,11 @@
                     "gid": "7476737943306740262",
                     "size": "1771634740",
                     "download": "748696464"
+                },
+                "betas": {
+                    "gid": "8842796242026204584",
+                    "size": "1967551555",
+                    "download": "869618592"
                 }
             },
             "decryptionkey": "bd190add54663cdac0163f7fa05b9d54f1ca0f87aefdf35e8f3446f19003450f"
@@ -26,6 +31,11 @@
             "public": {
                 "buildid": "13345706",
                 "timeupdated": "1706869492"
+            },
+            "betas": {
+                "buildid": "18274017",
+                "description": "Beta Testing",
+                "timeupdated": "1745895920"
             }
         }
     }
