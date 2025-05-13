@@ -1,0 +1,97 @@
+{
+    "appid": "931270",
+    "type": "Game",
+    "name": "MicroTown",
+    "schinese_name": "微型城镇",
+    "isfreeapp": "0",
+    "change_number": "28710709",
+    "update_time": "2025-04-29 00:53:42",
+    "depot": {
+        "931271": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4325635621543740020",
+                    "size": "181427309",
+                    "download": "68034560"
+                },
+                "lastversion": {
+                    "gid": "1711160220749634847",
+                    "size": "161565230",
+                    "download": "63926400"
+                },
+                "saveupgrade": {
+                    "gid": "6970260121938227747",
+                    "size": "78519724",
+                    "download": "20588816"
+                }
+            },
+            "decryptionkey": "135bce9edd7f818b93dbc8461d60d376cc73fd2c2984972e12f7af5a09531175"
+        },
+        "931272": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1157108353856867221",
+                    "size": "161758941",
+                    "download": "63724736"
+                },
+                "lastversion": {
+                    "gid": "9066662613137370076",
+                    "size": "153946864",
+                    "download": "61179920"
+                },
+                "saveupgrade": {
+                    "gid": "1180583237954633853",
+                    "size": "77196464",
+                    "download": "20138048"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "931273": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8361705693352021021",
+                    "size": "220348380",
+                    "download": "66838368"
+                },
+                "lastversion": {
+                    "gid": "1964733103955631303",
+                    "size": "205191730",
+                    "download": "64605104"
+                },
+                "saveupgrade": {
+                    "gid": "3401987016450221359",
+                    "size": "87494343",
+                    "download": "21533984"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16366570",
+                "timeupdated": "1731336409"
+            },
+            "lastversion": {
+                "buildid": "12044848",
+                "description": "Previous version before latest update",
+                "timeupdated": "1698150900"
+            },
+            "saveupgrade": {
+                "buildid": "5929175",
+                "description": "Upgrade earlier saves to 0.6.x+ format",
+                "timeupdated": "1607262567"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
