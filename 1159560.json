@@ -4,8 +4,8 @@
     "name": "Ziggurat 2",
     "schinese_name": "通灵塔2",
     "isfreeapp": "0",
-    "change_number": "28369896",
-    "update_time": "2025-04-09 00:43:34",
+    "change_number": "28845054",
+    "update_time": "2025-05-07 00:06:55",
     "depot": {
         "228983": {
             "config": {
@@ -28,9 +28,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9137305190577660",
-                    "size": "1397705782",
-                    "download": "878206640"
+                    "gid": "26576461411593823",
+                    "size": "1397897022",
+                    "download": "878265264"
+                },
+                "polish": {
+                    "gid": "2680521211884459216",
+                    "size": "1397897014",
+                    "download": "878265408"
                 }
             },
             "decryptionkey": "92b09555aadea1758ef9ac6cf576f241c061d6cd2e5dada5f545c2d7e3f0948d"
@@ -42,9 +47,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1139464024484128923",
-                    "size": "1420475788",
-                    "download": "885371616"
+                    "gid": "4170100510596420111",
+                    "size": "1420667028",
+                    "download": "885433376"
+                },
+                "polish": {
+                    "gid": "6796371061543016054",
+                    "size": "1420667020",
+                    "download": "885433824"
                 }
             }
         },
@@ -55,16 +65,26 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4335436446140629733",
-                    "size": "1452011893",
-                    "download": "899113888"
+                    "gid": "8003347417578754821",
+                    "size": "1452203117",
+                    "download": "899180032"
+                },
+                "polish": {
+                    "gid": "5028324579858469360",
+                    "size": "1452203109",
+                    "download": "899179872"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "17834995",
-                "timeupdated": "1742826378"
+                "buildid": "18361748",
+                "timeupdated": "1746547385"
+            },
+            "polish": {
+                "buildid": "18357160",
+                "description": "Polish update",
+                "timeupdated": "1746523622"
             }
         },
         "privatebranches": "1"
