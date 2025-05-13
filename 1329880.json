@@ -4,8 +4,8 @@
     "name": "Wild West Dynasty",
     "schinese_name": "狂野西部时代",
     "isfreeapp": "0",
-    "change_number": "28426320",
-    "update_time": "2025-04-11 18:01:22",
+    "change_number": "28743346",
+    "update_time": "2025-04-30 15:35:03",
     "depot": {
         "1329881": {
             "config": {
@@ -19,9 +19,9 @@
                     "download": "5064385264"
                 },
                 "public_staging": {
-                    "gid": "8418861130132872817",
-                    "size": "9355996244",
-                    "download": "5061941648"
+                    "gid": "5040536500101796247",
+                    "size": "9345099985",
+                    "download": "5051125856"
                 }
             },
             "decryptionkey": "e7c4f5cdf6d3910ea059e38dcd706a986c99bc16b14ab0b9faeb43446a8e311c"
@@ -72,9 +72,9 @@
                 "timeupdated": "1734719489"
             },
             "public_staging": {
-                "buildid": "18068343",
+                "buildid": "18291842",
                 "description": "Public Staging",
-                "timeupdated": "1744358471"
+                "timeupdated": "1745998497"
             }
         },
         "privatebranches": "1"
