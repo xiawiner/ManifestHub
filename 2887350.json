@@ -4,8 +4,8 @@
     "name": "Fluffy Sailors",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28448758",
-    "update_time": "2025-04-13 06:55:14",
+    "change_number": "28825108",
+    "update_time": "2025-05-05 23:33:52",
     "depot": {
         "228989": {
             "config": {
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2410982328743323182",
-                    "size": "1249544205",
-                    "download": "954567360"
+                    "gid": "6658324903906050855",
+                    "size": "1254123814",
+                    "download": "959193648"
                 }
             },
             "decryptionkey": "77b07113df5e3e5aedd87e7fc25570e14dc96c1528a62e85d170ad54314f8490"
         },
         "branches": {
             "public": {
-                "buildid": "17764935",
-                "timeupdated": "1742298923"
+                "buildid": "18347529",
+                "timeupdated": "1746456949"
             }
         },
         "privatebranches": "1"
