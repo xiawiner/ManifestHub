@@ -4,8 +4,8 @@
     "name": "Day of Dragons - Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28238051",
-    "update_time": "2025-04-01 07:26:28",
+    "change_number": "28885568",
+    "update_time": "2025-05-08 23:57:07",
     "depot": {
         "1004": {
             "config": {
@@ -71,9 +71,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3868768990554878030",
-                    "size": "2250359064",
-                    "download": "1625502848"
+                    "gid": "4468150600540278346",
+                    "size": "2397555136",
+                    "download": "1765981984"
                 }
             },
             "decryptionkey": "edc0a9975a6d473baa7f6c69ba5c9b0a93cba501522f03745d18bd1a50721991"
@@ -86,17 +86,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3441588361120772645",
-                    "size": "4473532736",
-                    "download": "1942559728"
+                    "gid": "3193442046184389327",
+                    "size": "4620607598",
+                    "download": "2088887616"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17931671",
-                "timeupdated": "1743463584"
+                "buildid": "18391093",
+                "timeupdated": "1746719823"
             }
         },
         "privatebranches": "1"
