@@ -4,23 +4,23 @@
     "name": "Aircraft Evolution",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26844386",
-    "update_time": "2025-01-03 05:16:06",
+    "change_number": "28649274",
+    "update_time": "2025-04-25 00:58:24",
     "depot": {
         "597031": {
             "manifests": {
                 "public": {
-                    "gid": "4804880893056576311",
-                    "size": "471190188",
-                    "download": "81515280"
+                    "gid": "5969629958630587262",
+                    "size": "363371411",
+                    "download": "72303008"
                 }
             },
             "decryptionkey": "048342f9de7044b2b2a19a9b3ed8db89d87576dae49d6ba62423419d5fa45cba"
         },
         "branches": {
             "public": {
-                "buildid": "3777327",
-                "timeupdated": "1556525010"
+                "buildid": "18226896",
+                "timeupdated": "1745513210"
             }
         }
     }
