@@ -4,8 +4,8 @@
     "name": "Bus Simulator 16",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27933139",
-    "update_time": "2025-03-13 20:52:16",
+    "change_number": "28823005",
+    "update_time": "2025-05-05 21:33:07",
     "depot": {
         "228985": {
             "config": {
@@ -130,6 +130,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "4e6366e797db521f2645a8b1a1eb799b2cc7b57dcc0a1d7aa37aaabba7a8338b"
     }
 }
