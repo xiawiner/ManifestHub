@@ -4,8 +4,8 @@
     "name": "Gunsmith",
     "schinese_name": "军火商",
     "isfreeapp": "0",
-    "change_number": "28520714",
-    "update_time": "2025-04-17 11:04:12",
+    "change_number": "28880649",
+    "update_time": "2025-05-08 19:23:27",
     "depot": {
         "228988": {
             "config": {
@@ -28,24 +28,24 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6572460570369567315",
-                    "size": "4684106288",
-                    "download": "4507781936"
+                    "gid": "7441716192586235722",
+                    "size": "4703728841",
+                    "download": "4317898096"
                 },
                 "betatest": {
                     "gid": "4214616974933403741",
                     "size": "4631742077",
                     "download": "4456081456"
                 },
-                "gunsmithopentest": {
-                    "gid": "1537445013481774333",
-                    "size": "4682641699",
-                    "download": "4506291728"
-                },
                 "gunsmithtestbranch": {
                     "gid": "8186351280002792971",
                     "size": "4561320416",
                     "download": "4388424176"
+                },
+                "gunsmithopentest": {
+                    "gid": "6253807600137047085",
+                    "size": "4703673629",
+                    "download": "4317818960"
                 }
             },
             "decryptionkey": "d5686a82f15ef5a3346b350ed8ecc44846668969fc4c868fc64fae7253d23f50"
@@ -54,23 +54,23 @@
         "workshopdepot": "620190",
         "branches": {
             "public": {
-                "buildid": "11270431",
-                "timeupdated": "1684509738"
+                "buildid": "18387723",
+                "timeupdated": "1746703404"
             },
             "betatest": {
                 "buildid": "10107651",
                 "description": "gunsmithbetatest",
                 "timeupdated": "1670520122"
             },
-            "gunsmithopentest": {
-                "buildid": "11180953",
-                "description": "Try the next update for Gunsmith early!",
-                "timeupdated": "1683556754"
-            },
             "gunsmithtestbranch": {
                 "buildid": "9150234",
                 "description": "latest test build",
                 "timeupdated": "1658249055"
+            },
+            "gunsmithopentest": {
+                "buildid": "18320515",
+                "description": "Try the next update for Gunsmith early!",
+                "timeupdated": "1746193052"
             }
         },
         "privatebranches": "1",
