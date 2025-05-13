@@ -4,8 +4,8 @@
     "name": "30 Birds",
     "schinese_name": "鸟语三十 30 Birds",
     "isfreeapp": "0",
-    "change_number": "28085651",
-    "update_time": "2025-03-22 17:01:28",
+    "change_number": "28714508",
+    "update_time": "2025-04-29 04:52:55",
     "depot": {
         "1708771": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "647774909129879416",
-                    "size": "1884001497",
-                    "download": "1438430224"
+                    "gid": "1707343022734206573",
+                    "size": "1834256953",
+                    "download": "1398395984"
                 }
             },
             "decryptionkey": "ccdf1242392d0abcf1e77c13700ef7600efe27c49f97796d2761d88cdc123b3a"
@@ -26,17 +26,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1422887081099846012",
-                    "size": "1879561206",
-                    "download": "1438594528"
+                    "gid": "9149463550298316705",
+                    "size": "1828673572",
+                    "download": "1397858480"
                 }
             },
             "decryptionkey": "728b2c1b863b743b2d6db930ae9a0fd94e19ed5230e498481a6711c070d661a7"
         },
         "branches": {
             "public": {
-                "buildid": "17298838",
-                "timeupdated": "1739120764"
+                "buildid": "18270712",
+                "timeupdated": "1745873569"
             }
         },
         "privatebranches": "1"
