@@ -4,8 +4,8 @@
     "name": "Zombies Beyond Me",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27798094",
-    "update_time": "2025-03-06 00:07:47",
+    "change_number": "28805193",
+    "update_time": "2025-05-04 08:27:23",
     "depot": {
         "228988": {
             "config": {
@@ -31,9 +31,9 @@
         "1652951": {
             "manifests": {
                 "public": {
-                    "gid": "2303297360055010592",
-                    "size": "1305631873",
-                    "download": "942187632"
+                    "gid": "5331923056370535848",
+                    "size": "1888857958",
+                    "download": "1528466176"
                 }
             },
             "decryptionkey": "263187e0eeef61b95736f31b78a4f77d38af4e5be98f46654d6cd0bcb907247e"
@@ -44,17 +44,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8028075745688724508",
-                    "size": "1888855903",
-                    "download": "1527407632"
+                    "gid": "313098408258329789",
+                    "size": "1326564084",
+                    "download": "965231008"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "8936720",
-                "timeupdated": "1655238587"
+                "buildid": "18328480",
+                "timeupdated": "1746318439"
             }
         },
         "privatebranches": "1"
