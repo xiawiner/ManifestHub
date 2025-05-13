@@ -4,8 +4,8 @@
     "name": "Dolls Nest Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28220015",
-    "update_time": "2025-03-31 09:00:06",
+    "change_number": "28736706",
+    "update_time": "2025-04-30 06:19:16",
     "depot": {
         "228989": {
             "config": {
@@ -28,7 +28,8 @@
                     "size": "6117508822",
                     "download": "6007974640"
                 }
-            }
+            },
+            "decryptionkey": "fb590f14b08b706eddbf7561ed6a68871ac4bea251c873c49134c707b5edb116"
         },
         "baselanguages": "",
         "branches": {
