@@ -4,8 +4,8 @@
     "name": "Popup Dungeon",
     "schinese_name": "弹出地牢",
     "isfreeapp": "0",
-    "change_number": "28045731",
-    "update_time": "2025-03-20 14:20:32",
+    "change_number": "28922665",
+    "update_time": "2025-05-11 12:02:17",
     "depot": {
         "349731": {
             "manifests": {
@@ -25,6 +25,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "9445003c327b8eb65bae008cabaac4e113df8ed07df66a33c0ef7151c93ebe52"
     }
 }
