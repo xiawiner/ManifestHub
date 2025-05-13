@@ -4,8 +4,8 @@
     "name": "Sherwood Extreme",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26720412",
-    "update_time": "2024-12-20 03:56:05",
+    "change_number": "28741429",
+    "update_time": "2025-04-30 13:13:00",
     "depot": {
         "baselanguages": "english",
         "228988": {
@@ -36,9 +36,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1553371922599152335",
-                    "size": "865406322",
-                    "download": "796813024"
+                    "gid": "2584857889837371686",
+                    "size": "864897714",
+                    "download": "796286928"
                 }
             },
             "decryptionkey": "0210352bf34557c7b249c05846ce95111eac97105d19c01aa2501802a3f049a2"
@@ -53,8 +53,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "16798792",
-                "timeupdated": "1734638158"
+                "buildid": "18289965",
+                "timeupdated": "1745989976"
             }
         },
         "workshopdepotdecryptionkey": "2d42f2122b50a15ec7687d391a218f25f7152bb16248590ce18bd68bc4367b93"
