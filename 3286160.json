@@ -4,8 +4,8 @@
     "name": "Liquor Store Simulator Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28469140",
-    "update_time": "2025-04-14 23:11:22",
+    "change_number": "28785650",
+    "update_time": "2025-05-02 21:02:16",
     "depot": {
         "228989": {
             "config": {
@@ -25,17 +25,17 @@
         "3286161": {
             "manifests": {
                 "public": {
-                    "gid": "4289357487559756600",
-                    "size": "1829143431",
-                    "download": "549603856"
+                    "gid": "895886660179409632",
+                    "size": "3351864827",
+                    "download": "1253100544"
                 }
             },
             "decryptionkey": "6a2032cf6ddad507675621151e7791d6bd4b54cc0df55108ac249185e89fcdfe"
         },
         "branches": {
             "public": {
-                "buildid": "16114391",
-                "timeupdated": "1729447947"
+                "buildid": "18319555",
+                "timeupdated": "1746177763"
             }
         },
         "privatebranches": "1"
