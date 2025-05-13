@@ -4,16 +4,16 @@
     "name": "Альтушка для скуфа: Ещё, ещё!",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28236773",
-    "update_time": "2025-04-01 05:51:58",
+    "change_number": "28839849",
+    "update_time": "2025-05-06 18:57:10",
     "depot": {
         "3058410": {
             "dlcappid": "3058410",
             "manifests": {
                 "public": {
-                    "gid": "5573659691370869484",
-                    "size": "1343226856",
-                    "download": "1155164352"
+                    "gid": "2908491783835876304",
+                    "size": "1339315563",
+                    "download": "1151424864"
                 }
             },
             "decryptionkey": ""
@@ -21,9 +21,9 @@
         "3058411": {
             "manifests": {
                 "public": {
-                    "gid": "6166855542086896602",
-                    "size": "1343226856",
-                    "download": "1156231936"
+                    "gid": "6964705162311298701",
+                    "size": "1339315563",
+                    "download": "1152462928"
                 }
             },
             "dlcappid": "3058410",
@@ -31,8 +31,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17157039",
-                "timeupdated": "1738063287"
+                "buildid": "18358221",
+                "timeupdated": "1746529023"
             }
         },
         "privatebranches": "1"
