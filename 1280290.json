@@ -4,8 +4,8 @@
     "name": "Ash of Legends",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28545619",
-    "update_time": "2025-04-18 16:19:34",
+    "change_number": "28916537",
+    "update_time": "2025-05-10 19:12:00",
     "depot": {
         "baselanguages": "english",
         "1280291": {
@@ -16,17 +16,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8568076597718204044",
-                    "size": "14170939533",
-                    "download": "3860019632"
+                    "gid": "1563343041573695285",
+                    "size": "14191105504",
+                    "download": "3880263648"
                 }
             },
             "decryptionkey": "6366b86e95fd48d184718dafdf7e95edabfa33bbadd0a96f8ac70a6f5dc876be"
         },
         "branches": {
             "public": {
-                "buildid": "16821196",
-                "timeupdated": "1734751402"
+                "buildid": "18217349",
+                "timeupdated": "1745465683"
             }
         },
         "privatebranches": "1"
