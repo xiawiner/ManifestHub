@@ -4,8 +4,8 @@
     "name": "Zero Hour",
     "schinese_name": "关键时刻",
     "isfreeapp": "0",
-    "change_number": "28081562",
-    "update_time": "2025-03-22 07:13:08",
+    "change_number": "28709904",
+    "update_time": "2025-04-29 00:06:06",
     "depot": {
         "228984": {
             "config": {
@@ -84,17 +84,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3156468738189464174",
-                    "size": "35998326604",
-                    "download": "14969752352"
+                    "gid": "5268423438801310841",
+                    "size": "36000693860",
+                    "download": "14971057936"
                 }
             },
             "decryptionkey": "0894c1b6a123aba0a839dc8fa514cdf47430cfd10b68f14b9bf892b4fb51ebcf"
         },
         "branches": {
             "public": {
-                "buildid": "16280429",
-                "timeupdated": "1730655039"
+                "buildid": "18248994",
+                "timeupdated": "1745856309"
             }
         },
         "privatebranches": "1"
