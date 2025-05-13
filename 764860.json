@@ -4,8 +4,8 @@
     "name": "Jetball Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26182518",
-    "update_time": "2024-11-14 05:44:32",
+    "change_number": "28574866",
+    "update_time": "2025-04-21 04:21:47",
     "depot": {
         "1004": {
             "config": {
@@ -63,9 +63,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "167255918281711752",
-                    "size": "277430216",
-                    "download": "175095696"
+                    "gid": "6301632364490802824",
+                    "size": "277303740",
+                    "download": "174693376"
                 }
             },
             "decryptionkey": ""
@@ -77,17 +77,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4523149850793519234",
-                    "size": "268196369",
-                    "download": "139505632"
+                    "gid": "8548100273183475785",
+                    "size": "267754853",
+                    "download": "139067840"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "14486158",
-                "timeupdated": "1716576534"
+                "buildid": "18174643",
+                "timeupdated": "1745180502"
             }
         }
     }
