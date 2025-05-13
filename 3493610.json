@@ -4,8 +4,8 @@
     "name": "THREAT -SCREAM AND ESCAPE-",
     "schinese_name": "威嚇：尖叫逃亡",
     "isfreeapp": "0",
-    "change_number": "28468066",
-    "update_time": "2025-04-14 22:09:05",
+    "change_number": "28800321",
+    "update_time": "2025-05-03 20:57:16",
     "depot": {
         "baselanguages": "english,tchinese,japanese",
         "3493613": {
@@ -78,10 +78,23 @@
             },
             "decryptionkey": "ffcdc7843d7e0c7ddd79832692f711bf05050b1beb7088437d6d535c90dbbb1a"
         },
+        "3493615": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1988589374702705632",
+                    "size": "1465262322",
+                    "download": "744501632"
+                }
+            },
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
-                "buildid": "18052987",
-                "timeupdated": "1744272743"
+                "buildid": "18332043",
+                "timeupdated": "1746277031"
             },
             "beta_02": {
                 "buildid": "17957745",
