@@ -4,8 +4,8 @@
     "name": "Sapiens",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28495346",
-    "update_time": "2025-04-16 04:51:01",
+    "change_number": "28891045",
+    "update_time": "2025-05-09 06:02:51",
     "depot": {
         "workshopdepot": "1060230",
         "1060231": {
@@ -19,9 +19,9 @@
                     "download": "303219408"
                 },
                 "public-beta-unstable": {
-                    "gid": "340972711212256967",
-                    "size": "450876790",
-                    "download": "303219408"
+                    "gid": "8882155106340970444",
+                    "size": "450880518",
+                    "download": "303264032"
                 }
             },
             "decryptionkey": "f42b9fdda61ea875d9c3be27d29dff037a434b36dab97f7b5d2f53ad3f6e1127"
@@ -38,9 +38,9 @@
                     "download": "301891600"
                 },
                 "public-beta-unstable": {
-                    "gid": "6653059418003537993",
-                    "size": "425516604",
-                    "download": "301891600"
+                    "gid": "7741206011827309657",
+                    "size": "425519760",
+                    "download": "301891936"
                 }
             }
         },
@@ -50,9 +50,9 @@
                 "timeupdated": "1744750256"
             },
             "public-beta-unstable": {
-                "buildid": "18049649",
+                "buildid": "18395090",
                 "description": "Public Beta (Unstable)",
-                "timeupdated": "1744249756"
+                "timeupdated": "1746741766"
             }
         },
         "privatebranches": "1",
