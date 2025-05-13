@@ -4,9 +4,10 @@
     "name": "CASE: Animatronics",
     "schinese_name": "案件：电动玩偶",
     "isfreeapp": "0",
-    "change_number": "25730477",
-    "update_time": "2024-10-15 23:06:03",
+    "change_number": "28622841",
+    "update_time": "2025-04-23 21:29:24",
     "depot": {
+        "baselanguages": "english,german,spanish,russian",
         "228988": {
             "config": {
                 "oslist": "windows"
@@ -21,34 +22,33 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
-        "baselanguages": "english,german,spanish,russian",
-        "489361": {
+        "489365": {
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
             },
             "manifests": {
                 "public": {
-                    "gid": "4755360090564275368",
-                    "size": "1051579163",
-                    "download": "424528672"
+                    "gid": "7141779321461244466",
+                    "size": "1403128378",
+                    "download": "405456096"
                 }
             },
-            "decryptionkey": "8c12c65982d7d6ce564df1f99211d272dabb34f9bcdcbd24c7de5dbf01a18c29"
+            "decryptionkey": "6a8d415e5a1d804e9a1855978f7a58db9e53b332440cd364da835c229449b1fe"
         },
-        "489364": {
+        "489366": {
             "config": {
                 "oslist": "windows",
                 "osarch": "32"
             },
             "manifests": {
                 "public": {
-                    "gid": "8588098885602730531",
-                    "size": "1047220043",
-                    "download": "423117456"
+                    "gid": "1994073987966910047",
+                    "size": "1394215498",
+                    "download": "402793392"
                 }
             },
-            "decryptionkey": "567dbc741a523706b7c68ed74226bdf0eab16789540f63f1731109b8d99a9d36"
+            "decryptionkey": ""
         },
         "489362": {
             "config": {
@@ -78,9 +78,10 @@
         },
         "branches": {
             "public": {
-                "buildid": "1422043",
-                "timeupdated": "1477664588"
+                "buildid": "18208451",
+                "timeupdated": "1745414958"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
