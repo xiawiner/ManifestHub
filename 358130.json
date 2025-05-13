@@ -4,8 +4,8 @@
     "name": "Curious Expedition",
     "schinese_name": "奇妙探险队 Curious Expedition",
     "isfreeapp": "0",
-    "change_number": "28137321",
-    "update_time": "2025-03-26 04:12:50",
+    "change_number": "28599657",
+    "update_time": "2025-04-22 19:17:34",
     "depot": {
         "workshopdepot": "358130",
         "358133": {
@@ -138,6 +138,6 @@
                 "timeupdated": "1494789836"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "3416cb17a8cb048ada632f7d060a6d90579f5179c0486f79841339bc0a5b5714"
     }
 }
