@@ -4,8 +4,8 @@
     "name": "Rover Builder",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27912335",
-    "update_time": "2025-03-12 21:56:44",
+    "change_number": "28851017",
+    "update_time": "2025-05-07 07:10:04",
     "depot": {
         "workshopdepot": "683770",
         "683771": {
@@ -35,6 +35,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "5fc8ff068496dee51204b4fdc456235561cece7121363595d676caaa48cafaec"
     }
 }
