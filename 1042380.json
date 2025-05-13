@@ -4,8 +4,8 @@
     "name": "Hundred Days",
     "schinese_name": "酿造物语 (Hundred Days - Winemaking Simulator)",
     "isfreeapp": "0",
-    "change_number": "28367532",
-    "update_time": "2025-04-08 22:32:49",
+    "change_number": "28643925",
+    "update_time": "2025-04-24 20:28:00",
     "depot": {
         "hasdepotsindlc": "1",
         "1042381": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8733300707944141283",
-                    "size": "2066511543",
-                    "download": "923201728"
+                    "gid": "1266577149013942195",
+                    "size": "2066089583",
+                    "download": "923005376"
                 },
                 "beta": {
                     "gid": "5892968504911966620",
@@ -65,8 +65,8 @@
         "workshopdepot": "1042380",
         "branches": {
             "public": {
-                "buildid": "18027411",
-                "timeupdated": "1744122762"
+                "buildid": "18203329",
+                "timeupdated": "1745389006"
             },
             "beta": {
                 "buildid": "15996010",
