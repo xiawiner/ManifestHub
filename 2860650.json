@@ -4,8 +4,8 @@
     "name": "Let's Patiti! Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28343513",
-    "update_time": "2025-04-07 18:16:07",
+    "change_number": "28746980",
+    "update_time": "2025-04-30 18:47:54",
     "depot": {
         "228989": {
             "config": {
@@ -28,7 +28,8 @@
                     "size": "2163767632",
                     "download": "1971267376"
                 }
-            }
+            },
+            "decryptionkey": "c207c9dbe4327e06520d4bf981b20c1eb07eb0663a3d3567c63878a9e85490a4"
         },
         "baselanguages": "english,schinese",
         "branches": {
