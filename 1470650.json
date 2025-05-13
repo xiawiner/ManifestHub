@@ -4,10 +4,9 @@
     "name": "枪林弹雨",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25125651",
-    "update_time": "2024-09-08 11:25:36",
+    "change_number": "28667565",
+    "update_time": "2025-04-25 22:02:10",
     "depot": {
-        "baselanguages": "english,schinese",
         "228981": {
             "config": {
                 "oslist": "windows"
@@ -44,6 +43,13 @@
             "sharedinstall": "1"
         },
         "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
             "config": {
                 "oslist": "windows"
             },
@@ -169,12 +175,13 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
+        "baselanguages": "english,schinese",
         "1470651": {
             "manifests": {
                 "public": {
-                    "gid": "2569291794940855258",
-                    "size": "846074534",
-                    "download": "333227024"
+                    "gid": "6982848922363449481",
+                    "size": "330794880",
+                    "download": "235000528"
                 }
             },
             "decryptionkey": "dacc29369bbc6ed5877b4a371b1c043d90d0dea8f7e6a152f348a93a70d0f04d"
@@ -182,8 +189,8 @@
         "1470652": {},
         "branches": {
             "public": {
-                "buildid": "5799984",
-                "timeupdated": "1725754975"
+                "buildid": "18239535",
+                "timeupdated": "1745589724"
             }
         }
     }
