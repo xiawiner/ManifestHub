@@ -4,15 +4,15 @@
     "name": "Dicey Tales",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27523940",
-    "update_time": "2025-02-18 06:15:45",
+    "change_number": "28898069",
+    "update_time": "2025-05-09 16:54:23",
     "depot": {
         "3279981": {
             "manifests": {
                 "public": {
-                    "gid": "6508495356949828579",
-                    "size": "872691722",
-                    "download": "557212080"
+                    "gid": "7427783639694486738",
+                    "size": "872876565",
+                    "download": "603991696"
                 }
             },
             "decryptionkey": "01f3d636d8d7a663adfaaa0298fd74ddb29cf137c7daf4be3f9965ce77707591"
@@ -20,8 +20,8 @@
         "baselanguages": "english,german,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,brazilian,latam",
         "branches": {
             "public": {
-                "buildid": "17365317",
-                "timeupdated": "1739530337"
+                "buildid": "18400403",
+                "timeupdated": "1746780857"
             }
         }
     }
