@@ -4,8 +4,8 @@
     "name": "Rise of Nations: Extended Edition",
     "schinese_name": "国家的崛起：扩展版",
     "isfreeapp": "0",
-    "change_number": "27843390",
-    "update_time": "2025-03-08 05:03:07",
+    "change_number": "28829255",
+    "update_time": "2025-05-06 04:22:38",
     "depot": {
         "228984": {
             "config": {
@@ -109,6 +109,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "ebc2a7fcc75c7244300eccbacc741f53b6861113c241d5c461d5b4f030541fcd"
     }
 }
