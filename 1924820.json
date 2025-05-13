@@ -4,11 +4,24 @@
     "name": "StudioS Fighters: Climax Champions",
     "schinese_name": "绝顶决战StudioS Fighters",
     "isfreeapp": "0",
-    "change_number": "24761074",
-    "update_time": "2024-08-13 14:32:01",
+    "change_number": "28728137",
+    "update_time": "2025-04-29 21:20:34",
     "depot": {
-        "baselanguages": "english,schinese,tchinese,japanese",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
         "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
             "config": {
                 "oslist": "windows"
             },
@@ -36,6 +49,7 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
+        "baselanguages": "english,schinese,tchinese,japanese",
         "1924821": {
             "config": {
                 "oslist": "windows"
