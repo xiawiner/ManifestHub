@@ -4,8 +4,8 @@
     "name": "Untitled Crossing Record",
     "schinese_name": "未命名穿越记录",
     "isfreeapp": "0",
-    "change_number": "28155230",
-    "update_time": "2025-03-27 02:15:52",
+    "change_number": "28661648",
+    "update_time": "2025-04-25 20:57:47",
     "depot": {
         "baselanguages": "schinese",
         "1548681": {
@@ -29,6 +29,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "557c2bef72402f975578c2618376ac8fb38dea59949f5f5ef131bfda1214abe3"
     }
 }
