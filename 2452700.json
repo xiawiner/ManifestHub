@@ -4,8 +4,8 @@
     "name": "Jump Ship Playtest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28532299",
-    "update_time": "2025-04-17 23:29:02",
+    "change_number": "28915737",
+    "update_time": "2025-05-10 17:01:51",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2452701": {
             "manifests": {
                 "public": {
-                    "gid": "6737712716910457378",
-                    "size": "17407471033",
-                    "download": "6451548160"
+                    "gid": "138697407112646146",
+                    "size": "17899562980",
+                    "download": "6502638208"
                 }
             },
             "decryptionkey": "0bc2dc2cb263960a332f84d545aabbb6342b11547c59cd9115ed263714d3022a"
         },
         "branches": {
             "public": {
-                "buildid": "18127841",
-                "timeupdated": "1744804313"
+                "buildid": "18407595",
+                "timeupdated": "1746820197"
             }
         },
         "privatebranches": "1"
