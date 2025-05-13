@@ -4,8 +4,8 @@
     "name": "3D Chess Online",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27258246",
-    "update_time": "2025-02-01 01:32:42",
+    "change_number": "28890696",
+    "update_time": "2025-05-09 05:31:24",
     "depot": {
         "2590581": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6313358292807176438",
-                    "size": "162258412",
-                    "download": "101155616"
+                    "gid": "5831857999937730197",
+                    "size": "165080454",
+                    "download": "101944144"
                 }
             },
             "decryptionkey": "9697ca5366c532597d753d5c570efcc848cb44677feaba3b9f60cc573185f1c2"
         },
         "branches": {
             "public": {
-                "buildid": "12107586",
-                "timeupdated": "1693856722"
+                "buildid": "18296054",
+                "timeupdated": "1746017919"
             }
         }
     }
