@@ -1,0 +1,32 @@
+{
+    "appid": "2607260",
+    "type": "Game",
+    "name": "恶魔会社：入职",
+    "schinese_name": "恶魔会社：入职",
+    "isfreeapp": "0",
+    "change_number": "28898747",
+    "update_time": "2025-05-09 17:35:07",
+    "depot": {
+        "baselanguages": "schinese",
+        "2607262": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3463148216451687716",
+                    "size": "900867983",
+                    "download": "525834944"
+                }
+            },
+            "decryptionkey": "22032f72da989bcb26049e02bc2e7577a545c8aa23559adb5fe917b17898c911"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18389623",
+                "timeupdated": "1746711851"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
