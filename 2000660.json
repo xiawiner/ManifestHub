@@ -4,8 +4,8 @@
     "name": "IN HEAT: Lustful Nights Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28271692",
-    "update_time": "2025-04-02 23:51:38",
+    "change_number": "28863818",
+    "update_time": "2025-05-07 22:46:38",
     "depot": {
         "228990": {
             "config": {
@@ -20,11 +20,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8620085506090425289",
-                    "size": "1245580157",
-                    "download": "917761520"
+                    "gid": "5934834457189885326",
+                    "size": "1218669951",
+                    "download": "901021392"
                 }
-            }
+            },
+            "decryptionkey": "361b922fef650352b85e7c886548a60ca182c4eb549a5b2ca3a6be1736c40673"
         },
         "2000663": {
             "config": {
@@ -32,9 +33,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1132904867167493159",
-                    "size": "1358523122",
-                    "download": "946603024"
+                    "gid": "7556113172998549297",
+                    "size": "1315712167",
+                    "download": "922400448"
                 }
             }
         },
@@ -44,16 +45,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8068479308544719483",
-                    "size": "1241084267",
-                    "download": "855615040"
+                    "gid": "6816643118435260101",
+                    "size": "1230683493",
+                    "download": "850903632"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "17956799",
-                "timeupdated": "1743609091"
+                "buildid": "18369710",
+                "timeupdated": "1746629195"
             }
         },
         "privatebranches": "1"
