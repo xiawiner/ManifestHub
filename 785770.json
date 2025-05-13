@@ -4,8 +4,8 @@
     "name": "Notruf 112 - Die Feuerwehr Simulation 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28246277",
-    "update_time": "2025-04-01 18:34:46",
+    "change_number": "28795127",
+    "update_time": "2025-05-03 09:08:08",
     "depot": {
         "785771": {
             "config": {
@@ -40,6 +40,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "5992cdb48336cc6adc4e12a1f63e5c0750d19b7e9a82dd6f7c51c56d2a0def9d"
     }
 }
