@@ -4,8 +4,8 @@
     "name": "蝶梦 Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28542684",
-    "update_time": "2025-04-18 12:11:50",
+    "change_number": "28897391",
+    "update_time": "2025-05-09 16:12:05",
     "depot": {
         "228989": {
             "config": {
@@ -28,27 +28,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8428276888109045377",
-                    "size": "8973452015",
-                    "download": "8444316432"
+                    "gid": "8536594041812651925",
+                    "size": "10641629283",
+                    "download": "10075289312"
                 },
                 "test": {
-                    "gid": "8428276888109045377",
-                    "size": "8973452015",
-                    "download": "8444316432"
+                    "gid": "8536594041812651925",
+                    "size": "10641629283",
+                    "download": "10075289312"
                 }
             },
             "decryptionkey": "e6c48dd4bf110a83368a755eb82574d662594cd6741f75cb1c664f343b75c864"
         },
         "branches": {
             "public": {
-                "buildid": "18143728",
-                "timeupdated": "1744943915"
+                "buildid": "18399672",
+                "timeupdated": "1746778320"
             },
             "test": {
-                "buildid": "18143728",
+                "buildid": "18399672",
                 "description": "test",
-                "timeupdated": "1744892454"
+                "timeupdated": "1746776812"
             }
         }
     }
