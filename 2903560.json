@@ -1,11 +1,11 @@
 {
     "appid": "2903560",
     "type": "Game",
-    "name": "８番のりば",
-    "schinese_name": "",
+    "name": "Platform 8",
+    "schinese_name": "8号站台",
     "isfreeapp": "0",
-    "change_number": "27365575",
-    "update_time": "2025-02-07 23:27:20",
+    "change_number": "28785361",
+    "update_time": "2025-05-02 20:39:40",
     "depot": {
         "228989": {
             "config": {
