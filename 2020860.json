@@ -4,8 +4,8 @@
     "name": "Rush Rally 3",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28334123",
-    "update_time": "2025-04-07 01:17:00",
+    "change_number": "28657118",
+    "update_time": "2025-04-25 10:07:37",
     "depot": {
         "228988": {
             "config": {
@@ -48,6 +48,6 @@
                 "timeupdated": "1696435909"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "29a16aea49e0be43e577af57ece00d7695d865b82a0e4feb2f8fd386f55d2160"
     }
 }
