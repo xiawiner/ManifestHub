@@ -4,8 +4,8 @@
     "name": "Souls Survivors Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "24917127",
-    "update_time": "2024-08-24 01:51:21",
+    "change_number": "28827556",
+    "update_time": "2025-05-06 02:13:22",
     "depot": {
         "228989": {
             "config": {
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1336552177312266501",
-                    "size": "5783896237",
-                    "download": "5252156016"
+                    "gid": "552454857722048655",
+                    "size": "7461233254",
+                    "download": "6890179344"
                 }
             },
             "decryptionkey": "c55c9eed252fa637778666f840f0736eb36fb6daa5bb7787309c4771071dc70e"
         },
         "branches": {
             "public": {
-                "buildid": "15475219",
-                "timeupdated": "1724435476"
+                "buildid": "18332609",
+                "timeupdated": "1746468797"
             }
         }
     }
