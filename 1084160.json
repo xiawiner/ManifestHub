@@ -4,8 +4,8 @@
     "name": "Jagged Alliance 3",
     "schinese_name": "铁血联盟3",
     "isfreeapp": "0",
-    "change_number": "27959878",
-    "update_time": "2025-03-14 23:48:50",
+    "change_number": "28710014",
+    "update_time": "2025-04-29 00:13:22",
     "depot": {
         "228989": {
             "config": {
@@ -53,6 +53,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "e612678221b99a3e1c7d3b8cfd2dcf4550d8c51d13703240f4fa26ea7877c562"
     }
 }
