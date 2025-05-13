@@ -4,8 +4,8 @@
     "name": "Lifecraft",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28512089",
-    "update_time": "2025-04-17 00:18:37",
+    "change_number": "28634139",
+    "update_time": "2025-04-24 09:22:45",
     "depot": {
         "228989": {
             "config": {
@@ -25,9 +25,9 @@
                     "download": "54479408"
                 },
                 "nightly": {
-                    "gid": "1609583718446480523",
-                    "size": "120348240",
-                    "download": "57941920"
+                    "gid": "8858559858859637544",
+                    "size": "120349264",
+                    "download": "57944864"
                 }
             },
             "decryptionkey": "90e99f7e92b78e8bf291f6be1a6be1298c3a05504b89436cb4f543120987dd38"
@@ -38,9 +38,9 @@
                 "timeupdated": "1740488762"
             },
             "nightly": {
-                "buildid": "18131000",
+                "buildid": "18212470",
                 "description": "Nightly",
-                "timeupdated": "1744820312"
+                "timeupdated": "1745457762"
             }
         },
         "privatebranches": "1"
