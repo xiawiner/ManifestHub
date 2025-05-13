@@ -4,8 +4,8 @@
     "name": "HoneyCome come come party",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28445916",
-    "update_time": "2025-04-13 00:11:09",
+    "change_number": "28657084",
+    "update_time": "2025-04-25 10:04:49",
     "depot": {
         "2543371": {
             "manifests": {
@@ -21,17 +21,17 @@
             "dlcappid": "2689900",
             "manifests": {
                 "public": {
-                    "gid": "1637843495418890045",
-                    "size": "19148978466",
-                    "download": "7336433600"
+                    "gid": "4523733457324804433",
+                    "size": "19508368114",
+                    "download": "7444266384"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "15469077",
-                "timeupdated": "1724402011"
+                "buildid": "18204688",
+                "timeupdated": "1745546683"
             }
         },
         "privatebranches": "1"
