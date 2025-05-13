@@ -4,8 +4,8 @@
     "name": "Hardware Store Simulator Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28050276",
-    "update_time": "2025-03-20 19:56:18",
+    "change_number": "28860166",
+    "update_time": "2025-05-07 19:11:24",
     "depot": {
         "228989": {
             "config": {
@@ -28,7 +28,8 @@
                     "size": "979081080",
                     "download": "236838896"
                 }
-            }
+            },
+            "decryptionkey": "92971a1510efbf54c973a8f133c4ae3cc36dcaf2be883c96039478701595446f"
         },
         "branches": {
             "public": {
