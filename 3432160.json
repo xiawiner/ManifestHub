@@ -4,23 +4,23 @@
     "name": "囍",
     "schinese_name": "囍",
     "isfreeapp": "0",
-    "change_number": "28384614",
-    "update_time": "2025-04-09 19:11:09",
+    "change_number": "28922313",
+    "update_time": "2025-05-11 10:33:17",
     "depot": {
         "3432161": {
             "manifests": {
                 "public": {
-                    "gid": "7834693164765671056",
-                    "size": "1008559489",
-                    "download": "735074464"
+                    "gid": "2365972727775545148",
+                    "size": "1553604814",
+                    "download": "1071718720"
                 }
             },
             "decryptionkey": "26325d312f43f98b24c81286dcdb81267c0655cae533592259b791c2d5809d42"
         },
         "branches": {
             "public": {
-                "buildid": "17764680",
-                "timeupdated": "1742297391"
+                "buildid": "18396871",
+                "timeupdated": "1746754485"
             }
         }
     }
