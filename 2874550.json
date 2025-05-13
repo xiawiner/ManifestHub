@@ -4,8 +4,8 @@
     "name": "Bones Beneath",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28524546",
-    "update_time": "2025-04-17 16:15:44",
+    "change_number": "28813285",
+    "update_time": "2025-05-05 04:30:11",
     "depot": {
         "228990": {
             "config": {
@@ -17,17 +17,17 @@
         "2874551": {
             "manifests": {
                 "public": {
-                    "gid": "7729957191036782282",
-                    "size": "149646501",
-                    "download": "51803808"
+                    "gid": "8782822992971544006",
+                    "size": "149653219",
+                    "download": "51804560"
                 }
             },
             "decryptionkey": "e3d3fd5caa55a45b16fae0640b1685f136f85dd43e309f08ad1b552795fecf8d"
         },
         "branches": {
             "public": {
-                "buildid": "18140946",
-                "timeupdated": "1744877738"
+                "buildid": "18339992",
+                "timeupdated": "1746390572"
             }
         }
     }
