@@ -4,8 +4,8 @@
     "name": "EXOcars",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27740339",
-    "update_time": "2025-03-02 16:47:48",
+    "change_number": "28884016",
+    "update_time": "2025-05-08 22:38:13",
     "depot": {
         "2898311": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6657464087473525049",
-                    "size": "25347127195",
-                    "download": "20284247168"
+                    "gid": "8142040619215413160",
+                    "size": "26169129069",
+                    "download": "21014173168"
                 }
             },
             "decryptionkey": "4d3891154382bce636b01bd29ca65a283489671abf209ffcb94f891f25c9d281"
         },
         "branches": {
             "public": {
-                "buildid": "17204287",
-                "timeupdated": "1738356478"
+                "buildid": "18387466",
+                "timeupdated": "1746715089"
             }
         },
         "privatebranches": "1"
