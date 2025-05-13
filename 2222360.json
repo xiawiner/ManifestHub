@@ -4,15 +4,15 @@
     "name": "Ship of Fools Original Soundtrack",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28395023",
-    "update_time": "2025-04-10 05:28:37",
+    "change_number": "28736706",
+    "update_time": "2025-04-30 06:21:28",
     "depot": {
         "2222362": {
             "manifests": {
                 "public": {
-                    "gid": "150765084331689440",
-                    "size": "175900681",
-                    "download": "169719104"
+                    "gid": "3144391750574662431",
+                    "size": "382300140",
+                    "download": "364138288"
                 }
             },
             "decryptionkey": "ff9543e8fbc8b87eff373a529b7879477b8f179431255f9731473d1ae0c9d3e0"
@@ -23,18 +23,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5276831170802080233",
-                    "size": "1231127504",
-                    "download": "1161487008"
+                    "gid": "3137835324792700155",
+                    "size": "2660444292",
+                    "download": "2525435232"
                 }
             },
             "decryptionkey": "a5a6a5d239b5cf35913b82de539f1c3da98ff9e35d1fa2051ce8d1d82a5a778e"
         },
         "branches": {
             "public": {
-                "buildid": "9984142",
-                "timeupdated": "1669043745"
+                "buildid": "18226600",
+                "timeupdated": "1745512438"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
