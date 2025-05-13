@@ -4,8 +4,8 @@
     "name": "Rising World Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28395667",
-    "update_time": "2025-04-10 06:18:53",
+    "change_number": "28908702",
+    "update_time": "2025-05-10 03:38:32",
     "depot": {
         "1004": {
             "config": {
@@ -70,6 +70,11 @@
                     "gid": "21240271230280590",
                     "size": "6",
                     "download": "64"
+                },
+                "unity_previous": {
+                    "gid": "1106061157941522167",
+                    "size": "5",
+                    "download": "64"
                 }
             },
             "decryptionkey": ""
@@ -80,19 +85,24 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7188028927433755134",
-                    "size": "2605479273",
-                    "download": "707669968"
+                    "gid": "725695665966606297",
+                    "size": "2607354508",
+                    "download": "708245552"
                 },
                 "unity": {
-                    "gid": "7188028927433755134",
-                    "size": "2605479273",
-                    "download": "707669968"
+                    "gid": "725695665966606297",
+                    "size": "2607354508",
+                    "download": "708245552"
                 },
                 "unity_old": {
                     "gid": "1544497695891714846",
                     "size": "2716743865",
                     "download": "800827232"
+                },
+                "unity_previous": {
+                    "gid": "6031864557696116801",
+                    "size": "2622312972",
+                    "download": "711410352"
                 }
             },
             "decryptionkey": ""
@@ -103,26 +113,31 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7160012935654630366",
-                    "size": "2608166857",
-                    "download": "709255264"
+                    "gid": "3712915639739705857",
+                    "size": "2609334141",
+                    "download": "709755776"
                 },
                 "unity": {
-                    "gid": "7160012935654630366",
-                    "size": "2608166857",
-                    "download": "709255264"
+                    "gid": "3712915639739705857",
+                    "size": "2609334141",
+                    "download": "709755776"
                 },
                 "unity_old": {
                     "gid": "3345873021965477175",
                     "size": "2711256237",
                     "download": "800779408"
+                },
+                "unity_previous": {
+                    "gid": "7766798145897239713",
+                    "size": "2632368310",
+                    "download": "713713040"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "17229364",
-                "timeupdated": "1738616655"
+                "buildid": "18407952",
+                "timeupdated": "1746819496"
             },
             "java": {
                 "buildid": "7281128",
@@ -130,14 +145,19 @@
                 "timeupdated": "1734539214"
             },
             "unity": {
-                "buildid": "17229364",
+                "buildid": "18407952",
                 "description": "New Version Preview",
-                "timeupdated": "1738616671"
+                "timeupdated": "1746819507"
             },
             "unity_old": {
                 "buildid": "15655729",
                 "description": "Old 0.7.5.2",
                 "timeupdated": "1734539078"
+            },
+            "unity_previous": {
+                "buildid": "18312316",
+                "description": "Old 0.8.5.2",
+                "timeupdated": "1746819465"
             }
         }
     }
