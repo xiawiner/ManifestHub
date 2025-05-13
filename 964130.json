@@ -4,8 +4,8 @@
     "name": "My Colony",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27284139",
-    "update_time": "2025-02-03 13:31:49",
+    "change_number": "28669215",
+    "update_time": "2025-04-25 23:21:15",
     "depot": {
         "baselanguages": "english",
         "228987": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7157581839547952071",
-                    "size": "346698784",
-                    "download": "104288528"
+                    "gid": "3739704823627850384",
+                    "size": "310929418",
+                    "download": "97628080"
                 }
             },
             "decryptionkey": "731a55ee84cb9bbc0cbb1bf0b42ef40f04b8dce13a3e829e49f48ec4bee2c026"
@@ -36,17 +36,29 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1787553912832202214",
-                    "size": "346899949",
-                    "download": "98972160"
+                    "gid": "5150789274184571656",
+                    "size": "300331235",
+                    "download": "89319600"
                 }
+            }
+        },
+        "964133": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
             },
-            "decryptionkey": ""
+            "manifests": {
+                "public": {
+                    "gid": "1602119981873034556",
+                    "size": "286881629",
+                    "download": "91024272"
+                }
+            }
         },
         "branches": {
             "public": {
-                "buildid": "15762208",
-                "timeupdated": "1726779505"
+                "buildid": "18134582",
+                "timeupdated": "1744835547"
             }
         }
     }
