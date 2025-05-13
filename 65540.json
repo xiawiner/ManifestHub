@@ -4,8 +4,8 @@
     "name": "Gothic 1 Classic",
     "schinese_name": "哥特王朝1",
     "isfreeapp": "0",
-    "change_number": "27109910",
-    "update_time": "2025-01-22 18:26:00",
+    "change_number": "28843037",
+    "update_time": "2025-05-06 22:09:24",
     "depot": {
         "228988": {
             "config": {
@@ -39,9 +39,9 @@
                     "download": "2158448"
                 },
                 "unrealbeta": {
-                    "gid": "6423432547878848251",
-                    "size": "4377517794",
-                    "download": "3520666272"
+                    "gid": "2789615797753185670",
+                    "size": "3838651019",
+                    "download": "3582995088"
                 }
             },
             "decryptionkey": "23665019b75bacb6bdb90dbf5a8e517ca087392f9a0ceccfa524444a031ec12e"
@@ -244,9 +244,9 @@
                 "timeupdated": "1649430092"
             },
             "unrealbeta": {
-                "buildid": "15596021",
+                "buildid": "18176250",
                 "description": "Gothic Classic in Unreal",
-                "timeupdated": "1725488714"
+                "timeupdated": "1745199628"
             }
         },
         "privatebranches": "1",
