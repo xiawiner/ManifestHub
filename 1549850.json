@@ -4,33 +4,33 @@
     "name": "Virtual Hunter",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28321776",
-    "update_time": "2025-04-05 16:10:16",
+    "change_number": "28908199",
+    "update_time": "2025-05-10 03:02:20",
     "depot": {
         "1549851": {
             "manifests": {
                 "public": {
-                    "gid": "750245209789407312",
-                    "size": "15644024701",
-                    "download": "5606558720"
+                    "gid": "1181605033117122091",
+                    "size": "15629121894",
+                    "download": "5600657136"
                 },
                 "beta": {
-                    "gid": "750245209789407312",
-                    "size": "15644024701",
-                    "download": "5606558720"
+                    "gid": "1181605033117122091",
+                    "size": "15629121894",
+                    "download": "5600657136"
                 }
             },
             "decryptionkey": "62adaa150b211f96b7398f77aecc4ad436ec96334edacccfe9d4096a50934a42"
         },
         "branches": {
             "public": {
-                "buildid": "17000467",
-                "timeupdated": "1736946280"
+                "buildid": "18141744",
+                "timeupdated": "1744904613"
             },
             "beta": {
-                "buildid": "17000467",
+                "buildid": "18141744",
                 "description": "Patches for testing",
-                "timeupdated": "1736946224"
+                "timeupdated": "1744904580"
             }
         },
         "privatebranches": "1"
