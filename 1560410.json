@@ -4,8 +4,8 @@
     "name": "HereSphere VR Video Player Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26912691",
-    "update_time": "2025-01-09 03:15:19",
+    "change_number": "28848423",
+    "update_time": "2025-05-07 03:28:30",
     "depot": {
         "228988": {
             "config": {
@@ -24,14 +24,14 @@
         "1560411": {
             "manifests": {
                 "public": {
-                    "gid": "5455760309859685267",
-                    "size": "435464005",
-                    "download": "154766368"
+                    "gid": "2182825113772018693",
+                    "size": "435495237",
+                    "download": "154790176"
                 },
                 "beta": {
-                    "gid": "3986669748625777446",
-                    "size": "435472709",
-                    "download": "154696240"
+                    "gid": "2182825113772018693",
+                    "size": "435495237",
+                    "download": "154790176"
                 }
             },
             "decryptionkey": "c76d535af2dc2877406d2da8a790169979e0c845e661a1a6c24cf058764ea0c2"
@@ -43,14 +43,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5273295336294331519",
-                    "size": "435464005",
-                    "download": "154785536"
+                    "gid": "3078258564457464034",
+                    "size": "435495237",
+                    "download": "154791648"
                 },
                 "beta": {
-                    "gid": "1012164047884006541",
-                    "size": "435472709",
-                    "download": "154777296"
+                    "gid": "3078258564457464034",
+                    "size": "435495237",
+                    "download": "154791648"
                 }
             },
             "depotfromapp": "1234730",
@@ -58,13 +58,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "15571498",
-                "timeupdated": "1726362158"
+                "buildid": "18301055",
+                "timeupdated": "1746559707"
             },
             "beta": {
-                "buildid": "16429195",
+                "buildid": "18301055",
                 "description": "beta test",
-                "timeupdated": "1731741738"
+                "timeupdated": "1746042297"
             }
         }
     }
