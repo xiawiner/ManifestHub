@@ -4,8 +4,8 @@
     "name": "Dream Engines: Nomad Cities",
     "schinese_name": "梦幻引擎：游牧城市",
     "isfreeapp": "0",
-    "change_number": "28324080",
-    "update_time": "2025-04-05 22:16:01",
+    "change_number": "28661636",
+    "update_time": "2025-04-25 20:57:46",
     "depot": {
         "1076751": {
             "manifests": {
@@ -135,6 +135,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "84754abf557861455b32d7a47aca2fc22099801bcdef644d34c4bfa66879b0e8"
     }
 }
