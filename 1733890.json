@@ -4,15 +4,15 @@
     "name": "Warhammer 40,000: Battle Sister",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28525637",
-    "update_time": "2025-04-17 17:19:45",
+    "change_number": "28728338",
+    "update_time": "2025-04-29 21:30:53",
     "depot": {
         "1733891": {
             "manifests": {
                 "public": {
-                    "gid": "8058423995206179021",
-                    "size": "14285205039",
-                    "download": "6337147616"
+                    "gid": "5960712724164999757",
+                    "size": "14559950016",
+                    "download": "6593020320"
                 }
             },
             "decryptionkey": "7337fd0db646d3bec95a6b7b7f4354c502ffb68295b0696bd434ea6f3a1583b9"
@@ -20,8 +20,8 @@
         "baselanguages": "english,german,french,koreana,spanish,japanese",
         "branches": {
             "public": {
-                "buildid": "8809068",
-                "timeupdated": "1656497571"
+                "buildid": "18192203",
+                "timeupdated": "1745933446"
             }
         },
         "privatebranches": "1"
