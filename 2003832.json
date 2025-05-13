@@ -4,15 +4,15 @@
     "name": "RPG Maker MZ - Particle System Plugin - TRP Particle MZ",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "24645706",
-    "update_time": "2024-08-05 09:05:53",
+    "change_number": "28742345",
+    "update_time": "2025-04-30 14:29:21",
     "depot": {
         "2003832": {
             "manifests": {
                 "public": {
-                    "gid": "1349661118579074742",
-                    "size": "227021691",
-                    "download": "112642928"
+                    "gid": "4984002593022052057",
+                    "size": "227045911",
+                    "download": "112645728"
                 }
             },
             "dlcappid": "2003832",
@@ -20,8 +20,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "15258974",
-                "timeupdated": "1722819950"
+                "buildid": "18291120",
+                "timeupdated": "1745994415"
             }
         }
     }
