@@ -4,8 +4,8 @@
     "name": "三國符文之語",
     "schinese_name": "三国符文之语",
     "isfreeapp": "0",
-    "change_number": "22674282",
-    "update_time": "2024-05-26 01:18:44",
+    "change_number": "28798492",
+    "update_time": "2025-05-03 16:10:20",
     "depot": {
         "baselanguages": "english,schinese,tchinese",
         "hasdepotsindlc": "0",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6435843289091500315",
-                    "size": "336759203",
-                    "download": "153723392"
+                    "gid": "6482417406716716399",
+                    "size": "336764469",
+                    "download": "153730496"
                 },
                 "220version": {
                     "gid": "4656169683925096234",
@@ -73,14 +73,19 @@
                     "gid": "6435843289091500315",
                     "size": "336759203",
                     "download": "153723392"
+                },
+                "239version": {
+                    "gid": "6482417406716716399",
+                    "size": "336764469",
+                    "download": "153730496"
                 }
             },
             "decryptionkey": "c9916ac6a54a2565ac2a10d9703b5f0f440834a39db82ad5fe06a85838c5923f"
         },
         "branches": {
             "public": {
-                "buildid": "13671547",
-                "timeupdated": "1709828698"
+                "buildid": "18330761",
+                "timeupdated": "1746259815"
             },
             "220version": {
                 "buildid": "13216097",
@@ -136,6 +141,11 @@
                 "buildid": "13671547",
                 "description": "238version",
                 "timeupdated": "1709828212"
+            },
+            "239version": {
+                "buildid": "18330761",
+                "description": "239version",
+                "timeupdated": "1746259526"
             }
         }
     }
