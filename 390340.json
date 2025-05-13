@@ -4,8 +4,8 @@
     "name": "Umbrella Corps",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28217758",
-    "update_time": "2025-03-31 03:50:47",
+    "change_number": "28674261",
+    "update_time": "2025-04-26 04:13:56",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese",
         "workshopdepot": "390340",
@@ -116,6 +116,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "af24399ed4aacf47192c12d9162698325c042df67e7d080d7a6f64b2861593f6"
     }
 }
