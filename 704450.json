@@ -4,8 +4,8 @@
     "name": "Neverwinter Nights: Enhanced Edition",
     "schinese_name": "无冬之夜：增强版",
     "isfreeapp": "0",
-    "change_number": "28002475",
-    "update_time": "2025-03-18 05:46:08",
+    "change_number": "28773623",
+    "update_time": "2025-05-02 02:40:09",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,polish",
         "workshopdepot": "704450",
@@ -1323,9 +1323,9 @@
             "dlcappid": "3093340",
             "manifests": {
                 "public": {
-                    "gid": "7443805071685399851",
-                    "size": "379752740",
-                    "download": "213453616"
+                    "gid": "4722694621329911724",
+                    "size": "379745210",
+                    "download": "213452032"
                 },
                 "development": {
                     "gid": "5398528397481083806",
@@ -1337,8 +1337,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17713315",
-                "timeupdated": "1741889894"
+                "buildid": "17767959",
+                "timeupdated": "1742313640"
             },
             "build8186": {
                 "buildid": "4994491",
