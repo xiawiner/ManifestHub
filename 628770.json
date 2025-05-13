@@ -4,8 +4,8 @@
     "name": "Tangledeep",
     "schinese_name": "纷乱深渊 - 致敬超任黄金时代的Roguelike JRPG",
     "isfreeapp": "0",
-    "change_number": "28236782",
-    "update_time": "2025-04-01 05:52:32",
+    "change_number": "28798843",
+    "update_time": "2025-05-03 17:08:15",
     "depot": {
         "workshopdepot": "628770",
         "628771": {
@@ -152,6 +152,6 @@
                 "timeupdated": "1674145907"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "52262238c7d552b019bdc74f9557397848fc7af10723e163f345364ebd1fdcfc"
     }
 }
