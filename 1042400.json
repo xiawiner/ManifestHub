@@ -4,8 +4,8 @@
     "name": "Rising Storm 2: Vietnam - Green Army Men Base",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28466126",
-    "update_time": "2025-04-14 20:10:19",
+    "change_number": "28602642",
+    "update_time": "2025-04-22 22:04:31",
     "depot": {
         "1042400": {
             "manifests": {
@@ -20,8 +20,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17521890",
-                "timeupdated": "1741013811"
+                "buildid": "18098728",
+                "timeupdated": "1745330663"
             }
         },
         "privatebranches": "1"
