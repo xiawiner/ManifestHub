@@ -4,8 +4,8 @@
     "name": "Floor44",
     "schinese_name": "第44层",
     "isfreeapp": "0",
-    "change_number": "25611478",
-    "update_time": "2024-10-10 19:16:37",
+    "change_number": "28580738",
+    "update_time": "2025-04-21 16:55:59",
     "depot": {
         "baselanguages": "english,schinese,tchinese",
         "1980771": {
@@ -15,17 +15,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4430937920368389479",
-                    "size": "9963389502",
-                    "download": "3071277568"
+                    "gid": "7919742597135239262",
+                    "size": "9963597026",
+                    "download": "3071328848"
                 }
             },
             "decryptionkey": "f61e6fd67aec718248b58f4c2f3257a55121f836eb9ee7339d895fad96d2f16a"
         },
         "branches": {
             "public": {
-                "buildid": "14655356",
-                "timeupdated": "1717930299"
+                "buildid": "18178859",
+                "timeupdated": "1745225187"
             }
         }
     }
