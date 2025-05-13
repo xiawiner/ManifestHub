@@ -4,15 +4,15 @@
     "name": "Chromosome Evil 2",
     "schinese_name": "蚀变之因 2",
     "isfreeapp": "0",
-    "change_number": "28475518",
-    "update_time": "2025-04-15 06:08:31",
+    "change_number": "28664560",
+    "update_time": "2025-04-25 21:01:08",
     "depot": {
         "2529771": {
             "manifests": {
                 "public": {
-                    "gid": "2565076583281130801",
-                    "size": "960672401",
-                    "download": "739974368"
+                    "gid": "8015329454665664850",
+                    "size": "960676649",
+                    "download": "740003504"
                 }
             },
             "decryptionkey": "25012291d5fb4fe2a95cbed73e33d38de25953963b3f0ce897c8f4722c6a5a74"
@@ -20,8 +20,8 @@
         "baselanguages": "english,russian",
         "branches": {
             "public": {
-                "buildid": "17766902",
-                "timeupdated": "1742308555"
+                "buildid": "18237366",
+                "timeupdated": "1745579432"
             }
         }
     }
