@@ -4,8 +4,8 @@
     "name": "Timeflow",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28320743",
-    "update_time": "2025-04-05 13:12:32",
+    "change_number": "28711462",
+    "update_time": "2025-04-29 01:28:26",
     "depot": {
         "baselanguages": "english,russian",
         "hasdepotsindlc": "0",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "341759026925734706",
-                    "size": "616984641",
-                    "download": "150352944"
+                    "gid": "25170075438962907",
+                    "size": "631849668",
+                    "download": "155194464"
                 },
                 "beta": {
                     "gid": "7432429635541269580",
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1325176644964562365",
-                    "size": "590091329",
-                    "download": "141739808"
+                    "gid": "5747004061098061380",
+                    "size": "606802116",
+                    "download": "147267840"
                 },
                 "beta": {
                     "gid": "265822830611454436",
@@ -53,9 +53,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "351135452424738331",
-                    "size": "882765701",
-                    "download": "188841760"
+                    "gid": "4350299406880872651",
+                    "size": "825996556",
+                    "download": "177323392"
                 },
                 "beta": {
                     "gid": "5371273114893998493",
@@ -71,9 +71,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3993661030493876514",
-                    "size": "749867137",
-                    "download": "164326640"
+                    "gid": "2132008828282621193",
+                    "size": "907504320",
+                    "download": "185389584"
                 },
                 "beta": {
                     "gid": "4480153456206537094",
@@ -90,9 +90,9 @@
             },
             "manifests": {
                 "beta": {
-                    "gid": "6944268173004887492",
-                    "size": "616984641",
-                    "download": "150304768"
+                    "gid": "157045152329819206",
+                    "size": "631849668",
+                    "download": "155145952"
                 }
             },
             "decryptionkey": ""
@@ -104,9 +104,9 @@
             },
             "manifests": {
                 "beta": {
-                    "gid": "7438452929659759933",
-                    "size": "590091329",
-                    "download": "141677168"
+                    "gid": "8070905106157438871",
+                    "size": "606802116",
+                    "download": "147204880"
                 }
             },
             "decryptionkey": ""
@@ -117,9 +117,9 @@
             },
             "manifests": {
                 "beta": {
-                    "gid": "7869422072121143085",
-                    "size": "882765701",
-                    "download": "188749760"
+                    "gid": "535072359794784981",
+                    "size": "825996556",
+                    "download": "177082752"
                 }
             },
             "decryptionkey": ""
@@ -130,9 +130,9 @@
             },
             "manifests": {
                 "beta": {
-                    "gid": "8571616540053289036",
-                    "size": "749867137",
-                    "download": "164276016"
+                    "gid": "8903240066513084421",
+                    "size": "907504320",
+                    "download": "185423344"
                 }
             },
             "decryptionkey": ""
@@ -331,13 +331,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17993741",
-                "timeupdated": "1743829947"
+                "buildid": "18268622",
+                "timeupdated": "1745861300"
             },
             "beta": {
-                "buildid": "17962318",
+                "buildid": "18260877",
                 "description": "Beta test branch",
-                "timeupdated": "1743638481"
+                "timeupdated": "1745818022"
             }
         },
         "privatebranches": "1"
