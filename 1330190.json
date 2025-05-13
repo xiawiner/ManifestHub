@@ -4,23 +4,23 @@
     "name": "A Town Uncovered",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28516635",
-    "update_time": "2025-04-17 05:10:54",
+    "change_number": "28862088",
+    "update_time": "2025-05-07 21:10:45",
     "depot": {
         "1330191": {
             "manifests": {
                 "public": {
-                    "gid": "8792479999233692650",
-                    "size": "1681968167",
-                    "download": "1169963424"
+                    "gid": "1891034867514925944",
+                    "size": "1682343043",
+                    "download": "1170265744"
                 }
             },
             "decryptionkey": "1dce5d071f791e4cf7d4c1b571bdcaae26f359a3743bf6f52b9f3c048f1680d6"
         },
         "branches": {
             "public": {
-                "buildid": "17726671",
-                "timeupdated": "1741962713"
+                "buildid": "18328241",
+                "timeupdated": "1746232533"
             }
         }
     }
