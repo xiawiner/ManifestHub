@@ -4,25 +4,25 @@
     "name": "THE 8IGHT",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28261521",
-    "update_time": "2025-04-02 13:22:08",
+    "change_number": "28602371",
+    "update_time": "2025-04-22 21:51:15",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english",
         "1316721": {
             "manifests": {
                 "public": {
-                    "gid": "3851161208005529223",
-                    "size": "1781355832",
-                    "download": "1323645552"
+                    "gid": "561911647887634969",
+                    "size": "1782119945",
+                    "download": "1324526016"
                 }
             },
             "decryptionkey": "5a39ad011ac0bc8efa45d3a0557f101b6ff997f3e2f4f359b6ab9fc59e514198"
         },
         "branches": {
             "public": {
-                "buildid": "17852658",
-                "timeupdated": "1742911029"
+                "buildid": "18194027",
+                "timeupdated": "1745329870"
             }
         }
     }
