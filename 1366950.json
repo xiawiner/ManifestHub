@@ -4,8 +4,8 @@
     "name": "Driver4VR",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28424763",
-    "update_time": "2025-04-11 16:31:22",
+    "change_number": "28835808",
+    "update_time": "2025-05-06 14:55:06",
     "depot": {
         "228989": {
             "config": {
@@ -29,9 +29,9 @@
                     "download": "110846448"
                 },
                 "beta": {
-                    "gid": "3342806889420524151",
-                    "size": "283522871",
-                    "download": "110840336"
+                    "gid": "1219592145500190172",
+                    "size": "283525111",
+                    "download": "110842832"
                 },
                 "prev_version": {
                     "gid": "746115563139306735",
@@ -39,9 +39,9 @@
                     "download": "107263296"
                 },
                 "test": {
-                    "gid": "1112534866628342872",
-                    "size": "283427079",
-                    "download": "110823296"
+                    "gid": "9210023100533376745",
+                    "size": "283479407",
+                    "download": "110869936"
                 }
             },
             "decryptionkey": "80d8ed60372562417003680d8dead18e48da889f884e42df6a048b6aeb6baf56"
@@ -58,9 +58,9 @@
                     "download": "27777216"
                 },
                 "beta": {
-                    "gid": "7080364239301570290",
-                    "size": "89243115",
-                    "download": "27777328"
+                    "gid": "5921000188397993016",
+                    "size": "89242827",
+                    "download": "27777088"
                 },
                 "prev_version": {
                     "gid": "8340746259454358626",
@@ -68,9 +68,9 @@
                     "download": "27776800"
                 },
                 "test": {
-                    "gid": "5160140035814268926",
+                    "gid": "7282598974732523181",
                     "size": "89218009",
-                    "download": "27776800"
+                    "download": "27776944"
                 }
             },
             "decryptionkey": "a9a3a29e85e0e9ab9adc64c7e1f9f298f485b992c0359d5e56393c084c4b0452"
@@ -81,9 +81,9 @@
                 "timeupdated": "1734337037"
             },
             "beta": {
-                "buildid": "17692403",
+                "buildid": "18355742",
                 "description": "Beta version",
-                "timeupdated": "1741781806"
+                "timeupdated": "1746514502"
             },
             "prev_version": {
                 "buildid": "14595273",
@@ -91,9 +91,9 @@
                 "timeupdated": "1728847075"
             },
             "test": {
-                "buildid": "15036835",
+                "buildid": "15109257",
                 "description": "Test version",
-                "timeupdated": "1744360276"
+                "timeupdated": "1745335425"
             }
         },
         "privatebranches": "1"
