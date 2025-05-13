@@ -4,8 +4,8 @@
     "name": "Keplerth",
     "schinese_name": "开普勒斯",
     "isfreeapp": "0",
-    "change_number": "28244617",
-    "update_time": "2025-04-01 16:54:37",
+    "change_number": "28661788",
+    "update_time": "2025-04-25 20:57:58",
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "747200",
@@ -44,6 +44,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "a9727f8f65e5c213f106c37bd0baa8b1b8b4623fb6d910e484aa8feacecbccbe"
     }
 }
