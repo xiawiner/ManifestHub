@@ -4,8 +4,8 @@
     "name": "Drop Duchy Demo",
     "schinese_name": "方块公国试玩版",
     "isfreeapp": "0",
-    "change_number": "27867686",
-    "update_time": "2025-03-10 16:50:12",
+    "change_number": "28823559",
+    "update_time": "2025-05-05 22:06:25",
     "depot": {
         "228989": {
             "config": {
@@ -28,7 +28,8 @@
                     "size": "1471818062",
                     "download": "1193606368"
                 }
-            }
+            },
+            "decryptionkey": "310e7da4cc49bfa0df0ead64b54f13c9bcc229dbcfa5d24a2eee72a47a824019"
         },
         "branches": {
             "public": {
