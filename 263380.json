@@ -4,8 +4,8 @@
     "name": "Driftmoon",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28359198",
-    "update_time": "2025-04-08 13:37:24",
+    "change_number": "28742780",
+    "update_time": "2025-04-30 15:02:54",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5138299003543963342",
-                    "size": "242858734",
-                    "download": "176283792"
+                    "gid": "2443992901172264135",
+                    "size": "324349003",
+                    "download": "196577136"
                 }
             },
             "decryptionkey": "ba23f4a50ce025b35cae9b9622650ace583d1ae089fd02067a0b2eca5bec83de"
@@ -49,9 +49,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2349003442045410988",
-                    "size": "264470034",
-                    "download": "185668080"
+                    "gid": "8836241005147569202",
+                    "size": "256513187",
+                    "download": "178455088"
                 }
             },
             "decryptionkey": "8432c12f3fb112ac32502da271c6400d04f591d211c3cb178d849106310e4f6d"
@@ -59,8 +59,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "18021348",
-                "timeupdated": "1744090638"
+                "buildid": "18260718",
+                "timeupdated": "1745816533"
             },
             "vanilladriftmoon": {
                 "buildid": "283602",
