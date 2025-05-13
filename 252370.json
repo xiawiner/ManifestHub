@@ -1,0 +1,70 @@
+{
+    "appid": "252370",
+    "type": "Game",
+    "name": "The Shivah",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28654979",
+    "update_time": "2025-04-25 07:13:45",
+    "depot": {
+        "overridescddb": "1",
+        "252371": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8189640435857653563",
+                    "size": "103939318",
+                    "download": "82850272"
+                }
+            },
+            "decryptionkey": "40162aa07706fa37582fc16128271d6ea0e424a90460d0423a79c5b6658308b9"
+        },
+        "252372": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1720267864450710681",
+                    "size": "117547095",
+                    "download": "85882592"
+                }
+            }
+        },
+        "252373": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4101996420343936820",
+                    "size": "172967395",
+                    "download": "99947728"
+                }
+            }
+        },
+        "252374": {
+            "config": {
+                "oslist": "linux",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3373863369989434862",
+                    "size": "176301123",
+                    "download": "100229584"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18133502",
+                "timeupdated": "1744829809"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
