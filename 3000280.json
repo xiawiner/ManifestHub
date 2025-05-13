@@ -4,8 +4,8 @@
     "name": "Sexcalibur: Knights of the Pound Table",
     "schinese_name": "骑士团长怀孕了",
     "isfreeapp": "0",
-    "change_number": "28431831",
-    "update_time": "2025-04-11 23:10:19",
+    "change_number": "28848494",
+    "update_time": "2025-05-07 03:33:41",
     "depot": {
         "3000281": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4075102484464449613",
-                    "size": "1683683896",
-                    "download": "1542640672"
+                    "gid": "2919947433575288799",
+                    "size": "1711643239",
+                    "download": "1554878512"
                 }
             },
             "decryptionkey": "bba113a74795b652ee0f2167ea4e9e929a8b8e51345b5e44bae31ecc64ef92be"
@@ -35,8 +35,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17694406",
-                "timeupdated": "1741982646"
+                "buildid": "18363321",
+                "timeupdated": "1746560011"
             }
         },
         "privatebranches": "1"
