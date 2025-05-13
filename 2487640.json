@@ -4,50 +4,39 @@
     "name": "A NOT Troll Game",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28372770",
-    "update_time": "2025-04-09 03:43:40",
+    "change_number": "28794694",
+    "update_time": "2025-05-03 08:19:52",
     "depot": {
-        "2487641": {
-            "manifests": {
-                "public": {
-                    "gid": "3447979691498854188",
-                    "size": "127938486",
-                    "download": "53401360"
-                }
-            },
-            "decryptionkey": "a6ab0882d124a3a03efe7df089fd3b12e315d36e14ca04b0a84f18842dbd39b2"
-        },
         "2487642": {
             "config": {
                 "oslist": "windows"
             },
             "manifests": {
                 "public": {
-                    "gid": "183881573642658603",
-                    "size": "127938486",
-                    "download": "53401360"
+                    "gid": "4986574285620084430",
+                    "size": "185808280",
+                    "download": "50906208"
                 }
             },
             "decryptionkey": "3b120ae2e8dbd58067c266e013bfe6352f961a817cfb76ae4f42fb24a4d36fdc"
         },
-        "2487643": {
+        "2487644": {
             "config": {
-                "oslist": "windows",
-                "osarch": "32"
+                "oslist": "macos",
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
-                    "gid": "5850078373874308223",
-                    "size": "127938486",
-                    "download": "53402080"
+                    "gid": "8598254721438996365",
+                    "size": "201470054",
+                    "download": "57357408"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "14123829",
-                "timeupdated": "1713690769"
+                "buildid": "18173677",
+                "timeupdated": "1745166229"
             }
         }
     }
