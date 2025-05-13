@@ -4,8 +4,8 @@
     "name": "E-Commerce Simulator 2025 Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27944208",
-    "update_time": "2025-03-14 06:24:00",
+    "change_number": "28869486",
+    "update_time": "2025-05-08 04:31:26",
     "depot": {
         "228989": {
             "config": {
@@ -28,7 +28,8 @@
                     "size": "4949009632",
                     "download": "1665761408"
                 }
-            }
+            },
+            "decryptionkey": "0586d60a6981b11aee956dba80eacd39d7f868bfca3a5a61cb53d0b4be938ffd"
         },
         "branches": {
             "public": {
