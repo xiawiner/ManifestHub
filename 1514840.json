@@ -4,8 +4,8 @@
     "name": "All-In-One Sports VR",
     "schinese_name": "All-In-One Sports VR / 多合一运动 VR",
     "isfreeapp": "0",
-    "change_number": "27471158",
-    "update_time": "2025-02-14 10:03:55",
+    "change_number": "28724343",
+    "update_time": "2025-04-29 17:56:32",
     "depot": {
         "1514841": {
             "config": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "698209946083160744",
-                    "size": "2646381853",
-                    "download": "2261497392"
+                    "gid": "7514280226928169790",
+                    "size": "2713498208",
+                    "download": "2311691648"
                 }
             },
             "decryptionkey": "b39f11c39af1571c64ef5c15d5922dfec1f128df636c2f3dac6fa58473c6643c"
         },
         "branches": {
             "public": {
-                "buildid": "17114616",
-                "timeupdated": "1737694450"
+                "buildid": "18276694",
+                "timeupdated": "1745920588"
             }
         }
     }
