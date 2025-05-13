@@ -4,8 +4,8 @@
     "name": "Astera Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28534852",
-    "update_time": "2025-04-18 01:33:56",
+    "change_number": "28668299",
+    "update_time": "2025-04-25 22:36:28",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "3112461": {
             "manifests": {
                 "public": {
-                    "gid": "2272489495303982477",
-                    "size": "2530900363",
-                    "download": "2017553952"
+                    "gid": "1351622706623626011",
+                    "size": "2471166272",
+                    "download": "1977092752"
                 }
             },
             "decryptionkey": "e2b152f4eb834b8332a5d2971b0fe5eedd6d407074b5c096f99f45ce25c3e9d4"
         },
         "branches": {
             "public": {
-                "buildid": "18147440",
-                "timeupdated": "1744911230"
+                "buildid": "18238885",
+                "timeupdated": "1745591784"
             }
         }
     }
