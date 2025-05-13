@@ -4,15 +4,15 @@
     "name": "Lost Castle 2: Original Soundtrack",
     "schinese_name": "失落城堡2: 原声音乐集",
     "isfreeapp": "0",
-    "change_number": "24675684",
-    "update_time": "2024-08-07 06:36:57",
+    "change_number": "28874734",
+    "update_time": "2025-05-08 12:15:08",
     "depot": {
         "3063441": {
             "manifests": {
                 "public": {
-                    "gid": "1140834278260247994",
-                    "size": "77838615",
-                    "download": "77510912"
+                    "gid": "3229875263269779572",
+                    "size": "101185525",
+                    "download": "100770112"
                 }
             },
             "decryptionkey": "c1d21ca1858801ffae2c9192fb45d3bdd99237ca7e8618c1219ff376a3a71d2b"
@@ -23,17 +23,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2219183781434692911",
-                    "size": "571279752",
-                    "download": "505058384"
+                    "gid": "4959482247535190301",
+                    "size": "739298042",
+                    "download": "657694512"
                 }
             },
             "decryptionkey": "29d2548be087391509e333ae33590454d6a4cf74613834d2f0f1aad240ec9adb"
         },
         "branches": {
             "public": {
-                "buildid": "15131968",
-                "timeupdated": "1721788457"
+                "buildid": "18276002",
+                "timeupdated": "1746677313"
             }
         }
     }
