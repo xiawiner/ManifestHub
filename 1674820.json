@@ -4,8 +4,8 @@
     "name": "TFC: The Fertile Crescent",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28086960",
-    "update_time": "2025-03-22 20:18:57",
+    "change_number": "28655348",
+    "update_time": "2025-04-25 07:52:13",
     "depot": {
         "baselanguages": "english",
         "1674821": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6681442225529710851",
-                    "size": "509197863",
-                    "download": "302170224"
+                    "gid": "3154210274870401283",
+                    "size": "515001207",
+                    "download": "302427504"
                 }
             },
             "decryptionkey": "bc5bb1336bed89caa879622a67ed838203029809307934d8f3ecd7e82888255a"
@@ -29,12 +29,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4480263447151043274",
-                    "size": "536460383",
-                    "download": "304398224"
+                    "gid": "2599947366431836162",
+                    "size": "542270039",
+                    "download": "304663472"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1674826": {
             "config": {
@@ -43,12 +42,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "791635359083056499",
-                    "size": "583082933",
-                    "download": "319843632"
+                    "gid": "727448856140064315",
+                    "size": "588916637",
+                    "download": "320097824"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1674827": {
             "config": {
@@ -57,17 +55,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3985656881453312142",
-                    "size": "489926663",
-                    "download": "296795440"
+                    "gid": "3636207049672808974",
+                    "size": "495726431",
+                    "download": "297038224"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17139940",
-                "timeupdated": "1737941672"
+                "buildid": "18129156",
+                "timeupdated": "1744809062"
             }
         },
         "privatebranches": "1"
