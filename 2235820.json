@@ -4,8 +4,8 @@
     "name": "Jack Holmes : Master of Puppets",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27850493",
-    "update_time": "2025-03-08 20:08:49",
+    "change_number": "28772185",
+    "update_time": "2025-05-02 01:08:40",
     "depot": {
         "228989": {
             "config": {
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4146849503688098995",
-                    "size": "17695029768",
-                    "download": "17194704560"
+                    "gid": "7007821402705949412",
+                    "size": "14384156932",
+                    "download": "13919607488"
                 }
             },
             "decryptionkey": "b4a73f4c738b3a0a32d78d9516f456c00b0e940a3cf9d059aefd94e1589d0728"
@@ -37,8 +37,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "16054895",
-                "timeupdated": "1729013141"
+                "buildid": "18256111",
+                "timeupdated": "1745761719"
             }
         },
         "privatebranches": "1"
