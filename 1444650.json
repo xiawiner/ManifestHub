@@ -4,8 +4,8 @@
     "name": "Haydee 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27754222",
-    "update_time": "2025-03-03 21:23:35",
+    "change_number": "28574754",
+    "update_time": "2025-04-21 04:04:20",
     "depot": {
         "228988": {
             "config": {
@@ -49,6 +49,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "019b5fa6ecd1881674f4f293dd093fa07ba8b6a92b4bdee00014ec30a5e1bcae"
     }
 }
