@@ -4,8 +4,8 @@
     "name": "Puzzline",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28528683",
-    "update_time": "2025-04-17 20:26:22",
+    "change_number": "28773047",
+    "update_time": "2025-05-02 01:59:56",
     "depot": {
         "2088671": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1720144848931553620",
-                    "size": "178230467",
-                    "download": "105473088"
+                    "gid": "65383428830594831",
+                    "size": "178164334",
+                    "download": "105435952"
                 }
             },
             "decryptionkey": "222878297522456099ee85c6c05de5126f6a3abad126defd5c9ec9e69599c633"
@@ -26,16 +26,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7557628068286821554",
-                    "size": "201890224",
-                    "download": "112901968"
+                    "gid": "1005218732337324843",
+                    "size": "201761651",
+                    "download": "112873520"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18143875",
-                "timeupdated": "1744892776"
+                "buildid": "18312132",
+                "timeupdated": "1746122392"
             }
         },
         "privatebranches": "1"
