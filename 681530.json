@@ -4,8 +4,8 @@
     "name": "NOISZ",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28157557",
-    "update_time": "2025-03-27 05:04:19",
+    "change_number": "28693609",
+    "update_time": "2025-04-27 23:55:29",
     "depot": {
         "hasdepotsindlc": "0",
         "681531": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7829338105520748780",
-                    "size": "838549733",
-                    "download": "650352832"
+                    "gid": "5305280028355565400",
+                    "size": "717055374",
+                    "download": "679653792"
                 }
             },
             "decryptionkey": "e9e661f8522aee67c87602296b5c98c94117f84781303679dda0d265f1ded279"
@@ -31,13 +31,12 @@
                     "size": "799698507",
                     "download": "662688368"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "12442477",
-                "timeupdated": "1697314512"
+                "buildid": "18256681",
+                "timeupdated": "1745769325"
             }
         },
         "privatebranches": "1"
