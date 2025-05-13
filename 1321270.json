@@ -4,8 +4,8 @@
     "name": "Duck Life 8: Adventure",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28535033",
-    "update_time": "2025-04-18 01:45:53",
+    "change_number": "28582024",
+    "update_time": "2025-04-21 18:59:12",
     "depot": {
         "1321272": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3358239899871731418",
-                    "size": "1286710866",
-                    "download": "244208704"
+                    "gid": "875166886196571777",
+                    "size": "1292880274",
+                    "download": "246224768"
                 }
             }
         },
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "608940478456009740",
-                    "size": "1224787859",
-                    "download": "189626784"
+                    "gid": "2237210434277051312",
+                    "size": "1230965985",
+                    "download": "191635648"
                 }
             },
             "decryptionkey": "6c3899c1ce8ee47c31b6e998be7522f8ab86828581b44af6a437d8ddf4a6d52e"
         },
         "branches": {
             "public": {
-                "buildid": "18161785",
-                "timeupdated": "1745007771"
+                "buildid": "18172815",
+                "timeupdated": "1745151913"
             }
         },
         "privatebranches": "1"
