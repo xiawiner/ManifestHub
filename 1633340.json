@@ -4,8 +4,8 @@
     "name": "AMID EVIL Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28204539",
-    "update_time": "2025-03-29 16:31:59",
+    "change_number": "28756282",
+    "update_time": "2025-05-01 02:42:54",
     "depot": {
         "228988": {
             "config": {
@@ -28,7 +28,8 @@
                     "size": "1051108341",
                     "download": "819287888"
                 }
-            }
+            },
+            "decryptionkey": "b8d0e547afea576af53106849ae7a366778c3c584bbb36f36385a8f674c53ada"
         },
         "branches": {
             "public": {
