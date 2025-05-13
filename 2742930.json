@@ -4,8 +4,8 @@
     "name": "CapitalismCraft",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28520459",
-    "update_time": "2025-04-17 10:40:56",
+    "change_number": "28693004",
+    "update_time": "2025-04-27 22:38:12",
     "depot": {
         "baselanguages": "english",
         "2742931": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4462577512630640768",
-                    "size": "1511112315",
-                    "download": "97230176"
+                    "gid": "6110310373648286870",
+                    "size": "1512039652",
+                    "download": "97983488"
                 },
                 "beta": {
-                    "gid": "8100673520101230293",
-                    "size": "1511241049",
-                    "download": "97235856"
+                    "gid": "6110310373648286870",
+                    "size": "1512039652",
+                    "download": "97983488"
                 },
                 "default-mac": {
                     "gid": "8550525421761241750",
@@ -29,9 +29,9 @@
                     "download": "30521040"
                 },
                 "iio-testing": {
-                    "gid": "319382748349944563",
-                    "size": "1510210637",
-                    "download": "97176176"
+                    "gid": "8100673520101230293",
+                    "size": "1511241049",
+                    "download": "97235856"
                 }
             },
             "decryptionkey": "55357807c1a8d7728c1676412747ecb571fee558b00112309a3e3ee7e35ae187"
@@ -43,14 +43,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2994038024732185401",
-                    "size": "1529064464",
-                    "download": "103883296"
+                    "gid": "1106753613364399767",
+                    "size": "1529862349",
+                    "download": "104712000"
                 },
                 "beta": {
-                    "gid": "5826774306305437511",
-                    "size": "1529859685",
-                    "download": "104711568"
+                    "gid": "1106753613364399767",
+                    "size": "1529862349",
+                    "download": "104712000"
                 },
                 "default-mac": {
                     "gid": "6650279408085393957",
@@ -66,13 +66,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17146793",
-                "timeupdated": "1738334990"
+                "buildid": "18253389",
+                "timeupdated": "1745764686"
             },
             "beta": {
-                "buildid": "18137932",
+                "buildid": "18253389",
                 "description": "strictly for testing",
-                "timeupdated": "1744857495"
+                "timeupdated": "1745721870"
             },
             "default-mac": {
                 "buildid": "14693819",
@@ -80,9 +80,9 @@
                 "timeupdated": "1718206094"
             },
             "iio-testing": {
-                "buildid": "15970291",
+                "buildid": "18210814",
                 "description": "Ready for QA testing",
-                "timeupdated": "1728408821"
+                "timeupdated": "1745426390"
             }
         }
     }
