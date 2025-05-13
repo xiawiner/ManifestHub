@@ -4,8 +4,8 @@
     "name": "Airport Madness 3D: Volume 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28119275",
-    "update_time": "2025-03-25 07:53:36",
+    "change_number": "28606163",
+    "update_time": "2025-04-23 01:10:12",
     "depot": {
         "748611": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3870962842680701001",
-                    "size": "719466556",
-                    "download": "168826624"
+                    "gid": "7140100842215479830",
+                    "size": "721078995",
+                    "download": "168935488"
                 }
             },
             "decryptionkey": "fa0b2f44a38db28fd5f6ec77b1aa3da70d21a7bde10e166722d4d27bf228ddca"
@@ -26,17 +26,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4653245509904220371",
-                    "size": "746034078",
-                    "download": "174879120"
+                    "gid": "3923340101492280956",
+                    "size": "747268607",
+                    "download": "175004960"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16776738",
-                "timeupdated": "1734458708"
+                "buildid": "18195453",
+                "timeupdated": "1745341800"
             }
         }
     }
