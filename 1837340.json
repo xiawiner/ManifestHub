@@ -4,8 +4,8 @@
     "name": "Grimgrad",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28524129",
-    "update_time": "2025-04-17 15:52:10",
+    "change_number": "28839204",
+    "update_time": "2025-05-06 18:24:43",
     "depot": {
         "baselanguages": "english,german,spanish,schinese,russian",
         "228988": {
@@ -32,14 +32,14 @@
         "1837341": {
             "manifests": {
                 "public": {
-                    "gid": "823436688087366731",
-                    "size": "5052008845",
-                    "download": "1722413760"
+                    "gid": "6033822105434806376",
+                    "size": "5065213957",
+                    "download": "1725467248"
                 },
                 "development": {
-                    "gid": "823436688087366731",
-                    "size": "5052008845",
-                    "download": "1722413760"
+                    "gid": "6033822105434806376",
+                    "size": "5065213957",
+                    "download": "1725467248"
                 }
             },
             "decryptionkey": "24ba207f9fb9574d2121090df3a114cc545532a4e21e8271a9a7d85632388ffc"
@@ -61,13 +61,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17688424",
-                "timeupdated": "1741760399"
+                "buildid": "18357883",
+                "timeupdated": "1746527078"
             },
             "development": {
-                "buildid": "17688424",
+                "buildid": "18357883",
                 "description": "Development version",
-                "timeupdated": "1741760366"
+                "timeupdated": "1746527008"
             }
         }
     }
