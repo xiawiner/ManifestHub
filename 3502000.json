@@ -4,8 +4,8 @@
     "name": "全部試せば開く！",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28546278",
-    "update_time": "2025-04-18 17:08:07",
+    "change_number": "28773046",
+    "update_time": "2025-05-02 01:59:56",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "3502001": {
             "manifests": {
                 "public": {
-                    "gid": "1204210362695785949",
-                    "size": "665899903",
-                    "download": "501738976"
+                    "gid": "5471206649632536618",
+                    "size": "665895775",
+                    "download": "501718096"
                 }
             },
             "decryptionkey": "31db9a2f319dc25762c6cd69bed9aefd17e6e4eff92ca094ba7e64164ec63526"
         },
         "branches": {
             "public": {
-                "buildid": "18153656",
-                "timeupdated": "1744952344"
+                "buildid": "18312139",
+                "timeupdated": "1746122392"
             }
         }
     }
