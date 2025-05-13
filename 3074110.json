@@ -4,8 +4,8 @@
     "name": "The Rangers In The South",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28468124",
-    "update_time": "2025-04-14 22:12:58",
+    "change_number": "28774532",
+    "update_time": "2025-05-02 03:51:38",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "3074111": {
             "manifests": {
                 "public": {
-                    "gid": "7517073842301993102",
-                    "size": "1024183358",
-                    "download": "737502080"
+                    "gid": "3023299370042454914",
+                    "size": "1055170307",
+                    "download": "768278592"
                 }
             },
             "decryptionkey": "979451bc4e8c9a6b5839063c8eb1be1aec69c166335fda4221c86886f9bac99e"
@@ -34,8 +34,8 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "17711695",
-                "timeupdated": "1741882518"
+                "buildid": "18313239",
+                "timeupdated": "1746129093"
             }
         }
     }
