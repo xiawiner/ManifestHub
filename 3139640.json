@@ -4,8 +4,8 @@
     "name": "야옹 미션",
     "schinese_name": "喵咪任务",
     "isfreeapp": "0",
-    "change_number": "28495769",
-    "update_time": "2025-04-16 05:26:33",
+    "change_number": "28704436",
+    "update_time": "2025-04-28 18:51:43",
     "depot": {
         "baselanguages": "",
         "3139641": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9123593581797422836",
-                    "size": "150686537",
-                    "download": "81058096"
+                    "gid": "1864970718562796696",
+                    "size": "150076782",
+                    "download": "81330864"
                 }
             },
             "decryptionkey": "0ca487cb2210ed1fd08f7f7e1aaf4f03a105056a2015f0476561f8c14838627b"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6054503229833020654",
-                    "size": "165794602",
-                    "download": "87957936"
+                    "gid": "7945319844004816996",
+                    "size": "166470334",
+                    "download": "88256240"
                 }
             }
         },
@@ -39,9 +39,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "734660470895184042",
-                    "size": "146212601",
-                    "download": "79313328"
+                    "gid": "1763071734949105664",
+                    "size": "145424011",
+                    "download": "79514800"
                 }
             }
         },
@@ -69,8 +69,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "17112849",
-                "timeupdated": "1737681387"
+                "buildid": "18053642",
+                "timeupdated": "1745226559"
             }
         },
         "privatebranches": "1"
