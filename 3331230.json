@@ -1,0 +1,41 @@
+{
+    "appid": "3331230",
+    "type": "Game",
+    "name": "觀塘 | Kwun Tong",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28806186",
+    "update_time": "2025-05-04 11:31:33",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3331231": {
+            "manifests": {
+                "public": {
+                    "gid": "6802157036611541340",
+                    "size": "13851352821",
+                    "download": "13135293296"
+                }
+            },
+            "decryptionkey": "6904d81f2f81f8289ff4a558b6ff0c38d4549c58e4cf06e8a73cc1bbeabee647"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18281563",
+                "timeupdated": "1746329345"
+            }
+        }
+    }
+}
