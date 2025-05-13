@@ -4,8 +4,8 @@
     "name": "Ostriv",
     "schinese_name": "岛/остров",
     "isfreeapp": "0",
-    "change_number": "28544423",
-    "update_time": "2025-04-18 15:03:06",
+    "change_number": "28916791",
+    "update_time": "2025-05-10 19:57:38",
     "depot": {
         "228988": {
             "config": {
@@ -21,9 +21,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "97688322501045223",
-                    "size": "670626507",
-                    "download": "523879312"
+                    "gid": "3869058755202413181",
+                    "size": "676837893",
+                    "download": "525509968"
                 },
                 "previous_version": {
                     "gid": "3441290653789828099",
@@ -45,9 +45,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4213089714743228709",
-                    "size": "673254091",
-                    "download": "524263520"
+                    "gid": "8910409466554906756",
+                    "size": "679470597",
+                    "download": "525899584"
                 },
                 "previous_version": {
                     "gid": "3373814494751560164",
@@ -65,8 +65,8 @@
         "baselanguages": "english,ukrainian",
         "branches": {
             "public": {
-                "buildid": "18154513",
-                "timeupdated": "1744959759"
+                "buildid": "18413975",
+                "timeupdated": "1746878252"
             },
             "previous_version": {
                 "buildid": "8151348",
