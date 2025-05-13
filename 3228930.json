@@ -1,0 +1,27 @@
+{
+    "appid": "3228930",
+    "type": "Game",
+    "name": "Short NTR Stories",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28729654",
+    "update_time": "2025-04-29 22:41:25",
+    "depot": {
+        "3228931": {
+            "manifests": {
+                "public": {
+                    "gid": "1603583389444503175",
+                    "size": "493884808",
+                    "download": "364991792"
+                }
+            },
+            "decryptionkey": "4b5f0cfd0495116b4e2f1116f192e508e7d5af50f8714dd8bcea43d3b181c240"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18280479",
+                "timeupdated": "1745931830"
+            }
+        }
+    }
+}
