@@ -4,19 +4,19 @@
     "name": "Camp Buddy: Scoutmaster Season",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28314991",
-    "update_time": "2025-04-05 02:44:43",
+    "change_number": "28806656",
+    "update_time": "2025-05-04 13:08:31",
     "depot": {
         "hasdepotsindlc": "1",
         "1968431": {
             "config": {
-                "oslist": "windows"
+                "oslist": "windows,linux"
             },
             "manifests": {
                 "public": {
-                    "gid": "1869932875393203053",
-                    "size": "6647740664",
-                    "download": "6350215024"
+                    "gid": "7051355176954300519",
+                    "size": "6798713925",
+                    "download": "6484118192"
                 }
             },
             "decryptionkey": "5628cb07cc8b77300b89f279df4bb8aa8dfc56f7523d5e2b594ea90d882787cc"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3429120029387503558",
-                    "size": "6647740664",
-                    "download": "6350215024"
+                    "gid": "5854107111348378316",
+                    "size": "6798713925",
+                    "download": "6484118192"
                 }
             },
             "decryptionkey": "7b23587859ff2a79aedb9c8b2b731e47145f2e1b6d8ce870bb338c565077ba78"
@@ -40,21 +40,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "788550203109062125",
-                    "size": "6547617760",
-                    "download": "6322150528"
+                    "gid": "3503572830903949954",
+                    "size": "6722225589",
+                    "download": "6461096720"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3601730": {
             "dlcappid": "3601730",
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "4387157941554608219",
+                    "size": "441080985",
+                    "download": "437120048"
+                }
+            },
+            "decryptionkey": "66d4c302302bd59344adf4d49380f96647c689308bb1d597120cee6d9ad64583"
         },
         "branches": {
             "public": {
-                "buildid": "13532355",
-                "timeupdated": "1708739683"
+                "buildid": "18128867",
+                "timeupdated": "1744921884"
             }
         },
         "privatebranches": "1"
