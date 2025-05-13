@@ -4,8 +4,8 @@
     "name": "RUNNING WITH RIFLES Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28527861",
-    "update_time": "2025-04-17 19:33:34",
+    "change_number": "28870174",
+    "update_time": "2025-05-08 05:20:01",
     "depot": {
         "overridescddb": "1",
         "228982": {
@@ -37,17 +37,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6167388359309439794",
-                    "size": "863494962",
-                    "download": "535242560"
+                    "gid": "8228497838948768626",
+                    "size": "863457817",
+                    "download": "535232336"
                 }
             },
             "decryptionkey": "43701660cc13a4383a9af5f0494585b60510068238061e1caa0cad10526363c1"
         },
         "branches": {
             "public": {
-                "buildid": "18143282",
-                "timeupdated": "1744889603"
+                "buildid": "18380213",
+                "timeupdated": "1746652796"
             }
         },
         "privatebranches": "1"
