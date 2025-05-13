@@ -1,0 +1,41 @@
+{
+    "appid": "3557830",
+    "type": "Game",
+    "name": "Skarab",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28747363",
+    "update_time": "2025-04-30 19:08:57",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3557831": {
+            "manifests": {
+                "public": {
+                    "gid": "3393789554304391052",
+                    "size": "469502943",
+                    "download": "171278240"
+                }
+            },
+            "decryptionkey": "032d1f37775427364edd2b2bf75f676b4ccfa3ffc8cd3f19bb554673e95d1e88"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18194600",
+                "timeupdated": "1745332764"
+            }
+        }
+    }
+}
