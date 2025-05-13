@@ -4,8 +4,8 @@
     "name": "Echoes Of Spellcraft",
     "schinese_name": "咒语回声",
     "isfreeapp": "0",
-    "change_number": "28323701",
-    "update_time": "2025-04-05 21:17:39",
+    "change_number": "28599332",
+    "update_time": "2025-04-22 18:57:06",
     "depot": {
         "hasdepotsindlc": "0",
         "3152291": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "37250311970282340",
-                    "size": "307420828",
-                    "download": "190114960"
+                    "gid": "2763001159402833198",
+                    "size": "307775584",
+                    "download": "190293472"
                 }
             },
             "decryptionkey": "75a5bb76632b8f8baca37a208f4ff87c71ab9f20bfe380fbcff1d68d200d6a2f"
         },
         "branches": {
             "public": {
-                "buildid": "17390990",
-                "timeupdated": "1739796680"
+                "buildid": "17448001",
+                "timeupdated": "1745319422"
             }
         },
         "privatebranches": "1"
