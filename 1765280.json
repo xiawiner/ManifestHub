@@ -3,9 +3,9 @@
     "type": "Game",
     "name": "Pleim",
     "schinese_name": "",
-    "isfreeapp": "0",
-    "change_number": "28054618",
-    "update_time": "2025-03-21 00:08:25",
+    "isfreeapp": "1",
+    "change_number": "28672586",
+    "update_time": "2025-04-26 02:18:49",
     "depot": {
         "228988": {
             "config": {
