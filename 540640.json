@@ -4,8 +4,8 @@
     "name": "Tales of the Elements",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27983265",
-    "update_time": "2025-03-17 02:57:14",
+    "change_number": "28609750",
+    "update_time": "2025-04-23 05:24:33",
     "depot": {
         "baselanguages": "english",
         "781060": {
@@ -30,9 +30,9 @@
             "dlcappid": "779720",
             "manifests": {
                 "public": {
-                    "gid": "5184064069469679083",
-                    "size": "9946584",
-                    "download": "967984"
+                    "gid": "8851062787987084525",
+                    "size": "10070616",
+                    "download": "982672"
                 }
             },
             "decryptionkey": ""
@@ -73,8 +73,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "13329730",
-                "timeupdated": "1706742504"
+                "buildid": "18199096",
+                "timeupdated": "1745357069"
             }
         },
         "privatebranches": "1"
