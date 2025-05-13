@@ -4,8 +4,8 @@
     "name": "千棋百变 ALL chess",
     "schinese_name": "千棋百变 ALL Chess",
     "isfreeapp": "0",
-    "change_number": "27775198",
-    "update_time": "2025-03-04 21:46:27",
+    "change_number": "28783698",
+    "update_time": "2025-05-02 18:30:53",
     "depot": {
         "2472141": {
             "manifests": {
@@ -24,6 +24,6 @@
                 "timeupdated": "1741095984"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "b5919469c144147456ff5049e45b2cfecf24e0cabbcb6931d46991184c73ba8b"
     }
 }
