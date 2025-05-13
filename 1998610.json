@@ -4,8 +4,8 @@
     "name": "Temp Dedicated",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28387914",
-    "update_time": "2025-04-09 22:17:13",
+    "change_number": "28677226",
+    "update_time": "2025-04-26 08:14:45",
     "depot": {
         "1004": {
             "config": {
@@ -60,9 +60,9 @@
                     "download": "32902480"
                 },
                 "staging": {
-                    "gid": "1204706732746353310",
-                    "size": "80422297",
-                    "download": "81518800"
+                    "gid": "5161204851378230752",
+                    "size": "978144878",
+                    "download": "991518768"
                 },
                 "release": {
                     "gid": "1640196035815784840",
@@ -83,9 +83,9 @@
                     "download": "43690768"
                 },
                 "staging": {
-                    "gid": "296925507574753787",
-                    "size": "195815703",
-                    "download": "57549632"
+                    "gid": "6386688007691821395",
+                    "size": "152142377",
+                    "download": "46025904"
                 },
                 "release": {
                     "gid": "327222170851835720",
@@ -102,9 +102,9 @@
                 "timeupdated": "1734413353"
             },
             "staging": {
-                "buildid": "18042304",
+                "buildid": "18245782",
                 "description": "pre-release",
-                "timeupdated": "1744208229"
+                "timeupdated": "1745626481"
             },
             "release": {
                 "buildid": "16768863",
