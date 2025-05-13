@@ -4,8 +4,8 @@
     "name": "Let's Play! Oink Games",
     "schinese_name": "一起来玩吧！Oink Games",
     "isfreeapp": "0",
-    "change_number": "28085343",
-    "update_time": "2025-03-22 16:07:26",
+    "change_number": "28632425",
+    "update_time": "2025-04-24 07:07:18",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,portuguese",
         "1933491": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1433367723365463698",
-                    "size": "427677313",
-                    "download": "355389088"
+                    "gid": "5246412682371346190",
+                    "size": "427677689",
+                    "download": "355393056"
                 }
             },
             "decryptionkey": "c9585fd63e83c035e240df83f62e282c4568b4770802932f7fceec83c4d632c8"
         },
         "branches": {
             "public": {
-                "buildid": "15326402",
-                "timeupdated": "1723614989"
+                "buildid": "17818959",
+                "timeupdated": "1745449633"
             }
         },
         "privatebranches": "1"
