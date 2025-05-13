@@ -4,8 +4,8 @@
     "name": "Jacob's Quest Anniversary Edition",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28520102",
-    "update_time": "2025-04-17 10:11:19",
+    "change_number": "28892325",
+    "update_time": "2025-05-09 08:06:29",
     "depot": {
         "baselanguages": "english",
         "228990": {
@@ -18,17 +18,17 @@
         "1981701": {
             "manifests": {
                 "public": {
-                    "gid": "7913917964100962883",
-                    "size": "1274852838",
-                    "download": "1107371712"
+                    "gid": "8499471099666740521",
+                    "size": "3389288850",
+                    "download": "3041782176"
                 }
             },
             "decryptionkey": "581dcaeb951a0df6b9cfed55124a5b588e9d0c56919b306617d1bbd2240d2ebf"
         },
         "branches": {
             "public": {
-                "buildid": "16140501",
-                "timeupdated": "1729621860"
+                "buildid": "18225808",
+                "timeupdated": "1745507836"
             }
         }
     }
