@@ -4,10 +4,10 @@
     "name": "RECORD_DrowsyVortex",
     "schinese_name": "谧漩星记录",
     "isfreeapp": "0",
-    "change_number": "27404947",
-    "update_time": "2025-02-11 01:13:47",
+    "change_number": "28759062",
+    "update_time": "2025-05-01 06:02:46",
     "depot": {
-        "baselanguages": "tchinese",
+        "baselanguages": "schinese,tchinese",
         "3169001": {
             "config": {
                 "language": "tchinese",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8151948327292594105",
-                    "size": "1317217648",
-                    "download": "932218080"
+                    "gid": "7688324862997549670",
+                    "size": "1316949781",
+                    "download": "932186608"
                 },
                 "local": {
                     "gid": "1465811546566645953",
@@ -27,10 +27,24 @@
             },
             "decryptionkey": "6253a59a1bd332772971778a747dd69def88e66d713c5f6e219e76725d5c6f0c"
         },
+        "3169002": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3126397619196222563",
+                    "size": "1316455305",
+                    "download": "930388464"
+                }
+            },
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
-                "buildid": "17309941",
-                "timeupdated": "1739207622"
+                "buildid": "18239597",
+                "timeupdated": "1745590229"
             },
             "local": {
                 "buildid": "15392740",
