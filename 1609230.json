@@ -4,23 +4,23 @@
     "name": "Scarlet Hollow",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28447231",
-    "update_time": "2025-04-13 02:56:01",
+    "change_number": "28631387",
+    "update_time": "2025-04-24 05:47:16",
     "depot": {
         "1609232": {
             "manifests": {
                 "public": {
-                    "gid": "1449072547543740281",
-                    "size": "4519724843",
-                    "download": "4057595584"
+                    "gid": "1661915533872232469",
+                    "size": "4519733070",
+                    "download": "4057604352"
                 }
             },
             "decryptionkey": "29646f7f269c032994c7c4bdbb56e6a72f01de4549e0439384a040e54a4c6f24"
         },
         "branches": {
             "public": {
-                "buildid": "18085270",
-                "timeupdated": "1744484158"
+                "buildid": "18197641",
+                "timeupdated": "1745349466"
             }
         },
         "privatebranches": "1"
