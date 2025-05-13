@@ -4,8 +4,8 @@
     "name": "Tempest Rising Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28287447",
-    "update_time": "2025-04-03 19:27:23",
+    "change_number": "28610308",
+    "update_time": "2025-04-23 06:55:57",
     "depot": {
         "228989": {
             "config": {
@@ -28,7 +28,8 @@
                     "size": "21897005746",
                     "download": "19655731328"
                 }
-            }
+            },
+            "decryptionkey": "c58a8ddca3eb7ed699ea5da891b71c9826ead6d5f9ddf2ffe4adb5b01d403057"
         },
         "branches": {
             "public": {
