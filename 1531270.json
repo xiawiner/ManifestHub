@@ -4,11 +4,11 @@
     "name": "Dance with me",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28549543",
-    "update_time": "2025-04-18 20:50:57",
+    "change_number": "28818153",
+    "update_time": "2025-05-05 15:32:12",
     "depot": {
         "hasdepotsindlc": "0",
-        "baselanguages": "schinese,japanese",
+        "baselanguages": "schinese",
         "228988": {
             "config": {
                 "oslist": "windows"
@@ -31,42 +31,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8330330567287026975",
-                    "size": "701631817",
-                    "download": "539493280"
-                },
-                "sfbj_japanese": {
-                    "gid": "8330330567287026975",
-                    "size": "701631817",
-                    "download": "539493280"
+                    "gid": "792128087080325968",
+                    "size": "711877207",
+                    "download": "549969472"
                 }
             },
             "decryptionkey": "081a71d7469f33af861d8b3aef9fb785b14f2f5b01ed90b2c8466f8b2e6e83f5"
         },
-        "1531272": {
-            "config": {
-                "language": "japanese",
-                "oslist": "windows",
-                "osarch": "64"
-            },
-            "manifests": {
-                "sfbj_japanese": {
-                    "gid": "1106322890852319048",
-                    "size": "1657285168",
-                    "download": "778021408"
-                }
-            },
-            "decryptionkey": ""
-        },
         "branches": {
             "public": {
-                "buildid": "17962671",
-                "timeupdated": "1743640988"
-            },
-            "sfbj_japanese": {
-                "buildid": "18158844",
-                "description": "Japanese",
-                "timeupdated": "1744988136"
+                "buildid": "18293454",
+                "timeupdated": "1746007334"
             }
         }
     }
