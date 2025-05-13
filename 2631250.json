@@ -4,8 +4,8 @@
     "name": "Slitterhead",
     "schinese_name": "野狗子: Slitterhead",
     "isfreeapp": "0",
-    "change_number": "28427765",
-    "update_time": "2025-04-11 19:33:38",
+    "change_number": "28873913",
+    "update_time": "2025-05-08 10:56:50",
     "depot": {
         "baselanguages": "english,japanese",
         "228989": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3213837875376200942",
-                    "size": "28157781681",
-                    "download": "28020112944"
+                    "gid": "150359154658006113",
+                    "size": "27842485425",
+                    "download": "27811675344"
                 }
             },
             "decryptionkey": "35b65353c889458eccf51a3307b040e48e83aff12bddd5bfeb96a787392be005"
@@ -41,17 +41,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3899052083662427805",
-                    "size": "28157789625",
-                    "download": "28026693744"
+                    "gid": "431009321496640377",
+                    "size": "27842493369",
+                    "download": "27818260848"
                 }
             },
             "decryptionkey": "bb6e2fdcea1188e89b4fbbc62a18fad23a4580ab83074a3bee8bb5fee9c8eadf"
         },
         "branches": {
             "public": {
-                "buildid": "16809754",
-                "timeupdated": "1735111489"
+                "buildid": "18177227",
+                "timeupdated": "1746668861"
             }
         },
         "privatebranches": "1"
