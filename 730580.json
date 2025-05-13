@@ -4,8 +4,8 @@
     "name": "MegaRace 1",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28211196",
-    "update_time": "2025-03-30 09:14:55",
+    "change_number": "28809313",
+    "update_time": "2025-05-04 19:31:37",
     "depot": {
         "730581": {
             "config": {
@@ -14,7 +14,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4110534173403737536",
+                    "gid": "1495041481454366923",
                     "size": "548667210",
                     "download": "390226384"
                 }
@@ -135,8 +135,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "2313943",
-                "timeupdated": "1741010455"
+                "buildid": "18204568",
+                "timeupdated": "1745395983"
             }
         },
         "privatebranches": "1"
