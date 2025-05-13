@@ -4,8 +4,8 @@
     "name": "Rot Gut",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25738081",
-    "update_time": "2024-10-16 09:13:25",
+    "change_number": "28736852",
+    "update_time": "2025-04-30 06:24:48",
     "depot": {
         "395501": {
             "config": {
@@ -35,7 +35,6 @@
                     "download": "14847984"
                 }
             },
-            "dlcappid": "465691",
             "decryptionkey": ""
         },
         "branches": {
