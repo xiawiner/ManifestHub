@@ -4,9 +4,10 @@
     "name": "Doodle Adventure of Chameleon",
     "schinese_name": "变色龙童绘历险",
     "isfreeapp": "0",
-    "change_number": "28525468",
-    "update_time": "2025-04-17 17:10:18",
+    "change_number": "28689353",
+    "update_time": "2025-04-27 13:54:05",
     "depot": {
+        "hasdepotsindlc": "0",
         "228989": {
             "config": {
                 "oslist": "windows"
@@ -21,8 +22,10 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
-        "hasdepotsindlc": "0",
         "2544901": {
+            "config": {
+                "realm": "steamglobal"
+            },
             "manifests": {
                 "public": {
                     "gid": "6993928419098431675",
@@ -32,10 +35,23 @@
             },
             "decryptionkey": "1154b462c3f81b7ddb705a94e98b851b0b433e020e50e3b5134f31b73969b71b"
         },
+        "2544902": {
+            "config": {
+                "realm": "steamchina"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7564402509256832370",
+                    "size": "2014840209",
+                    "download": "1675417520"
+                }
+            },
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
-                "buildid": "14688099",
-                "timeupdated": "1718181373"
+                "buildid": "18205092",
+                "timeupdated": "1745398432"
             }
         },
         "privatebranches": "1"
