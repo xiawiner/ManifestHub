@@ -4,8 +4,8 @@
     "name": "The Tenants",
     "schinese_name": "租房达人",
     "isfreeapp": "0",
-    "change_number": "28063793",
-    "update_time": "2025-03-21 11:14:18",
+    "change_number": "28730943",
+    "update_time": "2025-04-29 23:50:23",
     "depot": {
         "workshopdepot": "1009560",
         "1009561": {
@@ -36,6 +36,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "7bfe0ad0d0b26f6930aa21bded0f9ee365c466611e33a0588280c80a22af1e98"
     }
 }
