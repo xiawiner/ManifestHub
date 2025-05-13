@@ -4,8 +4,8 @@
     "name": "Animal Lover",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25532120",
-    "update_time": "2024-10-04 19:11:53",
+    "change_number": "28761513",
+    "update_time": "2025-05-01 09:41:47",
     "depot": {
         "542201": {
             "config": {
@@ -76,7 +76,6 @@
             },
             "decryptionkey": ""
         },
-        "hasdepotsindlc": "1",
         "branches": {
             "public": {
                 "buildid": "1642556",
