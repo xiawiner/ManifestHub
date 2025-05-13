@@ -4,8 +4,8 @@
     "name": "UBERSLAUGHTER",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27927617",
-    "update_time": "2025-03-13 15:19:27",
+    "change_number": "28681238",
+    "update_time": "2025-04-26 18:07:16",
     "depot": {
         "2595541": {
             "config": {
@@ -69,6 +69,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "f2c25bb355e6f47251e4182b4d66f1641d6f63c593db50f59d75ef65b6235086"
     }
 }
