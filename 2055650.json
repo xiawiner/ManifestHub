@@ -4,8 +4,8 @@
     "name": "Rolling Rush",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28515228",
-    "update_time": "2025-04-17 03:29:47",
+    "change_number": "28567317",
+    "update_time": "2025-04-20 06:35:01",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2055651": {
             "manifests": {
                 "public": {
-                    "gid": "159416468590816660",
-                    "size": "2598022546",
-                    "download": "2336108704"
+                    "gid": "8020014577818827088",
+                    "size": "2598024594",
+                    "download": "2336094304"
                 }
             },
             "decryptionkey": "612b695ff8826ec3985b41d78c3f6bfb7fda76cd4b70ed113a27ee4180f6a82e"
         },
         "branches": {
             "public": {
-                "buildid": "18133893",
-                "timeupdated": "1744831783"
+                "buildid": "18169677",
+                "timeupdated": "1745102097"
             }
         }
     }
