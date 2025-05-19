@@ -4,8 +4,8 @@
     "name": "Platform Builder",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28922141",
-    "update_time": "2025-05-11 09:58:28",
+    "change_number": "28929330",
+    "update_time": "2025-05-12 05:44:03",
     "depot": {
         "baselanguages": "english",
         "885031": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "646176721996731957",
-                    "size": "113077781",
-                    "download": "76342080"
+                    "gid": "1580083390832529845",
+                    "size": "158003209",
+                    "download": "85129712"
                 }
             },
             "decryptionkey": "cbd06e08081cefe3fda86f4b36d9d4e079c26e863ea405c1f8623a3ef96a13bd"
         },
         "branches": {
             "public": {
-                "buildid": "18417569",
-                "timeupdated": "1746928703"
+                "buildid": "18422443",
+                "timeupdated": "1746999837"
             }
         }
     }
