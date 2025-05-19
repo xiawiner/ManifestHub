@@ -4,8 +4,8 @@
     "name": "Worms W.M.D",
     "schinese_name": "百战天虫：战争机器",
     "isfreeapp": "0",
-    "change_number": "27840222",
-    "update_time": "2025-03-08 01:26:37",
+    "change_number": "28971903",
+    "update_time": "2025-05-14 10:17:43",
     "depot": {
         "workshopdepot": "327030",
         "baselanguages": "english,german,french,italian,spanish,schinese,russian,polish,brazilian",
@@ -102,6 +102,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "0164b7780af00f2d6a4501be9f4fb769bb46bec0653f10074f374bd2dda458e4"
     }
 }
