@@ -4,15 +4,15 @@
     "name": "亜電",
     "schinese_name": "亚电",
     "isfreeapp": "0",
-    "change_number": "28800313",
-    "update_time": "2025-05-03 20:56:04",
+    "change_number": "29038838",
+    "update_time": "2025-05-17 18:08:11",
     "depot": {
         "2152741": {
             "manifests": {
                 "public": {
-                    "gid": "7949960529755370157",
-                    "size": "717168616",
-                    "download": "581340016"
+                    "gid": "1629322772100730953",
+                    "size": "712318378",
+                    "download": "580375936"
                 }
             },
             "decryptionkey": "811372d0db86d529dcb0b11a253e9164ec65c9a14a252f165fad85f9538b58fe"
@@ -20,8 +20,8 @@
         "baselanguages": "japanese",
         "branches": {
             "public": {
-                "buildid": "16743975",
-                "timeupdated": "1734158285"
+                "buildid": "18501851",
+                "timeupdated": "1747476487"
             }
         }
     }
