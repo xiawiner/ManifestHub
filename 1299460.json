@@ -4,8 +4,8 @@
     "name": "Wanderstop",
     "schinese_name": "漫游驿站",
     "isfreeapp": "0",
-    "change_number": "28845588",
-    "update_time": "2025-05-07 00:32:45",
+    "change_number": "29043307",
+    "update_time": "2025-05-18 04:16:06",
     "depot": {
         "228989": {
             "config": {
@@ -25,17 +25,17 @@
         "1299461": {
             "manifests": {
                 "public": {
-                    "gid": "489802058117542923",
-                    "size": "13612920498",
-                    "download": "4501212176"
+                    "gid": "3606109380897154204",
+                    "size": "13613029828",
+                    "download": "4501127136"
                 }
             },
             "decryptionkey": "d17456022f048ed4e2819c267b7442a6fc81b5a8b031710e23d704f284d251b3"
         },
         "branches": {
             "public": {
-                "buildid": "17956333",
-                "timeupdated": "1743700523"
+                "buildid": "18352510",
+                "timeupdated": "1747065353"
             }
         },
         "privatebranches": "1"
