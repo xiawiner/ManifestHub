@@ -4,8 +4,8 @@
     "name": "Cat God Ranch",
     "schinese_name": "猫神牧场",
     "isfreeapp": "0",
-    "change_number": "28598580",
-    "update_time": "2025-04-22 18:10:15",
+    "change_number": "29014662",
+    "update_time": "2025-05-16 09:30:43",
     "depot": {
         "baselanguages": "english,koreana,schinese,tchinese,japanese",
         "2797341": {
@@ -19,9 +19,9 @@
                     "download": "128985904"
                 },
                 "beta": {
-                    "gid": "6557520466184588390",
-                    "size": "292064582",
-                    "download": "129171712"
+                    "gid": "8878016032031223417",
+                    "size": "292528874",
+                    "download": "129123536"
                 },
                 "mod_test": {
                     "gid": "7981475495848573595",
@@ -55,9 +55,9 @@
                 "timeupdated": "1743955460"
             },
             "beta": {
-                "buildid": "17159834",
+                "buildid": "18473679",
                 "description": "Beta Test",
-                "timeupdated": "1738078770"
+                "timeupdated": "1747302451"
             },
             "mod_test": {
                 "buildid": "15938842",
