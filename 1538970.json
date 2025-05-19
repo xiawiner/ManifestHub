@@ -4,8 +4,8 @@
     "name": "Hammerwatch II",
     "schinese_name": "铁锤守卫 II",
     "isfreeapp": "0",
-    "change_number": "28280210",
-    "update_time": "2025-04-03 10:16:44",
+    "change_number": "28987895",
+    "update_time": "2025-05-15 03:06:35",
     "depot": {
         "228988": {
             "config": {
@@ -61,6 +61,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "cad4b2fb74237ca9972980969ca3684cb370c1be744815815bbb6b28d98c4347"
     }
 }
