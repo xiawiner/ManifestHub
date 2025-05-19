@@ -4,8 +4,8 @@
     "name": "Sector's Edge",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28184335",
-    "update_time": "2025-03-28 13:19:39",
+    "change_number": "28982627",
+    "update_time": "2025-05-14 22:51:52",
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "1024890",
@@ -34,6 +34,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "f3b39e393ad7f09113ba0d8b2cbede000e15ab375e7f433b179883d54797db28"
     }
 }
