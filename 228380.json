@@ -4,8 +4,8 @@
     "name": "Wreckfest",
     "schinese_name": "撞车嘉年华",
     "isfreeapp": "0",
-    "change_number": "28225615",
-    "update_time": "2025-03-31 17:51:04",
+    "change_number": "28970500",
+    "update_time": "2025-05-14 08:07:43",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -99,6 +99,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "5d35e57cc36484705a0e702fb4b023fbd1d816159b441c09a49be8c489087cbe"
     }
 }
