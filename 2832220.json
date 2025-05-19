@@ -4,8 +4,8 @@
     "name": "Park Studio",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28904685",
-    "update_time": "2025-05-09 23:32:55",
+    "change_number": "29014838",
+    "update_time": "2025-05-16 09:48:43",
     "depot": {
         "2832221": {
             "config": {
@@ -32,6 +32,7 @@
             },
             "decryptionkey": "3b35bb36e3962e53cbab6baa9f411f41e4fe2f18cea2f9a2e6d7b2e1281a58f3"
         },
+        "workshopdepot": "2832220",
         "branches": {
             "public": {
                 "buildid": "16317302",
@@ -48,6 +49,7 @@
                 "timeupdated": "1730914388"
             }
         },
-        "privatebranches": "1"
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
     }
 }
