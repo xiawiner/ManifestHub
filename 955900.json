@@ -4,8 +4,8 @@
     "name": "Amazing Cultivation Simulator",
     "schinese_name": "了不起的修仙模拟器",
     "isfreeapp": "0",
-    "change_number": "28250624",
-    "update_time": "2025-04-01 22:50:28",
+    "change_number": "28981182",
+    "update_time": "2025-05-14 22:49:50",
     "depot": {
         "baselanguages": "english,schinese",
         "workshopdepot": "955900",
@@ -81,6 +81,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "5424a9ed4a4e466dae7151acf58d8bf0b60a8aa54a3289af037b1e56d36be716"
     }
 }
