@@ -4,8 +4,8 @@
     "name": "Hoshizora no Memoria -Eternal Heart- HD",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28595523",
-    "update_time": "2025-04-22 14:57:27",
+    "change_number": "28958107",
+    "update_time": "2025-05-13 18:20:26",
     "depot": {
         "2138001": {
             "manifests": {
@@ -18,6 +18,11 @@
                     "gid": "6735995284033395367",
                     "size": "5810454919",
                     "download": "5509893872"
+                },
+                "update2025": {
+                    "gid": "3256253475092682361",
+                    "size": "5856700791",
+                    "download": "5561828128"
                 }
             },
             "decryptionkey": "997d595f66b1196d3e0326c199aeadee0499c2f67bf545b49a1a4a0ab1c391d4"
@@ -31,6 +36,11 @@
                 "buildid": "10023299",
                 "description": "Use this if loading saves crashes your game",
                 "timeupdated": "1670616171"
+            },
+            "update2025": {
+                "buildid": "18442878",
+                "description": "EH Update with Window Mode",
+                "timeupdated": "1747131619"
             }
         }
     }
