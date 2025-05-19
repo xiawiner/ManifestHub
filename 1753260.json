@@ -4,8 +4,8 @@
     "name": "Inscryption Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28153141",
-    "update_time": "2025-03-27 00:15:06",
+    "change_number": "28989612",
+    "update_time": "2025-05-15 05:06:35",
     "depot": {
         "228990": {
             "config": {
@@ -21,7 +21,8 @@
                     "size": "1996200896",
                     "download": "724245872"
                 }
-            }
+            },
+            "decryptionkey": "14f0723099181bc08f737c9ef4ec5dee2f904376c6550fd26a0b78901068f4fa"
         },
         "branches": {
             "public": {
