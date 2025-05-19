@@ -4,8 +4,8 @@
     "name": "Grounded Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28534091",
-    "update_time": "2025-04-18 00:57:51",
+    "change_number": "28943953",
+    "update_time": "2025-05-13 01:02:40",
     "depot": {
         "228988": {
             "config": {
@@ -33,9 +33,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4146942671697184416",
-                    "size": "12142645418",
-                    "download": "11489413312"
+                    "gid": "1768200224774657340",
+                    "size": "12144883677",
+                    "download": "11485077120"
                 }
             },
             "depotfromapp": "962130",
