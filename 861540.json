@@ -4,8 +4,8 @@
     "name": "Dicey Dungeons",
     "schinese_name": "骰子地下城",
     "isfreeapp": "0",
-    "change_number": "28042920",
-    "update_time": "2025-03-20 09:21:43",
+    "change_number": "28979645",
+    "update_time": "2025-05-14 22:47:20",
     "depot": {
         "workshopdepot": "861540",
         "861541": {
@@ -112,6 +112,6 @@
                 "timeupdated": "1600085149"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "46e2b7f282a43d0077bc0eb5c3e4b3a8679be18606ec603d86a23975be42222b"
     }
 }
