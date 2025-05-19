@@ -4,8 +4,8 @@
     "name": "Hypno Idols: Greatest Tits",
     "schinese_name": "催眠诱奸",
     "isfreeapp": "0",
-    "change_number": "28128043",
-    "update_time": "2025-03-25 19:20:44",
+    "change_number": "29006404",
+    "update_time": "2025-05-16 00:01:37",
     "depot": {
         "3115061": {
             "config": {
@@ -38,6 +38,7 @@
                 "buildid": "15605353",
                 "timeupdated": "1725551368"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
