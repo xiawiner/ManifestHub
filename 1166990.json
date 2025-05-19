@@ -4,8 +4,8 @@
     "name": "Kukoro: Stream chat games",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28506783",
-    "update_time": "2025-04-16 19:23:33",
+    "change_number": "28985607",
+    "update_time": "2025-05-15 00:49:31",
     "depot": {
         "hasdepotsindlc": "0",
         "1166993": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5169520873095006849",
-                    "size": "293047223",
-                    "download": "111043632"
+                    "gid": "8480009345164522075",
+                    "size": "293050767",
+                    "download": "111044096"
                 }
             },
             "decryptionkey": "13d28f310111f21d7c356f05b15f1bf8eb0071f7f9d3b9415b0131a9ac98f8c3"
@@ -27,16 +27,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6801342926063339155",
-                    "size": "285710354",
-                    "download": "108799776"
+                    "gid": "4066795288926040580",
+                    "size": "285713898",
+                    "download": "108800624"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18127810",
-                "timeupdated": "1744802606"
+                "buildid": "18463628",
+                "timeupdated": "1747241368"
             }
         }
     }
