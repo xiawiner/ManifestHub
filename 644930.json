@@ -4,8 +4,8 @@
     "name": "They Are Billions",
     "schinese_name": "亿万僵尸",
     "isfreeapp": "0",
-    "change_number": "28112439",
-    "update_time": "2025-03-25 00:15:42",
+    "change_number": "28976243",
+    "update_time": "2025-05-14 22:40:48",
     "depot": {
         "workshopdepot": "644930",
         "228990": {
@@ -65,6 +65,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "4fd3e48b43b5c2f4a31038f55ce533a9bfe9f59175ffdc3b8da2084d0954a9bc"
     }
 }
