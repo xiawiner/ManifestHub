@@ -4,8 +4,8 @@
     "name": "PAW Patrol Mighty Pups  Save Adventure Bay",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27954418",
-    "update_time": "2025-03-14 19:00:39",
+    "change_number": "28986693",
+    "update_time": "2025-05-15 01:46:35",
     "depot": {
         "1374991": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3274626050813403590",
-                    "size": "2612203505",
-                    "download": "1977319248"
+                    "gid": "6182707113065783946",
+                    "size": "4125197423",
+                    "download": "1969585376"
                 }
             },
             "decryptionkey": "e063499289c711bd928f62b294c3bf225bec365e3e5c45e6ac29681d3ebbd401"
@@ -24,8 +24,8 @@
         "baselanguages": "english,german,french,italian,spanish,russian,polish,danish,dutch,finnish,norwegian,swedish,arabic,brazilian,latam",
         "branches": {
             "public": {
-                "buildid": "5788661",
-                "timeupdated": "1604591782"
+                "buildid": "17723832",
+                "timeupdated": "1743001862"
             }
         },
         "privatebranches": "1"
