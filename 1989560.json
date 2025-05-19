@@ -4,8 +4,8 @@
     "name": "Endless waves survival",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25875145",
-    "update_time": "2024-10-24 19:10:08",
+    "change_number": "29014715",
+    "update_time": "2025-05-16 09:35:54",
     "depot": {
         "baselanguages": "english,tchinese,portuguese",
         "1989561": {},
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4062450342225118756",
-                    "size": "133510101",
-                    "download": "63574272"
+                    "gid": "3811223644625805920",
+                    "size": "133548373",
+                    "download": "63582304"
                 }
             },
             "decryptionkey": ""
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9106816142079552846",
-                    "size": "128363976",
-                    "download": "62209712"
+                    "gid": "2516790235247063274",
+                    "size": "128402248",
+                    "download": "62213824"
                 }
             },
             "decryptionkey": "dee4f472b11297fb11721e833642e31abe91b7076c3e333b8f29294d112cdd1d"
@@ -44,17 +44,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "636115728499504876",
-                    "size": "174055887",
-                    "download": "73063264"
+                    "gid": "4468506365890557331",
+                    "size": "174094159",
+                    "download": "73073712"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "13782272",
-                "timeupdated": "1710828789"
+                "buildid": "18449491",
+                "timeupdated": "1747162961"
             }
         }
     }
