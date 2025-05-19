@@ -4,8 +4,8 @@
     "name": "JUMP FORCE",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28086573",
-    "update_time": "2025-03-22 19:12:51",
+    "change_number": "28979046",
+    "update_time": "2025-05-14 22:45:53",
     "depot": {
         "228986": {
             "config": {
@@ -40,6 +40,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "32e83f63a7c0a26027fad1cca8b4a3d26bcc12b53996baf333b996abb1df0532"
     }
 }
