@@ -4,8 +4,8 @@
     "name": "Omen Fall",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28814648",
-    "update_time": "2025-05-05 07:29:54",
+    "change_number": "28938159",
+    "update_time": "2025-05-12 20:05:10",
     "depot": {
         "baselanguages": "english",
         "1745052": {
@@ -15,17 +15,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2473372515223379157",
-                    "size": "248606801",
-                    "download": "159258096"
+                    "gid": "9200083434706243435",
+                    "size": "248611025",
+                    "download": "159257312"
                 }
             },
             "decryptionkey": "78c6e729114406b71db2a463bf009848d0dd5c2eacd76f32ce6fa723eb899b2f"
         },
         "branches": {
             "public": {
-                "buildid": "18263401",
-                "timeupdated": "1745834251"
+                "buildid": "18428752",
+                "timeupdated": "1747051502"
             }
         }
     }
