@@ -4,8 +4,8 @@
     "name": "Space Colony",
     "schinese_name": "太空殖民地",
     "isfreeapp": "0",
-    "change_number": "28053001",
-    "update_time": "2025-03-20 22:46:32",
+    "change_number": "29003461",
+    "update_time": "2025-05-15 21:38:10",
     "depot": {
         "workshopdepot": "297920",
         "baselanguages": "",
@@ -43,9 +43,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6630067583894140336",
-                    "size": "597629193",
-                    "download": "425712000"
+                    "gid": "3002550415458745447",
+                    "size": "597629209",
+                    "download": "425712032"
                 }
             },
             "decryptionkey": "97de666f7c5fba4db8f6fb547932b55f2f7870eed43def1426ad6a60e1f98b95"
@@ -156,8 +156,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "8733767",
-                "timeupdated": "1652452725"
+                "buildid": "18475490",
+                "timeupdated": "1747316287"
             }
         },
         "privatebranches": "1",
