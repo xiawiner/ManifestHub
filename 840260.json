@@ -4,8 +4,8 @@
     "name": "Endless World Idle RPG",
     "schinese_name": "",
     "isfreeapp": "1",
-    "change_number": "28348318",
-    "update_time": "2025-04-07 23:18:03",
+    "change_number": "28979378",
+    "update_time": "2025-05-14 22:46:49",
     "depot": {
         "baselanguages": "english,schinese,tchinese",
         "hasdepotsindlc": "1",
@@ -60,7 +60,8 @@
                     "size": "841244974",
                     "download": "631656848"
                 }
-            }
+            },
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
