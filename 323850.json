@@ -4,8 +4,8 @@
     "name": "Move or Die",
     "schinese_name": "不动就作死",
     "isfreeapp": "0",
-    "change_number": "27879967",
-    "update_time": "2025-03-11 06:01:14",
+    "change_number": "28971903",
+    "update_time": "2025-05-14 10:17:52",
     "depot": {
         "228985": {
             "config": {
@@ -46,6 +46,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "7a544146e2652b00c84de5913c43df9e8c75896c7ce01d1978e1c6e1ea089178"
     }
 }
