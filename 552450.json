@@ -4,8 +4,8 @@
     "name": "Serious Sam VR: The First Encounter",
     "schinese_name": "英雄萨姆 VR：首次遭遇",
     "isfreeapp": "0",
-    "change_number": "26643990",
-    "update_time": "2024-12-15 00:39:47",
+    "change_number": "29020311",
+    "update_time": "2025-05-16 16:56:58",
     "depot": {
         "552451": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1634336385656044003",
-                    "size": "32756216",
-                    "download": "10012352"
+                    "gid": "3522464470159399295",
+                    "size": "31862680",
+                    "download": "9745648"
                 },
                 "previousversion": {
                     "gid": "2686207244979502084",
@@ -38,9 +38,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1664401775204425426",
-                    "size": "53800200",
-                    "download": "14233312"
+                    "gid": "7806782980358270911",
+                    "size": "0",
+                    "download": "0"
                 },
                 "previousversion": {
                     "gid": "8166113851042014244",
@@ -86,9 +86,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9038543135953237446",
-                    "size": "2399222",
-                    "download": "547264"
+                    "gid": "5685589183744528338",
+                    "size": "0",
+                    "download": "0"
                 },
                 "previousversion": {
                     "gid": "9038543135953237446",
@@ -110,9 +110,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4124465439248409296",
+                    "gid": "6926819404120835332",
                     "size": "33548240",
-                    "download": "9758208"
+                    "download": "9758224"
                 },
                 "previousversion": {
                     "gid": "6541423956614146878",
@@ -134,9 +134,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "412209860769327062",
-                    "size": "197498",
-                    "download": "41776"
+                    "gid": "5702666560307917006",
+                    "size": "0",
+                    "download": "0"
                 },
                 "previousversion": {
                     "gid": "412209860769327062",
@@ -154,9 +154,9 @@
         "552455": {
             "manifests": {
                 "public": {
-                    "gid": "2873971689233920560",
-                    "size": "622227093",
-                    "download": "612663008"
+                    "gid": "8403286847263903622",
+                    "size": "525921632",
+                    "download": "523066832"
                 },
                 "previousversion": {
                     "gid": "2576879448257908478",
@@ -174,9 +174,9 @@
         "552458": {
             "manifests": {
                 "public": {
-                    "gid": "3627092441416596297",
-                    "size": "1428036032",
-                    "download": "1423064752"
+                    "gid": "3354692181670600706",
+                    "size": "1410239631",
+                    "download": "1406485216"
                 },
                 "previousversion": {
                     "gid": "2686351651075580829",
@@ -193,8 +193,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "3369081",
-                "timeupdated": "1544087832"
+                "buildid": "18487497",
+                "timeupdated": "1747385813"
             },
             "previousversion": {
                 "buildid": "2505211",
