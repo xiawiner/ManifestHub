@@ -4,8 +4,8 @@
     "name": "Discord Rich Me! Engine",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28913093",
-    "update_time": "2025-05-10 10:25:28",
+    "change_number": "29034058",
+    "update_time": "2025-05-17 07:13:47",
     "depot": {
         "229007": {
             "config": {
@@ -19,9 +19,9 @@
         "1252401": {
             "manifests": {
                 "public": {
-                    "gid": "146304051215131235",
-                    "size": "27602362",
-                    "download": "7481376"
+                    "gid": "2734986026821745855",
+                    "size": "33179305",
+                    "download": "11939632"
                 }
             },
             "decryptionkey": "fd1e001fede00fe25f4301863bcad8e94a06bbe81432024b478bbca66931a6ae"
@@ -29,17 +29,17 @@
         "1252402": {
             "manifests": {
                 "public": {
-                    "gid": "5472387419038445206",
-                    "size": "27602362",
-                    "download": "7481376"
+                    "gid": "4116853754367014718",
+                    "size": "33179305",
+                    "download": "11939632"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "18411104",
-                "timeupdated": "1746843925"
+                "buildid": "18498251",
+                "timeupdated": "1747437224"
             }
         }
     }
