@@ -4,8 +4,8 @@
     "name": "Metal Unit",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28107465",
-    "update_time": "2025-03-24 19:32:47",
+    "change_number": "28984653",
+    "update_time": "2025-05-15 00:00:09",
     "depot": {
         "workshopdepot": "1173200",
         "1173201": {
@@ -40,6 +40,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "b5c4bdf672f4f86562a137d8325b8c09b960799ed003d78ac7858961e0b1c05a"
     }
 }
