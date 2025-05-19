@@ -4,8 +4,8 @@
     "name": "Quake Live",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28052921",
-    "update_time": "2025-03-20 22:42:09",
+    "change_number": "28971263",
+    "update_time": "2025-05-14 09:17:46",
     "depot": {
         "overridescddb": "1",
         "workshopdepot": "282440",
@@ -44,6 +44,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "854591c4eb1cef1cef0bf00710638fa7c5b41d5de6a9b47c4b9c3d0ce02f602c"
     }
 }
