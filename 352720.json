@@ -4,8 +4,8 @@
     "name": "The Universim",
     "schinese_name": "宇宙主义",
     "isfreeapp": "0",
-    "change_number": "28071287",
-    "update_time": "2025-03-21 20:18:21",
+    "change_number": "28972338",
+    "update_time": "2025-05-14 10:57:49",
     "depot": {
         "baselanguages": "english",
         "352721": {
@@ -272,6 +272,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "020c244b39afe0a9d95905bdccd21048098196108dff11ccb7ffd9f4dae40037"
     }
 }
