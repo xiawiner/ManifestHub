@@ -4,8 +4,8 @@
     "name": "Memories From Beyond a Coral Sea",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28816077",
-    "update_time": "2025-05-05 11:29:43",
+    "change_number": "29041595",
+    "update_time": "2025-05-18 00:15:11",
     "depot": {
         "2318281": {
             "config": {
@@ -20,6 +20,13 @@
                 }
             },
             "decryptionkey": "9b2f91220591fcd053becf2a1b5962aa928f8836415d9cbdae44b6058146ad86"
+        },
+        "3722560": {
+            "dlcappid": "3722560",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {}
         },
         "branches": {
             "public": {
