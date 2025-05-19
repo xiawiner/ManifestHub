@@ -4,8 +4,8 @@
     "name": "Rivals of Aether",
     "schinese_name": "以太之战",
     "isfreeapp": "0",
-    "change_number": "28736732",
-    "update_time": "2025-04-30 06:16:30",
+    "change_number": "29012545",
+    "update_time": "2025-05-16 06:24:50",
     "depot": {
         "baselanguages": "english,japanese",
         "workshopdepot": "383980",
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7529452767246792232",
-                    "size": "365437897",
-                    "download": "189819136"
+                    "gid": "6494335658358269888",
+                    "size": "365418829",
+                    "download": "189810784"
                 },
                 "1_0_1_branch": {
                     "gid": "3720016501428317924",
@@ -92,14 +92,14 @@
                     "download": "153922464"
                 },
                 "previous_live_branch": {
+                    "gid": "7529452767246792232",
+                    "size": "365437897",
+                    "download": "189819136"
+                },
+                "previous_live_branch_2": {
                     "gid": "8523388961009583973",
                     "size": "365266183",
                     "download": "189732800"
-                },
-                "previous_live_branch_2": {
-                    "gid": "7044480352448041689",
-                    "size": "362540643",
-                    "download": "187227392"
                 },
                 "public_test_branch": {
                     "gid": "6425949892921560034",
@@ -111,8 +111,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18212296",
-                "timeupdated": "1745436943"
+                "buildid": "18481652",
+                "timeupdated": "1747347884"
             },
             "1_0_1_branch": {
                 "buildid": "1724714",
@@ -180,14 +180,14 @@
                 "timeupdated": "1600919922"
             },
             "previous_live_branch": {
-                "buildid": "17579480",
+                "buildid": "18212296",
                 "description": "For opening old replays",
-                "timeupdated": "1745437011"
+                "timeupdated": "1747163892"
             },
             "previous_live_branch_2": {
-                "buildid": "14164468",
+                "buildid": "17579480",
                 "description": "The version before the previous",
-                "timeupdated": "1721160459"
+                "timeupdated": "1747163869"
             },
             "public_test_branch": {
                 "buildid": "18251478",
