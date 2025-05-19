@@ -4,15 +4,15 @@
     "name": "Hentai Girls: Contact [18+]",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28441818",
-    "update_time": "2025-04-12 14:06:04",
+    "change_number": "29040560",
+    "update_time": "2025-05-17 22:03:59",
     "depot": {
         "1890761": {
             "manifests": {
                 "public": {
-                    "gid": "7805529288882608381",
-                    "size": "158997893",
-                    "download": "67717744"
+                    "gid": "1667201394975038521",
+                    "size": "170494910",
+                    "download": "67724896"
                 }
             },
             "decryptionkey": "8896c12a4638fa8c8113280f7ecade11a8041fa59ad4aa7f138fa749769bd2d2"
@@ -20,8 +20,8 @@
         "baselanguages": "english,german,koreana,schinese,russian,japanese,brazilian",
         "branches": {
             "public": {
-                "buildid": "14420007",
-                "timeupdated": "1716130224"
+                "buildid": "18503004",
+                "timeupdated": "1747490635"
             }
         }
     }
