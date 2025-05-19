@@ -4,8 +4,8 @@
     "name": "Number One Rich",
     "schinese_name": "刺激大富翁",
     "isfreeapp": "0",
-    "change_number": "28659100",
-    "update_time": "2025-04-25 20:53:21",
+    "change_number": "29014534",
+    "update_time": "2025-05-16 09:18:07",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese",
         "hasdepotsindlc": "0",
@@ -15,17 +15,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8248698532559442994",
-                    "size": "472945961",
-                    "download": "189730864"
+                    "gid": "587493468989644183",
+                    "size": "487987685",
+                    "download": "196148960"
                 }
             },
             "decryptionkey": "d94f273e64e3631c028787bf5835f84f64043eda0fbea68fae1d66b38ecb8f2c"
         },
         "branches": {
             "public": {
-                "buildid": "18233065",
-                "timeupdated": "1745557863"
+                "buildid": "18484393",
+                "timeupdated": "1747358284"
             }
         },
         "privatebranches": "1"
