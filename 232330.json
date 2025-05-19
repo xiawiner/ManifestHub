@@ -4,8 +4,8 @@
     "name": "Counter-Strike: Source Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27541421",
-    "update_time": "2025-02-19 03:55:45",
+    "change_number": "28969288",
+    "update_time": "2025-05-14 06:22:38",
     "depot": {
         "232330": {
             "manifests": {
@@ -15,9 +15,9 @@
                     "download": "1122056432"
                 },
                 "prerelease": {
-                    "gid": "8012076251401872268",
-                    "size": "2274170578",
-                    "download": "1122056432"
+                    "gid": "6244883102110696939",
+                    "size": "2257538327",
+                    "download": "1120570304"
                 },
                 "previous_build": {
                     "gid": "2613653526845220043",
@@ -38,9 +38,9 @@
                     "download": "82201456"
                 },
                 "prerelease": {
-                    "gid": "6284704787655950281",
-                    "size": "241611173",
-                    "download": "82201456"
+                    "gid": "342012084243576650",
+                    "size": "242188397",
+                    "download": "82160560"
                 },
                 "previous_build": {
                     "gid": "2005180106795533146",
@@ -61,9 +61,9 @@
                     "download": "28618256"
                 },
                 "prerelease": {
-                    "gid": "4365247718224700910",
-                    "size": "105524814",
-                    "download": "28618256"
+                    "gid": "2524204248688418624",
+                    "size": "113184666",
+                    "download": "30167136"
                 },
                 "previous_build": {
                     "gid": "2107924716899862244",
@@ -80,9 +80,9 @@
                 "timeupdated": "1739907810"
             },
             "prerelease": {
-                "buildid": "17399407",
+                "buildid": "18450823",
                 "description": "Latest available build",
-                "timeupdated": "1739907819"
+                "timeupdated": "1747174941"
             },
             "previous_build": {
                 "buildid": "6953255",
