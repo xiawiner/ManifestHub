@@ -4,8 +4,8 @@
     "name": "ATOM RPG",
     "schinese_name": "核爆RPG：末日余生",
     "isfreeapp": "0",
-    "change_number": "28261125",
-    "update_time": "2025-04-02 12:41:04",
+    "change_number": "28974714",
+    "update_time": "2025-05-14 22:35:58",
     "depot": {
         "228988": {
             "config": {
@@ -306,6 +306,6 @@
                 "timeupdated": "1717596813"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "1ec000f96847d048717a843798a622b07542a0000c45fce4271aca335fb9ed59"
     }
 }
