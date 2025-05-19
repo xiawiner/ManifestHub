@@ -4,8 +4,8 @@
     "name": "Railway Empire",
     "schinese_name": "铁路帝国",
     "isfreeapp": "0",
-    "change_number": "28001468",
-    "update_time": "2025-03-18 04:22:47",
+    "change_number": "28974127",
+    "update_time": "2025-05-14 13:47:45",
     "depot": {
         "baselanguages": "",
         "hasdepotsindlc": "0",
@@ -370,6 +370,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "0727ef51148809af938fe3885519700158eff387be8147cbd63c21a3955e49c0"
     }
 }
