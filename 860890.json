@@ -4,8 +4,8 @@
     "name": "Factory Town",
     "schinese_name": "工业小镇",
     "isfreeapp": "0",
-    "change_number": "28249092",
-    "update_time": "2025-04-01 21:24:40",
+    "change_number": "28979645",
+    "update_time": "2025-05-14 22:47:18",
     "depot": {
         "860891": {
             "config": {
@@ -116,6 +116,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "e05c97e74ed05144ad0529a4fd2ce1746b05d093f639e5def70cbad330c64347"
     }
 }
