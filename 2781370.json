@@ -4,8 +4,8 @@
     "name": "EXIT KUN",
     "schinese_name": "坤号出口",
     "isfreeapp": "0",
-    "change_number": "27948074",
-    "update_time": "2025-03-14 11:21:47",
+    "change_number": "29014540",
+    "update_time": "2025-05-16 09:18:49",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english",
@@ -75,6 +75,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "59daff8163a8625c830f61d82207b5216bc05bdf9db3bb58a7c630ba96dfd8d4"
     }
 }
