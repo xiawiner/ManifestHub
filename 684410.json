@@ -4,8 +4,8 @@
     "name": "Bridge Constructor Portal",
     "schinese_name": "桥梁工程师传送门",
     "isfreeapp": "0",
-    "change_number": "27920895",
-    "update_time": "2025-03-13 06:21:11",
+    "change_number": "28979212",
+    "update_time": "2025-05-14 22:42:10",
     "depot": {
         "228983": {
             "config": {
@@ -69,6 +69,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "2b49a995964217fdd3160a5c4d41c257db9e8da906e69b070bebd5d2d9e15610"
     }
 }
