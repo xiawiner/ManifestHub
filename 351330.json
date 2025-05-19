@@ -4,8 +4,8 @@
     "name": "DROD RPG: Tendry's Tale",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28418124",
-    "update_time": "2025-04-11 07:33:45",
+    "change_number": "28983674",
+    "update_time": "2025-05-14 23:07:16",
     "depot": {
         "351331": {
             "manifests": {
@@ -23,9 +23,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1982313262899976747",
+                    "gid": "8254960050457452868",
                     "size": "7358032",
-                    "download": "2852256"
+                    "download": "2852352"
                 }
             },
             "decryptionkey": "7a527af24b19ea49cfb99ca2904c33609e6a5f8308304c29ca41dce96535f8bc"
@@ -57,8 +57,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16353193",
-                "timeupdated": "1731170577"
+                "buildid": "18462341",
+                "timeupdated": "1747235232"
             }
         }
     }
