@@ -4,8 +4,8 @@
     "name": "Pathfinder: Wrath of the Righteous - Inevitable Excess",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28365555",
-    "update_time": "2025-04-08 20:40:06",
+    "change_number": "29001387",
+    "update_time": "2025-05-15 19:50:37",
     "depot": {
         "1889982": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5693516321890151274",
-                    "size": "961420381",
-                    "download": "722215472"
+                    "gid": "5170638369605182944",
+                    "size": "961420356",
+                    "download": "722215392"
                 },
                 "1.3.7d": {
                     "gid": "3367788626596015166",
@@ -62,7 +62,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "874999282107751",
+                    "gid": "139487598289730241",
                     "size": "961482952",
                     "download": "722237440"
                 },
@@ -134,8 +134,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17412080",
-                "timeupdated": "1741697355"
+                "buildid": "18026018",
+                "timeupdated": "1747309832"
             },
             "1.3.7d": {
                 "buildid": "8986682",
