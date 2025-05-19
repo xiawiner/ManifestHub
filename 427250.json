@@ -4,8 +4,8 @@
     "name": "8-Bit Armies",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28292815",
-    "update_time": "2025-04-04 00:20:03",
+    "change_number": "28973260",
+    "update_time": "2025-05-14 12:17:56",
     "depot": {
         "228983": {
             "config": {
@@ -40,6 +40,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "bc6f9c583960d3072edede03e1cb82398c370116f7e0f605496bfaa25396eb1a"
     }
 }
