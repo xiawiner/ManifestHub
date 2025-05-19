@@ -4,15 +4,15 @@
     "name": "Weed Shop 3",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27358722",
-    "update_time": "2025-02-07 13:31:11",
+    "change_number": "28984818",
+    "update_time": "2025-05-15 00:07:51",
     "depot": {
         "1182111": {
             "manifests": {
                 "public": {
-                    "gid": "1980533230537273493",
-                    "size": "11312693286",
-                    "download": "4040322608"
+                    "gid": "3214018409839287239",
+                    "size": "11936092390",
+                    "download": "4251796800"
                 },
                 "chill": {
                     "gid": "1516913203993157034",
@@ -20,17 +20,17 @@
                     "download": "4035636880"
                 },
                 "experimental": {
-                    "gid": "1980533230537273493",
-                    "size": "11312693286",
-                    "download": "4040322608"
+                    "gid": "3214018409839287239",
+                    "size": "11936092390",
+                    "download": "4251796800"
                 }
             },
             "decryptionkey": "38f0e134e58c497af8b56f60d883e2eb42e086707e881070e966ed413d718fe4"
         },
         "branches": {
             "public": {
-                "buildid": "17276443",
-                "timeupdated": "1738906144"
+                "buildid": "17512585",
+                "timeupdated": "1740563626"
             },
             "chill": {
                 "buildid": "12636258",
@@ -38,9 +38,9 @@
                 "timeupdated": "1699330233"
             },
             "experimental": {
-                "buildid": "17276443",
+                "buildid": "17512585",
                 "description": "Features untested game mechanics that will most likely break yo' game!",
-                "timeupdated": "1738906114"
+                "timeupdated": "1740563599"
             }
         },
         "privatebranches": "1"
