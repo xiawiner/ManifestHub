@@ -4,8 +4,8 @@
     "name": "恶魔会社：入职",
     "schinese_name": "恶魔会社：入职",
     "isfreeapp": "0",
-    "change_number": "28898747",
-    "update_time": "2025-05-09 17:35:07",
+    "change_number": "29017619",
+    "update_time": "2025-05-16 14:12:20",
     "depot": {
         "baselanguages": "schinese",
         "2607262": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3463148216451687716",
-                    "size": "900867983",
-                    "download": "525834944"
+                    "gid": "5403160224878576707",
+                    "size": "900868397",
+                    "download": "525840912"
                 }
             },
             "decryptionkey": "22032f72da989bcb26049e02bc2e7577a545c8aa23559adb5fe917b17898c911"
         },
         "branches": {
             "public": {
-                "buildid": "18389623",
-                "timeupdated": "1746711851"
+                "buildid": "18486628",
+                "timeupdated": "1747375936"
             }
         },
         "privatebranches": "1"
