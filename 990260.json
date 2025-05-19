@@ -4,8 +4,8 @@
     "name": "Collapse: A Political Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27974095",
-    "update_time": "2025-03-16 00:57:21",
+    "change_number": "29000425",
+    "update_time": "2025-05-15 18:55:21",
     "depot": {
         "workshopdepot": "990260",
         "228988": {
@@ -36,9 +36,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3315832795024897570",
-                    "size": "614767139",
-                    "download": "262933984"
+                    "gid": "384038797974962589",
+                    "size": "640891588",
+                    "download": "267739296"
                 }
             },
             "decryptionkey": "2a1e109aa8f18d8d989c42c41232b0f70d707797347d3d9093275ac94c055f21"
@@ -50,9 +50,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2373019485759455746",
-                    "size": "600922209",
-                    "download": "258685664"
+                    "gid": "5717606494307708689",
+                    "size": "624461394",
+                    "download": "262798400"
                 }
             },
             "decryptionkey": ""
@@ -63,9 +63,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "245044666766876941",
-                    "size": "632646812",
-                    "download": "268556720"
+                    "gid": "1882014285818219367",
+                    "size": "628034022",
+                    "download": "264053056"
                 }
             },
             "decryptionkey": ""
@@ -76,9 +76,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6534474519254402980",
-                    "size": "695234959",
-                    "download": "301970784"
+                    "gid": "7186532668026254748",
+                    "size": "634442913",
+                    "download": "244739680"
                 }
             },
             "decryptionkey": ""
@@ -90,9 +90,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7420560671022046610",
-                    "size": "612228335",
-                    "download": "261249216"
+                    "gid": "6495445696897155371",
+                    "size": "640891588",
+                    "download": "267744864"
                 }
             },
             "decryptionkey": ""
@@ -104,9 +104,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5654194054105129262",
-                    "size": "600922209",
-                    "download": "258702352"
+                    "gid": "192805826573256749",
+                    "size": "624461394",
+                    "download": "262803008"
                 }
             },
             "decryptionkey": ""
@@ -117,9 +117,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2155127113698288644",
-                    "size": "632646812",
-                    "download": "265589968"
+                    "gid": "1334123992857283714",
+                    "size": "628034022",
+                    "download": "264059344"
                 }
             },
             "decryptionkey": ""
@@ -130,17 +130,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7795500317265575102",
-                    "size": "695234959",
-                    "download": "301982224"
+                    "gid": "217383367844785898",
+                    "size": "634442913",
+                    "download": "244745968"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "15860796",
-                "timeupdated": "1727526963"
+                "buildid": "18474557",
+                "timeupdated": "1747306518"
             }
         },
         "workshopdepotdecryptionkey": "e105519f9baebdf173611a6e2fd3863584862a10f4bde92395e44bdd0f174127"
