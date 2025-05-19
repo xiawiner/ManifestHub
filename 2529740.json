@@ -4,8 +4,8 @@
     "name": "Bring The Chickens Home",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25545372",
-    "update_time": "2024-10-05 15:43:25",
+    "change_number": "28977400",
+    "update_time": "2025-05-14 22:42:57",
     "depot": {
         "229006": {
             "config": {
@@ -20,9 +20,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3925237325317283475",
-                    "size": "1570590352",
-                    "download": "254508032"
+                    "gid": "3740624232032358174",
+                    "size": "1572813472",
+                    "download": "254948896"
                 }
             },
             "decryptionkey": "a60237494f996ddbd85049ffe94f073c2abcf67611994765ca6fd1db7ce0c0bd"
@@ -33,17 +33,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3070465130421221092",
-                    "size": "998365080",
-                    "download": "225136192"
+                    "gid": "5141150495437665292",
+                    "size": "1000588216",
+                    "download": "225597104"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "15511856",
-                "timeupdated": "1724804778"
+                "buildid": "18137759",
+                "timeupdated": "1744856362"
             }
         }
     }
