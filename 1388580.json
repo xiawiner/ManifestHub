@@ -4,8 +4,8 @@
     "name": "Blooming Business: Casino",
     "schinese_name": "萌宠大赢家 / Blooming Business: Casino",
     "isfreeapp": "0",
-    "change_number": "28099345",
-    "update_time": "2025-03-24 05:18:46",
+    "change_number": "28986814",
+    "update_time": "2025-05-15 01:53:14",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,japanese,polish,brazilian",
         "1388581": {
@@ -30,6 +30,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "2600c3a53408a7ee98c9d2eb2d660ede777ec604e2891403b285c69dbc87cf21"
     }
 }
