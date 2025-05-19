@@ -4,23 +4,23 @@
     "name": "SnOut 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27520251",
-    "update_time": "2025-02-18 01:37:21",
+    "change_number": "29030998",
+    "update_time": "2025-05-17 02:56:31",
     "depot": {
         "1766811": {
             "manifests": {
                 "public": {
-                    "gid": "3553141310798184693",
+                    "gid": "3650138930965731478",
                     "size": "95210248",
-                    "download": "58078144"
+                    "download": "58078160"
                 }
             },
             "decryptionkey": "fd7b3c4e747976b9104bd7d26c67fddd6a561034524f8027cba07d6112589c1e"
         },
         "branches": {
             "public": {
-                "buildid": "17396523",
-                "timeupdated": "1739813835"
+                "buildid": "18495832",
+                "timeupdated": "1747421787"
             }
         }
     }
