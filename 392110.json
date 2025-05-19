@@ -4,8 +4,8 @@
     "name": "ENDLESS™ Space 2",
     "schinese_name": "无尽空间2",
     "isfreeapp": "0",
-    "change_number": "27819208",
-    "update_time": "2025-03-07 01:01:58",
+    "change_number": "28972897",
+    "update_time": "2025-05-14 11:47:43",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,polish,brazilian",
         "workshopdepot": "392110",
@@ -590,6 +590,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "8b632f6c2274dcd080318636c094b3d88d3db850265937522cf2738576ecc675"
     }
 }
