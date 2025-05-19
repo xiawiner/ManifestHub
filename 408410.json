@@ -4,8 +4,8 @@
     "name": "X-Morph: Defense",
     "schinese_name": "X变体：防御",
     "isfreeapp": "0",
-    "change_number": "28281421",
-    "update_time": "2025-04-03 12:10:25",
+    "change_number": "29010304",
+    "update_time": "2025-05-16 03:39:17",
     "depot": {
         "workshopdepot": "408410",
         "228984": {
@@ -110,6 +110,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "e5c981760937525d50394b54aa6e05f7c102feee721949c5d3467abc507c92bd"
     }
 }
