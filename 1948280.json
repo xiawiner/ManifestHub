@@ -4,8 +4,8 @@
     "name": "Stacklands",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27740535",
-    "update_time": "2025-03-02 17:22:31",
+    "change_number": "28991108",
+    "update_time": "2025-05-15 06:59:55",
     "depot": {
         "workshopdepot": "1948280",
         "baselanguages": "english",
@@ -64,6 +64,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "347776869e11602b2ea91e58bea4ad63b5c4265d2a3a4eb511e22a93e7109c11"
     }
 }
