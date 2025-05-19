@@ -4,8 +4,8 @@
     "name": "Ato",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28853240",
-    "update_time": "2025-05-07 10:37:31",
+    "change_number": "29017267",
+    "update_time": "2025-05-16 13:42:30",
     "depot": {
         "228988": {
             "config": {
@@ -36,9 +36,9 @@
                     "download": "220839424"
                 },
                 "windows_beta": {
-                    "gid": "7164010430815746531",
-                    "size": "344757219",
-                    "download": "220011312"
+                    "gid": "6588204810662332509",
+                    "size": "359525079",
+                    "download": "222801824"
                 }
             },
             "decryptionkey": "9670f6d77938fdcf6039ed9da61a13aa2d23512f5cb215094aa7a52876899695"
@@ -115,9 +115,9 @@
                 "timeupdated": "1717358502"
             },
             "windows_beta": {
-                "buildid": "18367941",
+                "buildid": "18486422",
                 "description": "Beta for Windows builds.",
-                "timeupdated": "1746585447"
+                "timeupdated": "1747374147"
             }
         },
         "privatebranches": "1"
