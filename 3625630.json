@@ -4,8 +4,8 @@
     "name": "Lust Academy Final - Shadows Unleashed",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28907652",
-    "update_time": "2025-05-10 02:23:27",
+    "change_number": "29030518",
+    "update_time": "2025-05-17 02:26:13",
     "depot": {
         "3625630": {
             "dlcappid": "3625630",
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3621420924950759146",
-                    "size": "125986460",
-                    "download": "126675184"
+                    "gid": "3085819674844927784",
+                    "size": "125991677",
+                    "download": "126676416"
                 }
             },
             "decryptionkey": "46642d1567457ff9aa3f42b96262024fa77c6e60b7ddac850e7c7959c20d0f58"
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4441462974716429229",
-                    "size": "125986460",
-                    "download": "126675184"
+                    "gid": "7816640552436053029",
+                    "size": "125991677",
+                    "download": "126676416"
                 }
             },
             "dlcappid": "3625630"
         },
         "branches": {
             "public": {
-                "buildid": "18224605",
-                "timeupdated": "1745502001"
+                "buildid": "18495549",
+                "timeupdated": "1747419968"
             }
         }
     }
