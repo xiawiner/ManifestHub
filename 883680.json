@@ -4,8 +4,8 @@
     "name": "Four Kings One War",
     "schinese_name": "",
     "isfreeapp": "1",
-    "change_number": "27862968",
-    "update_time": "2025-03-10 07:49:04",
+    "change_number": "29047083",
+    "update_time": "2025-05-18 16:11:35",
     "depot": {
         "hasdepotsindlc": "1",
         "228986": {
@@ -30,7 +30,8 @@
                     "size": "1542758202",
                     "download": "1277312816"
                 }
-            }
+            },
+            "decryptionkey": "6f269f6cb92e0fdccfdde7b24fc800d4e4aeb89b2159923751427d736aa860f2"
         },
         "883682": {
             "config": {
@@ -47,7 +48,8 @@
                     "size": "1590211582",
                     "download": "1308065616"
                 }
-            }
+            },
+            "decryptionkey": "b58e57c1271c67b3f2bba9c22c2dbaf3f46608c11533f48a92b9efccdd24ea59"
         },
         "branches": {
             "public": {
