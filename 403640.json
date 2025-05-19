@@ -4,8 +4,8 @@
     "name": "Dishonored 2",
     "schinese_name": "耻辱2",
     "isfreeapp": "0",
-    "change_number": "27757634",
-    "update_time": "2025-03-04 00:37:09",
+    "change_number": "28972977",
+    "update_time": "2025-05-14 11:57:42",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,tchinese,russian,japanese,polish,brazilian",
         "228984": {
@@ -36,9 +36,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5486426097765685887",
-                    "size": "458763104",
-                    "download": "167217728"
+                    "gid": "2793343286160593659",
+                    "size": "458568304",
+                    "download": "148126720"
                 }
             },
             "decryptionkey": "5df1167dc992c6a47481f360077cf8959da86e42b96e5507971e2992c9b4440a"
@@ -252,8 +252,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "10778015",
-                "timeupdated": "1736438368"
+                "buildid": "17576867",
+                "timeupdated": "1742310051"
             }
         },
         "privatebranches": "1"
