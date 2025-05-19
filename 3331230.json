@@ -4,8 +4,8 @@
     "name": "觀塘 | Kwun Tong",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28806186",
-    "update_time": "2025-05-04 11:31:33",
+    "change_number": "29048164",
+    "update_time": "2025-05-18 19:10:56",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "3331231": {
             "manifests": {
                 "public": {
-                    "gid": "6802157036611541340",
-                    "size": "13851352821",
-                    "download": "13135293296"
+                    "gid": "4860237546926598694",
+                    "size": "12925704268",
+                    "download": "12240760976"
                 }
             },
             "decryptionkey": "6904d81f2f81f8289ff4a558b6ff0c38d4549c58e4cf06e8a73cc1bbeabee647"
         },
         "branches": {
             "public": {
-                "buildid": "18281563",
-                "timeupdated": "1746329345"
+                "buildid": "18508222",
+                "timeupdated": "1747566652"
             }
         }
     }
