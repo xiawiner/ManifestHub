@@ -4,8 +4,8 @@
     "name": "Dark Chess",
     "schinese_name": "后翼弃兵：迷雾棋局",
     "isfreeapp": "0",
-    "change_number": "28913131",
-    "update_time": "2025-05-10 10:32:53",
+    "change_number": "29026454",
+    "update_time": "2025-05-16 22:38:11",
     "depot": {
         "baselanguages": "english,french,schinese,tchinese,russian,brazilian,ukrainian",
         "1151131": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8448487318352393796",
-                    "size": "1103962936",
-                    "download": "391213056"
+                    "gid": "400178740314570417",
+                    "size": "1154264076",
+                    "download": "395052864"
                 }
             },
             "decryptionkey": "b7cf5a86054e555ef658b03512174a4218bc2504f41613fabae3813898303cad"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7828811213579396314",
-                    "size": "1136813120",
-                    "download": "401173392"
+                    "gid": "5739721023200289515",
+                    "size": "1143927222",
+                    "download": "401649952"
                 }
             }
         },
@@ -39,16 +39,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3520953113699095207",
-                    "size": "1157312761",
-                    "download": "394359408"
+                    "gid": "8730845581651396095",
+                    "size": "1164426995",
+                    "download": "394832368"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "12869892",
-                "timeupdated": "1701701152"
+                "buildid": "18492759",
+                "timeupdated": "1747406288"
             }
         },
         "privatebranches": "1"
