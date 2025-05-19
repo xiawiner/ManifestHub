@@ -1,11 +1,11 @@
 {
     "appid": "255470",
     "type": "Tool",
-    "name": "Half-Life Deathmatch: Source Dedicated server",
+    "name": "Half-Life Deathmatch: Source Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27541498",
-    "update_time": "2025-02-19 04:00:23",
+    "change_number": "28969290",
+    "update_time": "2025-05-14 06:22:39",
     "depot": {
         "255470": {
             "manifests": {
@@ -15,9 +15,9 @@
                     "download": "472212512"
                 },
                 "prerelease": {
-                    "gid": "4815058756064145967",
-                    "size": "993115629",
-                    "download": "472212512"
+                    "gid": "6508155877064161042",
+                    "size": "976483048",
+                    "download": "470617584"
                 },
                 "previous_build": {
                     "gid": "2278144969926205611",
@@ -38,9 +38,9 @@
                     "download": "82422144"
                 },
                 "prerelease": {
-                    "gid": "8718703707273445445",
-                    "size": "240124325",
-                    "download": "82422144"
+                    "gid": "3837599109954655217",
+                    "size": "240694893",
+                    "download": "82381952"
                 },
                 "previous_build": {
                     "gid": "2924862230544282892",
@@ -61,9 +61,9 @@
                     "download": "27985440"
                 },
                 "prerelease": {
-                    "gid": "1196661467168196578",
-                    "size": "104901454",
-                    "download": "27985440"
+                    "gid": "8969322461897003583",
+                    "size": "112544702",
+                    "download": "29535648"
                 },
                 "previous_build": {
                     "gid": "5572515540873246049",
@@ -80,8 +80,8 @@
                 "timeupdated": "1739908799"
             },
             "prerelease": {
-                "buildid": "17399402",
-                "timeupdated": "1739908807"
+                "buildid": "18450809",
+                "timeupdated": "1747174944"
             },
             "previous_build": {
                 "buildid": "6935416",
