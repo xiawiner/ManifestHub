@@ -4,23 +4,23 @@
     "name": "Tower of Kalemonvo",
     "schinese_name": "卡莱蒙沃之塔 Tower of Kalemonvo",
     "isfreeapp": "0",
-    "change_number": "28847913",
-    "update_time": "2025-05-07 02:56:11",
+    "change_number": "29044408",
+    "update_time": "2025-05-18 07:11:24",
     "depot": {
         "2351861": {
             "manifests": {
                 "public": {
-                    "gid": "1632043976945732174",
-                    "size": "2518359816",
-                    "download": "734543712"
+                    "gid": "8724905219847429046",
+                    "size": "2531283572",
+                    "download": "740180592"
                 }
             },
             "decryptionkey": "ddcb15054e2dd0d3cb7cb9835f66f9cf3171a3a60800a079bff419f95d539276"
         },
         "branches": {
             "public": {
-                "buildid": "18363686",
-                "timeupdated": "1746557766"
+                "buildid": "18427133",
+                "timeupdated": "1747044737"
             }
         },
         "privatebranches": "1"
