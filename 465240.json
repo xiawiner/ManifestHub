@@ -4,8 +4,8 @@
     "name": "Serious Sam VR: The Last Hope",
     "schinese_name": "英雄萨姆 VR：最后的希望",
     "isfreeapp": "0",
-    "change_number": "27204999",
-    "update_time": "2025-01-29 01:34:49",
+    "change_number": "28973724",
+    "update_time": "2025-05-14 13:07:52",
     "depot": {
         "228990": {
             "config": {
@@ -20,9 +20,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3738674451113520313",
-                    "size": "54060528",
-                    "download": "16658480"
+                    "gid": "7372015903234975022",
+                    "size": "51015472",
+                    "download": "15909824"
                 },
                 "previousversion": {
                     "gid": "3804626784038322166",
@@ -40,9 +40,9 @@
         "465245": {
             "manifests": {
                 "public": {
-                    "gid": "1200045028912010734",
-                    "size": "4960193665",
-                    "download": "4949638512"
+                    "gid": "8098158271013055033",
+                    "size": "4903180554",
+                    "download": "4892733104"
                 },
                 "previousversion": {
                     "gid": "3636917862658936118",
@@ -63,9 +63,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6439985341611296848",
-                    "size": "30405987",
-                    "download": "20349312"
+                    "gid": "6374729498828934686",
+                    "size": "30416227",
+                    "download": "20354240"
                 },
                 "previousversion": {
                     "gid": "471341005872058615",
@@ -182,9 +182,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8885058857511823909",
-                    "size": "14938616",
-                    "download": "4782288"
+                    "gid": "3950014341530079484",
+                    "size": "14864792",
+                    "download": "4826656"
                 },
                 "previousversion": {
                     "gid": "5342898113082088890",
@@ -202,8 +202,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "2548499",
-                "timeupdated": "1519316558"
+                "buildid": "18428024",
+                "timeupdated": "1747047826"
             },
             "previousversion": {
                 "buildid": "2441677",
