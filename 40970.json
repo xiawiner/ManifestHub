@@ -4,8 +4,8 @@
     "name": "Stronghold Crusader HD",
     "schinese_name": "要塞：十字军东征 高清版",
     "isfreeapp": "0",
-    "change_number": "28601514",
-    "update_time": "2025-04-22 21:04:47",
+    "change_number": "29001026",
+    "update_time": "2025-05-15 19:30:03",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -17,9 +17,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6697685396245370242",
-                    "size": "762018160",
-                    "download": "603211600"
+                    "gid": "525458190910597971",
+                    "size": "761283344",
+                    "download": "602800560"
                 },
                 "local": {
                     "gid": "8920045877222520588",
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1117166922784485715",
-                    "size": "75616908",
-                    "download": "66872048"
+                    "gid": "7873539755524760233",
+                    "size": "75792848",
+                    "download": "66967920"
                 },
                 "local": {
                     "gid": "2912057564293983162",
@@ -53,9 +53,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "121977374283426249",
-                    "size": "70423388",
-                    "download": "59740656"
+                    "gid": "2485217463421324780",
+                    "size": "70602364",
+                    "download": "59838480"
                 },
                 "local": {
                     "gid": "9199496905638011279",
@@ -71,9 +71,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2182520088441884209",
-                    "size": "69534298",
-                    "download": "60761552"
+                    "gid": "2900828197235929914",
+                    "size": "69714614",
+                    "download": "60859696"
                 },
                 "local": {
                     "gid": "281833772870534830",
@@ -89,9 +89,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3283472949525669580",
-                    "size": "66562820",
-                    "download": "58786912"
+                    "gid": "3117932823397205443",
+                    "size": "66740156",
+                    "download": "58883600"
                 },
                 "local": {
                     "gid": "1251828031078456733",
@@ -107,9 +107,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4299441917930240486",
-                    "size": "76906656",
-                    "download": "67086512"
+                    "gid": "1956325291113616834",
+                    "size": "77079968",
+                    "download": "67181376"
                 }
             },
             "decryptionkey": "79fa97ad827a2261dfbd91bd3258ecfa25ef71133c4cbb59658028651be55659"
@@ -120,9 +120,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6552206226673809417",
-                    "size": "71845050",
-                    "download": "63488912"
+                    "gid": "2574846866425962204",
+                    "size": "72020066",
+                    "download": "63582928"
                 }
             },
             "decryptionkey": "a52775b8ca650109990bc1d0377ec6eb88ea153c9aeb7965d83e0ef860bcb694"
@@ -133,9 +133,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5114024528479443506",
-                    "size": "80322491",
-                    "download": "61772272"
+                    "gid": "7140998736208230591",
+                    "size": "80501291",
+                    "download": "61870784"
                 }
             },
             "decryptionkey": "af23527587236f6555cab4fd271d5b2d08918557bd5e71c0cd5e6465d7637d66"
@@ -146,9 +146,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6113544388361849393",
-                    "size": "80173794",
-                    "download": "61754864"
+                    "gid": "1392030047135391660",
+                    "size": "80351538",
+                    "download": "61852128"
                 }
             },
             "decryptionkey": "0ed6fbcd9edb19352762a65a43dac9716a313b95cc789656348b0d504d4c9056"
@@ -159,9 +159,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2214733639497808098",
-                    "size": "306950164",
-                    "download": "246534400"
+                    "gid": "440571064334325362",
+                    "size": "307128692",
+                    "download": "246631968"
                 }
             },
             "decryptionkey": "29832dfa882b35cb1fec2e56d61fe2914130ce5b4b3f65cf70d79faefda943b1"
@@ -172,9 +172,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4535789791987513381",
-                    "size": "80236684",
-                    "download": "61762912"
+                    "gid": "5114458414665378497",
+                    "size": "80418348",
+                    "download": "61862208"
                 }
             },
             "decryptionkey": "6e5074fd39d6e5ebcb632fdeec1584002af69fa7354424142e3f592478c2d0f7"
@@ -185,17 +185,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "103356844171305189",
-                    "size": "71848566",
-                    "download": "60932304"
+                    "gid": "4146633319597449918",
+                    "size": "72024362",
+                    "download": "61028304"
                 }
             },
             "decryptionkey": "2d9a5a1dc25a4769af391decdc79e0b57f16dc0f08e3280ce5d8ef333c2c3bef"
         },
         "branches": {
             "public": {
-                "buildid": "17043600",
-                "timeupdated": "1737385673"
+                "buildid": "18464264",
+                "timeupdated": "1747308600"
             },
             "local": {
                 "buildid": "112343",
