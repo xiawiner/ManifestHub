@@ -4,8 +4,8 @@
     "name": "Hot Lava",
     "schinese_name": "热熔岩",
     "isfreeapp": "0",
-    "change_number": "27765113",
-    "update_time": "2025-03-04 09:22:51",
+    "change_number": "28972643",
+    "update_time": "2025-05-14 11:27:52",
     "depot": {
         "workshopdepot": "382560",
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,dutch,turkish,arabic,brazilian,latam",
@@ -38,6 +38,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "16486a99e5b0c72edf1a4b7d2b02d8951a747d836a79b4d265853e1ce46739db"
     }
 }
