@@ -4,8 +4,8 @@
     "name": "Sea Of Radiation 2",
     "schinese_name": "辐射之海2",
     "isfreeapp": "0",
-    "change_number": "28698785",
-    "update_time": "2025-04-28 11:38:18",
+    "change_number": "29047435",
+    "update_time": "2025-05-18 17:15:19",
     "depot": {
         "3191721": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6135613019132701484",
-                    "size": "995459818",
-                    "download": "87738752"
+                    "gid": "4830167555720813995",
+                    "size": "995322961",
+                    "download": "92416336"
                 }
             },
             "decryptionkey": "4960bfc7d1d95a452f332849b470babe71918b2bbc695bf6bce601e5f5730b1a"
@@ -23,8 +23,8 @@
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,portuguese",
         "branches": {
             "public": {
-                "buildid": "18260279",
-                "timeupdated": "1745811495"
+                "buildid": "18507356",
+                "timeupdated": "1747554080"
             }
         }
     }
