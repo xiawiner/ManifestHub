@@ -4,8 +4,8 @@
     "name": "天外武林 (Traveler of Wuxia)",
     "schinese_name": "天外武林",
     "isfreeapp": "0",
-    "change_number": "28066542",
-    "update_time": "2025-03-21 15:37:25",
+    "change_number": "29008517",
+    "update_time": "2025-05-16 01:48:51",
     "depot": {
         "baselanguages": "english,schinese,tchinese",
         "hasdepotsindlc": "0",
@@ -116,6 +116,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "0cdbec9f78f67b102af9266994553a8cbe5279f56ec0bb41a4da76888b4fc7b7"
     }
 }
