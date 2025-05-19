@@ -4,15 +4,15 @@
     "name": "Racket Club",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28772731",
-    "update_time": "2025-05-02 01:39:25",
+    "change_number": "29011645",
+    "update_time": "2025-05-16 05:13:05",
     "depot": {
         "2407911": {
             "manifests": {
                 "public": {
-                    "gid": "5931587925552130743",
-                    "size": "2395569172",
-                    "download": "1943264912"
+                    "gid": "7955645071024896952",
+                    "size": "2395430306",
+                    "download": "1943233568"
                 }
             },
             "decryptionkey": "8b22b457d184fd412504af6682eced1b534e6b2042feb067d176cc77141634ed"
@@ -25,8 +25,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17954628",
-                "timeupdated": "1743598221"
+                "buildid": "18430197",
+                "timeupdated": "1747059104"
             }
         },
         "privatebranches": "1"
