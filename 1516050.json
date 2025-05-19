@@ -4,8 +4,8 @@
     "name": "PixageFX Studio",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27340860",
-    "update_time": "2025-02-06 16:18:39",
+    "change_number": "28926683",
+    "update_time": "2025-05-11 23:34:51",
     "depot": {
         "228984": {
             "config": {
@@ -49,17 +49,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3989278912867387878",
-                    "size": "9309964101",
-                    "download": "4419963248"
+                    "gid": "1187566281634700562",
+                    "size": "9335417009",
+                    "download": "4446869696"
                 }
             },
             "decryptionkey": "96151a246dc4a04e6d2e2481aa98a60faa9e57bf60027058fc5fc752c06d8a43"
         },
         "branches": {
             "public": {
-                "buildid": "17263267",
-                "timeupdated": "1738829915"
+                "buildid": "18420649",
+                "timeupdated": "1746977686"
             }
         },
         "workshopdepotdecryptionkey": ""
