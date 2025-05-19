@@ -4,8 +4,8 @@
     "name": "Main Assembly",
     "schinese_name": "组装车间",
     "isfreeapp": "0",
-    "change_number": "28235101",
-    "update_time": "2025-04-01 03:50:28",
+    "change_number": "28983991",
+    "update_time": "2025-05-14 23:23:59",
     "depot": {
         "228988": {
             "config": {
@@ -53,6 +53,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "9e9d0488ef334341786808d7d6846eaaaa0a59117bce9337b626b0f00f1a79a5"
     }
 }
