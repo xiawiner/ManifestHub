@@ -4,8 +4,8 @@
     "name": "Ghost in the pool",
     "schinese_name": "替身",
     "isfreeapp": "0",
-    "change_number": "28901947",
-    "update_time": "2025-05-09 20:52:45",
+    "change_number": "28972480",
+    "update_time": "2025-05-14 11:09:25",
     "depot": {
         "baselanguages": "english,french,italian,koreana,spanish,schinese,japanese,turkish",
         "hasdepotsindlc": "1",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7109978057294208042",
-                    "size": "316126136",
-                    "download": "232229872"
+                    "gid": "7829870569514686326",
+                    "size": "642042700",
+                    "download": "205977120"
                 }
             },
             "decryptionkey": "6b3ae5770f4cffef0f5b2e8c2b41b10c5ad35adb6627b1aae2ade7f54c21bbc0"
@@ -29,17 +29,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "628024834293183435",
-                    "size": "362065372",
-                    "download": "233641136"
+                    "gid": "5757142015415082907",
+                    "size": "682666211",
+                    "download": "206061408"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "14716053",
-                "timeupdated": "1718354421"
+                "buildid": "18403323",
+                "timeupdated": "1747037940"
             }
         },
         "privatebranches": "1"
