@@ -4,8 +4,8 @@
     "name": "Clustertruck",
     "schinese_name": "货不单行",
     "isfreeapp": "0",
-    "change_number": "28254570",
-    "update_time": "2025-04-02 02:49:20",
+    "change_number": "28972897",
+    "update_time": "2025-05-14 11:47:51",
     "depot": {
         "workshopdepot": "397950",
         "397951": {
@@ -75,6 +75,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "79c90fbd0df92e14dae5541a5d32e36b710b3a0e1732806ead67e43fe250db12"
     }
 }
