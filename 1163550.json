@@ -4,8 +4,8 @@
     "name": "Captain Tsubasa - Rise of New Champions",
     "schinese_name": "队长小翼 新秀崛起",
     "isfreeapp": "0",
-    "change_number": "28190045",
-    "update_time": "2025-03-28 20:16:30",
+    "change_number": "28984653",
+    "update_time": "2025-05-15 00:00:06",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,tchinese,arabic,brazilian,latam",
         "workshopdepot": "1163550",
@@ -315,6 +315,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "4bc092cef3bf2b5c882d3fc11e21a77c45e808ce0e01c3a09f663dc30b036d2f"
     }
 }
