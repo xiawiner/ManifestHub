@@ -4,8 +4,8 @@
     "name": "Dead Effect 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27115265",
-    "update_time": "2025-01-23 00:28:09",
+    "change_number": "28972897",
+    "update_time": "2025-05-14 11:47:52",
     "depot": {
         "394761": {
             "config": {
@@ -56,7 +56,7 @@
                     "download": "287918784"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "8276e293bd9fed686912c38f4b0df4e98d0de1439c3dd900c45ffb8f09af3954"
         },
         "branches": {
             "public": {
