@@ -4,8 +4,8 @@
     "name": "Virtual Desktop",
     "schinese_name": "VR桌面",
     "isfreeapp": "0",
-    "change_number": "28253166",
-    "update_time": "2025-04-02 01:14:43",
+    "change_number": "28972643",
+    "update_time": "2025-05-14 11:27:48",
     "depot": {
         "228983": {
             "config": {
@@ -84,6 +84,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "692e6a0d05f68eebc564ad6cddfdc37cfbee2893530a3548485810ee307c22af"
     }
 }
