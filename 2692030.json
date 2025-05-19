@@ -4,15 +4,15 @@
     "name": "Valkyrie Squad: Siege Breakers",
     "schinese_name": "女武神小队：突破重围",
     "isfreeapp": "0",
-    "change_number": "28569383",
-    "update_time": "2025-04-20 13:59:18",
+    "change_number": "29042526",
+    "update_time": "2025-05-18 02:15:47",
     "depot": {
         "2692031": {
             "manifests": {
                 "public": {
-                    "gid": "4843437247204556735",
-                    "size": "1794575447",
-                    "download": "375842800"
+                    "gid": "5132267800585075677",
+                    "size": "1801889807",
+                    "download": "378119920"
                 }
             },
             "decryptionkey": "c2f9d73d28310191f8fc91dea63b4b7e20f12acc6ced690a7fe88d0d74a3b679"
@@ -35,8 +35,8 @@
         "baselanguages": "english,koreana,schinese,tchinese,japanese",
         "branches": {
             "public": {
-                "buildid": "17434602",
-                "timeupdated": "1740634699"
+                "buildid": "18454382",
+                "timeupdated": "1747200635"
             }
         },
         "privatebranches": "1"
