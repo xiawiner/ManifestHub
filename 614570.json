@@ -4,8 +4,8 @@
     "name": "Dishonored®: Death of the Outsider™ ",
     "schinese_name": "耻辱：界外魔之死",
     "isfreeapp": "0",
-    "change_number": "27937887",
-    "update_time": "2025-03-14 00:43:54",
+    "change_number": "28975704",
+    "update_time": "2025-05-14 22:39:35",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,tchinese,russian,japanese,polish,brazilian",
         "228984": {
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7757379324423034072",
-                    "size": "382941754",
-                    "download": "114654832"
+                    "gid": "568638818998526532",
+                    "size": "382952034",
+                    "download": "114658400"
                 },
                 "public-beta-update": {
                     "gid": "6943904384566552989",
@@ -48,9 +48,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6411725788166121518",
-                    "size": "148479355",
-                    "download": "103540192"
+                    "gid": "6437441675370247875",
+                    "size": "20503515",
+                    "download": "6966560"
                 },
                 "public-beta-update": {
                     "gid": "7685144392793874345",
@@ -319,8 +319,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "7715854",
-                "timeupdated": "1736438420"
+                "buildid": "17712087",
+                "timeupdated": "1742310002"
             },
             "public-beta-update": {
                 "buildid": "2121962",
