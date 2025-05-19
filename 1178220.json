@@ -4,8 +4,8 @@
     "name": "ICBM",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27805564",
-    "update_time": "2025-03-06 09:07:29",
+    "change_number": "28984818",
+    "update_time": "2025-05-15 00:07:54",
     "depot": {
         "228990": {
             "config": {
@@ -56,6 +56,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "718d6d398975804f7b97519c012051ac62634b1ed9b91f82808d49e2b371fa51"
     }
 }
