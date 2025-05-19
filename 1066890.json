@@ -4,8 +4,8 @@
     "name": "Automobilista 2",
     "schinese_name": "汽车俱乐部2",
     "isfreeapp": "0",
-    "change_number": "28086269",
-    "update_time": "2025-03-22 18:17:53",
+    "change_number": "28983678",
+    "update_time": "2025-05-14 23:07:44",
     "depot": {
         "228984": {
             "config": {
@@ -67,6 +67,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "a1ecf0fa8dda29914e48d578e094cd46ba18f823468c088c586523349f68e617"
     }
 }
