@@ -4,8 +4,8 @@
     "name": "VR Soccer Training",
     "schinese_name": "",
     "isfreeapp": "1",
-    "change_number": "28157763",
-    "update_time": "2025-03-27 05:18:22",
+    "change_number": "28925034",
+    "update_time": "2025-05-11 19:31:48",
     "depot": {
         "228984": {
             "config": {
@@ -18,7 +18,8 @@
                     "download": "13436144"
                 }
             },
-            "depotfromapp": "228980"
+            "depotfromapp": "228980",
+            "decryptionkey": "df7df98d3134f5e0009d5ebcaaf3bbb91ea2f7cbad81a37a9d16bc1835f57068"
         },
         "228990": {
             "config": {
@@ -31,7 +32,8 @@
                     "download": "100658080"
                 }
             },
-            "depotfromapp": "228980"
+            "depotfromapp": "228980",
+            "decryptionkey": "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8"
         },
         "229005": {
             "config": {
@@ -44,7 +46,8 @@
                     "download": "62722592"
                 }
             },
-            "depotfromapp": "228980"
+            "depotfromapp": "228980",
+            "decryptionkey": "aa18a527cdc103aeb3d12caafd6f581689a14467aa55658ba583a9af6e90313a"
         },
         "229033": {
             "config": {
@@ -57,7 +60,8 @@
                     "download": "59325760"
                 }
             },
-            "depotfromapp": "228980"
+            "depotfromapp": "228980",
+            "decryptionkey": "9a789440bbc16131547ac6c062e5f168f7684da533a2899a71fdfaaeec21efc3"
         },
         "hasdepotsindlc": "0",
         "baselanguages": "english",
