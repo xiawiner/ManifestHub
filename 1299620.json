@@ -4,8 +4,8 @@
     "name": "Fabled Lands",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28582075",
-    "update_time": "2025-04-21 19:04:32",
+    "change_number": "29042655",
+    "update_time": "2025-05-18 02:38:32",
     "depot": {
         "1299621": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2404025414279699101",
-                    "size": "1776452748",
-                    "download": "714315968"
+                    "gid": "230339661680061237",
+                    "size": "1776453500",
+                    "download": "714315856"
                 }
             },
             "decryptionkey": "4c61a038d542ba57c8611f9798997544a73c28f4947fb96f0c6ca30e0bf612cd"
@@ -26,9 +26,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4136065755570535800",
-                    "size": "1877155017",
-                    "download": "729933168"
+                    "gid": "2778334006273793730",
+                    "size": "1877155768",
+                    "download": "729934096"
                 }
             },
             "decryptionkey": "54578d4a2fe0c3c3631f70cec87812dfbff26f8433b05e099157b01ace495586"
@@ -40,9 +40,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3567354399054435849",
-                    "size": "1776452748",
-                    "download": "714255600"
+                    "gid": "4841213460340236077",
+                    "size": "1776453500",
+                    "download": "714255488"
                 }
             },
             "decryptionkey": "e9f6c632db8548569ee325477789437e1f482b46fa820894ede27ee58e675b54"
@@ -53,17 +53,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6200024687320752166",
-                    "size": "1773002500",
-                    "download": "712311360"
+                    "gid": "7956604583145029806",
+                    "size": "1773003252",
+                    "download": "712312784"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "18179689",
-                "timeupdated": "1745233469"
+                "buildid": "18490834",
+                "timeupdated": "1747398053"
             }
         },
         "privatebranches": "1"
