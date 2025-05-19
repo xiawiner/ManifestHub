@@ -4,8 +4,8 @@
     "name": "The Mr. Rabbit Magic Show - Supporter Pack",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28849237",
-    "update_time": "2025-05-07 04:29:15",
+    "change_number": "28937700",
+    "update_time": "2025-05-12 19:36:38",
     "depot": {
         "3701380": {
             "config": {
@@ -40,9 +40,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4029169035220407550",
-                    "size": "114883385",
-                    "download": "105289376"
+                    "gid": "1348378585751367232",
+                    "size": "116656431",
+                    "download": "107057440"
                 }
             },
             "dlcappid": "3701380",
@@ -54,17 +54,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3790181276083193966",
-                    "size": "146201152",
-                    "download": "109409936"
+                    "gid": "1268039778576869877",
+                    "size": "147973831",
+                    "download": "111177424"
                 }
             },
             "dlcappid": "3701380"
         },
         "branches": {
             "public": {
-                "buildid": "18308128",
-                "timeupdated": "1746100095"
+                "buildid": "18428416",
+                "timeupdated": "1747049791"
             }
         },
         "privatebranches": "1"
