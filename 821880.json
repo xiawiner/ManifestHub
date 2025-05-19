@@ -4,8 +4,8 @@
     "name": "Idol Manager",
     "schinese_name": "偶像经理人",
     "isfreeapp": "0",
-    "change_number": "27876700",
-    "update_time": "2025-03-11 02:01:25",
+    "change_number": "28979231",
+    "update_time": "2025-05-14 22:46:21",
     "depot": {
         "821881": {
             "config": {
@@ -69,6 +69,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "284cb9ba35c9fa824acb5b7adfbd71fa3353f8144e92b8be8e0c2c7c30ab85c7"
     }
 }
