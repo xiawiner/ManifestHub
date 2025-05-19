@@ -4,8 +4,8 @@
     "name": "Day of Defeat: Source",
     "schinese_name": "胜利之日：起源",
     "isfreeapp": "0",
-    "change_number": "28611872",
-    "update_time": "2025-04-23 08:36:30",
+    "change_number": "28969285",
+    "update_time": "2025-05-14 06:22:20",
     "depot": {
         "301": {
             "systemdefined": "1",
@@ -16,9 +16,9 @@
                     "download": "2283810896"
                 },
                 "prerelease": {
-                    "gid": "6488735773013168058",
-                    "size": "4049108913",
-                    "download": "2283810896"
+                    "gid": "3820191802361753275",
+                    "size": "4032476339",
+                    "download": "2282324704"
                 },
                 "previous_build": {
                     "gid": "7417153282229313100",
@@ -61,9 +61,9 @@
                     "download": "116554688"
                 },
                 "prerelease": {
-                    "gid": "8765369928018209132",
-                    "size": "318560145",
-                    "download": "116554688"
+                    "gid": "4483022943837514931",
+                    "size": "318762865",
+                    "download": "116520928"
                 },
                 "previous_build": {
                     "gid": "9066661007461975424",
@@ -109,9 +109,9 @@
                     "download": "59888688"
                 },
                 "prerelease": {
-                    "gid": "2269334468004427837",
-                    "size": "202805002",
-                    "download": "59888688"
+                    "gid": "1259951294322512060",
+                    "size": "202944266",
+                    "download": "59910240"
                 },
                 "previous_build": {
                     "gid": "6132786136597858611",
@@ -152,9 +152,9 @@
                 "timeupdated": "1739907916"
             },
             "prerelease": {
-                "buildid": "17399406",
+                "buildid": "18450813",
                 "description": "Latest available build",
-                "timeupdated": "1739907925"
+                "timeupdated": "1747174934"
             },
             "previous_build": {
                 "buildid": "6935325",
