@@ -4,8 +4,8 @@
     "name": "Counter-Strike: Source",
     "schinese_name": "反恐精英：起源",
     "isfreeapp": "0",
-    "change_number": "28611868",
-    "update_time": "2025-04-23 08:36:20",
+    "change_number": "28969287",
+    "update_time": "2025-05-14 06:22:25",
     "depot": {
         "241": {
             "systemdefined": "1",
@@ -16,9 +16,9 @@
                     "download": "2598233008"
                 },
                 "prerelease": {
-                    "gid": "6941588918651947824",
-                    "size": "4558841879",
-                    "download": "2598233008"
+                    "gid": "1851336688054332170",
+                    "size": "4542209628",
+                    "download": "2596746880"
                 },
                 "previous_build": {
                     "gid": "3261854995366250836",
@@ -61,9 +61,9 @@
                     "download": "118185520"
                 },
                 "prerelease": {
-                    "gid": "4432809338483152243",
-                    "size": "320769050",
-                    "download": "118185520"
+                    "gid": "62610080069315946",
+                    "size": "320977914",
+                    "download": "118150336"
                 },
                 "previous_build": {
                     "gid": "7751288232347950736",
@@ -109,9 +109,9 @@
                     "download": "61119024"
                 },
                 "prerelease": {
-                    "gid": "1645363794472800391",
-                    "size": "207719461",
-                    "download": "61119024"
+                    "gid": "1167060102041854404",
+                    "size": "207887397",
+                    "download": "61127520"
                 },
                 "previous_build": {
                     "gid": "8067518758157153958",
@@ -382,9 +382,9 @@
                 "timeupdated": "1739907731"
             },
             "prerelease": {
-                "buildid": "17399420",
+                "buildid": "18450826",
                 "description": "Latest available build",
-                "timeupdated": "1739907744"
+                "timeupdated": "1747174939"
             },
             "previous_build": {
                 "buildid": "6946501",
