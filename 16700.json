@@ -4,8 +4,8 @@
     "name": "Stronghold Crusader Extreme HD",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27104397",
-    "update_time": "2025-01-22 10:26:05",
+    "change_number": "29001037",
+    "update_time": "2025-05-15 19:30:38",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -88,9 +88,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1859703241857580424",
-                    "size": "79014262",
-                    "download": "45354496"
+                    "gid": "1898598919367386474",
+                    "size": "79014282",
+                    "download": "45354512"
                 },
                 "local": {
                     "gid": "765127937048343837",
@@ -284,8 +284,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "5516769",
-                "timeupdated": "1599583726"
+                "buildid": "18464311",
+                "timeupdated": "1747308635"
             },
             "local": {
                 "buildid": "112349",
