@@ -4,8 +4,8 @@
     "name": "Darksiders II",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27135052",
-    "update_time": "2025-01-24 01:26:21",
+    "change_number": "28969816",
+    "update_time": "2025-05-14 07:08:01",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -361,7 +361,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "a3c0b37126dd56327c69c529a1f32287687c33b0f946da1054fcd5b5fd946a76"
         },
         "215826": {
             "dlcappid": "215826",
