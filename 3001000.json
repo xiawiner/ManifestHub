@@ -4,8 +4,8 @@
     "name": "最后的防线",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27490587",
-    "update_time": "2025-02-15 11:14:47",
+    "change_number": "28960301",
+    "update_time": "2025-05-13 20:34:43",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english,schinese",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7445114688565277126",
-                    "size": "1658525355",
-                    "download": "302635248"
+                    "gid": "6339466314393855052",
+                    "size": "1858064627",
+                    "download": "327766176"
                 }
             },
             "decryptionkey": "3ea33b6d8aac6f84209c492808f2e8152744520cfd5911fbed6ab6c985311562"
@@ -29,17 +29,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8017293968092600429",
-                    "size": "1654544387",
-                    "download": "301726528"
+                    "gid": "4319768539061790969",
+                    "size": "1854160870",
+                    "download": "326920896"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17100361",
-                "timeupdated": "1737606539"
+                "buildid": "17966478",
+                "timeupdated": "1743667304"
             }
         }
     }
