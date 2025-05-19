@@ -4,8 +4,8 @@
     "name": "Serious Sam VR: The Second Encounter",
     "schinese_name": "英雄萨姆 VR：二次遭遇",
     "isfreeapp": "0",
-    "change_number": "28827803",
-    "update_time": "2025-05-06 02:29:34",
+    "change_number": "29020366",
+    "update_time": "2025-05-16 16:59:51",
     "depot": {
         "552461": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9221935439764578304",
-                    "size": "32756216",
-                    "download": "10012352"
+                    "gid": "5442548599480073848",
+                    "size": "31862680",
+                    "download": "9745648"
                 },
                 "previousversion": {
                     "gid": "5029768661912449395",
@@ -38,9 +38,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4963732107008662592",
-                    "size": "53800200",
-                    "download": "14233312"
+                    "gid": "5477520543337870593",
+                    "size": "0",
+                    "download": "0"
                 },
                 "previousversion": {
                     "gid": "6653526384802803203",
@@ -86,9 +86,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3876831141878339473",
-                    "size": "2399222",
-                    "download": "547264"
+                    "gid": "5238171594425525880",
+                    "size": "0",
+                    "download": "0"
                 },
                 "previousversion": {
                     "gid": "3876831141878339473",
@@ -110,9 +110,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4341860370365164903",
+                    "gid": "4194997153295000386",
                     "size": "33548240",
-                    "download": "9758208"
+                    "download": "9758224"
                 },
                 "previousversion": {
                     "gid": "9192312278416495203",
@@ -134,9 +134,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4103980342861560734",
-                    "size": "197498",
-                    "download": "41776"
+                    "gid": "2957039028038763356",
+                    "size": "0",
+                    "download": "0"
                 },
                 "previousversion": {
                     "gid": "4103980342861560734",
@@ -154,9 +154,9 @@
         "552465": {
             "manifests": {
                 "public": {
-                    "gid": "5275042025394406196",
-                    "size": "622227093",
-                    "download": "612663008"
+                    "gid": "1494729868215626537",
+                    "size": "525921632",
+                    "download": "523066832"
                 },
                 "previousversion": {
                     "gid": "301782628944456075",
@@ -174,9 +174,9 @@
         "552468": {
             "manifests": {
                 "public": {
-                    "gid": "4087207359577581531",
-                    "size": "2401816416",
-                    "download": "2401392176"
+                    "gid": "238248372864172713",
+                    "size": "2377733179",
+                    "download": "2379174416"
                 },
                 "previousversion": {
                     "gid": "5661898487356271974",
@@ -194,9 +194,9 @@
         "574300": {
             "manifests": {
                 "public": {
-                    "gid": "3589097142290509335",
-                    "size": "355023181",
-                    "download": "353515584"
+                    "gid": "6046366406941469504",
+                    "size": "349026538",
+                    "download": "348043088"
                 },
                 "previousversion": {
                     "gid": "833273541989084507",
@@ -214,8 +214,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "3369071",
-                "timeupdated": "1544087850"
+                "buildid": "18487527",
+                "timeupdated": "1747385986"
             },
             "previousversion": {
                 "buildid": "2505208",
