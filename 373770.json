@@ -4,8 +4,8 @@
     "name": "LiEat",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27153656",
-    "update_time": "2025-01-25 01:27:07",
+    "change_number": "28972554",
+    "update_time": "2025-05-14 11:17:50",
     "depot": {
         "baselanguages": "english,tchinese,japanese,brazilian",
         "373771": {
@@ -129,7 +129,7 @@
                     "download": "32098288"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "7128141f0bf8458be2191971b848597b4ea6795089c22d9fcf08670d954b41c1"
         },
         "branches": {
             "public": {
