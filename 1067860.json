@@ -4,8 +4,8 @@
     "name": "NewCity",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28040737",
-    "update_time": "2025-03-20 05:55:12",
+    "change_number": "28983678",
+    "update_time": "2025-05-14 23:07:41",
     "depot": {
         "228986": {
             "config": {
@@ -60,6 +60,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "701886be0edbd7d425a13cb32d8c2e1bb494dff1ae3347f5ae9191e98f3ef11e"
     }
 }
