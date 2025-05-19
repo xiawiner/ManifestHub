@@ -4,8 +4,8 @@
     "name": "We Happy Few",
     "schinese_name": "少数幸运儿",
     "isfreeapp": "0",
-    "change_number": "27868782",
-    "update_time": "2025-03-10 18:01:20",
+    "change_number": "28971804",
+    "update_time": "2025-05-14 10:07:40",
     "depot": {
         "workshopdepot": "320240",
         "228985": {
@@ -378,6 +378,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "3fb5c589749f6325196d8622f7d4a22ca997e6d93524f743627864d0ae6b9402"
     }
 }
