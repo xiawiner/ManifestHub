@@ -4,8 +4,8 @@
     "name": "Blockworks",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27742053",
-    "update_time": "2025-03-02 21:51:17",
+    "change_number": "28990304",
+    "update_time": "2025-05-15 05:53:07",
     "depot": {
         "workshopdepot": "1825970",
         "1825971": {
@@ -38,6 +38,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "30aa8240f48145bbcd7abb319f8d1366cc697f8cc24c415eb6351decac068f71"
     }
 }
