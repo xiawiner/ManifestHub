@@ -4,8 +4,8 @@
     "name": "Shotgun King: The Final Checkmate",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28088006",
-    "update_time": "2025-03-22 22:55:25",
+    "change_number": "28994015",
+    "update_time": "2025-05-15 11:10:02",
     "depot": {
         "workshopdepot": "1972440",
         "1972441": {
@@ -103,6 +103,6 @@
                 "timeupdated": "1729948875"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "fe6a37eaf4c02699a80d062726024bc52123acf2dda3bde4e64a634f21553b92"
     }
 }
