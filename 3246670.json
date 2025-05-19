@@ -4,8 +4,8 @@
     "name": "ASKA Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28269165",
-    "update_time": "2025-04-02 21:30:23",
+    "change_number": "29028994",
+    "update_time": "2025-05-17 00:48:38",
     "depot": {
         "1004": {
             "config": {
@@ -52,9 +52,9 @@
         "3246671": {
             "manifests": {
                 "public": {
-                    "gid": "5669880283455865415",
-                    "size": "750875817",
-                    "download": "328534800"
+                    "gid": "2599203301373252599",
+                    "size": "748752972",
+                    "download": "339233744"
                 }
             },
             "decryptionkey": "b6ee8eb12eee93f6e195b1838655d3e6df96ecd7bc9e5bbc37ed56cce40bbda0"
@@ -62,8 +62,8 @@
         "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,polish,brazilian,ukrainian",
         "branches": {
             "public": {
-                "buildid": "17955202",
-                "timeupdated": "1743600619"
+                "buildid": "18494199",
+                "timeupdated": "1747414114"
             }
         },
         "privatebranches": "1"
