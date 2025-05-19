@@ -4,8 +4,8 @@
     "name": "Hello Engineer: Scrap Machines Constructor",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28095926",
-    "update_time": "2025-03-23 21:19:46",
+    "change_number": "28990480",
+    "update_time": "2025-05-15 06:06:32",
     "depot": {
         "1856191": {
             "config": {
@@ -29,6 +29,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "3932619b72fea3cd240aa08252dc3f707d4eaf2ad1c27741eb343eee921ccbe5"
     }
 }
