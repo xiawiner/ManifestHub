@@ -4,27 +4,32 @@
     "name": "Tank Fight",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28233713",
-    "update_time": "2025-04-01 02:16:12",
+    "change_number": "28987408",
+    "update_time": "2025-05-15 02:30:47",
     "depot": {
+        "workshopdepot": "2735540",
         "2735541": {
             "config": {
                 "oslist": "windows"
             },
             "manifests": {
                 "public": {
-                    "gid": "1555455157460464439",
-                    "size": "134973644",
-                    "download": "42034656"
+                    "gid": "1147283870972052540",
+                    "size": "134924595",
+                    "download": "42071200"
                 }
             },
             "decryptionkey": "61a1340c0313463d21c5c4eba9ced15bfb2ae53db29e3b8f38c43be3461740d8"
         },
-        "workshopdepot": "2735540",
+        "2735542": {
+            "config": {
+                "oslist": "linux"
+            }
+        },
         "branches": {
             "public": {
-                "buildid": "17928562",
-                "timeupdated": "1743444968"
+                "buildid": "18464528",
+                "timeupdated": "1747245157"
             }
         },
         "privatebranches": "1",
