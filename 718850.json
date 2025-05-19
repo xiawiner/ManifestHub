@@ -4,8 +4,8 @@
     "name": "Age of Wonders: Planetfall",
     "schinese_name": "奇迹时代：星陨",
     "isfreeapp": "0",
-    "change_number": "27772756",
-    "update_time": "2025-03-04 19:15:40",
+    "change_number": "28977583",
+    "update_time": "2025-05-14 22:43:22",
     "depot": {
         "workshopdepot": "718850",
         "hasdepotsindlc": "0",
@@ -252,6 +252,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "864c10a5f85dcfdac3815007aca128c1aded10fb3c0d187882142d79abe4d5d2"
     }
 }
