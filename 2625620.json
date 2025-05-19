@@ -4,23 +4,23 @@
     "name": "Dealer Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28775005",
-    "update_time": "2025-05-02 04:30:14",
+    "change_number": "29036309",
+    "update_time": "2025-05-17 11:41:33",
     "depot": {
         "2625621": {
             "manifests": {
                 "public": {
-                    "gid": "5685397195202399602",
-                    "size": "2032257583",
-                    "download": "1561672224"
+                    "gid": "2866519597458954720",
+                    "size": "2158394281",
+                    "download": "1859923888"
                 }
             },
             "decryptionkey": "673442d6524278a802390329ad435ba6afa7f5e354c8ee77c28b84f95f0e5b08"
         },
         "branches": {
             "public": {
-                "buildid": "18313602",
-                "timeupdated": "1746131372"
+                "buildid": "18499915",
+                "timeupdated": "1747453289"
             }
         }
     }
