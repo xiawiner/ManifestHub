@@ -4,8 +4,8 @@
     "name": "Homeworld Remastered Collection",
     "schinese_name": "家园：高清重制版合集",
     "isfreeapp": "0",
-    "change_number": "28169683",
-    "update_time": "2025-03-27 20:35:51",
+    "change_number": "28970735",
+    "update_time": "2025-05-14 08:27:46",
     "depot": {
         "228988": {
             "config": {
@@ -264,6 +264,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "c75f63eb81a286ce097dceb591b0472c09cac2f6bc664e9f44adc4c4fca5f366"
     }
 }
