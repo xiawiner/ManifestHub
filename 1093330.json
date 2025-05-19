@@ -4,8 +4,8 @@
     "name": "Conscious Existence - A Journey Within",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "22582589",
-    "update_time": "2024-05-25 08:08:58",
+    "change_number": "28999910",
+    "update_time": "2025-05-15 18:26:41",
     "depot": {
         "baselanguages": "english",
         "1109850": {
@@ -40,9 +40,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7250300394115348899",
-                    "size": "28708826116",
-                    "download": "28746017952"
+                    "gid": "5405183241755676285",
+                    "size": "28714711900",
+                    "download": "28751371616"
                 },
                 "old-application_win10-11": {
                     "gid": "3113640156102750087",
@@ -59,8 +59,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "11605652",
-                "timeupdated": "1688224751"
+                "buildid": "18474161",
+                "timeupdated": "1747304798"
             },
             "old-application_win10-11": {
                 "buildid": "4260525",
