@@ -4,8 +4,8 @@
     "name": "There's Poop In My Soup",
     "schinese_name": "我的汤里有屎",
     "isfreeapp": "0",
-    "change_number": "28116511",
-    "update_time": "2025-03-25 04:13:00",
+    "change_number": "28973544",
+    "update_time": "2025-05-14 12:47:52",
     "depot": {
         "449541": {
             "config": {
@@ -56,6 +56,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "27d9dc8d63ae757f5657219ce4b7b4cb3a92aca6af2498e125f6dcbf37cba962"
     }
 }
