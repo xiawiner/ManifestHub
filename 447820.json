@@ -4,8 +4,8 @@
     "name": "Day of Infamy",
     "schinese_name": "耻辱之日",
     "isfreeapp": "0",
-    "change_number": "28181100",
-    "update_time": "2025-03-28 08:15:46",
+    "change_number": "28973544",
+    "update_time": "2025-05-14 12:47:47",
     "depot": {
         "workshopdepot": "447820",
         "hasdepotsindlc": "1",
@@ -118,6 +118,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "96157227a12a5228dd829ad9f914fbd7b5319198f2adc4bd94ecef85c72f6b36"
     }
 }
