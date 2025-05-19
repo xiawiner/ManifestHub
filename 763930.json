@@ -4,8 +4,8 @@
     "name": "Tally Ho",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27232024",
-    "update_time": "2025-01-30 17:17:14",
+    "change_number": "28978449",
+    "update_time": "2025-05-14 22:44:53",
     "depot": {
         "763931": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6893043550176414203",
-                    "size": "241454398",
-                    "download": "79453552"
+                    "gid": "4564427192917410512",
+                    "size": "241462579",
+                    "download": "79478512"
                 }
             },
             "decryptionkey": "b9d3b4af15552efc1ebcd87343aa8aa210b0ea9d84e475faf7f88f9b9dc3a8b4"
@@ -26,9 +26,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "194587314290708662",
-                    "size": "14834383",
-                    "download": "5107664"
+                    "gid": "3765288007392039477",
+                    "size": "14842563",
+                    "download": "5109632"
                 }
             },
             "decryptionkey": ""
@@ -39,17 +39,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7797251216082276523",
-                    "size": "244023371",
-                    "download": "74081456"
+                    "gid": "7835778921065781752",
+                    "size": "244031552",
+                    "download": "74099616"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16956637",
-                "timeupdated": "1736459017"
+                "buildid": "17940998",
+                "timeupdated": "1743518160"
             }
         }
     }
