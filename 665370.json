@@ -4,8 +4,8 @@
     "name": "Mutilate-a-Doll 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28108081",
-    "update_time": "2025-03-24 20:14:24",
+    "change_number": "28976607",
+    "update_time": "2025-05-14 22:41:37",
     "depot": {
         "665371": {
             "manifests": {
@@ -45,6 +45,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "ab02358960294df8b96f73970b81d8b67eec8e28b2b685b42ca9e7a131ab096d"
     }
 }
