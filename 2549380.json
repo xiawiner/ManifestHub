@@ -4,8 +4,8 @@
     "name": "Cryptical Path",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28744250",
-    "update_time": "2025-04-30 16:22:01",
+    "change_number": "29013005",
+    "update_time": "2025-05-16 07:06:41",
     "depot": {
         "2549381": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8720091694602650975",
-                    "size": "4086683039",
-                    "download": "3004408048"
+                    "gid": "351122691812572666",
+                    "size": "4038519130",
+                    "download": "2994401440"
                 }
             },
             "decryptionkey": "ae7fd2afa74cb09b355f5650ebb8bae35fe85dd07866591a1f77dd1908358ca5"
         },
         "branches": {
             "public": {
-                "buildid": "17308615",
-                "timeupdated": "1739271851"
+                "buildid": "18280275",
+                "timeupdated": "1747236248"
             }
         },
         "privatebranches": "1"
