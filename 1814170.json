@@ -4,8 +4,8 @@
     "name": "Lingo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27764196",
-    "update_time": "2025-03-04 08:13:18",
+    "change_number": "28990132",
+    "update_time": "2025-05-15 05:39:57",
     "depot": {
         "1814171": {
             "manifests": {
@@ -24,6 +24,6 @@
                 "timeupdated": "1718149139"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "e9401b0f3b9e6d1497b5f25858f102e99cf811767a1e90151650fef39cb7b51b"
     }
 }
