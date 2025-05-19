@@ -4,8 +4,8 @@
     "name": "Cosmoteer Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27922416",
-    "update_time": "2025-03-13 07:58:36",
+    "change_number": "28929268",
+    "update_time": "2025-05-12 05:33:15",
     "depot": {
         "228989": {
             "config": {
@@ -27,16 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "44520282230416022",
-                    "size": "608399248",
-                    "download": "576712736"
+                    "gid": "8892917871430863187",
+                    "size": "603796554",
+                    "download": "572015488"
                 },
                 "classic": {
                     "gid": "6982830380730695883",
                     "size": "117433082",
                     "download": "99626416"
                 }
-            }
+            },
+            "decryptionkey": "f93442c8541fa1b31df66860432cdd1e355c65a89a91fce8fa53d903cd88cdc0"
         },
         "1110962": {
             "config": {
@@ -45,9 +46,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8406864551850707185",
-                    "size": "188465476",
-                    "download": "57038464"
+                    "gid": "2424336571960537778",
+                    "size": "188490295",
+                    "download": "57052160"
                 },
                 "classic": {
                     "gid": "3292293046463802446",
@@ -63,22 +64,23 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2007287913033620485",
-                    "size": "203400240",
-                    "download": "63269568"
+                    "gid": "1096912221946518013",
+                    "size": "203434412",
+                    "download": "63272416"
                 },
                 "classic": {
                     "gid": "134676358724339210",
                     "size": "244002581",
                     "download": "79570400"
                 }
-            }
+            },
+            "decryptionkey": "7d1e81d1bfae1592f7cba1d2be78609c5853475ea37ee50a299416faac60b9bf"
         },
         "baselanguages": "english,german,french,schinese,russian,brazilian,latam",
         "branches": {
             "public": {
-                "buildid": "17700896",
-                "timeupdated": "1741823908"
+                "buildid": "18422386",
+                "timeupdated": "1746999173"
             },
             "classic": {
                 "buildid": "9480814",
