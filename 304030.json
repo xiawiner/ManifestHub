@@ -3,9 +3,9 @@
     "type": "Game",
     "name": "ArcheAge",
     "schinese_name": "",
-    "isfreeapp": "1",
-    "change_number": "27106307",
-    "update_time": "2025-01-22 13:26:15",
+    "isfreeapp": "0",
+    "change_number": "28971554",
+    "update_time": "2025-05-14 09:47:45",
     "depot": {
         "228988": {
             "config": {
@@ -47,7 +47,7 @@
                 }
             },
             "depotfromapp": "228980",
-            "decryptionkey": ""
+            "decryptionkey": "56ebe05d052f59ad2e9b101102de603dca17402a9bb2ef0015962c6b3275a2d0"
         },
         "304031": {
             "manifests": {
