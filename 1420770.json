@@ -4,21 +4,21 @@
     "name": "Winter Resort Simulator 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28616736",
-    "update_time": "2025-04-23 15:49:26",
+    "change_number": "29019296",
+    "update_time": "2025-05-16 15:59:23",
     "depot": {
         "workshopdepot": "1420770",
         "1420771": {
             "manifests": {
                 "public": {
-                    "gid": "9200502498528053720",
-                    "size": "5633075454",
-                    "download": "2288609280"
+                    "gid": "1922264168659583795",
+                    "size": "5628625552",
+                    "download": "2285839520"
                 },
                 "publicbeta": {
-                    "gid": "5351036431685477027",
-                    "size": "5628621048",
-                    "download": "2285837824"
+                    "gid": "1922264168659583795",
+                    "size": "5628625552",
+                    "download": "2285839520"
                 }
             },
             "decryptionkey": "9ac7be0c7ff4039d7438a7c53a4f4b3e36277570075428d8fe7fe4a1a5c582d3"
@@ -73,13 +73,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "13855424",
-                "timeupdated": "1711706575"
+                "buildid": "18487809",
+                "timeupdated": "1747382359"
             },
             "publicbeta": {
-                "buildid": "16866677",
+                "buildid": "18487809",
                 "description": "Publicly available beta patches",
-                "timeupdated": "1735403615"
+                "timeupdated": "1747382332"
             }
         },
         "privatebranches": "1",
