@@ -199,7 +199,7 @@
                     "download": "775313360"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "e3354df8ced0301374f270524461ba26a449596cc70a5603cb73b9a5d20c16a9"
         },
         "1401104": {
             "config": {
@@ -213,7 +213,8 @@
                     "size": "830308701",
                     "download": "775969168"
                 }
-            }
+            },
+            "decryptionkey": "99123d050990e84fcb30411f57bf471e525af4a6233824b611cb2661e39bae43"
         },
         "branches": {
             "public": {
