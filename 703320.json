@@ -56,7 +56,7 @@
                     "download": "736"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "156290b6fe77b2ec8616d628b99249b6eec191220881f415df0f73380435afd9"
         },
         "703325": {
             "config": {
@@ -70,7 +70,7 @@
                     "download": "736"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "2067eaacd05cec3c3e9e13af641644ebea54fa88a0a3f3b4fd2b5944648cb2dd"
         },
         "703326": {
             "config": {
@@ -84,7 +84,7 @@
                     "download": "736"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "52707f9b1f7c68d7f020c50f455da8b1777c7ac50b8beb64e3e7cf1eac5639b1"
         },
         "703327": {
             "config": {
@@ -98,7 +98,7 @@
                     "download": "736"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "6405fe98ba1a966e721fece3b2080db81878e705826f6c3273a86c4e8dd85b0b"
         },
         "baselanguages": "english,german,french,italian,spanish",
         "branches": {
