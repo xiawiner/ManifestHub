@@ -19,7 +19,8 @@
                     "download": "100658080"
                 }
             },
-            "depotfromapp": "228980"
+            "depotfromapp": "228980",
+            "decryptionkey": "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8"
         },
         "229000": {
             "config": {
@@ -32,7 +33,8 @@
                     "download": "242681440"
                 }
             },
-            "depotfromapp": "228980"
+            "depotfromapp": "228980",
+            "decryptionkey": "3aae9271fb93da5395ffbfe338d3647de5dcfab3fc6fb901ca2ec28849b3d6bf"
         },
         "412471": {
             "config": {
@@ -49,7 +51,8 @@
                     "size": "5646153",
                     "download": "2971552"
                 }
-            }
+            },
+            "decryptionkey": "c14c8d708c8684f67d10eeffe87f790ff6b8912eadeac1ec1e950de36a0d9922"
         },
         "412472": {
             "config": {
