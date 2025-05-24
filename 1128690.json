@@ -49,7 +49,8 @@
                     "size": "551612604",
                     "download": "80240320"
                 }
-            }
+            },
+            "decryptionkey": "d91c59eb39d78d1b344dea244e9d62ce197de001ca687dcea501bdc772b34f6c"
         },
         "1147410": {
             "dlcappid": "1147410",
