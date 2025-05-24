@@ -4,8 +4,8 @@
     "name": "轉生打怪學英文(五)(Adventure and study English in a fantasy world)",
     "schinese_name": "转生打怪学英文(五)(Adventure and study English in a fantasy world)",
     "isfreeapp": "0",
-    "change_number": "26752546",
-    "update_time": "2024-12-22 18:45:25",
+    "change_number": "27988143",
+    "update_time": "2025-03-17 13:59:07",
     "depot": {
         "2746801": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3543435434248019958",
-                    "size": "766717520",
-                    "download": "566526848"
+                    "gid": "2802108510750259829",
+                    "size": "1047945984",
+                    "download": "835717296"
                 }
             },
             "decryptionkey": "b392ebcd0623968c80be05356e8333afc868de8b9a48cc173bc5e95ac7ae6511"
@@ -23,8 +23,8 @@
         "baselanguages": "schinese,tchinese",
         "branches": {
             "public": {
-                "buildid": "16828380",
-                "timeupdated": "1734864322"
+                "buildid": "17747789",
+                "timeupdated": "1742191144"
             }
         }
     }
