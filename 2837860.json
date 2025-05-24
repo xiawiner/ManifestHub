@@ -4,8 +4,8 @@
     "name": "red magic",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "23591175",
-    "update_time": "2024-05-27 02:18:16",
+    "change_number": "28116186",
+    "update_time": "2025-03-25 03:52:58",
     "depot": {
         "2837861": {
             "manifests": {
@@ -23,5 +23,6 @@
                 "timeupdated": "1707741811"
             }
         }
-    }
+    },
+    "access_token": 2167272725291968719
 }
