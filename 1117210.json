@@ -1,0 +1,42 @@
+{
+    "appid": "1117210",
+    "type": "Game",
+    "name": "顶酱",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24965705",
+    "update_time": "2024-08-28 12:04:46",
+    "depot": {
+        "baselanguages": "schinese",
+        "hasdepotsindlc": "0",
+        "1117213": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "15409890595183325",
+                    "size": "6415865",
+                    "download": "2753488"
+                }
+            },
+            "decryptionkey": "835028fa6609e3e550d615342fd96fd807b1bd06eef1b3e78f6af314161c104e"
+        },
+        "1117212": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "7079315",
+                "timeupdated": "1627074585"
+            }
+        }
+    },
+    "access_token": 16695867099380549370
+}
