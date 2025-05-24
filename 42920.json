@@ -44,7 +44,7 @@
                 }
             },
             "dlcappid": "42925",
-            "decryptionkey": ""
+            "decryptionkey": "a9d97a3223f475a90f06f9772e3e7ecd81d3871e94ae6ab34c810581237e909e"
         },
         "42921": {
             "systemdefined": "1",
@@ -81,7 +81,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "943bc5acb2d24d84b2105ede8fc85e61c44dc2b9041d9f9e7fd3f4beb2768469"
         },
         "42924": {
             "config": {
@@ -94,7 +94,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "2634c42f9243761e94cd8fcaf5ae26f2bbb7ba69d0ee0d0ca7147c130f4ca194"
         },
         "42927": {
             "config": {
