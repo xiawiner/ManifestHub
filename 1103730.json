@@ -41,7 +41,7 @@
                     "download": "2381347408"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "256ba8f99bc412f41657fc07535446e56c28c4e97811987cb63bc6cf9930cc33"
         },
         "1103734": {
             "config": {
@@ -54,7 +54,7 @@
                     "download": "2002044432"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "a2b85503de1306ad95a257cb21ef72e47ba62a3b06aec9f414315cc09e894d1e"
         },
         "1450540": {
             "dlcappid": "1450540",
