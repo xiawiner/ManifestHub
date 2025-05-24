@@ -4,8 +4,8 @@
     "name": "hacker",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "22961921",
-    "update_time": "2024-05-27 04:26:22",
+    "change_number": "28116228",
+    "update_time": "2025-03-25 03:53:22",
     "depot": {
         "2883271": {
             "manifests": {
@@ -23,5 +23,6 @@
                 "timeupdated": "1710036949"
             }
         }
-    }
+    },
+    "access_token": 17385189324291115497
 }
