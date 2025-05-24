@@ -1,0 +1,29 @@
+{
+    "appid": "1022520",
+    "type": "DLC",
+    "name": "DISSIDIA FINAL FANTASY NT: Story Mode",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22534048",
+    "update_time": "2024-08-28 12:04:06",
+    "depot": {
+        "1022520": {
+            "dlcappid": "1022520",
+            "manifests": {
+                "public": {
+                    "gid": "7880665917157874333",
+                    "size": "6884853639",
+                    "download": "6373160800"
+                }
+            },
+            "decryptionkey": "6c805cabae3bed7f05e2f4b0f32ef438c883d3cadc225ff56e9ba74a933a98ae"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3602133",
+                "timeupdated": "1551323786"
+            }
+        }
+    },
+    "access_token": 18446350535204808546
+}
