@@ -51,7 +51,7 @@
                     "download": "6084816"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "b9db53c6e8e92abb95004a34e09a09e239f1e1612da2cd1a748d170584174a82"
         },
         "538064": {
             "config": {
@@ -64,7 +64,7 @@
                     "download": "20370720"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "5ff557e041932c6717b4c27e820b482bb82f18d9988b8f4a6c82058d7a63d642"
         },
         "538065": {
             "config": {
@@ -77,7 +77,7 @@
                     "download": "29084864"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "24612e347ea6a69e611d18c28e39e0773fdb0d72f96f8748154f0bc17ac9728a"
         },
         "538066": {
             "dlcappid": "931720",
@@ -88,7 +88,7 @@
                     "download": "7818576"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "77265ec1f72b865df4af945e7525ebc55b5b13faf3c942e7e6ce0636f3949885"
         },
         "branches": {
             "public": {
