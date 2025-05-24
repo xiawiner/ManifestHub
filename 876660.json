@@ -56,7 +56,7 @@
                 }
             },
             "depotfromapp": "876650",
-            "decryptionkey": ""
+            "decryptionkey": "4c184ded5deafa43eb4bea5ce88affb5ecc3574bb7cc574101e0d4376eecb960"
         },
         "876654": {
             "config": {
@@ -71,7 +71,7 @@
                 }
             },
             "depotfromapp": "876650",
-            "decryptionkey": ""
+            "decryptionkey": "0180086f402ebb4cd72e8b817ed515bd7f6874c27b8d7cd6c5488b3495859268"
         },
         "branches": {}
     }
