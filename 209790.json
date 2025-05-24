@@ -17,7 +17,7 @@
                 }
             },
             "dlcappid": "209793",
-            "decryptionkey": ""
+            "decryptionkey": "845fb8cd20c2bdcb4c3281cd92a67fc5b7dfc3719ca781194d7fc58900f7fc9b"
         },
         "209792": {
             "config": {
@@ -31,7 +31,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "8590a12029e636828594742914e2ac45aa579ea3dab86561f0815844ffbdd4f5"
         },
         "209791": {
             "config": {
@@ -70,7 +70,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "9a4bbf12f9c3e0ea8b2ae365edb6e5fc4d053f75afe85ebc432f9bb6615b72a3"
         },
         "overridescddb": "1",
         "branches": {
