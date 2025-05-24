@@ -1,0 +1,28 @@
+{
+    "appid": "1074840",
+    "type": "Game",
+    "name": "Grindzones",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18821630",
+    "update_time": "2024-08-28 12:04:27",
+    "depot": {
+        "1074841": {
+            "manifests": {
+                "public": {
+                    "gid": "1624695255055620665",
+                    "size": "265116906",
+                    "download": "91048640"
+                }
+            },
+            "decryptionkey": "d2d239e6c36f757cf814eae51f65bee95b34f2adbebf5ea6e7657c97bf6e6596"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3763208",
+                "timeupdated": "1556074742"
+            }
+        }
+    },
+    "access_token": 6598318087771622004
+}
