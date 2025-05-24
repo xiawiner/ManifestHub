@@ -1,5 +1,6 @@
 addappid(3279180)
 addappid(228989)
+setManifestid(228989,"550968249685141759")
 addappid(228990)
 setManifestid(228990,"1829726630299308803")
 addappid(3279181,0,"92add3320ceadac763ed8b490fbb5bfaf5e02e39de2ce1de0b4fd162eb26e4dd")
