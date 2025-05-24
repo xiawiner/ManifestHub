@@ -4,15 +4,15 @@
     "name": "Farthest Frontier Mod Tools",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27973599",
-    "update_time": "2025-03-15 23:52:45",
+    "change_number": "28535953",
+    "update_time": "2025-04-18 02:41:58",
     "depot": {
         "2789701": {
             "manifests": {
                 "public": {
-                    "gid": "4750967837885620995",
-                    "size": "234183365",
-                    "download": "88844416"
+                    "gid": "2632553260841238885",
+                    "size": "161538344",
+                    "download": "52950544"
                 }
             },
             "decryptionkey": "a29c0a87d05bf4a573706838cce810fa7d63eefd0f8d0b453b0d1fd0622a00d5"
@@ -20,11 +20,10 @@
         "workshopdepot": "2789700",
         "branches": {
             "public": {
-                "buildid": "13673160",
-                "timeupdated": "1711553792"
+                "buildid": "18148172",
+                "timeupdated": "1744915284"
             }
         },
-        "privatebranches": "1",
         "workshopdepotdecryptionkey": ""
     }
 }
