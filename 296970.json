@@ -66,7 +66,7 @@
                     "download": "1002686720"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "74126c85d0fb77596c3df1f55c805d5082f2ad89e5cf5205e72782ab8cee2e16"
         },
         "296973": {
             "config": {
@@ -89,7 +89,7 @@
                     "download": "1022454960"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "8c8494f5ea894476f706bf40443ac5f3b9df111d43a31484545a3f0cba9a2c5b"
         },
         "296974": {
             "dlcappid": "460390",
@@ -138,7 +138,7 @@
                     "download": "68138304"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "e02cdbda4e3d170b7ca9e579bb48c0f565f83c3935255641ac42280083b52a25"
         },
         "296976": {
             "config": {
@@ -162,7 +162,7 @@
                     "download": "68138304"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "187ecd47ef952b50eb86fc528adf7be912eb242285aa02dc316a5bf3d8605b4e"
         },
         "296977": {
             "dlcappid": "609970",
@@ -211,7 +211,7 @@
                     "download": "19491136"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "74437b166f551322abeca4edc4178980d6464b51b5348a2f66f9d7951c7c15a8"
         },
         "296979": {
             "dlcappid": "609970",
@@ -235,7 +235,7 @@
                     "download": "19491136"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "ca9c8260e8aad1055ca7d67c5b54303c08cb80167b85f2003b4c7e900dd5b26d"
         },
         "997041": {
             "manifests": {
