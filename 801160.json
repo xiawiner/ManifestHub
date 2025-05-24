@@ -1,0 +1,45 @@
+{
+    "appid": "801160",
+    "type": "Game",
+    "name": "Robo Encryption",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28257225",
+    "update_time": "2025-04-02 07:03:07",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "801161": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8663429346205851778",
+                    "size": "1477303059",
+                    "download": "357602336"
+                }
+            },
+            "decryptionkey": "33fbf2af3cde2bad07352f676e03e973b1fdedd467cf295c0ba63d2eccfd7069"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2565054",
+                "timeupdated": "1519998403"
+            }
+        }
+    },
+    "access_token": 14192833768711190064
+}
