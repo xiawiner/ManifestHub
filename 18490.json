@@ -29,7 +29,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "c9b8a6ae091724caec28be8a00e52c45a2712f3334f3393a056c986c3c2d2607"
         },
         "18493": {
             "config": {
@@ -42,7 +42,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "43559c01680ae4cee99004eae2fa03d3d7d97231f41d78afe35408a51203ce14"
         },
         "18494": {
             "config": {
@@ -68,7 +68,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "82b80d34a3481cf41810cf555b8771990b5b69a75f04361ffce05fb5914474ad"
         },
         "18496": {
             "config": {
@@ -81,7 +81,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "a8554392a8d0f2a3ec2f49d8f31a205bfcdce1934fbfb545c0dc8510237fdc9f"
         },
         "overridescddb": "1",
         "baselanguages": "english,french,german,italian,spanish",
