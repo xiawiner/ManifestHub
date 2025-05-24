@@ -4,8 +4,8 @@
     "name": "Endless Mountain",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "23421273",
-    "update_time": "2024-05-27 05:25:13",
+    "change_number": "28116227",
+    "update_time": "2025-03-25 03:53:20",
     "depot": {
         "2905591": {
             "manifests": {
@@ -23,5 +23,6 @@
                 "timeupdated": "1711093841"
             }
         }
-    }
+    },
+    "access_token": 4776952012173874675
 }
