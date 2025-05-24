@@ -26,7 +26,7 @@
                     "download": "206421056"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "25f62d478e7869ecc8bb22864081aeab4956860d7472b6a8627e4351702256c0"
         },
         "49601": {
             "config": {
@@ -54,7 +54,7 @@
                     "download": "186074960"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "10b60ab82761de0dfcf80f358b1fa002af25bfbcda292b6e1cf32ace9dc94749"
         },
         "overridescddb": "1",
         "branches": {
