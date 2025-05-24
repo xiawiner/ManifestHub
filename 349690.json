@@ -40,7 +40,7 @@
                     "download": "53390176"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "a443bcee01aaab611fa68bfcb6d4ae093bfed4ad24f6f3d25948b36b06d1ad03"
         },
         "349693": {
             "config": {
@@ -54,7 +54,7 @@
                     "download": "53592976"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "fbd65d7fbf3a0e5adfc9abf8b4b211a6acd654885844fd769e0c6fc4baec16d1"
         },
         "baselanguages": "english,japanese",
         "branches": {
