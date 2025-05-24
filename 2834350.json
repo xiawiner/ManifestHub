@@ -43,7 +43,7 @@
                 }
             },
             "dlcappid": "2834350",
-            "decryptionkey": ""
+            "decryptionkey": "79c1f947633edf4b2d145512236c4f6c63d0c66e901bffb0baed82ae969916c6"
         },
         "2834355": {
             "config": {
@@ -62,7 +62,7 @@
                 }
             },
             "dlcappid": "2834350",
-            "decryptionkey": ""
+            "decryptionkey": "080187e4ef56626d86b50a42bd7a39eef414427535521050e51bdf3524e5007a"
         },
         "branches": {
             "public": {
