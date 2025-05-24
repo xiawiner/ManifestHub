@@ -53,7 +53,7 @@
                     "download": "14311200"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "fd24994c7e0d176350bbd34735795e3acc911b315e606a9f1f76ff7d98d35350"
         },
         "552459": {
             "config": {
@@ -101,7 +101,7 @@
                     "download": "621584"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "61be67287c169e75ddb8c4f0dbebf28c207764f7fe6c1aad70bec13a43eeac13"
         },
         "552456": {
             "config": {
@@ -149,7 +149,7 @@
                     "download": "41776"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "895746946ae687989b80394c2271fff906c6f913a1c3650c7198fd6f3250d52c"
         },
         "552455": {
             "manifests": {
