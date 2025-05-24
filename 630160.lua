@@ -1,3 +1,6 @@
 addappid(630160)
 addappid(630161,0,"4ee4485d375be2748cfca5b49094b188a43c2dd8ea528aaf87eae4317e5a0133")
 setManifestid(630161,"6402174752485235101")
+addappid(630162)
+addappid(630163)
+addappid(630164)
