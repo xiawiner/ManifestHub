@@ -1,0 +1,235 @@
+{
+    "appid": "11130",
+    "type": "Game",
+    "name": "Sherlock Holmes: The Mystery of The Mummy",
+    "schinese_name": "福尔摩斯：木乃伊之谜",
+    "isfreeapp": "1",
+    "change_number": "28243503",
+    "update_time": "2025-04-01 15:49:38",
+    "depot": {
+        "overridescddb": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "11131": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1205688458702936854",
+                    "size": "646306366",
+                    "download": "510886752"
+                },
+                "fullscreen": {
+                    "gid": "1205688458702936854",
+                    "size": "646306366",
+                    "download": "510886752"
+                },
+                "public-beta": {
+                    "gid": "1205688458702936854",
+                    "size": "646306366",
+                    "download": "510886752"
+                }
+            },
+            "decryptionkey": "5c4a2f262344af768b14aca0ef999c9b2769b76406bab3e2a544fb0ef3a01532"
+        },
+        "11132": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2471351172622204294",
+                    "size": "751350412",
+                    "download": "558105856"
+                },
+                "fullscreen": {
+                    "gid": "2471351172622204294",
+                    "size": "751350412",
+                    "download": "558105856"
+                },
+                "public-beta": {
+                    "gid": "2471351172622204294",
+                    "size": "751350412",
+                    "download": "558105856"
+                }
+            },
+            "decryptionkey": "d82362326832aa5a90c9d12196317c8a4d6c021935ceb406077c1eba3a623668"
+        },
+        "11133": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6078861982384206503",
+                    "size": "753245304",
+                    "download": "561968112"
+                },
+                "fullscreen": {
+                    "gid": "6078861982384206503",
+                    "size": "753245304",
+                    "download": "561968112"
+                },
+                "public-beta": {
+                    "gid": "6078861982384206503",
+                    "size": "753245304",
+                    "download": "561968112"
+                }
+            },
+            "decryptionkey": "147c075d9d918cee3d40ad10b2ffe711c0e4e56930b646d1e0128bf8c9b93db9"
+        },
+        "11134": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8836324334084649069",
+                    "size": "751376551",
+                    "download": "558151248"
+                },
+                "fullscreen": {
+                    "gid": "8836324334084649069",
+                    "size": "751376551",
+                    "download": "558151248"
+                },
+                "public-beta": {
+                    "gid": "8836324334084649069",
+                    "size": "751376551",
+                    "download": "558151248"
+                }
+            },
+            "decryptionkey": "4f80503d0335e44603c34962fd73c46c93d0ea9c07f6fe6a3db9aeb4744f1b7b"
+        },
+        "11135": {
+            "config": {
+                "language": "italian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2074471660148923956",
+                    "size": "734127927",
+                    "download": "560727184"
+                },
+                "fullscreen": {
+                    "gid": "2074471660148923956",
+                    "size": "734127927",
+                    "download": "560727184"
+                },
+                "public-beta": {
+                    "gid": "2074471660148923956",
+                    "size": "734127927",
+                    "download": "560727184"
+                }
+            },
+            "decryptionkey": "2341cf4fe94ca305514048cc15c395e7bbd05e3118420f61efeda733f7e1aee0"
+        },
+        "11136": {
+            "config": {
+                "language": "polish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5551036383119337062",
+                    "size": "730030583",
+                    "download": "569692592"
+                },
+                "fullscreen": {
+                    "gid": "5551036383119337062",
+                    "size": "730030583",
+                    "download": "569692592"
+                },
+                "public-beta": {
+                    "gid": "5551036383119337062",
+                    "size": "730030583",
+                    "download": "569692592"
+                }
+            },
+            "decryptionkey": "55fdadaff48120177aa8f73d4fbed9860ddb683856b8f55377e7fed5e3d4692e"
+        },
+        "11137": {
+            "config": {
+                "language": "portuguese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2468879647486897713",
+                    "size": "703659987",
+                    "download": "546604704"
+                },
+                "fullscreen": {
+                    "gid": "2468879647486897713",
+                    "size": "703659987",
+                    "download": "546604704"
+                },
+                "public-beta": {
+                    "gid": "2468879647486897713",
+                    "size": "703659987",
+                    "download": "546604704"
+                }
+            },
+            "decryptionkey": "23d8c95a54f304c617f3d2e472818d9c656fdff5e80272673e7842135972e2c7"
+        },
+        "11138": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4598930141540931058",
+                    "size": "630832788",
+                    "download": "480627600"
+                },
+                "fullscreen": {
+                    "gid": "4598930141540931058",
+                    "size": "630832788",
+                    "download": "480627600"
+                },
+                "public-beta": {
+                    "gid": "4598930141540931058",
+                    "size": "630832788",
+                    "download": "480627600"
+                }
+            },
+            "decryptionkey": "7f74ad859964582c323e3a0ca4e65c1bc337bfc121b62b62e9d872eb8d26cd57"
+        },
+        "11139": {
+            "manifests": {
+                "public": {
+                    "gid": "2886481585865130679",
+                    "size": "4036077",
+                    "download": "1441504"
+                },
+                "fullscreen": {
+                    "gid": "8068642506537698057",
+                    "size": "622592",
+                    "download": "171104"
+                },
+                "public-beta": {
+                    "gid": "2636520804395459993",
+                    "size": "10688210",
+                    "download": "3798000"
+                }
+            },
+            "decryptionkey": "1ce81febf5f6dbca41d2277c1eabf5ca25c51660a3f28753b54095b407514503"
+        },
+        "branches": {
+            "public": {
+                "buildid": "843179"
+            },
+            "fullscreen": {
+                "buildid": "1185885",
+                "description": "Fullscreen without DXWND",
+                "timeupdated": "1466171551"
+            },
+            "public-beta": {
+                "buildid": "775212"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
