@@ -1,0 +1,31 @@
+{
+    "appid": "462370",
+    "type": "Game",
+    "name": "Cyborg Detonator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23396535",
+    "update_time": "2024-08-14 19:09:44",
+    "depot": {
+        "462371": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6249781371754821737",
+                    "size": "93041132",
+                    "download": "46359504"
+                }
+            },
+            "decryptionkey": "e3c9357a224871947b725124b9706a144daa9ba220b35e6addc70aa7fe9a81d8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1528917",
+                "timeupdated": "1482165593"
+            }
+        }
+    },
+    "access_token": 1736899741559175073
+}
