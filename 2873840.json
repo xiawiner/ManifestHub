@@ -4,8 +4,8 @@
     "name": "shining",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "23591175",
-    "update_time": "2024-05-27 04:00:11",
+    "change_number": "28116513",
+    "update_time": "2025-03-25 04:15:52",
     "depot": {
         "2873841": {
             "manifests": {
@@ -23,5 +23,6 @@
                 "timeupdated": "1709557364"
             }
         }
-    }
+    },
+    "access_token": 12063051677693763194
 }
