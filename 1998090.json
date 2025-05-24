@@ -4,8 +4,8 @@
     "name": "Three kingdoms story: Conussia - Complete rework",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27859949",
-    "update_time": "2025-03-10 00:05:51",
+    "change_number": "28434417",
+    "update_time": "2025-04-12 01:32:51",
     "depot": {
         "1998091": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8131887163732462164",
-                    "size": "293032243",
-                    "download": "213771712"
+                    "gid": "7739114201509980614",
+                    "size": "292986758",
+                    "download": "213726096"
                 },
                 "overlay": {
                     "gid": "1476239405832960832",
@@ -42,8 +42,7 @@
                     "download": "213697408"
                 }
             },
-            "dlcappid": "1998090",
-            "decryptionkey": ""
+            "dlcappid": "1998090"
         },
         "1998093": {
             "config": {
@@ -61,13 +60,12 @@
                     "download": "213697408"
                 }
             },
-            "dlcappid": "1998090",
-            "decryptionkey": ""
+            "dlcappid": "1998090"
         },
         "branches": {
             "public": {
-                "buildid": "17653294",
-                "timeupdated": "1741536343"
+                "buildid": "18075754",
+                "timeupdated": "1744392764"
             },
             "overlay": {
                 "buildid": "11071787",
