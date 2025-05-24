@@ -4,8 +4,8 @@
     "name": "Exoborne Playtest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28312537",
-    "update_time": "2025-04-05 00:17:15",
+    "change_number": "28597716",
+    "update_time": "2025-04-22 17:18:16",
     "depot": {
         "228989": {
             "config": {
@@ -31,5 +31,6 @@
             }
         },
         "privatebranches": "1"
-    }
+    },
+    "access_token": 5482555545322926085
 }
