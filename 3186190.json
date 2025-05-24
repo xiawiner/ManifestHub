@@ -31,7 +31,8 @@
                     "size": "2945273169",
                     "download": "2759682992"
                 }
-            }
+            },
+            "decryptionkey": "cc946626bd7ce571ce7b6e8935bb984caae7337acebe397dba464ba7f911bf45"
         },
         "branches": {
             "public": {
