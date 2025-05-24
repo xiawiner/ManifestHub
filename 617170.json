@@ -1,0 +1,28 @@
+{
+    "appid": "617170",
+    "type": "Game",
+    "name": "Mission: Escape from Island",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26043450",
+    "update_time": "2024-11-05 04:08:25",
+    "depot": {
+        "617171": {
+            "manifests": {
+                "public": {
+                    "gid": "7316725473191420049",
+                    "size": "168808656",
+                    "download": "70411216"
+                }
+            },
+            "decryptionkey": "f6d4adde3ab88d3bbb9261af420d4ff0c4d2b91e1f6688d82821baaf507d5e75"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2625956",
+                "timeupdated": "1521749679"
+            }
+        }
+    },
+    "access_token": 9904536342686707378
+}
