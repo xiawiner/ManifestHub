@@ -140,7 +140,7 @@
                 }
             },
             "dlcappid": "218100",
-            "decryptionkey": ""
+            "decryptionkey": "1e6ab87fd060b13eda5a51e1781379bbd70e46e19671ec0255945c233403ad7e"
         },
         "258420": {
             "manifests": {
@@ -171,7 +171,7 @@
                 }
             },
             "dlcappid": "258420",
-            "decryptionkey": ""
+            "decryptionkey": "f77c1ba53082711c5a4a4c3e977c4fe39bcf5afd545bd6528a8f4367cba60c19"
         },
         "markdlcdepots": "1",
         "branches": {
