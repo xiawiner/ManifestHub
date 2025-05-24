@@ -1,0 +1,39 @@
+{
+    "appid": "10540",
+    "type": "Game",
+    "name": "Football Manager 2009",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-05-24 05:24:32",
+    "depot": {
+        "10541": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "951331152861438730",
+                    "size": "1574196432",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "c13e64bcb439d44e8d73e2386cec5b17c471227ef35b86448bfe78f6e901cd11"
+        },
+        "10542": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1194485901853727225",
+                    "size": "509067044",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "c72ce496ad2e9e80cd6c0525949d33e26dc7f39a232b3871a48aa323f5b5493a"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "53515"
+            }
+        }
+    }
+}
