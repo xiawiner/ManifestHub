@@ -47,7 +47,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "c9c79f243222d0648bfe2739861c9c05cb68f82fe72cec5eb6db0d8c4bcd0bc8"
         },
         "277513": {
             "config": {
@@ -60,7 +60,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "aa9f6221442e4c1180d10d2a24ed5d6f13d9a18ee9303a1ba65c48c776a693f8"
         },
         "branches": {
             "public": {
