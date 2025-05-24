@@ -1,0 +1,32 @@
+{
+    "appid": "558620",
+    "type": "Game",
+    "name": "Steel Invaders",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:17:58",
+    "depot": {
+        "baselanguages": "english,russian",
+        "558621": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4885929151405112036",
+                    "size": "271685298",
+                    "download": "88327888"
+                }
+            },
+            "decryptionkey": "05e48a79e5df9ca213f138e1ef6381d4a925d3b689933dafa7e6dfde1bc5e974"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1478031",
+                "timeupdated": "1479959507"
+            }
+        }
+    },
+    "access_token": 9221413588458630650
+}
