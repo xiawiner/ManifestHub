@@ -18,7 +18,8 @@
                     "download": "19214528"
                 }
             },
-            "depotfromapp": "228980"
+            "depotfromapp": "228980",
+            "decryptionkey": "77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b"
         },
         "229006": {
             "config": {
@@ -31,7 +32,8 @@
                     "download": "84953712"
                 }
             },
-            "depotfromapp": "228980"
+            "depotfromapp": "228980",
+            "decryptionkey": "9bc3e05ce55153e5c315cb18024602ca15958a7be03adc5ffbe53b00a8524416"
         },
         "229007": {
             "config": {
@@ -44,7 +46,8 @@
                     "download": "118846656"
                 }
             },
-            "depotfromapp": "228980"
+            "depotfromapp": "228980",
+            "decryptionkey": "eba9fa9ff4f811929c119074450f49f739113bcae9317ded9bea262aa21ec58d"
         },
         "1020781": {
             "manifests": {
@@ -53,7 +56,8 @@
                     "size": "353312873",
                     "download": "301960880"
                 }
-            }
+            },
+            "decryptionkey": "2134cca23ef943261e2fcdcff52a4c2eb7ef27dea1b1f8330d2e897222289875"
         },
         "baselanguages": "english,spanish,latam",
         "hasdepotsindlc": "0",
