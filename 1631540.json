@@ -4,8 +4,8 @@
     "name": "Squeakers II",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26912697",
-    "update_time": "2025-01-09 03:15:32",
+    "change_number": "27732063",
+    "update_time": "2025-03-01 18:40:45",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "0",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5140366390971349971",
-                    "size": "74412427",
-                    "download": "35254720"
+                    "gid": "3767681949561153365",
+                    "size": "74411707",
+                    "download": "35257248"
                 }
             },
             "decryptionkey": "8c631b9c864e2bb1478be803428638c2773e68239abf15f157a4e79d45a37d6d"
@@ -41,17 +41,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7288624607395649157",
-                    "size": "335355995",
-                    "download": "62829888"
+                    "gid": "5206270728538559075",
+                    "size": "98345971",
+                    "download": "39755184"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17468038",
-                "timeupdated": "1740241784"
+                "buildid": "17558295",
+                "timeupdated": "1740825641"
             }
         }
     }
