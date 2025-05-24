@@ -47,7 +47,7 @@
                     "download": "239174752"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "15e8c6dd053ee993b5385e7409bc84b518364c234b5198d9c49d2637424afc0f"
         },
         "252013": {
             "config": {
@@ -60,7 +60,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "dcf7421fb880ddd6f3e5badf0492d148cfd89af1bfe2d0256bae3ce0759bb8c5"
         },
         "markdlcdepots": "1",
         "branches": {
