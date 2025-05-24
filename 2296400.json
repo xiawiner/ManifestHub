@@ -4,8 +4,8 @@
     "name": "Until Then Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "24116791",
-    "update_time": "2024-07-16 02:46:25",
+    "change_number": "28372000",
+    "update_time": "2025-04-09 02:51:39",
     "depot": {
         "228989": {
             "config": {
@@ -41,8 +41,7 @@
                     "size": "332280785",
                     "download": "209952976"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
