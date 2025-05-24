@@ -4,8 +4,8 @@
     "name": "Worlds of Aria Friends Pass",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27339148",
-    "update_time": "2025-02-06 13:26:55",
+    "change_number": "28838198",
+    "update_time": "2025-05-06 17:23:46",
     "depot": {
         "228989": {
             "config": {
@@ -20,9 +20,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8920132898215687351",
-                    "size": "3263129862",
-                    "download": "1024379888"
+                    "gid": "8698720390854557953",
+                    "size": "3443391258",
+                    "download": "1062545248"
                 }
             },
             "decryptionkey": "d88a8dca01d32e2cfbb87660442f4ae986017923da6814f7d0891219b8d43a68"
@@ -33,17 +33,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7639408532503982156",
-                    "size": "3379974506",
-                    "download": "1052816848"
+                    "gid": "5121491213355325992",
+                    "size": "3559855574",
+                    "download": "1090390576"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "16315330",
-                "timeupdated": "1731402500"
+                "buildid": "18322230",
+                "timeupdated": "1746523420"
             }
         },
         "privatebranches": "1"
