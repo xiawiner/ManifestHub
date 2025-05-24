@@ -19,7 +19,7 @@
                 }
             },
             "dlcappid": "948680",
-            "decryptionkey": ""
+            "decryptionkey": "570d7b2578c10dd5bda006abb6d082ca36edb235c3199dd817d6d66bd3f71d3c"
         },
         "948682": {
             "config": {
@@ -33,7 +33,7 @@
                 }
             },
             "dlcappid": "948680",
-            "decryptionkey": ""
+            "decryptionkey": "dd9ccf33ad4b95653fa4c14d267ac9c3b39791ba20088dae50d7804f213298c5"
         },
         "948680": {
             "dlcappid": "948680"
