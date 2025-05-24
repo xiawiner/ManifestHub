@@ -43,7 +43,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "487f9b0a3a3102e1103e0a86f24a6dbb73627c5620ad0c1c2a3f05472fbcb61c"
         },
         "73024": {
             "config": {
@@ -56,7 +56,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "077103122769fc90a37b8b0f6641b3af8425ddd77b9fad9087905f4d8855cc95"
         },
         "73025": {
             "manifests": {
