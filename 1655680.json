@@ -4,8 +4,8 @@
     "name": "TOEM Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26627328",
-    "update_time": "2024-12-13 18:18:43",
+    "change_number": "28322542",
+    "update_time": "2025-04-05 18:09:40",
     "depot": {
         "hasdepotsindlc": "0",
         "228988": {
@@ -46,8 +46,7 @@
                     "size": "386002239",
                     "download": "225352128"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1655683": {
             "config": {
@@ -59,8 +58,7 @@
                     "size": "386764593",
                     "download": "223919408"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
