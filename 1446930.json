@@ -4,8 +4,8 @@
     "name": "Merge & Blade",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27789505",
-    "update_time": "2025-03-05 15:00:30",
+    "change_number": "28269026",
+    "update_time": "2025-04-02 21:22:45",
     "depot": {
         "baselanguages": "english",
         "1446931": {
@@ -15,17 +15,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6238817304180258368",
-                    "size": "557428699",
-                    "download": "148556576"
+                    "gid": "3601642420384890248",
+                    "size": "559110989",
+                    "download": "148634576"
                 }
             },
             "decryptionkey": "17f9315af84898ae542da0e94c1c97e34b7cd337f04243e9eaf7b135eb5c8434"
         },
         "branches": {
             "public": {
-                "buildid": "17378533",
-                "timeupdated": "1739691461"
+                "buildid": "17940928",
+                "timeupdated": "1743585609"
             }
         },
         "privatebranches": "1"
