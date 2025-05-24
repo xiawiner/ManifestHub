@@ -40,7 +40,8 @@
                     "size": "228088587",
                     "download": "154159040"
                 }
-            }
+            },
+            "decryptionkey": "01b04944a748aae3db099e4e691a4def9d16fd057602f7578ea622adf82b8388"
         },
         "2076583": {
             "config": {
@@ -57,7 +58,8 @@
                     "size": "290952385",
                     "download": "159088720"
                 }
-            }
+            },
+            "decryptionkey": "2a97519b9c06d2b2f0b0b75231e4fed81ce0946f48b379c3b6df72f32228c0f2"
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian,latam",
         "branches": {
