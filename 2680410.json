@@ -4,8 +4,8 @@
     "name": "Taiko Frenzy",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27541702",
-    "update_time": "2025-02-19 04:18:01",
+    "change_number": "28174031",
+    "update_time": "2025-03-28 00:17:30",
     "depot": {
         "baselanguages": "english,french",
         "2680411": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2171118077710283832",
-                    "size": "1895264947",
-                    "download": "608419152"
+                    "gid": "1825840045377219806",
+                    "size": "1895107739",
+                    "download": "608249664"
                 }
             },
             "decryptionkey": "1a80985073baab160f89c4c9cfe42c152e5a8f6a00a4c872c4b675b07d7b4c8a"
         },
         "branches": {
             "public": {
-                "buildid": "16526015",
-                "timeupdated": "1732728922"
+                "buildid": "17884932",
+                "timeupdated": "1743092244"
             }
         },
         "privatebranches": "1"
