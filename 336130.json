@@ -41,7 +41,8 @@
                     "size": "979699563",
                     "download": "585884752"
                 }
-            }
+            },
+            "decryptionkey": "ccd6002e77a1c7ee2c6ce2be9f8cfbfdce3c4e7cb0f62ac0e021b4c761e8685c"
         },
         "336133": {
             "config": {
@@ -53,7 +54,8 @@
                     "size": "926698752",
                     "download": "574000864"
                 }
-            }
+            },
+            "decryptionkey": "5d6613f04c184f56516c316fb98b72570f3b139c62bc53b736a82bd2b62b2d72"
         },
         "336134": {
             "config": {
@@ -66,7 +68,8 @@
                     "size": "983012818",
                     "download": "586879136"
                 }
-            }
+            },
+            "decryptionkey": "fa03cf55df353647c0bb85ffb6cdd45253b526bc148ff54e06ba2ac31aaad3c2"
         },
         "branches": {
             "public": {
