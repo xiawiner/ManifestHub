@@ -59,7 +59,7 @@
                     "download": "13054576"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "7ca37ed9ea6bceaa2ddc729f41a950742fecdc4e4c8a5be64adb9e4357681d8c"
         },
         "272624": {
             "config": {
@@ -73,7 +73,7 @@
                     "download": "12769632"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "ffa0058a49c1c2d2b34ce4c6a6f83cc43983c99b6408304b9002a1468ca5962c"
         },
         "272625": {},
         "baselanguages": "english,german,french,spanish,russian,portuguese",
