@@ -31,7 +31,7 @@
                     "download": "8992721752"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "ca76b0c81ec178386d6c03fb4970964422e270d13679709e425e42732ecd762c"
         },
         "313653": {
             "config": {
@@ -44,7 +44,7 @@
                     "download": "24042628342"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "6f1729e881241067b153ed34bd5811e3015aaf80314e4010c1426f1abdc8c056"
         },
         "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese,polish,brazilian",
         "branches": {
