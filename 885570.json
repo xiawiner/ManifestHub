@@ -4,8 +4,8 @@
     "name": "Nova-Life: Amboise",
     "schinese_name": "",
     "isfreeapp": "1",
-    "change_number": "27861569",
-    "update_time": "2025-03-10 04:14:49",
+    "change_number": "28257111",
+    "update_time": "2025-04-02 05:59:36",
     "depot": {
         "baselanguages": "english,french",
         "workshopdepot": "885570",
@@ -23,11 +23,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5664480924891270500",
-                    "size": "9252179288",
-                    "download": "3102278944"
+                    "gid": "8172675113938853184",
+                    "size": "9369251553",
+                    "download": "3146172064"
                 }
-            }
+            },
+            "decryptionkey": "c8ffd533c040f2aa31e09d0372cc1b870e3bfc1bc923c2b7f1a4c4a3ae9593fe"
         },
         "885572": {
             "config": {
@@ -47,8 +48,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17653055",
-                "timeupdated": "1741551282"
+                "buildid": "17942976",
+                "timeupdated": "1743544770"
             }
         },
         "privatebranches": "1"
