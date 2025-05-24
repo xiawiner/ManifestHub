@@ -57,7 +57,7 @@
                 }
             },
             "dlcappid": "39183",
-            "decryptionkey": ""
+            "decryptionkey": "2d36be9575bcebe8c001f6622dd91b622cfcb6496064205588d105478f87fc80"
         },
         "39182": {
             "optional": "1",
@@ -70,7 +70,7 @@
                 }
             },
             "dlcappid": "39182",
-            "decryptionkey": ""
+            "decryptionkey": "e03970e745b7e2bb0dd481a43acfd8a9df499aaa3e9d7f81f3fa430bfef4cf7e"
         },
         "39181": {
             "optional": "1",
@@ -83,7 +83,7 @@
                 }
             },
             "dlcappid": "39181",
-            "decryptionkey": ""
+            "decryptionkey": "f43b30d167ad6cae08294548d9d614b8a3af3eaeac5c7649d98b0687095ca478"
         },
         "39180": {
             "optional": "1",
@@ -96,7 +96,7 @@
                 }
             },
             "dlcappid": "39180",
-            "decryptionkey": ""
+            "decryptionkey": "27b1f0b3417a26b9d1b6d38b12d80bdaee3bb3aa40bba1cba1281ea06bb32a25"
         },
         "39161": {
             "systemdefined": "1",
