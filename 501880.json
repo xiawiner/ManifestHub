@@ -1,0 +1,28 @@
+{
+    "appid": "501880",
+    "type": "Game",
+    "name": "StoneBack | Prehistory",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24328596",
+    "update_time": "2024-08-14 19:12:52",
+    "depot": {
+        "501881": {
+            "manifests": {
+                "public": {
+                    "gid": "3606129618889901036",
+                    "size": "138015310",
+                    "download": "46820640"
+                }
+            },
+            "decryptionkey": "c79290dccce17b3b8de6d13bd192adf5bba711611550c579416db4e074a94fd2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1287438",
+                "timeupdated": "1471552763"
+            }
+        }
+    },
+    "access_token": 18073119868867251936
+}
