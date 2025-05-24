@@ -42,7 +42,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "9b852f8d1d00fceb71b1e45c5361da90c4ea76e3be70eeeb0eca4a49d37a2630"
         },
         "58564": {
             "config": {
@@ -55,7 +55,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "ec07ba0bf2b77a9ce9684682eb1c109bb58c9dc432e86fc7b45b2f45edd96448"
         },
         "58565": {
             "config": {
@@ -68,7 +68,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "e09d9b2a3adba251a4548b545a9a752048a61c6cdfd76e440b1eb1e0e21a281e"
         },
         "overridescddb": "1",
         "branches": {
