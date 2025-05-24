@@ -1,0 +1,32 @@
+{
+    "appid": "586090",
+    "type": "Game",
+    "name": "Snowman",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:21:17",
+    "depot": {
+        "baselanguages": "english,russian",
+        "586091": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7397748120135643618",
+                    "size": "250710802",
+                    "download": "78001168"
+                }
+            },
+            "decryptionkey": "e2e4abb46543b9aec5d6018a25454c3302b2e8d542268c2ee7f9ab8cd455ca9c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1597504",
+                "timeupdated": "1485691295"
+            }
+        }
+    },
+    "access_token": 12015891244188480232
+}
