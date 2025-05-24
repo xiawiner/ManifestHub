@@ -4,8 +4,8 @@
     "name": "Streatham Hill Stories",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27836947",
-    "update_time": "2025-03-07 22:31:00",
+    "change_number": "28189679",
+    "update_time": "2025-03-28 19:55:18",
     "depot": {
         "1423981": {
             "config": {
@@ -14,8 +14,8 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1645733450466969607",
-                    "size": "1099630474",
+                    "gid": "2331313666089830151",
+                    "size": "1099630477",
                     "download": "516223744"
                 }
             },
@@ -23,8 +23,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "13040433",
-                "timeupdated": "1703445075"
+                "buildid": "17897408",
+                "timeupdated": "1743162914"
             }
         }
     }
