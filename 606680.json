@@ -48,7 +48,8 @@
                     "size": "1901498029",
                     "download": "1799114640"
                 }
-            }
+            },
+            "decryptionkey": "ae8dec5326e5ea0c62b8cc17e1ac0157199f7867dbe4a7e6dbf4b22207cdb17f"
         },
         "606683": {
             "config": {
@@ -65,7 +66,8 @@
                     "size": "1899472198",
                     "download": "1800146288"
                 }
-            }
+            },
+            "decryptionkey": "a15c900487a0bee7b9c261caadb415fea52c6547271fa9e02befb74b6cc956ec"
         },
         "647970": {
             "manifests": {
