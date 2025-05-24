@@ -1,0 +1,28 @@
+{
+    "appid": "1076780",
+    "type": "Game",
+    "name": "WordKiller: Revolution",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22332387",
+    "update_time": "2024-08-14 20:15:45",
+    "depot": {
+        "1076781": {
+            "manifests": {
+                "public": {
+                    "gid": "8125651206246593239",
+                    "size": "21411204",
+                    "download": "14386080"
+                }
+            },
+            "decryptionkey": "3d31117e44b33ed0892d19ed2e19e96dc88243f9e059a3eb59fcdbff33247b02"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3773030",
+                "timeupdated": "1556306158"
+            }
+        }
+    },
+    "access_token": 14071670893442275120
+}
