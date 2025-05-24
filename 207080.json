@@ -44,7 +44,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "c3a4b57284c7f74d2d9839bd3f78c6e6878e4abaa9a10b19669262b9e1aeacff"
         },
         "207090": {
             "manifests": {
@@ -78,7 +78,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "dd7e5b28297cedfb402c40ab4d8dc278667797d42730b3d12bb1703cd5256b0d"
         },
         "branches": {
             "public": {
