@@ -1,0 +1,31 @@
+{
+    "appid": "618030",
+    "type": "Game",
+    "name": "Arcade Tale",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:26:04",
+    "depot": {
+        "618031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8501634224191841734",
+                    "size": "118583504",
+                    "download": "45277072"
+                }
+            },
+            "decryptionkey": "18018b4d93749ea29c2d4ee969107d90d15244049358e97cf9b0a87573c3ba80"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2570404",
+                "timeupdated": "1519990749"
+            }
+        }
+    },
+    "access_token": 12445558775019160730
+}
