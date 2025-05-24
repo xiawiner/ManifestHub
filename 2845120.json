@@ -4,8 +4,8 @@
     "name": "Exoracer",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26841095",
-    "update_time": "2025-01-02 23:20:45",
+    "change_number": "28458452",
+    "update_time": "2025-04-14 09:28:11",
     "depot": {
         "baselanguages": "english",
         "2845122": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "344127618135848467",
-                    "size": "228753340",
-                    "download": "126455296"
+                    "gid": "5931439294697939713",
+                    "size": "227300684",
+                    "download": "115754624"
                 }
             },
             "decryptionkey": "a156b134bb8d68379a738cf051c2c6cab26af1c88aac6a1186beed92a417eae0"
@@ -27,12 +27,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3815851450016235325",
-                    "size": "483833422",
-                    "download": "160504272"
+                    "gid": "957808562984166278",
+                    "size": "312417196",
+                    "download": "134317104"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2845124": {
             "config": {
@@ -40,17 +39,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4371174089955445380",
-                    "size": "359608965",
-                    "download": "136363856"
+                    "gid": "7833474438476784291",
+                    "size": "258453687",
+                    "download": "117365408"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "16750818",
-                "timeupdated": "1734267786"
+                "buildid": "18093280",
+                "timeupdated": "1744594087"
             }
         },
         "privatebranches": "1"
