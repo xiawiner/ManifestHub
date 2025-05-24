@@ -4,15 +4,15 @@
     "name": "法利恩戰記 Ⅱ (Furion Chronicles Ⅱ)",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25919718",
-    "update_time": "2024-10-27 23:13:15",
+    "change_number": "28009272",
+    "update_time": "2025-03-18 16:34:03",
     "depot": {
         "1461061": {
             "manifests": {
                 "public": {
-                    "gid": "5981817364171858808",
-                    "size": "1065718966",
-                    "download": "1009808608"
+                    "gid": "7605384017863825330",
+                    "size": "1052268773",
+                    "download": "967712208"
                 }
             },
             "decryptionkey": "05f8c41640ec9b08d09f9a21f07d3388f22bf24ebf3a9dea601160600c3bc3ec"
@@ -20,8 +20,8 @@
         "baselanguages": "tchinese",
         "branches": {
             "public": {
-                "buildid": "7005325",
-                "timeupdated": "1625836961"
+                "buildid": "17762564",
+                "timeupdated": "1742286836"
             }
         }
     }
