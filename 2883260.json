@@ -4,8 +4,8 @@
     "name": "Black Blade",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "23159291",
-    "update_time": "2024-05-27 04:26:20",
+    "change_number": "28116183",
+    "update_time": "2025-03-25 03:53:03",
     "depot": {
         "2883261": {
             "manifests": {
@@ -23,5 +23,6 @@
                 "timeupdated": "1710036616"
             }
         }
-    }
+    },
+    "access_token": 4179692122730001732
 }
