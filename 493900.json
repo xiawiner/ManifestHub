@@ -782,7 +782,7 @@
                     "download": "234096"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "5a58e362aace022a0e1c3971920e0be369382699676b04839754513f5b828db5"
         },
         "975336": {
             "dlcappid": "1049940",
@@ -797,7 +797,7 @@
                     "download": "234096"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "9eddfd2562e47c7e767dd7531feee93137894f983c1a29518268ae9fb23cc789"
         },
         "975337": {
             "dlcappid": "1198940",
@@ -827,7 +827,7 @@
                     "download": "193488"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "081b68981ddacaa333ad770e8e26802e50dd924567605f839674c8573ce57a41"
         },
         "975339": {
             "dlcappid": "1198940",
@@ -842,7 +842,7 @@
                     "download": "193488"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "10a477a6703cfac712eab7192cc6d47e1000dbb26154a89f202f52a65728e3d1"
         },
         "branches": {
             "public": {
