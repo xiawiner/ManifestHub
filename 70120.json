@@ -21,7 +21,7 @@
                     "download": "122558480"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "efab5fc8c5522318f1561cd7f2236380645ecdcbe774bdfa80ab9f60cfd13f4a"
         },
         "70121": {
             "config": {
@@ -61,7 +61,7 @@
                 }
             },
             "dlcappid": "211991",
-            "decryptionkey": ""
+            "decryptionkey": "1b086a442fb5cbac1b54b01e0eb7be10413f79d439d23d49f0f3cc0e3cc2bfba"
         },
         "211994": {
             "manifests": {
@@ -140,7 +140,7 @@
                     "download": "118953792"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "0f51d44b663907e7c871e378f35cbafc8bda1e2589110ce1b000a61f3b08fdf3"
         },
         "branches": {
             "public": {
