@@ -4,8 +4,8 @@
     "name": "Darkest Hour: Europe '44-'45",
     "schinese_name": "红色管弦乐队：至暗之时",
     "isfreeapp": "1",
-    "change_number": "28095025",
-    "update_time": "2025-03-23 18:42:25",
+    "change_number": "28969249",
+    "update_time": "2025-05-14 06:20:36",
     "depot": {
         "1202": {
             "systemdefined": "1",
@@ -40,7 +40,8 @@
                     "size": "2567518451",
                     "download": "1109560272"
                 }
-            }
+            },
+            "decryptionkey": "c26c669966a2d54b5e1715bd14faa2de0607fe762dc07aeebc31a98172cf4710"
         },
         "1281": {
             "systemdefined": "1",
@@ -65,7 +66,8 @@
                     "size": "10991411891",
                     "download": "3136375408"
                 }
-            }
+            },
+            "decryptionkey": "138734b199283e7885c9608a0e3084ee8dfd76197283503c8d34fe3be62b77f4"
         },
         "overridescddb": "1",
         "workshopdepot": "0",
@@ -91,6 +93,7 @@
                 "timeupdated": "1741543795"
             }
         },
-        "privatebranches": "1"
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
     }
 }
