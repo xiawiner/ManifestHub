@@ -4,8 +4,8 @@
     "name": "LumineNight Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28007597",
-    "update_time": "2025-03-18 14:10:21",
+    "change_number": "28120994",
+    "update_time": "2025-03-25 10:19:48",
     "depot": {
         "228989": {
             "config": {
@@ -29,21 +29,22 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8131390023441766891",
-                    "size": "4860861845",
-                    "download": "1164637504"
+                    "gid": "5007053698983542446",
+                    "size": "4860867547",
+                    "download": "1165078672"
                 },
                 "oldversion": {
                     "gid": "3377206537280937074",
                     "size": "1214315137",
                     "download": "934100160"
                 }
-            }
+            },
+            "decryptionkey": "70b0ab44553b4f82719463d9dd95ca06a56bd93f1e225835bbb98321a2064120"
         },
         "branches": {
             "public": {
-                "buildid": "17761287",
-                "timeupdated": "1742278216"
+                "buildid": "17845200",
+                "timeupdated": "1742869184"
             },
             "oldversion": {
                 "buildid": "12213349",
