@@ -31,7 +31,7 @@
                     "download": "452100624"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "6f47dee223a275d01e0d1af9b20a9fcbf4131f3f49a33fdcf211fae9b23c159b"
         },
         "406802": {
             "config": {
@@ -63,5 +63,6 @@
             }
         },
         "privatebranches": "1"
-    }
+    },
+    "access_token": 15960919944698374997
 }
