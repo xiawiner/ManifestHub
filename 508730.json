@@ -4,8 +4,8 @@
     "name": "Painted Legend",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27526435",
-    "update_time": "2025-02-18 10:12:39",
+    "change_number": "27730983",
+    "update_time": "2025-03-01 15:57:20",
     "depot": {
         "baselanguages": "english,russian",
         "508731": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6778087946748202212",
-                    "size": "229609106",
-                    "download": "121464464"
+                    "gid": "5395476574805957506",
+                    "size": "434186622",
+                    "download": "168884032"
                 }
             },
             "decryptionkey": "d10644f1e499053a6c13f7954d620c68efe6ede8e19f80dfdac15a387bd89ab0"
@@ -34,8 +34,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16184226",
-                "timeupdated": "1729880821"
+                "buildid": "17557279",
+                "timeupdated": "1740814072"
             }
         }
     }
