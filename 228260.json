@@ -103,7 +103,7 @@
                     "download": "47739968"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "d92fc89f261b204a7d0370e7a7fd3a1dbe57d3afc85605ffc7384f3199f8a33d"
         },
         "228263": {
             "config": {
@@ -126,7 +126,7 @@
                     "download": "689775840"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "bc8e909eb26c6f77a6b1b1a9d0a69a7dbadf4a9f5dfe2c75e506d6c66d85d37f"
         },
         "228265": {
             "config": {
@@ -149,7 +149,7 @@
                     "download": "1227123072"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "4925e0d3fdb9aa008848b98964f288e197286795cb7eb8661e70d2b13c7a1a14"
         },
         "233590": {
             "manifests": {
@@ -299,7 +299,7 @@
                     "download": "621120"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "bd5e50900fad8d5759739d36e59cd07fd4150327e61a26644ff43c1c14fff5c3"
         },
         "247792": {
             "config": {
@@ -323,7 +323,7 @@
                     "download": "44560"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "70418b2b040e183c59559279a2164d7398858610e675855fa206ccc984de3409"
         },
         "228264": {
             "config": {
@@ -347,7 +347,7 @@
                     "download": "14208"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "9be79833874e71ed29228e0ac996a2e943a0f7166a32ca0bd9567f57585046d6"
         },
         "228267": {
             "config": {
@@ -371,7 +371,7 @@
                     "download": "115776"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "b90391159a577360de2016422f5b0f99af399f63c5de06486683c99ed233ea45"
         },
         "228268": {
             "dlcappid": "292900",
@@ -395,7 +395,7 @@
                     "download": "11792"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "c5da56173997f53a21a1a466132967e10efcc96450c32921a33c0338e288ca12"
         },
         "247793": {
             "config": {
