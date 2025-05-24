@@ -4,8 +4,8 @@
     "name": "欺神弄鬼 Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27518290",
-    "update_time": "2025-02-17 23:33:06",
+    "change_number": "28142964",
+    "update_time": "2025-03-26 12:56:35",
     "depot": {
         "baselanguages": "schinese",
         "228988": {
@@ -42,8 +42,7 @@
                     "size": "2050944232",
                     "download": "1464500720"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
