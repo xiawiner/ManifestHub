@@ -1,0 +1,28 @@
+{
+    "appid": "1051810",
+    "type": "Game",
+    "name": "VCB: Why City 4k",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22332387",
+    "update_time": "2024-08-14 20:14:15",
+    "depot": {
+        "1051811": {
+            "manifests": {
+                "public": {
+                    "gid": "8780936109420265590",
+                    "size": "822033432",
+                    "download": "369688416"
+                }
+            },
+            "decryptionkey": "1749fcb3f77cee7fdc67602917abe6810f97256089703049de2249a2bfd38e3f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3735589",
+                "timeupdated": "1555182887"
+            }
+        }
+    },
+    "access_token": 13755520966829886861
+}
