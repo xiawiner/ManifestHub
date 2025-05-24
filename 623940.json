@@ -31,7 +31,7 @@
                     "download": "1910203696"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "8510f2e45a96510df7ccfea1c0911d1fe316db82fa19bdc9bbf44a351bf0cc47"
         },
         "680910": {
             "manifests": {
@@ -54,7 +54,7 @@
                     "download": "743903760"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "db1a4d0bf6168a5b82f5d6382ce4d9d443180434234a224776de2c93e5ad6de6"
         },
         "branches": {
             "public": {
