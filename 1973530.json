@@ -1,0 +1,32 @@
+{
+    "appid": 1973530,
+    "name": "Limbus Company",
+    "type": "Game",
+    "schinese_name": "边狱公司",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 20:49:38",
+    "change_number": 29668331,
+    "depot": {
+        "baselanguages": "koreana",
+        "1973531": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6195053195910970232",
+                    "size": "3041025324",
+                    "download": "764805520"
+                }
+            },
+            "decryptionkey": "b5b48790e4a9b5e1addac9fafe875d35ac0834bfe74548ec481407975ad1a0e6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18855151",
+                "timeupdated": "1750300455"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
