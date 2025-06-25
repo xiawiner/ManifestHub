@@ -1,0 +1,27 @@
+{
+    "appid": 3259910,
+    "name": "WarOS",
+    "type": "Game",
+    "schinese_name": "群星战场WarOS",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 20:26:57",
+    "change_number": 29573953,
+    "depot": {
+        "3259911": {
+            "manifests": {
+                "public": {
+                    "gid": "3729470733149552543",
+                    "size": "10517542468",
+                    "download": "4898549264"
+                }
+            },
+            "decryptionkey": "4ba96a3e4399090a237644bb5bda96619f36b3d21c29330d384269897a07a7f2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18873274",
+                "timeupdated": "1749990412"
+            }
+        }
+    }
+}
