@@ -1,0 +1,41 @@
+{
+    "appid": 1619520,
+    "name": "Cross Blitz",
+    "type": "Game",
+    "schinese_name": "纵横命途",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 20:53:13",
+    "change_number": 29649484,
+    "depot": {
+        "1619521": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "901010484258919807",
+                    "size": "610033900",
+                    "download": "466759504"
+                },
+                "crossblitz_beta": {
+                    "gid": "3314148889595944874",
+                    "size": "610034146",
+                    "download": "466787024"
+                }
+            },
+            "decryptionkey": "1ab8c00375deb010f355c6bf2d5694790029242fdffafd27bb134159a46d7053"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18544602",
+                "timeupdated": "1747832476"
+            },
+            "crossblitz_beta": {
+                "buildid": "18544610",
+                "description": "Beta branch of Cross Blitz, open to the public",
+                "timeupdated": "1747918688"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
