@@ -1,0 +1,41 @@
+{
+    "appid": 2986450,
+    "name": "Metro Gravity",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 08:05:18",
+    "change_number": 29686585,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2986451": {
+            "manifests": {
+                "public": {
+                    "gid": "309485819081597015",
+                    "size": "975903899",
+                    "download": "601067296"
+                }
+            },
+            "decryptionkey": "962eb395eecb9538201954a19f0da9ad1f2de2ffd18479d1b48a59727e7cb266"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18953575",
+                "timeupdated": "1750561222"
+            }
+        }
+    }
+}
