@@ -1,0 +1,31 @@
+{
+    "appid": 1082970,
+    "name": "Archaelund",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 20:56:04",
+    "change_number": 29572179,
+    "depot": {
+        "1082971": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4359423415325591219",
+                    "size": "21558395963",
+                    "download": "9785281488"
+                }
+            },
+            "decryptionkey": "cc8ee1eb22d1d974bd03dfb6b10ca78189cfcf7abee76ac3d528b9c45e47c0d5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18463984",
+                "timeupdated": "1747242980"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
