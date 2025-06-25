@@ -1,0 +1,55 @@
+{
+    "appid": 2457580,
+    "name": "Fight Crab 2",
+    "type": "Game",
+    "schinese_name": "螃蟹大战 2",
+    "isfreeapp": 0,
+    "update_time": "2025-06-10 12:03:59",
+    "change_number": 29478340,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2457581": {
+            "manifests": {
+                "public": {
+                    "gid": "1391955867292794814",
+                    "size": "5018409951",
+                    "download": "4166453232"
+                },
+                "highend_graphics": {
+                    "gid": "1391955867292794814",
+                    "size": "5018409951",
+                    "download": "4166453232"
+                },
+                "lowend_graphics": {
+                    "gid": "5746475157054737293",
+                    "size": "5449332330",
+                    "download": "4493715184"
+                }
+            },
+            "decryptionkey": "1682b6999e630f66c641d8d04a3693f90a6618dc6cfc1d52712bcc95a1c7ca25"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18804679",
+                "timeupdated": "1749528017"
+            },
+            "highend_graphics": {
+                "buildid": "18804679",
+                "description": "High Definition Render Pipeline Version",
+                "timeupdated": "1749527993"
+            },
+            "lowend_graphics": {
+                "buildid": "18804709",
+                "description": "Universal Render Pipeline Version",
+                "timeupdated": "1749528234"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
