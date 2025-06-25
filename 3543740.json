@@ -1,0 +1,45 @@
+{
+    "appid": 3543740,
+    "name": "The B.L.O.O.M Initiative",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 19:43:49",
+    "change_number": 29667404,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,indonesian",
+        "3543741": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1335376831011847365",
+                    "size": "1011813605",
+                    "download": "321923056"
+                }
+            },
+            "decryptionkey": "ff1bf59d9c03ed78044306070d55eadb325969205a4188a9853cd136fb3089f8"
+        },
+        "3543742": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1735720644637546875",
+                    "size": "1011562110",
+                    "download": "339520400"
+                }
+            }
+        },
+        "workshopdepot": "3543740",
+        "branches": {
+            "public": {
+                "buildid": "18938454",
+                "timeupdated": "1750414094"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
