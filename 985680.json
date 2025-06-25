@@ -1,0 +1,32 @@
+{
+    "appid": 985680,
+    "name": "过关攒将",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-19 11:24:50",
+    "change_number": 29641406,
+    "depot": {
+        "baselanguages": "schinese",
+        "hasdepotsindlc": "0",
+        "985681": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2958808321648715213",
+                    "size": "204065489",
+                    "download": "188727152"
+                }
+            },
+            "decryptionkey": "3872fdcf2592864bb691d4e47bbf03dd178b4472de6a0d3961f2c5ec4e154961"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18921204",
+                "timeupdated": "1750303484"
+            }
+        }
+    }
+}
