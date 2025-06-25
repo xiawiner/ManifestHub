@@ -1,0 +1,27 @@
+{
+    "appid": 3339830,
+    "name": "Succubus Roulette",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 06:39:16",
+    "change_number": 29638338,
+    "depot": {
+        "3339831": {
+            "manifests": {
+                "public": {
+                    "gid": "3859431783155673050",
+                    "size": "143193907",
+                    "download": "94588688"
+                }
+            },
+            "decryptionkey": "ff17dda86efd25bb8f5f5fec810fe0d03c57eda6f6a630713dec383a26fd062f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18649133",
+                "timeupdated": "1748468973"
+            }
+        }
+    }
+}
