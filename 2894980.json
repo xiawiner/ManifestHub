@@ -1,0 +1,42 @@
+{
+    "appid": 2894980,
+    "name": "4.1.60Co",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 06:18:13",
+    "change_number": 29686018,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2894981": {
+            "manifests": {
+                "public": {
+                    "gid": "7487744543139015752",
+                    "size": "703517255",
+                    "download": "591405952"
+                }
+            },
+            "decryptionkey": "18d9e75c172d9640eda5c12e455e5408041fcb8bd0571c72ead838a073d9d567"
+        },
+        "baselanguages": "english,schinese,russian,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18954162",
+                "timeupdated": "1750571807"
+            }
+        }
+    }
+}
