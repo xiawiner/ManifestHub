@@ -1,0 +1,116 @@
+{
+    "appid": 1097430,
+    "name": "依盖之书 book of yog",
+    "type": "Game",
+    "schinese_name": "依盖之书",
+    "isfreeapp": 1,
+    "update_time": "2025-06-13 17:49:46",
+    "change_number": 29546521,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,schinese",
+        "1097432": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "903370832220483260",
+                    "size": "2071289875",
+                    "download": "1349826272"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1097431": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3733391343079240505",
+                    "size": "2071289875",
+                    "download": "1349978640"
+                }
+            },
+            "decryptionkey": "54261c3e89fb233b498eb6600dccae1f874a9996407f4cf30ad3a9754e8ade90"
+        },
+        "1097435": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7307200764004343193",
+                    "size": "6756328958",
+                    "download": "5154388688"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1097436": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5415206400089265549",
+                    "size": "6756328958",
+                    "download": "5154388688"
+                }
+            },
+            "decryptionkey": "25e623c862ebb86f27aeb58b3f9de77f426e4754d3b49746aaa2385d7aaa7500"
+        },
+        "1097433": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3202354921097463084",
+                    "size": "1672071011",
+                    "download": "1028531472"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1097434": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7923736654085884571",
+                    "size": "1664807573",
+                    "download": "1026270160"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18853902",
+                "timeupdated": "1749808181"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
