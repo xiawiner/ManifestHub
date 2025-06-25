@@ -1,0 +1,31 @@
+{
+    "appid": 3689630,
+    "name": "Bubble Rage",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 12:58:43",
+    "change_number": 29585413,
+    "depot": {
+        "baselanguages": "english,french,italian,arabic",
+        "3689631": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7080220955719903448",
+                    "size": "1142499057",
+                    "download": "541376176"
+                }
+            },
+            "decryptionkey": "e58a9ef4179943c960fdc3150fbb9600f6bb6968edad945419abd8a8f44a5b0f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18745870",
+                "timeupdated": "1749105783"
+            }
+        }
+    }
+}
