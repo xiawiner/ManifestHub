@@ -1,0 +1,61 @@
+{
+    "appid": 1172710,
+    "name": "Dune: Awakening",
+    "type": "Game",
+    "schinese_name": "Dune: Awakening 沙丘：觉醒",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 06:38:49",
+    "change_number": 29686120,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,brazilian,ukrainian",
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1172711": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4510230846564284382",
+                    "size": "44455193180",
+                    "download": "36517397184"
+                }
+            },
+            "decryptionkey": "fca2f8a025b411ec4d846fe6bf97d1d0589a93bb56a2527fb857a4bfe4aac2b3"
+        },
+        "1172719": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5663042031530293926",
+                    "size": "229581106",
+                    "download": "97272208"
+                }
+            },
+            "decryptionkey": "7b18d5460246bac4620753a4ed05b5f4e42c3c6ad1fce01a9508eb6a9fac5e08"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18891923",
+                "timeupdated": "1750233712"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
