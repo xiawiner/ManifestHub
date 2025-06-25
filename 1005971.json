@@ -1,0 +1,31 @@
+{
+    "appid": 1005971,
+    "name": "iVRy Driver for SteamVR (PSVR Premium Edition)",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-16 17:50:06",
+    "change_number": 29584412,
+    "depot": {
+        "1005971": {
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "1005971",
+            "manifests": {
+                "public": {
+                    "gid": "4465399707657494525",
+                    "size": "16710417",
+                    "download": "8415040"
+                }
+            },
+            "decryptionkey": "94ccf3272b8560103307bbe340d12d31304f39b2e1562a74fb837bd466398db3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18880572",
+                "timeupdated": "1750067402"
+            }
+        }
+    }
+}
