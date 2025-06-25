@@ -1,0 +1,29 @@
+{
+    "appid": 2560500,
+    "name": "Astral Throne",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 11:07:00",
+    "change_number": 29517146,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2560501": {
+            "manifests": {
+                "public": {
+                    "gid": "5148599942924935809",
+                    "size": "1598016448",
+                    "download": "432020976"
+                }
+            },
+            "decryptionkey": "d6d0c544797ded0b3f0497070ca7491e079045dfb023da189cd6ce203370016f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18696440",
+                "timeupdated": "1748829400"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
