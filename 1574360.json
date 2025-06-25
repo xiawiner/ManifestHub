@@ -1,0 +1,34 @@
+{
+    "appid": 1574360,
+    "name": "Uncharted Waters Origin",
+    "type": "Game",
+    "schinese_name": "大航海时代：起源",
+    "isfreeapp": 1,
+    "update_time": "2025-06-11 10:10:35",
+    "change_number": 29498050,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "1574361": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7517749655161901234",
+                    "size": "15141813861",
+                    "download": "14292808880"
+                }
+            },
+            "decryptionkey": "96bdcd18023522460b81790ba391d2d532955f81ca12b6b574e4dd2ec31d796d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18743588",
+                "timeupdated": "1749607831"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
