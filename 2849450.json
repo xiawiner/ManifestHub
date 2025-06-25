@@ -1,0 +1,29 @@
+{
+    "appid": 2849450,
+    "name": "ARK: Scorched Earth Ascended",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-21 21:58:06",
+    "change_number": 29682655,
+    "depot": {
+        "2849450": {
+            "manifests": {
+                "public": {
+                    "gid": "1624016385229805643",
+                    "size": "6927518100",
+                    "download": "6664274768"
+                }
+            },
+            "dlcappid": "2849450",
+            "decryptionkey": "06a4aa068a1a3940e0c7eff34508ad6474806f4b46520ef9ea12b4b7f77a3d0e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18922196",
+                "timeupdated": "1750400744"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
