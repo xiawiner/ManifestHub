@@ -1,0 +1,42 @@
+{
+    "appid": 2408820,
+    "name": "Luma Island",
+    "type": "Game",
+    "schinese_name": "露玛岛",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 18:03:57",
+    "change_number": 29681227,
+    "depot": {
+        "2408821": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3255279822181019149",
+                    "size": "4830885311",
+                    "download": "2076491696"
+                },
+                "vanilla": {
+                    "gid": "6787906590426803368",
+                    "size": "4906568389",
+                    "download": "2156509984"
+                }
+            },
+            "decryptionkey": "49df48241b28b06fdb2844200bd8a711c1e734ae6fa87a67e97a55a3a22e686c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18940950",
+                "timeupdated": "1750431260"
+            },
+            "vanilla": {
+                "buildid": "18673147",
+                "description": "The original Luma Island experience",
+                "timeupdated": "1748604558"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
