@@ -1,0 +1,75 @@
+{
+    "appid": 253710,
+    "name": "theHunter Classic",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 19:58:57",
+    "change_number": 29667616,
+    "depot": {
+        "228981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "253711": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1573626066751467812",
+                    "size": "12447273480",
+                    "download": "9870372032"
+                }
+            },
+            "decryptionkey": "5f3b0023cb87e2e4c58472f2bf8c6036a2bd4c07a2b36083c69a2fea91e7e906"
+        },
+        "253712": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6164271974956795449",
+                    "size": "12447273480",
+                    "download": "9870346208"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18565230",
+                "timeupdated": "1747994521"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
