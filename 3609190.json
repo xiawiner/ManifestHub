@@ -1,0 +1,38 @@
+{
+    "appid": 3609190,
+    "name": "ZDSimulator - Kyiv-Shevchenko Route",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-13 01:38:58",
+    "change_number": 29531810,
+    "depot": {
+        "3609190": {
+            "manifests": {
+                "public": {
+                    "gid": "7028846164027052437",
+                    "size": "1985984011",
+                    "download": "544287872"
+                },
+                "beta": {
+                    "gid": "573396102765019984",
+                    "size": "1992524653",
+                    "download": "547237536"
+                }
+            },
+            "dlcappid": "3609190",
+            "decryptionkey": "d41c60128a717f37fd1e3edc7ba50fb00f13838f3df71841ae1d37f0534515c5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18664514",
+                "timeupdated": "1748889021"
+            },
+            "beta": {
+                "buildid": "18843048",
+                "description": "Beta",
+                "timeupdated": "1749743493"
+            }
+        }
+    }
+}
