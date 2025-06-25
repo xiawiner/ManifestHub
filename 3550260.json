@@ -1,0 +1,37 @@
+{
+    "appid": 3550260,
+    "name": "双雄风流传（Romantic Emperor）",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-07 17:23:37",
+    "change_number": 29433649,
+    "depot": {
+        "3550261": {
+            "manifests": {
+                "public": {
+                    "gid": "2974410304355685626",
+                    "size": "2005544311",
+                    "download": "486356928"
+                },
+                "test": {
+                    "gid": "1184343569156463849",
+                    "size": "2005490745",
+                    "download": "478733184"
+                }
+            },
+            "decryptionkey": "d589ee7b53e966d702f9e70c1cc3e2e872c131a1010e751ed2c44c71c354b015"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18743892",
+                "timeupdated": "1749103277"
+            },
+            "test": {
+                "buildid": "18383453",
+                "description": "测试分支",
+                "timeupdated": "1746675252"
+            }
+        }
+    }
+}
