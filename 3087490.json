@@ -1,0 +1,37 @@
+{
+    "appid": 3087490,
+    "name": "SimuLOVE! Vol. 1",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-28 19:24:43",
+    "change_number": 29234495,
+    "depot": {
+        "3087491": {
+            "manifests": {
+                "public": {
+                    "gid": "3907198071260848205",
+                    "size": "1284663275",
+                    "download": "936052560"
+                },
+                "test": {
+                    "gid": "3907198071260848205",
+                    "size": "1284663275",
+                    "download": "936052560"
+                }
+            },
+            "decryptionkey": "a03b09c039c8bb21d5dcf559e7ffc79fd4c5062706f0207efcb951130b6df37d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17757283",
+                "timeupdated": "1742246939"
+            },
+            "test": {
+                "buildid": "17757283",
+                "description": "for testing",
+                "timeupdated": "1742246788"
+            }
+        }
+    }
+}
