@@ -1,0 +1,63 @@
+{
+    "appid": 3032020,
+    "name": "Cast & Spell",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 06:05:53",
+    "change_number": 29610186,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "3032021": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2498238910596735963",
+                    "size": "2035184240",
+                    "download": "1641530176"
+                },
+                "ranked_test": {
+                    "gid": "6126679320239011477",
+                    "size": "2033590041",
+                    "download": "1640548480"
+                }
+            },
+            "decryptionkey": "895cdbd736b06ba1b5847b5f004439ec4e5c858a703376492b9a6eceddc905fb"
+        },
+        "3032022": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18613476",
+                "timeupdated": "1748277905"
+            },
+            "ranked_test": {
+                "buildid": "18602697",
+                "description": "Test branch for ranked",
+                "timeupdated": "1748200705"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
