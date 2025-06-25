@@ -1,0 +1,45 @@
+{
+    "appid": 3457080,
+    "name": "Four Mini Kingdoms War",
+    "type": "Game",
+    "schinese_name": "迷你四国战争",
+    "isfreeapp": 1,
+    "update_time": "2025-06-07 00:24:09",
+    "change_number": 29422357,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "hasdepotsindlc": "0",
+        "3457081": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2913182822672100330",
+                    "size": "140695041",
+                    "download": "56058192"
+                }
+            },
+            "decryptionkey": "6c14b506d8f9f3f12e007409b02112599e8baa2e4706bb00c747689a835fae87"
+        },
+        "3457082": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2224520140171037558",
+                    "size": "112862945",
+                    "download": "50690832"
+                }
+            },
+            "decryptionkey": "4c9408861c3cad951cdd459629ae14501fa8ee3e20f72a4dc135bda8c84549de"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18474516",
+                "timeupdated": "1747306405"
+            }
+        }
+    }
+}
