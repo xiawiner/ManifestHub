@@ -1,0 +1,27 @@
+{
+    "appid": 3772440,
+    "name": "Only Jump On Pogo",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 02:05:54",
+    "change_number": 29673550,
+    "depot": {
+        "3772441": {
+            "manifests": {
+                "public": {
+                    "gid": "2162374090864983164",
+                    "size": "3204213140",
+                    "download": "2430747632"
+                }
+            },
+            "decryptionkey": "97f5594771fd63c1f83543438e01ae49fad77bbcea66ccb5446e6ec642320123"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18803295",
+                "timeupdated": "1749517866"
+            }
+        }
+    }
+}
