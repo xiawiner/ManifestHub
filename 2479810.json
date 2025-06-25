@@ -1,0 +1,47 @@
+{
+    "appid": 2479810,
+    "name": "Gray Zone Warfare",
+    "type": "Game",
+    "schinese_name": "灰区战争",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 17:26:47",
+    "change_number": 29665262,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2479811": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "435190574533721296",
+                    "size": "25892401552",
+                    "download": "20950694944"
+                }
+            },
+            "decryptionkey": "c89db92b0e186d8c1e9db781270fc739b23f152b3e11ed7733f93bba19ce6716"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,japanese,polish,czech,turkish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18882351",
+                "timeupdated": "1750240906"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
