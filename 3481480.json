@@ -1,0 +1,42 @@
+{
+    "appid": 3481480,
+    "name": "超级妙音鸟 (Super Kalavinka)",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-16 10:52:28",
+    "change_number": 29579817,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3481481": {
+            "manifests": {
+                "public": {
+                    "gid": "3065979254871108847",
+                    "size": "1636223885",
+                    "download": "1490050192"
+                }
+            },
+            "decryptionkey": "df8855f225de470379360a8546a9bbb395351c51a4d6f0ddb98115e71e32c6b7"
+        },
+        "baselanguages": "english,german,french,italian,schinese,russian,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18739274",
+                "timeupdated": "1749063729"
+            }
+        }
+    }
+}
