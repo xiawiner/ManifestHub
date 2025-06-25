@@ -1,0 +1,39 @@
+{
+    "appid": 3616230,
+    "name": "GLYPHS",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 14:12:16",
+    "change_number": 29679749,
+    "depot": {
+        "baselanguages": "english",
+        "3616231": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "293222903105087488",
+                    "size": "658958495",
+                    "download": "438500304"
+                }
+            },
+            "decryptionkey": "8628299a0eda426439e7759c507a0fd9a1b777078584c9f1b38a613743506755"
+        },
+        "3616232": {
+            "config": {
+                "language": "english",
+                "oslist": "macos",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18946506",
+                "timeupdated": "1750486332"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
