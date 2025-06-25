@@ -1,0 +1,122 @@
+{
+    "appid": 2880730,
+    "name": "AI2U: With You 'Til The End",
+    "type": "Game",
+    "schinese_name": " AI2U: 与你直到世界尽头 ~ 我的病娇猫娘AI女友",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 14:38:52",
+    "change_number": 29679892,
+    "depot": {
+        "baselanguages": "english,schinese,japanese,latam",
+        "2880731": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8523073523876007459",
+                    "size": "5755013049",
+                    "download": "1890776816"
+                },
+                "beta": {
+                    "gid": "8523073523876007459",
+                    "size": "5755013049",
+                    "download": "1890776816"
+                }
+            },
+            "decryptionkey": "e2ca87b16b3ac8c52ccd235d0e58670b6d208f1fa79f280ba0b72586dc36340a"
+        },
+        "2880733": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4908370268751540633",
+                    "size": "5755013561",
+                    "download": "1849383008"
+                },
+                "beta": {
+                    "gid": "4908370268751540633",
+                    "size": "5755013561",
+                    "download": "1849383008"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2880732": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8566716552602151007",
+                    "size": "5872440541",
+                    "download": "1933269504"
+                },
+                "beta": {
+                    "gid": "8566716552602151007",
+                    "size": "5872440541",
+                    "download": "1933269504"
+                }
+            }
+        },
+        "2880734": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "833680391264482281",
+                    "size": "5755013561",
+                    "download": "2012196416"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2880735": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4988631865867048736",
+                    "size": "5889217401",
+                    "download": "2056672416"
+                }
+            }
+        },
+        "2880736": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "558332844943437298",
+                    "size": "5889217401",
+                    "download": "1983787168"
+                },
+                "beta": {
+                    "gid": "558332844943437298",
+                    "size": "5889217401",
+                    "download": "1983787168"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18918316",
+                "timeupdated": "1750283094"
+            },
+            "beta": {
+                "buildid": "18918304",
+                "description": "beta branch",
+                "timeupdated": "1750282997"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
