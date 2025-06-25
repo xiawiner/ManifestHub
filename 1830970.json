@@ -1,0 +1,31 @@
+{
+    "appid": 1830970,
+    "name": "The Last Flame",
+    "type": "Game",
+    "schinese_name": "将熄之焰 The Last Flame",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 02:47:19",
+    "change_number": 29516849,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "1830971": {
+            "manifests": {
+                "public": {
+                    "gid": "7781562901571883663",
+                    "size": "5331207267",
+                    "download": "1874058000"
+                }
+            },
+            "decryptionkey": "f7ef2e3ef26e54cdea6c86bcf9f73af26e43faacd6ce3dfdbfb60c599bc2034f"
+        },
+        "1830972": {},
+        "branches": {
+            "public": {
+                "buildid": "18199459",
+                "timeupdated": "1745960430"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
