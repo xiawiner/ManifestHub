@@ -1,0 +1,28 @@
+{
+    "appid": 3075060,
+    "name": "Doctor Life Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 21:50:19",
+    "change_number": 29682529,
+    "depot": {
+        "3075061": {
+            "manifests": {
+                "public": {
+                    "gid": "3801587196243962647",
+                    "size": "1094791105",
+                    "download": "832728160"
+                }
+            },
+            "decryptionkey": "1987bdd42e415f043a0555d34a02994d99278ce4cb3c19cd37d02ba5ad8ba00e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18901810",
+                "timeupdated": "1750189777"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
