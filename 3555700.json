@@ -1,0 +1,33 @@
+{
+    "appid": 3555700,
+    "name": "Liar Game",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 06:08:08",
+    "change_number": 29611419,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,koreana",
+        "3555701": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5250307287692356566",
+                    "size": "407189663",
+                    "download": "170284368"
+                }
+            },
+            "decryptionkey": "2ab1e0601aa2a258989d7922dd83e59a7e78c1e472cefcb543b5c1ce62e3c345"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18600936",
+                "timeupdated": "1748179703"
+            }
+        }
+    }
+}
