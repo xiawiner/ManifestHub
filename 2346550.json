@@ -1,0 +1,39 @@
+{
+    "appid": 2346550,
+    "name": "Rise of Eros",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 14:38:56",
+    "change_number": 29662766,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2346551": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "202240140929970412",
+                    "size": "25058376524",
+                    "download": "21640095024"
+                }
+            },
+            "decryptionkey": "8d61c9043983abae106ea8241bb683c5604945f0bf49e2638ace99e883c11c74"
+        },
+        "baselanguages": "english,koreana,schinese,tchinese",
+        "branches": {
+            "public": {
+                "buildid": "18879150",
+                "timeupdated": "1750146678"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
