@@ -1,0 +1,27 @@
+{
+    "appid": 3442760,
+    "name": "Apocalypse ? No !",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 16:56:19",
+    "change_number": 29625246,
+    "depot": {
+        "3442761": {
+            "manifests": {
+                "public": {
+                    "gid": "8546500006017165735",
+                    "size": "33591388",
+                    "download": "17228272"
+                }
+            },
+            "decryptionkey": "2d93f0255c43e74f78c1d1690fc3de3a42e46dd86d4c340088c8d10dbef4f529"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18909569",
+                "timeupdated": "1750236973"
+            }
+        }
+    }
+}
