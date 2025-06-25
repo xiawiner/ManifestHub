@@ -1,0 +1,45 @@
+{
+    "appid": 1238180,
+    "name": "My Universe - School Teacher",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-02 08:16:24",
+    "change_number": 29312476,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,dutch",
+        "1238181": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "369916384972164671",
+                    "size": "787284885",
+                    "download": "570019792"
+                }
+            },
+            "decryptionkey": "adf68aa1cf854055dfa55f422aa5133db816267542600dac3287fddb2a74521f"
+        },
+        "1238182": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3247381069153972303",
+                    "size": "795497342",
+                    "download": "574396992"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "5879632",
+                "timeupdated": "1607008009"
+            }
+        }
+    }
+}
