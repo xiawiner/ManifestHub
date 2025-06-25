@@ -1,0 +1,43 @@
+{
+    "appid": 1049590,
+    "name": "Eternal Return",
+    "type": "Game",
+    "schinese_name": "永恒轮回",
+    "isfreeapp": 1,
+    "update_time": "2025-06-14 21:13:05",
+    "change_number": 29564947,
+    "depot": {
+        "baselanguages": "english,koreana,schinese,tchinese,japanese",
+        "1049591": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7190694231219006060",
+                    "size": "13242878316",
+                    "download": "10694615136"
+                },
+                "32bit": {
+                    "gid": "8189013814554242816",
+                    "size": "2841420920",
+                    "download": "1268212096"
+                }
+            },
+            "decryptionkey": "1d51ccd03e39e116baa9dcd0e8cfd77a2f63e36242cfce62b80505a25f96f889"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18821827",
+                "timeupdated": "1749706221"
+            },
+            "32bit": {
+                "buildid": "6216159",
+                "description": "x86",
+                "timeupdated": "1612930688"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
