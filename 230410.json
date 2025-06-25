@@ -1,0 +1,33 @@
+{
+    "appid": 230410,
+    "name": "Warframe",
+    "type": "Game",
+    "schinese_name": "星际战甲",
+    "isfreeapp": 1,
+    "update_time": "2025-06-14 21:13:44",
+    "change_number": 29564950,
+    "depot": {
+        "depotdeltapatches": "1",
+        "230411": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6046892458385712496",
+                    "size": "49335869079",
+                    "download": "48181780048"
+                }
+            },
+            "decryptionkey": "4a31d148d70cafd9b9bd15811fab33a188cc5cb39204551984777dae0cb08f33"
+        },
+        "overridescddb": "1",
+        "workshopdepot": "230410",
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18536362",
+                "timeupdated": "1747839733"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
