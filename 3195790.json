@@ -1,0 +1,31 @@
+{
+    "appid": 3195790,
+    "name": "White Knuckle",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 13:11:13",
+    "change_number": 29661842,
+    "depot": {
+        "3195791": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5334101582964608302",
+                    "size": "1886879700",
+                    "download": "735541584"
+                }
+            },
+            "decryptionkey": "5ca40880a5993420bafa2b8361350f6f806bc4ad220384095505b4b65a35209e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18619271",
+                "timeupdated": "1748317084"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
