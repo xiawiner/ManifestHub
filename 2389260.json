@@ -1,0 +1,28 @@
+{
+    "appid": 2389260,
+    "name": "Aldro",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:56:11",
+    "change_number": 29683743,
+    "depot": {
+        "2389261": {
+            "manifests": {
+                "public": {
+                    "gid": "1155050880429102772",
+                    "size": "365840829",
+                    "download": "246664160"
+                }
+            },
+            "decryptionkey": "6dc4cde9e09284fc4905e51e8491ad11625d6bbae4bbd72cf8fdaf7fc9963425"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18875153",
+                "timeupdated": "1750015778"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
