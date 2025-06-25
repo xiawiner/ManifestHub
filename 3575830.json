@@ -1,0 +1,28 @@
+{
+    "appid": 3575830,
+    "name": "三国志汉末霸业-英雄的黎明",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-10 09:48:41",
+    "change_number": 29476775,
+    "depot": {
+        "3575831": {
+            "manifests": {
+                "public": {
+                    "gid": "3058810628054157205",
+                    "size": "80053622",
+                    "download": "36743488"
+                }
+            },
+            "dlcappid": "3575830",
+            "decryptionkey": "d670f276b1ae00423bdb91f1d2cde9606690dbd9ad08b172df411476c7458bd8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18803597",
+                "timeupdated": "1749520113"
+            }
+        }
+    }
+}
