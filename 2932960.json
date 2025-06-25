@@ -1,0 +1,37 @@
+{
+    "appid": 2932960,
+    "name": "A Merchant's Promise",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-16 09:14:44",
+    "change_number": 29579072,
+    "depot": {
+        "2932961": {
+            "manifests": {
+                "public": {
+                    "gid": "4823033944067438564",
+                    "size": "3157242564",
+                    "download": "1384328992"
+                },
+                "betabuild": {
+                    "gid": "3479753969958451770",
+                    "size": "3157242564",
+                    "download": "1384009024"
+                }
+            },
+            "decryptionkey": "968615d7322f18dda5a36a70f8da86d8fbf504465b02572a7386febe2fc7ba8b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18874572",
+                "timeupdated": "1750008092"
+            },
+            "betabuild": {
+                "buildid": "18876843",
+                "description": "A Merchants Promise Beta",
+                "timeupdated": "1750036481"
+            }
+        }
+    }
+}
