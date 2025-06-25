@@ -1,0 +1,31 @@
+{
+    "appid": 3180670,
+    "name": "Undying Flower",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 11:28:52",
+    "change_number": 29660816,
+    "depot": {
+        "3180671": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "209288832125187321",
+                    "size": "7963135851",
+                    "download": "3247833632"
+                }
+            },
+            "decryptionkey": "2f6d88840c619e27f567a8658375fa758593f041f8c7d8abcdb1f9f6f0d52f1c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18748235",
+                "timeupdated": "1749479183"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
