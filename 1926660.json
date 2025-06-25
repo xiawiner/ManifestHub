@@ -1,0 +1,27 @@
+{
+    "appid": 1926660,
+    "name": "OUTLANDER",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-18 16:56:53",
+    "change_number": 29625255,
+    "depot": {
+        "1926661": {
+            "manifests": {
+                "public": {
+                    "gid": "2528166968914438592",
+                    "size": "210731149",
+                    "download": "48836768"
+                }
+            },
+            "decryptionkey": "06732ef27ebdcc4150eb5dce38f77cb2ceeea7a17cfaf534f2b84e39352d3234"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18909564",
+                "timeupdated": "1750237006"
+            }
+        }
+    }
+}
