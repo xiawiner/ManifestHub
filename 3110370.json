@@ -1,0 +1,49 @@
+{
+    "appid": 3110370,
+    "name": "Dustwind: Resistance",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 09:17:49",
+    "change_number": 29686919,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3110371": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7543249320869603454",
+                    "size": "6501333449",
+                    "download": "2740146512"
+                }
+            },
+            "decryptionkey": "e41ad2fc3fff9774779a0b115333f49cbf889ac11bbed56b4953bfcd9877d6bc"
+        },
+        "workshopdepot": "3110370",
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,polish,czech,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18940237",
+                "timeupdated": "1750436920"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
