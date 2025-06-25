@@ -1,0 +1,51 @@
+{
+    "appid": 1401730,
+    "name": "Crashlands 2",
+    "type": "Game",
+    "schinese_name": "崩溃大陆 2",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 05:06:47",
+    "change_number": 29675664,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1401731": {
+            "manifests": {
+                "public": {
+                    "gid": "5717175126798956150",
+                    "size": "408271259",
+                    "download": "291383536"
+                },
+                "debug_logging": {
+                    "gid": "5717175126798956150",
+                    "size": "408271259",
+                    "download": "291383536"
+                }
+            },
+            "decryptionkey": "9feb5500bb35f27058f1c86e3a465a1f4904b2f5abe5ff891a9928cb702fea64"
+        },
+        "3665381": {
+            "manifests": {
+                "public": {
+                    "gid": "4772012287943947955",
+                    "size": "118098748",
+                    "download": "112963280"
+                }
+            },
+            "dlcappid": "3665380",
+            "depotfromapp": "3665380",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18663260",
+                "timeupdated": "1749508815"
+            },
+            "debug_logging": {
+                "buildid": "18663260",
+                "description": "Can launch the game with debug logging",
+                "timeupdated": "1748545247"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
