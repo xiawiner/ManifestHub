@@ -1,0 +1,29 @@
+{
+    "appid": 2333480,
+    "name": "RAID: Shadow Legends",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-12 08:08:49",
+    "change_number": 29517966,
+    "depot": {
+        "2333481": {
+            "manifests": {
+                "public": {
+                    "gid": "6612835986196074817",
+                    "size": "751703726",
+                    "download": "363923040"
+                }
+            },
+            "decryptionkey": "1ae7f152cae7603aaa72a452a69e26a3c3a520e84556ce5685af749a98d13cb6"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,turkish,brazilian,ukrainian",
+        "branches": {
+            "public": {
+                "buildid": "18713984",
+                "timeupdated": "1749114696"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
