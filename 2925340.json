@@ -1,0 +1,27 @@
+{
+    "appid": 2925340,
+    "name": "World of Solaria",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-11 09:29:28",
+    "change_number": 29497581,
+    "depot": {
+        "2925341": {
+            "manifests": {
+                "public": {
+                    "gid": "1419375111264848655",
+                    "size": "215212202",
+                    "download": "43787296"
+                }
+            },
+            "decryptionkey": "c034cc57e6ec27ee5d850b53ac56608de4bcc8605c2f7908e1a502c067e6d3dc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18800107",
+                "timeupdated": "1749605363"
+            }
+        }
+    }
+}
