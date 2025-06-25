@@ -1,0 +1,32 @@
+{
+    "appid": 3359390,
+    "name": "Wendigo Blue",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 11:04:09",
+    "change_number": 29599946,
+    "depot": {
+        "3359391": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4045646169433740018",
+                    "size": "715988389",
+                    "download": "289208160"
+                }
+            },
+            "decryptionkey": "0c4865bbcf47d141888837fc70e1e185f0d58386aa18c75c327939c8db4693a2"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18693864",
+                "timeupdated": "1748802030"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
