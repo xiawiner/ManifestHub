@@ -1,0 +1,27 @@
+{
+    "appid": 1737110,
+    "name": "Endeavor",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 22:39:10",
+    "change_number": 29219895,
+    "depot": {
+        "1737111": {
+            "manifests": {
+                "public": {
+                    "gid": "8220403519548719297",
+                    "size": "16798080492",
+                    "download": "7052417664"
+                }
+            },
+            "decryptionkey": "04a031709b974a4276ff56c1acebc94b0e8771dcfde39912fd5fba889c8bcac8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18063470",
+                "timeupdated": "1744324917"
+            }
+        }
+    }
+}
