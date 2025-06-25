@@ -1,0 +1,40 @@
+{
+    "appid": 3260140,
+    "name": "流亡黯道2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 02:38:19",
+    "change_number": 29635134,
+    "depot": {
+        "3260141": {
+            "manifests": {
+                "public": {
+                    "gid": "4041233898837554183",
+                    "size": "97156887209",
+                    "download": "90013831312"
+                }
+            },
+            "decryptionkey": "9b8db92cf6eb16c5861dbf0d6ce892faa64c766863f8986de49e7061a68d8b10"
+        },
+        "3260142": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7639980937623771970",
+                    "size": "235847688",
+                    "download": "111409296"
+                }
+            },
+            "decryptionkey": "0c5da4ceb6532858498ee91be025a79cd393471bf0b360286967118026338166"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18835004",
+                "timeupdated": "1749857687"
+            }
+        }
+    }
+}
