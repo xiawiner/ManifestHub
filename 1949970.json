@@ -1,0 +1,28 @@
+{
+    "appid": 1949970,
+    "name": "J-Jump Arena",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-21 00:22:11",
+    "change_number": 29671904,
+    "depot": {
+        "1949971": {
+            "manifests": {
+                "public": {
+                    "gid": "6765390278116730661",
+                    "size": "347206880",
+                    "download": "255534960"
+                }
+            },
+            "decryptionkey": "cc0d36f870e4d2843dba34e2128bc6debebd0801fd2b43a401dea60bdc1a8aa4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18673677",
+                "timeupdated": "1748634581"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
