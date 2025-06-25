@@ -1,0 +1,45 @@
+{
+    "appid": 3275300,
+    "name": "LIMSCAPE DEMO",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 09:08:02",
+    "change_number": 29686886,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3275301": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "118306508275890331",
+                    "size": "1555359563",
+                    "download": "1183774592"
+                }
+            },
+            "decryptionkey": "ea6448f77bd6e7cdab3d51211b1143e515176ce34f9fe3f7dff992acc70f21da"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18953161",
+                "timeupdated": "1750554476"
+            }
+        }
+    }
+}
