@@ -1,0 +1,64 @@
+{
+    "appid": 1083880,
+    "name": "Princess & Conquest",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 03:56:51",
+    "change_number": 29588437,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "1083881": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5248517494772793028",
+                    "size": "1406665361",
+                    "download": "1398623664"
+                }
+            },
+            "decryptionkey": "025fca5d3d90f5c08b853a3a764709c5e39e826f6c6e10c586260b8e8950c341"
+        },
+        "1083882": {
+            "config": {
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8178047702239129896",
+                    "size": "1405849951",
+                    "download": "1397828336"
+                }
+            },
+            "decryptionkey": "16141777c2eda442b1401de3bc408ca42de6cc15dc9df673c00353adf2c558d1"
+        },
+        "2380681": {
+            "dlcappid": "2380680"
+        },
+        "2380682": {
+            "dlcappid": "2380680",
+            "config": {
+                "language": "schinese"
+            }
+        },
+        "2888461": {
+            "dlcappid": "2888460"
+        },
+        "2888462": {
+            "dlcappid": "2888460",
+            "config": {
+                "language": "schinese"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18883603",
+                "timeupdated": "1750081910"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
