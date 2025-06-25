@@ -1,0 +1,48 @@
+{
+    "appid": 2972480,
+    "name": "THE DESCENT VR",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-04 16:07:10",
+    "change_number": 29366451,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2972481": {
+            "manifests": {
+                "public": {
+                    "gid": "6702914746868141779",
+                    "size": "10943827732",
+                    "download": "10872663136"
+                }
+            },
+            "decryptionkey": "2109f1d11002979f07db4de0bea50f9b9a5cf4ad18c4bf429fe366e3e34e1ab5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18688871",
+                "timeupdated": "1748733041"
+            }
+        }
+    }
+}
