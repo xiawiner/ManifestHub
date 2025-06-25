@@ -1,0 +1,27 @@
+{
+    "appid": 3752220,
+    "name": "RiftGuard",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 23:58:33",
+    "change_number": 29632433,
+    "depot": {
+        "3752221": {
+            "manifests": {
+                "public": {
+                    "gid": "3402165598273947523",
+                    "size": "153077685",
+                    "download": "43518992"
+                }
+            },
+            "decryptionkey": "8f00ff5b9af31c9d2d04e1437a1cb2115471cc1f9a9f67fdd8cbb0960d9fd242"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18914728",
+                "timeupdated": "1750262307"
+            }
+        }
+    }
+}
