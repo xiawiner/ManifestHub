@@ -1,0 +1,43 @@
+{
+    "appid": 3168310,
+    "name": "True Fear: Forsaken Souls Part 3",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 01:22:13",
+    "change_number": 29529708,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,russian,ukrainian",
+        "3168311": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5760055868633911650",
+                    "size": "2500823507",
+                    "download": "1292599568"
+                }
+            },
+            "decryptionkey": "24e26784c021d8a9d38a4208acc47e5ed7c413279c362de32643c5a7d8129c64"
+        },
+        "3168312": {
+            "manifests": {
+                "public": {
+                    "gid": "8231029157803606373",
+                    "size": "3032366591",
+                    "download": "1330163792"
+                }
+            },
+            "decryptionkey": "0b46386d35b68514cd6ff6ecb748cd75423ba568725f7f0b1e809cad7875cd6d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18840373",
+                "timeupdated": "1749737068"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
