@@ -1,0 +1,33 @@
+{
+    "appid": 1297330,
+    "name": "Olija",
+    "type": "Game",
+    "schinese_name": "奥利亚",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 06:17:42",
+    "change_number": 29686013,
+    "depot": {
+        "1297331": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2450079299918578347",
+                    "size": "368655433",
+                    "download": "209588144"
+                }
+            },
+            "decryptionkey": "b28ca358dce4898e8d3a999039cb32c8867f1923c47796600ad809c054508b0f"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "9883109",
+                "timeupdated": "1667855601"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
