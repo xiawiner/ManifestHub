@@ -1,0 +1,28 @@
+{
+    "appid": 3215290,
+    "name": "Alien Market Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 02:18:00",
+    "change_number": 29442123,
+    "depot": {
+        "3215291": {
+            "manifests": {
+                "public": {
+                    "gid": "6339746619010186160",
+                    "size": "2449856979",
+                    "download": "984106976"
+                }
+            },
+            "decryptionkey": "411cf083db3ea10924eb012d4e80c9de534b121b022f207cac587d1062399557"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18691240",
+                "timeupdated": "1748769548"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
