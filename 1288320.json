@@ -1,0 +1,46 @@
+{
+    "appid": 1288320,
+    "name": "Way of the Hunter",
+    "type": "Game",
+    "schinese_name": "猎人之路",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:30:45",
+    "change_number": 29655642,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1288321": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2460676701626525634",
+                    "size": "24655449493",
+                    "download": "23990920640"
+                }
+            },
+            "decryptionkey": "708ac4e2fd466252d4859b1e41672d67d6ae8d17be1285cc01f0e3517dbc1dac"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18747584",
+                "timeupdated": "1749643257"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
