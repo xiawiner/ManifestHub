@@ -1,0 +1,28 @@
+{
+    "appid": 2917600,
+    "name": "ニンジャム！",
+    "type": "Game",
+    "schinese_name": "忍者大乱斗！ - Ninjam! -",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 09:50:54",
+    "change_number": 29687117,
+    "depot": {
+        "2917601": {
+            "manifests": {
+                "public": {
+                    "gid": "1189849214790528204",
+                    "size": "1504890229",
+                    "download": "1009675920"
+                }
+            },
+            "decryptionkey": "66f232294d99cf00b4662be88ea3f7a09d8491d0b7d1f59c1cc2b10889a0f6da"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18953319",
+                "timeupdated": "1750557048"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
