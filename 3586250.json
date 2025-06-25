@@ -1,0 +1,28 @@
+{
+    "appid": 3586250,
+    "name": "ValveTestApp3586250",
+    "type": "Game",
+    "schinese_name": "帝国游戏",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 10:17:07",
+    "change_number": 29687229,
+    "depot": {
+        "3586251": {
+            "manifests": {
+                "public": {
+                    "gid": "864406743229443008",
+                    "size": "483979224",
+                    "download": "188068096"
+                }
+            },
+            "decryptionkey": "cd3ac0795fb7457dbb247c4a160b052e397ff42d600d432ff5768f622b1ce71e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18924884",
+                "timeupdated": "1750326654"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
