@@ -1,0 +1,42 @@
+{
+    "appid": 2425150,
+    "name": "King of Retail 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 23:16:45",
+    "change_number": 29670910,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2425151": {
+            "manifests": {
+                "public": {
+                    "gid": "2403995139567779010",
+                    "size": "4222960126",
+                    "download": "3877442656"
+                }
+            },
+            "decryptionkey": "786a49a2dd06813007c5e4577ef05a2b3fb1f6065a198f8f53a0bc4ac7bf55b6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18705233",
+                "timeupdated": "1748882507"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
