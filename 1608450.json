@@ -1,0 +1,33 @@
+{
+    "appid": 1608450,
+    "name": "Hellslave",
+    "type": "Game",
+    "schinese_name": "地狱仆从",
+    "isfreeapp": 0,
+    "update_time": "2025-06-16 00:04:11",
+    "change_number": 29575357,
+    "depot": {
+        "1608451": {
+            "manifests": {
+                "public": {
+                    "gid": "3193409484510857057",
+                    "size": "678028910",
+                    "download": "634004528"
+                }
+            },
+            "decryptionkey": "d0cdc438b04d2b7111117e749a08137f5aa9d11b1a474fb2628e3629a8b4fd0d"
+        },
+        "1608452": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18809625",
+                "timeupdated": "1749646668"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
