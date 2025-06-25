@@ -1,0 +1,33 @@
+{
+    "appid": 2687160,
+    "name": "Notanote",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-21 21:56:06",
+    "change_number": 29682072,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "2687161": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5411096004061023436",
+                    "size": "1559689265",
+                    "download": "1119847184"
+                }
+            },
+            "decryptionkey": "36d3a361d1ca80e9898e5c0bb59cfabda66df74b9ea072415c83e51712b060be"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18949673",
+                "timeupdated": "1750507814"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
