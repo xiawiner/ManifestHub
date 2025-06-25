@@ -1,0 +1,89 @@
+{
+    "appid": 1016600,
+    "name": "Devil Slayer - Raksasi / 斩妖Raksasi",
+    "type": "Game",
+    "schinese_name": "斩妖Raksasi",
+    "isfreeapp": 0,
+    "update_time": "2025-05-24 03:56:19",
+    "change_number": 29157875,
+    "depot": {
+        "baselanguages": "",
+        "hasdepotsindlc": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1016601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3454589257780318910",
+                    "size": "628691357",
+                    "download": "482052304"
+                }
+            },
+            "decryptionkey": "7305a22edb02e01eb406044f97a78b787bd783e099051056349ea84f1b46f673"
+        },
+        "1608190": {
+            "dlcappid": "1608190",
+            "manifests": {
+                "public": {
+                    "gid": "8309774583354654983",
+                    "size": "296866178",
+                    "download": "288324320"
+                }
+            },
+            "decryptionkey": "b9ed5fe1e3b70be98a551f37fdc92f9d574cc3cca0edd41037495eb39efe8ed3"
+        },
+        "1016602": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5648904487708250034",
+                    "size": "653078174",
+                    "download": "482502944"
+                }
+            },
+            "decryptionkey": "448b970771211febe247adae9dd14b54bc809cc82d73842d02fe93c7ac44c1f8"
+        },
+        "1608191": {
+            "dlcappid": "1608191"
+        },
+        "2080393": {
+            "dlcappid": "2080393"
+        },
+        "2080395": {
+            "dlcappid": "2080395"
+        },
+        "2080394": {
+            "dlcappid": "2080394"
+        },
+        "2080390": {
+            "dlcappid": "2080390"
+        },
+        "2080392": {
+            "dlcappid": "2080392"
+        },
+        "2080391": {
+            "dlcappid": "2080391"
+        },
+        "2080396": {
+            "dlcappid": "2080396"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18494712",
+                "timeupdated": "1747480624"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 8732557270754054988
+}
