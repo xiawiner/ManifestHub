@@ -1,0 +1,44 @@
+{
+    "appid": 2729820,
+    "name": "Vending Dokan!: Kozy Kiosk",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 06:18:10",
+    "change_number": 29686018,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2729821": {
+            "manifests": {
+                "public": {
+                    "gid": "2769687957980107158",
+                    "size": "1424757925",
+                    "download": "1090958352"
+                }
+            },
+            "decryptionkey": "e83b8c23c429c67b8e5ab50445864db481598c87bcc7fd11a875c7bf24a722da"
+        },
+        "workshopdepot": "2729820",
+        "branches": {
+            "public": {
+                "buildid": "18941214",
+                "timeupdated": "1750439008"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "bfdbc576538363087fe861ee848a33f4ac176c0b26a7f4dc89c375978fd719f6"
+    }
+}
