@@ -1,0 +1,29 @@
+{
+    "appid": 3712020,
+    "name": "意识分裂 开篇季",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-24 01:47:12",
+    "change_number": 29155755,
+    "depot": {
+        "3712021": {
+            "manifests": {
+                "public": {
+                    "gid": "2123257124046478966",
+                    "size": "187095535",
+                    "download": "75105248"
+                }
+            },
+            "decryptionkey": "befead842594f096b8b7184b1a12ab7dddcdb21b1beefe7c5737c8647a00e4d2"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18438009",
+                "timeupdated": "1747103969"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
