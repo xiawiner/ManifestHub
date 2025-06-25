@@ -1,0 +1,37 @@
+{
+    "appid": 2874130,
+    "name": "Berserk or Die",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 17:16:07",
+    "change_number": 29603784,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese",
+        "2874131": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6809014508236582451",
+                    "size": "577441980",
+                    "download": "191759568"
+                }
+            },
+            "decryptionkey": "5ec5d7cebcd47f39bda56d4344f939d79aa357ed7fb5cdeb6b5b16ceaf539c94"
+        },
+        "2874132": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18872763",
+                "timeupdated": "1750067973"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
