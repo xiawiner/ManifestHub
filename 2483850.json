@@ -1,0 +1,27 @@
+{
+    "appid": 2483850,
+    "name": "Lord Goblin",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 17:04:13",
+    "change_number": 29563390,
+    "depot": {
+        "2483851": {
+            "manifests": {
+                "public": {
+                    "gid": "8270411379486369283",
+                    "size": "938979166",
+                    "download": "782018624"
+                }
+            },
+            "decryptionkey": "0a60cbbe629a18e2bb9f893067cbcb33bc004e1a4996d2d1002d9b522e4d4cb4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17787562",
+                "timeupdated": "1742429441"
+            }
+        }
+    }
+}
