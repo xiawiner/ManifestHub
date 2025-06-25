@@ -1,0 +1,112 @@
+{
+    "appid": 1067810,
+    "name": "First Day",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-19 15:31:39",
+    "change_number": 29644483,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1067811": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "772429400323861775",
+                    "size": "7622387407",
+                    "download": "2611459936"
+                },
+                "test_update": {
+                    "gid": "7820382884534658967",
+                    "size": "7622123048",
+                    "download": "2615313728"
+                }
+            },
+            "decryptionkey": "3ef506adfd55a742f01dd0d50dad05826fa56ebd5da183d29c08fc71e05df8fd"
+        },
+        "1067812": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1533257888292657915",
+                    "size": "7900000249",
+                    "download": "2740444976"
+                },
+                "test_update": {
+                    "gid": "1533257888292657915",
+                    "size": "7900000249",
+                    "download": "2740444976"
+                }
+            },
+            "decryptionkey": "ea4680cf54c17ccf1a9fb9b13c62660a46f70f88b6b19cd027c7b1890d145d3f"
+        },
+        "1067813": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8407923402671536850",
+                    "size": "7749503104",
+                    "download": "2595515712"
+                },
+                "test_update": {
+                    "gid": "8407923402671536850",
+                    "size": "7749503104",
+                    "download": "2595515712"
+                }
+            },
+            "decryptionkey": "086254cc1decb3ba02698cac42798771645f5e5a27d438b09e9aa684504f65cb"
+        },
+        "baselanguages": "english,german,french,koreana,tchinese,russian,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18544125",
+                "timeupdated": "1747809262"
+            },
+            "test_update": {
+                "buildid": "18923322",
+                "description": "Test update branch",
+                "timeupdated": "1750318059"
+            }
+        }
+    }
+}
