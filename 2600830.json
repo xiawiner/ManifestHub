@@ -1,0 +1,61 @@
+{
+    "appid": 2600830,
+    "name": "Lost Hope: Backrooms",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 01:21:06",
+    "change_number": 29526368,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "2600831": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6244770531195252736",
+                    "size": "10451687516",
+                    "download": "9641655200"
+                }
+            },
+            "decryptionkey": "2d253b5fdad13bb9120850d538af08f445e198f194d265fe95e5abd49bba8c9b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18737479",
+                "timeupdated": "1749055106"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
