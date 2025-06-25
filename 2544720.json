@@ -1,0 +1,41 @@
+{
+    "appid": 2544720,
+    "name": "Workplace Fantasy",
+    "type": "Game",
+    "schinese_name": "职场幻想",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 14:04:40",
+    "change_number": 29679709,
+    "depot": {
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "hasdepotsindlc": "1",
+        "2544721": {
+            "manifests": {
+                "public": {
+                    "gid": "4077858839277643938",
+                    "size": "5077306997",
+                    "download": "1784476992"
+                },
+                "local": {
+                    "gid": "2034326933689085098",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "8efd5e37dbb85b2b655f5332cb3c5060ffa02e17f594658dfb45a8fad670b98b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18836006",
+                "timeupdated": "1749724656"
+            },
+            "local": {
+                "buildid": "18936741",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1750406363"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
