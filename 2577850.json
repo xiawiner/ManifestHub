@@ -1,0 +1,28 @@
+{
+    "appid": 2577850,
+    "name": "Seekers of Eclipse",
+    "type": "Game",
+    "schinese_name": "日蚀行者",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 01:01:33",
+    "change_number": 29672596,
+    "depot": {
+        "2577851": {
+            "manifests": {
+                "public": {
+                    "gid": "6091250890871549473",
+                    "size": "4177572261",
+                    "download": "418106544"
+                }
+            },
+            "decryptionkey": "5f0a47d460b62926365d3c4e1085bc9f420c712fbf96bc19a729d4c8c8ccf0c3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18942872",
+                "timeupdated": "1750438886"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
