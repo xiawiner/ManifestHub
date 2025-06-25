@@ -1,0 +1,32 @@
+{
+    "appid": 482920,
+    "name": "Hero Zero",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-10 20:54:00",
+    "change_number": 29486416,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,russian,portuguese,polish,czech,turkish,brazilian,greek",
+        "482921": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3281322450412053820",
+                    "size": "395698948",
+                    "download": "229755824"
+                }
+            },
+            "decryptionkey": "90a97f494368c6a622fffd78ced9c5872d61167e9447f975c365be59bac722d2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18759488",
+                "timeupdated": "1749174057"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
