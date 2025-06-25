@@ -1,0 +1,44 @@
+{
+    "appid": 1671210,
+    "name": "DELTARUNE",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 02:38:14",
+    "change_number": 29635134,
+    "depot": {
+        "baselanguages": "english,japanese",
+        "1671212": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3006447521106301427",
+                    "size": "609098513",
+                    "download": "384622304"
+                }
+            },
+            "decryptionkey": "d3b68663ee177c37ee1d5cb49de06cbf9d0d81b2b72ffdde18665f6db6c6ed9f"
+        },
+        "1671213": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4038646739530804078",
+                    "size": "624232432",
+                    "download": "387320832"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18791270",
+                "timeupdated": "1749454742"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
