@@ -1,0 +1,27 @@
+{
+    "appid": 2544620,
+    "name": "蜥学东渐—蓝血与尖耳朵",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 01:23:39",
+    "change_number": 29672954,
+    "depot": {
+        "2544621": {
+            "manifests": {
+                "public": {
+                    "gid": "5248631962595169881",
+                    "size": "10467723451",
+                    "download": "1961427040"
+                }
+            },
+            "decryptionkey": "cb429a265c74002c4f6d1599b16b942d90a6a0ca38db8a2f7f218cd307ce441c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18943090",
+                "timeupdated": "1750440211"
+            }
+        }
+    }
+}
