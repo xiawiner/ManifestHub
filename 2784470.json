@@ -1,0 +1,45 @@
+{
+    "appid": 2784470,
+    "name": "9 Kings",
+    "type": "Game",
+    "schinese_name": "九王 9 Kings",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 10:39:04",
+    "change_number": 29687321,
+    "depot": {
+        "2784471": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3910919111945656224",
+                    "size": "181141592",
+                    "download": "87408512"
+                }
+            },
+            "decryptionkey": "3f1be54c32850828ed38015c593c4596fdec0af8820dc3e517efba88374d235e"
+        },
+        "2784472": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5151503305251887044",
+                    "size": "569262449",
+                    "download": "87642480"
+                }
+            }
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18942072",
+                "timeupdated": "1750434221"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
