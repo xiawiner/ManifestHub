@@ -1,0 +1,32 @@
+{
+    "appid": 3690380,
+    "name": "GastroCity: A Restaurant Tycoon Game",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:26:08",
+    "change_number": 29652683,
+    "depot": {
+        "baselanguages": "english,german,french,italian,schinese,russian,japanese,portuguese,turkish,brazilian",
+        "3690381": {},
+        "3690382": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4909484336163147352",
+                    "size": "4535678923",
+                    "download": "1036280816"
+                }
+            },
+            "decryptionkey": "63772fa7c1e6a8538257c1853325ac7c30d913ba5e3d5a3b7c4ed7ee3436d7a3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18928927",
+                "timeupdated": "1750348381"
+            }
+        }
+    }
+}
