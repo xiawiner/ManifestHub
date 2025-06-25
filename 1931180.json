@@ -1,0 +1,30 @@
+{
+    "appid": 1931180,
+    "name": "Lost Skies",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:23:00",
+    "change_number": 29655353,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1931181": {
+            "manifests": {
+                "public": {
+                    "gid": "3474921381438050640",
+                    "size": "15982171686",
+                    "download": "8760473136"
+                }
+            },
+            "decryptionkey": "e3b3d8902ae9814c4521fa2a3538b10d43c1fea4f712aa229f22d826ccd8ee6e"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18663219",
+                "timeupdated": "1748955553"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
