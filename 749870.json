@@ -1,0 +1,32 @@
+{
+    "appid": 749870,
+    "name": "MyTD",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-10 11:28:51",
+    "change_number": 29477931,
+    "depot": {
+        "baselanguages": "english,schinese,tchinese",
+        "749871": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7170866516078492434",
+                    "size": "290221153",
+                    "download": "62508032"
+                }
+            },
+            "decryptionkey": "bf5917acf123e8c590fd4d359bbd6f982f3395cd75d09a9cfdecbd0fc8c02b55"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18804454",
+                "timeupdated": "1749526126"
+            }
+        }
+    }
+}
