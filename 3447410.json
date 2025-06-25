@@ -1,0 +1,34 @@
+{
+    "appid": 3447410,
+    "name": "The Test: Reality Check",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 03:57:55",
+    "change_number": 29589549,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3447411": {
+            "manifests": {
+                "public": {
+                    "gid": "1522832717244093404",
+                    "size": "686487384",
+                    "download": "565080832"
+                }
+            },
+            "decryptionkey": "89ff5931fc303265c3de059dd23913809a98a80428cae9a81cedd1745d8041b7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18587622",
+                "timeupdated": "1748029570"
+            }
+        }
+    }
+}
