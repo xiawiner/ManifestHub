@@ -1,0 +1,59 @@
+{
+    "appid": 1125710,
+    "name": "Gatewalkers",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 18:39:08",
+    "change_number": 29606051,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1125711": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2343654320179775773",
+                    "size": "11726360523",
+                    "download": "4702168880"
+                }
+            },
+            "decryptionkey": "524bd41a31647f0bd1a4bfa9204ea59fb7657be623ca3ebf4d65d43d64ef36ee"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15905767",
+                "timeupdated": "1750084475"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
