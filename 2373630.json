@@ -1,0 +1,58 @@
+{
+    "appid": 2373630,
+    "name": "Moonring",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-18 06:15:24",
+    "change_number": 29613025,
+    "depot": {
+        "2373631": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1835430457848696063",
+                    "size": "184345035",
+                    "download": "94842496"
+                },
+                "experimental": {
+                    "gid": "1835430457848696063",
+                    "size": "184345035",
+                    "download": "94842496"
+                }
+            },
+            "decryptionkey": "6dd4b566ed2b2fdebd8626229c4848da7957402937ff42646251b6674475ce43"
+        },
+        "2373632": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3918646551478996975",
+                    "size": "197844909",
+                    "download": "98944368"
+                },
+                "experimental": {
+                    "gid": "3918646551478996975",
+                    "size": "197844909",
+                    "download": "98944368"
+                }
+            },
+            "decryptionkey": "698472264f14f325b96aa9ed5fbf1d1786b20e68eed2fd90b45652706c2250fd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18900599",
+                "timeupdated": "1750179825"
+            },
+            "experimental": {
+                "buildid": "18900599",
+                "description": "test builds",
+                "timeupdated": "1750179802"
+            }
+        }
+    }
+}
