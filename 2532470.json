@@ -1,0 +1,38 @@
+{
+    "appid": 2532470,
+    "name": "Bellfortis",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 07:20:00",
+    "change_number": 29686365,
+    "depot": {
+        "2532471": {
+            "manifests": {
+                "public": {
+                    "gid": "6221582546977198566",
+                    "size": "175657905",
+                    "download": "154429392"
+                },
+                "beta": {
+                    "gid": "6221582546977198566",
+                    "size": "175657905",
+                    "download": "154429392"
+                }
+            },
+            "decryptionkey": "bae7e5326f2bd8b1c72acd75f27564022a97d52775589b3afdabc4639ffe450d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18927132",
+                "timeupdated": "1750338830"
+            },
+            "beta": {
+                "buildid": "18927132",
+                "description": "Beta",
+                "timeupdated": "1750338642"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
