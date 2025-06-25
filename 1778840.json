@@ -1,0 +1,62 @@
+{
+    "appid": 1778840,
+    "name": "Spirit of the North 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 00:54:01",
+    "change_number": 29672392,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1778841": {
+            "manifests": {
+                "public": {
+                    "gid": "4078441361711029359",
+                    "size": "22682453605",
+                    "download": "21929762336"
+                },
+                "beta": {
+                    "gid": "4078441361711029359",
+                    "size": "22682453605",
+                    "download": "21929762336"
+                },
+                "beta2": {
+                    "gid": "4078441361711029359",
+                    "size": "22682453605",
+                    "download": "21929762336"
+                }
+            },
+            "decryptionkey": "b4829fc8fb08449fc0f307d6dd4130f1eccf40bc7aae5e3c7373efa304296086"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18942370",
+                "timeupdated": "1750438436"
+            },
+            "beta": {
+                "buildid": "18942370",
+                "description": "\tPlay at your own risk. Has the latest patches and improvements that are being tested.",
+                "timeupdated": "1750436363"
+            },
+            "beta2": {
+                "buildid": "18942370",
+                "description": "\tPlay at your own risk. Has the latest patches and improvements that are being tested.",
+                "timeupdated": "1750436349"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
