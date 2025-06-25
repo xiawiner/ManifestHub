@@ -1,0 +1,75 @@
+{
+    "appid": 1745680,
+    "name": "Odd Remedy",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-16 14:16:18",
+    "change_number": 29581433,
+    "depot": {
+        "1745681": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3358091086964439035",
+                    "size": "807037056",
+                    "download": "365870432"
+                },
+                "beta": {
+                    "gid": "3358091086964439035",
+                    "size": "807037056",
+                    "download": "365870432"
+                },
+                "convert": {
+                    "gid": "2416926728589441391",
+                    "size": "713698794",
+                    "download": "328419808"
+                }
+            },
+            "decryptionkey": "8551204b4ab186f5b9be22800f86ce7fbc3091614c31099c036a846636f2598d"
+        },
+        "1745682": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2234215015321180012",
+                    "size": "796492400",
+                    "download": "358904800"
+                },
+                "beta": {
+                    "gid": "2234215015321180012",
+                    "size": "796492400",
+                    "download": "358904800"
+                },
+                "convert": {
+                    "gid": "62926792091187509",
+                    "size": "741088657",
+                    "download": "326698480"
+                }
+            }
+        },
+        "workshopdepot": "1745680",
+        "branches": {
+            "public": {
+                "buildid": "18751481",
+                "timeupdated": "1749131605"
+            },
+            "beta": {
+                "buildid": "18751481",
+                "description": "beta",
+                "timeupdated": "1749131619"
+            },
+            "convert": {
+                "buildid": "17269680",
+                "description": "convert old save files",
+                "timeupdated": "1738870314"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "a354434ede99244be9212c25089f750f2b57ebb036c399488ab80ab9f5a51e4a"
+    }
+}
