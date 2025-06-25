@@ -1,0 +1,32 @@
+{
+    "appid": 3218880,
+    "name": "The Succession of Changing Kings",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 06:27:47",
+    "change_number": 29657673,
+    "depot": {
+        "3218881": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5708391329968906570",
+                    "size": "5021471241",
+                    "download": "4245790608"
+                }
+            },
+            "decryptionkey": "70be3f3ae31aec799cf86dd26077b949ec4dd722003b83df64557ec0076f558d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18875775",
+                "timeupdated": "1750060379"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
