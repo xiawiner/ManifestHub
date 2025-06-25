@@ -1,0 +1,40 @@
+{
+    "appid": 3285500,
+    "name": "Three Kingdoms Mushouden",
+    "type": "Game",
+    "schinese_name": "猛将三国",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:54:19",
+    "change_number": 29684585,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "3285501": {
+            "manifests": {
+                "public": {
+                    "gid": "2986512599936997433",
+                    "size": "4153489747",
+                    "download": "3398877328"
+                }
+            },
+            "decryptionkey": "d540ff5a3e564eb42dd7bc7fcd2767ba878e869bde88b3b99f21372cf43fe116"
+        },
+        "3786750": {
+            "dlcappid": "3786750",
+            "manifests": {
+                "public": {
+                    "gid": "541906025618108742",
+                    "size": "14686913",
+                    "download": "12061296"
+                }
+            },
+            "decryptionkey": "8ea8b93dc597304b744fb21727c260bb3f2940dde0fc68d4cce2c9c1a2cdbecf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18953925",
+                "timeupdated": "1750570989"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
