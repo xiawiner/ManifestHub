@@ -1,0 +1,44 @@
+{
+    "appid": 2942780,
+    "name": "Bloobs Adventure Idle",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 03:26:39",
+    "change_number": 29635872,
+    "depot": {
+        "2942781": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2628348991985179824",
+                    "size": "489585267",
+                    "download": "81097840"
+                }
+            },
+            "decryptionkey": "8eada1f38a3edbb5d62411d8a653197ea407c92af9751308837b44e6d0e327f5"
+        },
+        "2942782": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2135144880617689508",
+                    "size": "190288053",
+                    "download": "47037360"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18916953",
+                "timeupdated": "1750274794"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
