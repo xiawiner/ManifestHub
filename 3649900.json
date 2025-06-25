@@ -1,0 +1,44 @@
+{
+    "appid": 3649900,
+    "name": "Keep Me Gifted",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:53:39",
+    "change_number": 29684152,
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese,portuguese,turkish,brazilian",
+        "3649901": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9096181894693886089",
+                    "size": "251557599",
+                    "download": "158941344"
+                }
+            },
+            "decryptionkey": "d9dc3f56981d0f9745d677a9af9b0e23fb11e3a913f0ac50c74a5e9a116b29ee"
+        },
+        "3649902": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5038443548891668492",
+                    "size": "345014350",
+                    "download": "182720688"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18941432",
+                "timeupdated": "1750430761"
+            }
+        }
+    }
+}
