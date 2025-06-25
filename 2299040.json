@@ -1,0 +1,27 @@
+{
+    "appid": 2299040,
+    "name": "DIGITAL EXORCIST",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-05 04:07:32",
+    "change_number": 29380057,
+    "depot": {
+        "2299041": {
+            "manifests": {
+                "public": {
+                    "gid": "8140871190230457760",
+                    "size": "117715390",
+                    "download": "52092480"
+                }
+            },
+            "decryptionkey": "9b56e5aaa161e042bcf2ddae8238087084802abf17bfa63d24f504309c4151d2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13916560",
+                "timeupdated": "1712010820"
+            }
+        }
+    }
+}
