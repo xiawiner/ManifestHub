@@ -1,0 +1,31 @@
+{
+    "appid": 3748680,
+    "name": "Space Memory: Dinosaurs",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-30 15:01:01",
+    "change_number": 29277737,
+    "depot": {
+        "3748681": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1266558885240460256",
+                    "size": "483372900",
+                    "download": "477668784"
+                }
+            },
+            "decryptionkey": "cda2b02ab438ed5407e092cece439ba5feea3e6c849a739fc8f7b12feeaace30"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18479914",
+                "timeupdated": "1747330531"
+            }
+        }
+    }
+}
