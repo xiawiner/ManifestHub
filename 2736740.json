@@ -1,0 +1,32 @@
+{
+    "appid": 2736740,
+    "name": "Writeway",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-17 06:42:15",
+    "change_number": 29596951,
+    "depot": {
+        "2736741": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1640341239001648166",
+                    "size": "36491776",
+                    "download": "25156064"
+                }
+            },
+            "decryptionkey": "ea77b4de0a4ad1a8df90f6553ce9a12044bb4182b36dc938db3416fcdbbde603"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18889343",
+                "timeupdated": "1750113732"
+            }
+        }
+    }
+}
