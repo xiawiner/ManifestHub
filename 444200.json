@@ -1,0 +1,70 @@
+{
+    "appid": 444200,
+    "name": "World of Tanks Blitz",
+    "type": "Game",
+    "schinese_name": "坦克世界闪电战",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 22:09:07",
+    "change_number": 29669673,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,finnish,czech,turkish,arabic,brazilian",
+        "hasdepotsindlc": "0",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "444202": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5031038032722787313",
+                    "size": "17016079741",
+                    "download": "15428952640"
+                }
+            },
+            "decryptionkey": "5b6adc08f9619d6e24a4f0ec439f0b0f64382713d2ba1c47dccff8688067c4f7"
+        },
+        "444203": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8550250169296560538",
+                    "size": "16987131173",
+                    "download": "15387686320"
+                }
+            },
+            "decryptionkey": "76272afe9a85ab44d5eaff2c256dc29c81901920649c1424fbe1c114ee22721a"
+        },
+        "1579090": {
+            "dlcappid": "1579090"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18853718",
+                "timeupdated": "1749807171"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
