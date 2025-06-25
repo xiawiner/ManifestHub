@@ -1,0 +1,28 @@
+{
+    "appid": 3681370,
+    "name": "ABYSSAL BLADE",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 06:00:18",
+    "change_number": 29685286,
+    "depot": {
+        "3681371": {
+            "manifests": {
+                "public": {
+                    "gid": "7618534335987032467",
+                    "size": "867014432",
+                    "download": "772798688"
+                }
+            },
+            "decryptionkey": "6f228a8ba06f8bfa9240b2d31cc5aa8921d08fe72a03a69772cc8dc262acaddb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18951976",
+                "timeupdated": "1750536635"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
