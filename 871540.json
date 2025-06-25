@@ -1,0 +1,77 @@
+{
+    "appid": 871540,
+    "name": "BMX Streets",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 08:48:35",
+    "change_number": 29686788,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,swedish,hungarian,czech,turkish,brazilian,ukrainian",
+        "871541": {
+            "manifests": {
+                "public": {
+                    "gid": "1853969800422803562",
+                    "size": "2391808129",
+                    "download": "477025120"
+                },
+                "1.0vanilla": {
+                    "gid": "7316156699524306459",
+                    "size": "18474014914",
+                    "download": "4889440816"
+                },
+                "dont": {
+                    "gid": "1853969800422803562",
+                    "size": "2391808129",
+                    "download": "477025120"
+                }
+            },
+            "decryptionkey": "0158c064648ac4e2ebeaaac25704874b8ad9e392f695b2675ada1266720ee67e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18953101",
+                "timeupdated": "1750553300"
+            },
+            "1.0vanilla": {
+                "buildid": "14026049",
+                "description": "Doomsday",
+                "timeupdated": "1748485245"
+            },
+            "dont": {
+                "buildid": "18953101",
+                "description": "Pre-Pre-Alpha",
+                "timeupdated": "1750553305"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
