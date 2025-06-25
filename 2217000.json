@@ -1,0 +1,76 @@
+{
+    "appid": 2217000,
+    "name": "Rivals of Aether II",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 09:40:04",
+    "change_number": 29687057,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2217001": {
+            "manifests": {
+                "public": {
+                    "gid": "7075415493631814349",
+                    "size": "2914310045",
+                    "download": "2535382784"
+                },
+                "previous_version": {
+                    "gid": "7856990631714401800",
+                    "size": "2914293053",
+                    "download": "2535246928"
+                }
+            },
+            "decryptionkey": "43d69e105073277384193785bd85036890e6506f83ed959407df51df70e51922"
+        },
+        "workshopdepot": "2217000",
+        "baselanguages": "english,german,french,spanish,japanese,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "18913637",
+                "timeupdated": "1750266353"
+            },
+            "previous_version": {
+                "buildid": "18898467",
+                "description": "The previously live version of the game. Use this to access invalid replays",
+                "timeupdated": "1750266318"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
