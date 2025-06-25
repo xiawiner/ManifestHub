@@ -1,0 +1,32 @@
+{
+    "appid": 3128280,
+    "name": "Cats & Dice",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 17:08:12",
+    "change_number": 29646212,
+    "depot": {
+        "3128281": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2481568295753784654",
+                    "size": "140999508",
+                    "download": "80726384"
+                }
+            },
+            "decryptionkey": "451a0b83b1eaa8f52e8567032e0c0767b187cfd7787ca5b01b62f1410dd06dff"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18909654",
+                "timeupdated": "1750324087"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
