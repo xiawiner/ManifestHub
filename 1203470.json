@@ -1,0 +1,28 @@
+{
+    "appid": 1203470,
+    "name": "Earth Analog",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 21:55:30",
+    "change_number": 29681766,
+    "depot": {
+        "1203471": {
+            "manifests": {
+                "public": {
+                    "gid": "7242513227778180035",
+                    "size": "707698341",
+                    "download": "544561168"
+                }
+            },
+            "decryptionkey": "3aa882ceb6ee5f339679991b7d66bd452f3813cc81416da147cad75e4fdfdee3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18949503",
+                "timeupdated": "1750505385"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
