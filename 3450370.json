@@ -1,0 +1,30 @@
+{
+    "appid": 3450370,
+    "name": "街漓芳传",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-08 23:21:08",
+    "change_number": 29447186,
+    "depot": {
+        "3450371": {
+            "manifests": {
+                "public": {
+                    "gid": "6428466049899193640",
+                    "size": "1569275279",
+                    "download": "707745232"
+                }
+            },
+            "decryptionkey": "d83d97babbd6263b48a2774c48abdce0ec4b0694fa873e72c9eff5c6790d78b6"
+        },
+        "baselanguages": "english,schinese,tchinese",
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18716264",
+                "timeupdated": "1748947368"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
