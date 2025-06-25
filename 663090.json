@@ -1,0 +1,41 @@
+{
+    "appid": 663090,
+    "name": "Granado Espada",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-18 13:08:29",
+    "change_number": 29622018,
+    "depot": {
+        "baselanguages": "english",
+        "663091": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "950713665619209849",
+                    "size": "18871986942",
+                    "download": "18983644944"
+                },
+                "beta": {
+                    "gid": "950713665619209849",
+                    "size": "18871986942",
+                    "download": "18983644944"
+                }
+            },
+            "decryptionkey": "1adf47839846c255099fa4636a268d57bc8bef084386c692f506153a234cd818"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18905402",
+                "timeupdated": "1750223303"
+            },
+            "beta": {
+                "buildid": "18905402",
+                "description": "Public beta branch",
+                "timeupdated": "1750223280"
+            }
+        }
+    }
+}
