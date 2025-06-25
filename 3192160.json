@@ -1,0 +1,40 @@
+{
+    "appid": 3192160,
+    "name": "Global Shipping Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 08:19:25",
+    "change_number": 29686645,
+    "depot": {
+        "3192161": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6056163910330736479",
+                    "size": "2958370602",
+                    "download": "1012497744"
+                },
+                "beta": {
+                    "gid": "6252119380124292983",
+                    "size": "3465483087",
+                    "download": "1229435024"
+                }
+            },
+            "decryptionkey": "90a59d37b59bcba1e113becf873d4e730197381067480ba7945ea67d5e0ab75d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17699940",
+                "timeupdated": "1741819442"
+            },
+            "beta": {
+                "buildid": "18952973",
+                "description": "public beta",
+                "timeupdated": "1750551560"
+            }
+        }
+    }
+}
