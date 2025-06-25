@@ -1,0 +1,27 @@
+{
+    "appid": 3379770,
+    "name": "Quartermain and the Cult of Cthulhu",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-16 01:52:14",
+    "change_number": 29576114,
+    "depot": {
+        "3379771": {
+            "manifests": {
+                "public": {
+                    "gid": "462157176851547297",
+                    "size": "771769792",
+                    "download": "447282528"
+                }
+            },
+            "decryptionkey": "8b43a11d57a4e6a77d222ea1a68cd58566975e156cd76039d4239feb006eeeb8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18874697",
+                "timeupdated": "1750009930"
+            }
+        }
+    }
+}
