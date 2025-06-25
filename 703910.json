@@ -1,0 +1,56 @@
+{
+    "appid": 703910,
+    "name": "VRpatients",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-18 21:15:01",
+    "change_number": 29629434,
+    "depot": {
+        "703911": {
+            "manifests": {
+                "public": {
+                    "gid": "4767379879169394344",
+                    "size": "2863440447",
+                    "download": "1659193424"
+                },
+                "stable": {
+                    "gid": "563257730111814095",
+                    "size": "2922810027",
+                    "download": "1713247552"
+                },
+                "staging": {
+                    "gid": "4767379879169394344",
+                    "size": "2863440447",
+                    "download": "1659193424"
+                },
+                "trunk": {
+                    "gid": "3218948134559391880",
+                    "size": "2922796819",
+                    "download": "1713234608"
+                }
+            },
+            "decryptionkey": "fb5d0fffff19a1d0c304f1d82ca67a5d9a4cdd53bf5c5a45fc0b4feae65beb85"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18629932",
+                "timeupdated": "1748875682"
+            },
+            "stable": {
+                "buildid": "18890946",
+                "timeupdated": "1750252496"
+            },
+            "staging": {
+                "buildid": "18629932",
+                "timeupdated": "1748437619"
+            },
+            "trunk": {
+                "buildid": "18905669",
+                "description": "(dev)",
+                "timeupdated": "1750252488"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
