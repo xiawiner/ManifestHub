@@ -1,0 +1,77 @@
+{
+    "appid": 1032430,
+    "name": "Blood Trail",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 02:37:54",
+    "change_number": 29635131,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1032431": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7638628037252072275",
+                    "size": "25905300033",
+                    "download": "9498521216"
+                },
+                "legacy_branch_1": {
+                    "gid": "8560133794385742689",
+                    "size": "21518553300",
+                    "download": "8966198784"
+                },
+                "experimental": {
+                    "gid": "7638628037252072275",
+                    "size": "25905300033",
+                    "download": "9498521216"
+                },
+                "legacy_branch_2": {
+                    "gid": "4008090271247957884",
+                    "size": "13249965136",
+                    "download": "12853750112"
+                }
+            },
+            "decryptionkey": "e533393d2895e4516e079d4b23cd2d771cbf53adbe1954e629fdc0ae0689f62d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18598125",
+                "timeupdated": "1748137804"
+            },
+            "legacy_branch_1": {
+                "buildid": "5022962",
+                "description": "Original upload date May 13 2020",
+                "timeupdated": "1618616965"
+            },
+            "experimental": {
+                "buildid": "18598125",
+                "description": "This branch is for dedicated players to test the very latest versions before they go to the default branch.",
+                "timeupdated": "1748137722"
+            },
+            "legacy_branch_2": {
+                "buildid": "9026022",
+                "description": "Original upload date Jun 28 2022",
+                "timeupdated": "1747939227"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
