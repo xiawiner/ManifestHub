@@ -1,0 +1,36 @@
+{
+    "appid": 743650,
+    "name": "Quake Champions PTS",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 06:31:57",
+    "change_number": 29617529,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "743651": {
+            "manifests": {
+                "public": {
+                    "gid": "5125493749001206419",
+                    "size": "35968564386",
+                    "download": "32335731104"
+                }
+            },
+            "decryptionkey": "527af2d1792b4ae9dab3157589125765d37b1670dbe436d89ccec29649ca5c7a"
+        },
+        "baselanguages": "english,german,french,italian,spanish,russian,polish,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "18856981",
+                "timeupdated": "1749822912"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
