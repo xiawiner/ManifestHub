@@ -1,0 +1,139 @@
+{
+    "appid": 1022450,
+    "name": "War Selection",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 19:02:31",
+    "change_number": 29666797,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,danish,dutch,hungarian,czech,turkish,brazilian",
+        "1022451": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3536811341458272902",
+                    "size": "5396140915",
+                    "download": "2212865456"
+                },
+                "174.2908": {
+                    "gid": "3161899806636445615",
+                    "size": "4975024055",
+                    "download": "2045265152"
+                },
+                "176.3273": {
+                    "gid": "1724955434518155627",
+                    "size": "5253324487",
+                    "download": "2151114000"
+                },
+                "176.3294": {
+                    "gid": "2788174159995993517",
+                    "size": "5314796971",
+                    "download": "2160371008"
+                },
+                "178.3416": {
+                    "gid": "18669611102040140",
+                    "size": "5397407128",
+                    "download": "2213414240"
+                }
+            },
+            "decryptionkey": "bbe80a187d38ae7befda4786399c52ec7188f8383f9cf7f71daf8b0f53469b1e"
+        },
+        "1022452": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5105093310411525727",
+                    "size": "88749029",
+                    "download": "24401760"
+                },
+                "174.2908": {
+                    "gid": "506162376419471798",
+                    "size": "86354405",
+                    "download": "24136928"
+                },
+                "176.3273": {
+                    "gid": "3447390014196212172",
+                    "size": "86524389",
+                    "download": "24158864"
+                },
+                "176.3294": {
+                    "gid": "6457162821995600423",
+                    "size": "87615973",
+                    "download": "24183632"
+                },
+                "178.3416": {
+                    "gid": "2924741551439963512",
+                    "size": "88444389",
+                    "download": "24329120"
+                }
+            },
+            "decryptionkey": "117dbed75d8dc6cd70ac20fe13c2446e70b1df81a0cef9509b2add84113a6c73"
+        },
+        "1022453": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4972517772266607656",
+                    "size": "107685864",
+                    "download": "28993376"
+                },
+                "174.2908": {
+                    "gid": "2040859446329527812",
+                    "size": "105580088",
+                    "download": "28529168"
+                },
+                "176.3273": {
+                    "gid": "7546937951734023798",
+                    "size": "106236880",
+                    "download": "28677664"
+                },
+                "176.3294": {
+                    "gid": "160546899181013983",
+                    "size": "106303712",
+                    "download": "28694416"
+                },
+                "178.3416": {
+                    "gid": "1990664718479745570",
+                    "size": "107192160",
+                    "download": "28856640"
+                }
+            },
+            "decryptionkey": "34f6b22e1757f0ad2b764c8c110491003c6041e40bf4ce1b67ad43d6903029cf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18861975",
+                "timeupdated": "1750417343"
+            },
+            "174.2908": {
+                "buildid": "17221526",
+                "description": "Version 174.2908 (Jan 28, 2025)",
+                "timeupdated": "1740068470"
+            },
+            "176.3273": {
+                "buildid": "17441544",
+                "description": "Version 176.3273 (Feb 20 2025)",
+                "timeupdated": "1740135172"
+            },
+            "176.3294": {
+                "buildid": "17603791",
+                "description": "Version 176.3294 (Mar 5 2025)",
+                "timeupdated": "1744203706"
+            },
+            "178.3416": {
+                "buildid": "18444842",
+                "description": "Version 178.3416 (Through June 9, 2025)",
+                "timeupdated": "1749386467"
+            }
+        }
+    }
+}
