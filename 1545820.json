@@ -1,0 +1,55 @@
+{
+    "appid": 1545820,
+    "name": "Pixel Art Coloring Book",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-17 16:05:05",
+    "change_number": 29603443,
+    "depot": {
+        "1545821": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7396651201371483938",
+                    "size": "265464009",
+                    "download": "52496816"
+                }
+            },
+            "decryptionkey": "5e1a0edb2b17bba7266c3a5e6c17082c443309c1f94861e43b46af3779444126"
+        },
+        "1545822": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5496856461780019950",
+                    "size": "282208800",
+                    "download": "56536704"
+                }
+            },
+            "decryptionkey": "255881563684bcd153814a35f9221004f9d220145e1eb44384416d97987298e5"
+        },
+        "1576340": {
+            "dlcappid": "1576340",
+            "manifests": {
+                "public": {
+                    "gid": "956177440682587774",
+                    "size": "391",
+                    "download": "384"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18823719",
+                "timeupdated": "1749645756"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
