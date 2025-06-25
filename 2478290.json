@@ -1,0 +1,33 @@
+{
+    "appid": 2478290,
+    "name": "Pepper Blast",
+    "type": "Game",
+    "schinese_name": "辣椒大爆炸",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 10:58:43",
+    "change_number": 29620742,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,danish,dutch,finnish,norwegian,swedish,turkish,brazilian",
+        "hasdepotsindlc": "0",
+        "2478292": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2470997471451806044",
+                    "size": "48403831",
+                    "download": "31256000"
+                }
+            },
+            "decryptionkey": "f3d8e8d583b813f6bde5d69db1ca2eb54d20bd43818893fa231f1589768c0589"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16656834",
+                "timeupdated": "1733491752"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
