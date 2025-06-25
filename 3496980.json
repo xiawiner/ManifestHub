@@ -1,0 +1,32 @@
+{
+    "appid": 3496980,
+    "name": "Greenhouse: Schism",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-16 04:05:33",
+    "change_number": 29575766,
+    "depot": {
+        "3496981": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "377156807406787253",
+                    "size": "381977723",
+                    "download": "288317616"
+                }
+            },
+            "decryptionkey": "72765af3f5eea22697b91b94af6fa303fa6997920b318ffd2daf9f57d0fb15bd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18874092",
+                "timeupdated": "1750001338"
+            }
+        }
+    }
+}
