@@ -1,0 +1,102 @@
+{
+    "appid": 1583850,
+    "name": "Asleep - Ato 1",
+    "type": "Game",
+    "schinese_name": "Asleep 沉睡 - Ato 1",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 09:40:24",
+    "change_number": 29659617,
+    "depot": {
+        "baselanguages": "brazilian",
+        "1583852": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6069843529874797395",
+                    "size": "993670533",
+                    "download": "770526720"
+                }
+            },
+            "decryptionkey": "c3d2f13f2463f0ef3889b720b716ab78839f096f9caaf35bd36eac0562f88c3f"
+        },
+        "1583853": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8329397984400418211",
+                    "size": "992553621",
+                    "download": "767584912"
+                }
+            }
+        },
+        "1583855": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2503045485283069110",
+                    "size": "1013919606",
+                    "download": "773928928"
+                }
+            }
+        },
+        "1583856": {
+            "dlcappid": "3368680",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3773205853778844805",
+                    "size": "245915077",
+                    "download": "232493616"
+                }
+            },
+            "decryptionkey": "59baf9e0611e162dc8928d5280982627850e32c84289b7cd252ca2ea3427371b"
+        },
+        "1583851": {
+            "dlcappid": "3368680",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6658774064683510379",
+                    "size": "245897229",
+                    "download": "232580032"
+                }
+            }
+        },
+        "1583854": {
+            "dlcappid": "3368680",
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3441760191547614284",
+                    "size": "245884771",
+                    "download": "232697536"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18933919",
+                "timeupdated": "1750383601"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
