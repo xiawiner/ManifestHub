@@ -1,0 +1,28 @@
+{
+    "appid": 2231190,
+    "name": "Magical Delicacy",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 06:17:17",
+    "change_number": 29614506,
+    "depot": {
+        "2231191": {
+            "manifests": {
+                "public": {
+                    "gid": "1232991063475410812",
+                    "size": "969757076",
+                    "download": "246580400"
+                }
+            },
+            "decryptionkey": "48e7e0796ba1b96f1722c7e298aa7138ade390af6f1421c5fafd6d31b73ebafa"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18694284",
+                "timeupdated": "1748869683"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
