@@ -1,0 +1,43 @@
+{
+    "appid": 1074280,
+    "name": "Oirbo",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 07:19:33",
+    "change_number": 29686362,
+    "depot": {
+        "1074281": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6582581575037414954",
+                    "size": "657405783",
+                    "download": "445383584"
+                }
+            },
+            "decryptionkey": "73674bee51f88f7ffb06f3ba7562c5eecef1e1421718ec8431d1475b7123d503"
+        },
+        "1074282": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8538235696057765331",
+                    "size": "657405783",
+                    "download": "445383152"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18884947",
+                "timeupdated": "1750089584"
+            }
+        }
+    }
+}
