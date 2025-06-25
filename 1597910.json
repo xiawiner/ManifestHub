@@ -1,0 +1,44 @@
+{
+    "appid": 1597910,
+    "name": "FREERIDE: The Personality Test",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-20 18:12:15",
+    "change_number": 29079372,
+    "depot": {
+        "baselanguages": "english,french,schinese,russian,portuguese,brazilian,latam",
+        "1597911": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4713991385439059618",
+                    "size": "1686762784",
+                    "download": "495526848"
+                }
+            },
+            "decryptionkey": "b1367be42fcf8b1fb014d20a9ff18e28b839a2710564a4035b513b66809cd5b6"
+        },
+        "1597912": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "33237719563956916",
+                    "size": "1742521962",
+                    "download": "509030624"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18484542",
+                "timeupdated": "1747359142"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
