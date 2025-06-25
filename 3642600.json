@@ -1,0 +1,57 @@
+{
+    "appid": 3642600,
+    "name": "Forest",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 06:06:53",
+    "change_number": 29610754,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3642601": {
+            "manifests": {
+                "public": {
+                    "gid": "8628687358424399770",
+                    "size": "1561765021",
+                    "download": "1370019312"
+                }
+            },
+            "decryptionkey": "a27e0fdcdb0500628722dce0da306d103685da2322351a2d15c0b0a5ef139b59"
+        },
+        "3642602": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7734611960916056135",
+                    "size": "1561765021",
+                    "download": "1367903456"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "18854212",
+                "timeupdated": "1749809647"
+            }
+        }
+    }
+}
