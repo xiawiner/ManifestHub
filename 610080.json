@@ -1,0 +1,44 @@
+{
+    "appid": 610080,
+    "name": "Realm Grinder",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-18 20:13:00",
+    "change_number": 29628434,
+    "depot": {
+        "610081": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4613072154141114159",
+                    "size": "48670858",
+                    "download": "30530496"
+                }
+            },
+            "decryptionkey": "04bfc466cec85356fa1265695f1ad33f027866de8564f78084313268127a8940"
+        },
+        "610082": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8796001818543303729",
+                    "size": "66335640",
+                    "download": "33554864"
+                }
+            },
+            "decryptionkey": "e9872750e72614c21f6a0414e9177914c9031a47726ca43c43a3cdc6692fbb87"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18379678",
+                "timeupdated": "1747138666"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
