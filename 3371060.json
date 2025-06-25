@@ -1,0 +1,27 @@
+{
+    "appid": 3371060,
+    "name": "Keyclash",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 07:53:44",
+    "change_number": 29686526,
+    "depot": {
+        "3371061": {
+            "manifests": {
+                "public": {
+                    "gid": "6159732540855753150",
+                    "size": "137887480",
+                    "download": "69055792"
+                }
+            },
+            "decryptionkey": "f97ec6ce56e2dbfab81791fe8aa7e26d2ba18dcb2b53e670b0f4e1fdbfa4d4b4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18952895",
+                "timeupdated": "1750550017"
+            }
+        }
+    }
+}
