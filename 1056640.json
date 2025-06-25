@@ -1,0 +1,49 @@
+{
+    "appid": 1056640,
+    "name": "Phantasy Star Online 2 New Genesis",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 05:25:18",
+    "change_number": 29652093,
+    "depot": {
+        "baselanguages": "",
+        "hasdepotsindlc": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2251111": {
+            "manifests": {
+                "public": {
+                    "gid": "6105761165984519888",
+                    "size": "62579317264",
+                    "download": "60294159584"
+                }
+            },
+            "dlcappid": "2251110",
+            "depotfromapp": "2251110",
+            "decryptionkey": "a1856d0e96a2a132cceb1e4566e9f140ae7768c415cd212d271b97783f1e133f"
+        },
+        "1056641": {
+            "manifests": {
+                "public": {
+                    "gid": "5401041114999630503",
+                    "size": "93146299193",
+                    "download": "86522846576"
+                }
+            },
+            "decryptionkey": "0a33a2b208cb9fa5726f871d9aa7274af515a8a78bc7554d0e47abc639535514"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18788590",
+                "timeupdated": "1750212121"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
