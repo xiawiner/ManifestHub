@@ -1,0 +1,33 @@
+{
+    "appid": 2317560,
+    "name": "The War",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-19 16:53:05",
+    "change_number": 29645974,
+    "depot": {
+        "2317561": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6790397376459849652",
+                    "size": "3339242672",
+                    "download": "2733789232"
+                }
+            },
+            "decryptionkey": "cfd14412d8f11449c131a4bee61bc3998a23d017ae29962f51dc7d0f4f72c619"
+        },
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,schinese,tchinese",
+        "branches": {
+            "public": {
+                "buildid": "18924035",
+                "timeupdated": "1750323181"
+            }
+        }
+    }
+}
