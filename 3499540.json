@@ -1,0 +1,82 @@
+{
+    "appid": 3499540,
+    "name": "COMBOLITE",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 06:22:43",
+    "change_number": 29616937,
+    "depot": {
+        "3499541": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "930825784137415881",
+                    "size": "167103536",
+                    "download": "75081776"
+                },
+                "beta": {
+                    "gid": "930825784137415881",
+                    "size": "167103536",
+                    "download": "75081776"
+                }
+            },
+            "decryptionkey": "cceab1f49fd6473243020151af5143be7aa30f4207b794c0427e738146491d9b"
+        },
+        "3499542": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5780595371232623763",
+                    "size": "149960888",
+                    "download": "69975744"
+                },
+                "beta": {
+                    "gid": "5780595371232623763",
+                    "size": "149960888",
+                    "download": "69975744"
+                }
+            }
+        },
+        "3499543": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "beta": {
+                    "gid": "701871559662465025",
+                    "size": "169089072",
+                    "download": "70006208"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3499544": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "beta": {
+                    "gid": "7441764058277090907",
+                    "size": "150483776",
+                    "download": "66098352"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18775948",
+                "timeupdated": "1749280755"
+            },
+            "beta": {
+                "buildid": "18775950",
+                "description": "Combolite beta for testing purposes",
+                "timeupdated": "1749280771"
+            }
+        }
+    }
+}
