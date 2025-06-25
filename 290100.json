@@ -1,0 +1,62 @@
+{
+    "appid": 290100,
+    "name": "Bulwark Evolution: Falconeer Chronicles",
+    "type": "Game",
+    "schinese_name": "堡垒：猎鹰战纪",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 13:56:17",
+    "change_number": 29679669,
+    "depot": {
+        "overridescddb": "1",
+        "290102": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5404979766962705923",
+                    "size": "1363616784",
+                    "download": "810961232"
+                },
+                "beta": {
+                    "gid": "4013937053642296096",
+                    "size": "1363615384",
+                    "download": "810962528"
+                },
+                "debug": {
+                    "gid": "4143603685908103167",
+                    "size": "1862049384",
+                    "download": "844137920"
+                },
+                "hold": {
+                    "gid": "8202797277626580033",
+                    "size": "1371170921",
+                    "download": "881194208"
+                }
+            },
+            "decryptionkey": "8964452056d0aeece0de5a0de024de4bb431008c7e976f89e75fa35e227042fd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18932335",
+                "timeupdated": "1750397079"
+            },
+            "beta": {
+                "buildid": "18947988",
+                "description": "Beta patch",
+                "timeupdated": "1750485374"
+            },
+            "debug": {
+                "buildid": "18880299",
+                "description": "for troubleshooting issues",
+                "timeupdated": "1750065155"
+            },
+            "hold": {
+                "buildid": "14648040",
+                "description": "To hold upcoming updates",
+                "timeupdated": "1718979072"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
