@@ -1,0 +1,54 @@
+{
+    "appid": 3350200,
+    "name": "情感反诈模拟器",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:53:46",
+    "change_number": 29683284,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "schinese",
+        "3350201": {
+            "config": {
+                "oslist": "windows",
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8369922392932576405",
+                    "size": "23194696044",
+                    "download": "22994252368"
+                }
+            },
+            "decryptionkey": "974375ed45d0dfd5d3224cfbd5397125e752a9a2d4c309473f9b613abdefb3f8"
+        },
+        "3350202": {
+            "config": {
+                "oslist": "macos",
+                "language": "schinese",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2750136480166002006",
+                    "size": "23343619135",
+                    "download": "23038754080"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18941501",
+                "timeupdated": "1750465255"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
