@@ -1,0 +1,33 @@
+{
+    "appid": 2322660,
+    "name": "Global Strike",
+    "type": "Game",
+    "schinese_name": "生死狙击（国际版）",
+    "isfreeapp": 1,
+    "update_time": "2025-06-18 17:51:52",
+    "change_number": 29626176,
+    "depot": {
+        "2322661": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4940554129760529965",
+                    "size": "178887048",
+                    "download": "62397168"
+                }
+            },
+            "decryptionkey": "2a0b19bb5dabab4396a0a12cb808dd36591c4a083599d201ea2f40a54c569a96"
+        },
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18910199",
+                "timeupdated": "1750240308"
+            }
+        }
+    }
+}
