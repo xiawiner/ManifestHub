@@ -1,0 +1,60 @@
+{
+    "appid": 436150,
+    "name": "Governor of Poker 3",
+    "type": "Game",
+    "schinese_name": "州长扑克3",
+    "isfreeapp": 1,
+    "update_time": "2025-06-18 16:39:08",
+    "change_number": 29624960,
+    "depot": {
+        "baselanguages": "english",
+        "436152": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5785579795976181018",
+                    "size": "622659361",
+                    "download": "217990288"
+                },
+                "beta": {
+                    "gid": "5785579795976181018",
+                    "size": "622659361",
+                    "download": "217990288"
+                }
+            },
+            "decryptionkey": "62da4a654db335366a5afdbd49e779ff5c3556976346c26f2999a163914ebc56"
+        },
+        "436151": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "393752632986275720",
+                    "size": "310434088",
+                    "download": "175762608"
+                },
+                "beta": {
+                    "gid": "393752632986275720",
+                    "size": "310434088",
+                    "download": "175762608"
+                }
+            },
+            "decryptionkey": "30a26fce8bf052c18c50fad49a151a93c6336467259e2401880fb69720e0a75e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18898656",
+                "timeupdated": "1750171104"
+            },
+            "beta": {
+                "buildid": "18898656",
+                "timeupdated": "1750172989"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
