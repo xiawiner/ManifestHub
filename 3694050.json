@@ -1,0 +1,39 @@
+{
+    "appid": 3694050,
+    "name": "Sim Hospital",
+    "type": "Game",
+    "schinese_name": "模拟医院(Sim Hospital)",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 10:37:15",
+    "change_number": 29678466,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,ukrainian",
+        "hasdepotsindlc": "0",
+        "3694051": {
+            "manifests": {
+                "public": {
+                    "gid": "3415243913728752374",
+                    "size": "523402029",
+                    "download": "147943744"
+                },
+                "alpha": {
+                    "gid": "3415243913728752374",
+                    "size": "523402029",
+                    "download": "147943744"
+                }
+            },
+            "decryptionkey": "c2efd7fb45fee752fc5a0e82859f30aceb11a82d66330019ba3f9c57f3d40e21"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18946944",
+                "timeupdated": "1750473431"
+            },
+            "alpha": {
+                "buildid": "18946944",
+                "description": "test",
+                "timeupdated": "1750472541"
+            }
+        }
+    }
+}
