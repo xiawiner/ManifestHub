@@ -1,0 +1,33 @@
+{
+    "appid": 2258290,
+    "name": "Jury - Episode 1: Before the Trial",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:59:55",
+    "change_number": 29685006,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2258291": {
+            "config": {
+                "oslist": "windows,linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6119713269389023265",
+                    "size": "4016171931",
+                    "download": "3866888592"
+                }
+            },
+            "decryptionkey": "1a498a1ba9af0cd8e2465b653d7674c5b7030f799400a9f8927d91780c40be4f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16981701",
+                "timeupdated": "1736716727"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
