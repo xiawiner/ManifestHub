@@ -1,0 +1,46 @@
+{
+    "appid": 1034810,
+    "name": "Pax Romana: Romulus",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:54:50",
+    "change_number": 29683345,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1034811": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1389171105027907150",
+                    "size": "444616250",
+                    "download": "284896000"
+                }
+            },
+            "decryptionkey": "b43f95e3f18ae6d1776a93b0b68e71186f765dadd19efb8de77103446945e248"
+        },
+        "1193440": {
+            "dlcappid": "1193440",
+            "manifests": {
+                "public": {
+                    "gid": "3053411982864955736",
+                    "size": "37109797",
+                    "download": "36782304"
+                }
+            },
+            "config": {
+                "optionaldlc": "1193440"
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "5253670",
+                "timeupdated": "1593977954"
+            }
+        },
+        "appmanagesdlc": "1"
+    }
+}
