@@ -1,0 +1,39 @@
+{
+    "appid": 2997460,
+    "name": "Stick Infinite Kingdom",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 21:20:06",
+    "change_number": 29668804,
+    "depot": {
+        "baselanguages": "english",
+        "2997461": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "357283914940164879",
+                    "size": "1058880773",
+                    "download": "908624176"
+                }
+            },
+            "decryptionkey": "8dde465fd7bcbd6cce07336e0c991736f29847ea03f0969d517ed98880a3a69b"
+        },
+        "2997462": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18678550",
+                "timeupdated": "1748632533"
+            }
+        }
+    }
+}
