@@ -1,0 +1,27 @@
+{
+    "appid": 3730600,
+    "name": "Aestheta",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 06:01:25",
+    "change_number": 29685688,
+    "depot": {
+        "3730601": {
+            "manifests": {
+                "public": {
+                    "gid": "355130689987824171",
+                    "size": "97415796",
+                    "download": "82625824"
+                }
+            },
+            "decryptionkey": "9fc11319273efe1e98c1869c31af6be482afa29e32b3d1a81c5ecd1500301d79"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18908542",
+                "timeupdated": "1750231498"
+            }
+        }
+    }
+}
