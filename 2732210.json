@@ -1,0 +1,31 @@
+{
+    "appid": 2732210,
+    "name": "Hopeless Sea",
+    "type": "Game",
+    "schinese_name": "无望之海",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:24:57",
+    "change_number": 29651975,
+    "depot": {
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "2732211": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "336429544578534564",
+                    "size": "25501064",
+                    "download": "17362912"
+                }
+            },
+            "decryptionkey": "e318a1fb64e76a6599af407777e8d9389075d4851bf122c32624ee52a28f7401"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18954133",
+                "timeupdated": "1750571139"
+            }
+        }
+    }
+}
