@@ -1,0 +1,27 @@
+{
+    "appid": 2024950,
+    "name": "Rally 9000",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-29 01:39:39",
+    "change_number": 29242533,
+    "depot": {
+        "2024951": {
+            "manifests": {
+                "public": {
+                    "gid": "471562865426265294",
+                    "size": "7888459512",
+                    "download": "2448419264"
+                }
+            },
+            "decryptionkey": "4020361d8e075213d9272522e3c966382caf15f6edc822a29fef43c2ffdbe45e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13411019",
+                "timeupdated": "1707451057"
+            }
+        }
+    }
+}
