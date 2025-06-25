@@ -1,0 +1,42 @@
+{
+    "appid": 1343670,
+    "name": "Dealer's Life 2",
+    "type": "Game",
+    "schinese_name": "当铺人生2",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 06:16:29",
+    "change_number": 29613783,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1343671": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5811918577647829505",
+                    "size": "216183980",
+                    "download": "156005504"
+                },
+                "beta": {
+                    "gid": "5811918577647829505",
+                    "size": "216183980",
+                    "download": "156005504"
+                }
+            },
+            "decryptionkey": "e546471fe119704f6a2afcadebfb2f0a8cd1d0a9b79c410a3c6971ffd0d6df52"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15689979",
+                "timeupdated": "1731604034"
+            },
+            "beta": {
+                "buildid": "15689979",
+                "description": "Open Beta",
+                "timeupdated": "1727362491"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
