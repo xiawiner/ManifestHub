@@ -1,0 +1,61 @@
+{
+    "appid": 3594190,
+    "name": "Her Place VR",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 20:52:49",
+    "change_number": 29668384,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3594191": {
+            "manifests": {
+                "public": {
+                    "gid": "5443544741864321422",
+                    "size": "3304324256",
+                    "download": "2924747488"
+                },
+                "experimental": {
+                    "gid": "5443544741864321422",
+                    "size": "3304324256",
+                    "download": "2924747488"
+                },
+                "previous": {
+                    "gid": "7700316092698276891",
+                    "size": "3310028914",
+                    "download": "2930895888"
+                }
+            },
+            "decryptionkey": "0549442421a2aa7f183fe947c50d418a070ebc91e62af83bcdfda2977b9cb81d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18940233",
+                "timeupdated": "1750423964"
+            },
+            "experimental": {
+                "buildid": "18940233",
+                "description": "experimental",
+                "timeupdated": "1750423664"
+            },
+            "previous": {
+                "buildid": "18816705",
+                "description": "This is the previous build of the game, kept in case you encounter issues in the default version that weren't present before. It may not receive future updates.",
+                "timeupdated": "1750175811"
+            }
+        }
+    }
+}
