@@ -1,0 +1,70 @@
+{
+    "appid": 3081060,
+    "name": "迷失岛外传南瓜镇",
+    "type": "Game",
+    "schinese_name": "迷失岛外传南瓜镇",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 16:27:30",
+    "change_number": 29664311,
+    "depot": {
+        "baselanguages": "english,german,french,spanish,schinese,tchinese,russian,japanese",
+        "3081061": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7384160780916785633",
+                    "size": "689274960",
+                    "download": "92749968"
+                }
+            },
+            "decryptionkey": "d29870a582449d4ab8941cab23df859f2c9dc3949f7264b8eb4ad87372d2d436"
+        },
+        "3081062": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6801004231074287952",
+                    "size": "708998205",
+                    "download": "99859776"
+                }
+            }
+        },
+        "3081063": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2022543592959315639",
+                    "size": "684850464",
+                    "download": "92720240"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3081064": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6602919353749515363",
+                    "size": "712969409",
+                    "download": "99799040"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18575506",
+                "timeupdated": "1747968570"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
