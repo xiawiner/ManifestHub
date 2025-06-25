@@ -1,0 +1,41 @@
+{
+    "appid": 337410,
+    "name": "Karos",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 17:35:43",
+    "change_number": 29665385,
+    "depot": {
+        "baselanguages": "english,german,french,spanish,russian,portuguese,polish,turkish,brazilian,latam",
+        "337411": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "465062914710757508",
+                    "size": "5648384768",
+                    "download": "1612059152"
+                },
+                "test": {
+                    "gid": "2672792041298962355",
+                    "size": "5648842275",
+                    "download": "1612499584"
+                }
+            },
+            "decryptionkey": "4fb94611111797c6839cbb2c6071f307738128abd27befe0c63b48e6a1ea90f8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18811075",
+                "timeupdated": "1750058790"
+            },
+            "test": {
+                "buildid": "18938163",
+                "description": "Test",
+                "timeupdated": "1750412135"
+            }
+        }
+    }
+}
