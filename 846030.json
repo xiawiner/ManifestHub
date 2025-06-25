@@ -1,0 +1,100 @@
+{
+    "appid": 846030,
+    "name": "ΔV: Rings of Saturn",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 20:13:36",
+    "change_number": 29573875,
+    "depot": {
+        "baselanguages": "english,polish",
+        "hasdepotsindlc": "1",
+        "846031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8734202624038852198",
+                    "size": "1518742656",
+                    "download": "797822144"
+                },
+                "beta": {
+                    "gid": "8734202624038852198",
+                    "size": "1518742656",
+                    "download": "797822144"
+                },
+                "experimental": {
+                    "gid": "2278888285140639009",
+                    "size": "1518806352",
+                    "download": "797841792"
+                }
+            },
+            "decryptionkey": "095ebd18370da2b2974902cfd88ddb05ebc4e930027d37328ebccce55ad1438b"
+        },
+        "846032": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2545226615834059138",
+                    "size": "1527961112",
+                    "download": "800533808"
+                },
+                "beta": {
+                    "gid": "2545226615834059138",
+                    "size": "1527961112",
+                    "download": "800533808"
+                },
+                "experimental": {
+                    "gid": "5691112512724009208",
+                    "size": "1528024808",
+                    "download": "800556192"
+                }
+            },
+            "decryptionkey": "03baf57252daf9dcb6fbace78b8dd15d37038fc3a783da62e92feb1725aa6047"
+        },
+        "846034": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7580461832812801468",
+                    "size": "1547008106",
+                    "download": "804725664"
+                },
+                "beta": {
+                    "gid": "7580461832812801468",
+                    "size": "1547008106",
+                    "download": "804725664"
+                },
+                "experimental": {
+                    "gid": "4405470039612023483",
+                    "size": "1547071802",
+                    "download": "804748048"
+                }
+            },
+            "decryptionkey": "ac7d97e1b252f73e2f53ab6f0cfe0aea40c898f31e505c648157077c86b07bda"
+        },
+        "846033": {},
+        "branches": {
+            "public": {
+                "buildid": "18419073",
+                "timeupdated": "1747312040"
+            },
+            "beta": {
+                "buildid": "18419073",
+                "description": "ironing out any remaining bugs from experimental",
+                "timeupdated": "1747311709"
+            },
+            "experimental": {
+                "buildid": "18873247",
+                "description": "bleeding edge - latest features",
+                "timeupdated": "1749989610"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
