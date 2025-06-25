@@ -1,0 +1,132 @@
+{
+    "appid": 17740,
+    "name": "Empires",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-21 05:10:31",
+    "change_number": 29675704,
+    "depot": {
+        "overridescddb": "1",
+        "17744": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8583901076623195718",
+                    "size": "3181598348",
+                    "download": "1824559968"
+                },
+                "beta": {
+                    "gid": "8583901076623195718",
+                    "size": "3181598348",
+                    "download": "1824559968"
+                }
+            },
+            "decryptionkey": "9e0f5b9cd9cb8b2bfc5ecb978bcff0551fe0637eadd3e3321ba617936295e382"
+        },
+        "17743": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "287223044150100952",
+                    "size": "126850",
+                    "download": "32960"
+                },
+                "beta": {
+                    "gid": "287223044150100952",
+                    "size": "126850",
+                    "download": "32960"
+                }
+            },
+            "decryptionkey": "e0baaabfe4a7d44302908a6a68558212d0af18324a7eba7c9f3fed832a958d1d"
+        },
+        "17742": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "755431396456571793",
+                    "size": "14424072",
+                    "download": "4691936"
+                },
+                "beta": {
+                    "gid": "755431396456571793",
+                    "size": "14424072",
+                    "download": "4691936"
+                }
+            },
+            "decryptionkey": "9a3d669b14e10e2f322f4fc7fdf25e380b8dbc1a9f31e73b5f2e8e6a44a32962"
+        },
+        "17741": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8813243610937182546",
+                    "size": "6632297756",
+                    "download": "2397575680"
+                },
+                "beta": {
+                    "gid": "8813243610937182546",
+                    "size": "6632297756",
+                    "download": "2397575680"
+                }
+            },
+            "decryptionkey": "7e8821461931362634689d0530c009d338d6c5c6b88eb81c981c638fdb0f61ac"
+        },
+        "17745": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7854581984071817135",
+                    "size": "3137135547",
+                    "download": "1563854000"
+                },
+                "beta": {
+                    "gid": "7854581984071817135",
+                    "size": "3137135547",
+                    "download": "1563854000"
+                }
+            },
+            "decryptionkey": "89baf5c93dc011259514abe40f2f7128ee940bbbcd4a2eb3117c6f517dee9855"
+        },
+        "17746": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8786160865701499406",
+                    "size": "27776457",
+                    "download": "6439248"
+                },
+                "beta": {
+                    "gid": "8786160865701499406",
+                    "size": "27776457",
+                    "download": "6439248"
+                }
+            },
+            "decryptionkey": "2e7bb66f98930659183de43b44445366dd09afb5feebe687de87c6c2bdadb874"
+        },
+        "baselanguages": "english,german,french,spanish,russian,portuguese,polish,swedish",
+        "workshopdepot": "17740",
+        "branches": {
+            "public": {
+                "buildid": "18944452",
+                "timeupdated": "1750451129"
+            },
+            "beta": {
+                "buildid": "18944452",
+                "description": "Empires Beta Test",
+                "timeupdated": "1750450320"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
