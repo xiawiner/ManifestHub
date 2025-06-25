@@ -1,0 +1,31 @@
+{
+    "appid": 1913550,
+    "name": "Aces Under the Moonlight",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-28 07:29:48",
+    "change_number": 29223716,
+    "depot": {
+        "1913551": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4231452348630830051",
+                    "size": "6357075198",
+                    "download": "284552304"
+                }
+            },
+            "decryptionkey": "558cc6d0c92f5f5c290c21886d6bdde71a08549076385e87bb57a7ecce53f55b"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18633212",
+                "timeupdated": "1748388583"
+            }
+        }
+    }
+}
