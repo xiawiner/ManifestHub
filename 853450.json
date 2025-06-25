@@ -1,0 +1,33 @@
+{
+    "appid": 853450,
+    "name": "Nevergrind Online",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:56:21",
+    "change_number": 29684370,
+    "depot": {
+        "baselanguages": "english",
+        "853452": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5397674245433199523",
+                    "size": "859427879",
+                    "download": "550425632"
+                }
+            },
+            "decryptionkey": "7b8bb5776a770cf0d28212060a0adfa63680a66149dbc81e415c9ea398fba9f8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18951372",
+                "timeupdated": "1750528153"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
