@@ -1,0 +1,32 @@
+{
+    "appid": 3384440,
+    "name": "部落召唤",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-19 10:08:08",
+    "change_number": 29640517,
+    "depot": {
+        "baselanguages": "schinese",
+        "3384441": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "843544046113248386",
+                    "size": "1127598179",
+                    "download": "775393760"
+                }
+            },
+            "decryptionkey": "f2219ce6600a5dbf57d2c3c1969a93435d6c89bd9d4410543e0f8ae426f45aef"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18920545",
+                "timeupdated": "1750298880"
+            }
+        }
+    }
+}
