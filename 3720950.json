@@ -1,0 +1,41 @@
+{
+    "appid": 3720950,
+    "name": "Left By Angels",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 06:35:38",
+    "change_number": 29686106,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3720951": {
+            "manifests": {
+                "public": {
+                    "gid": "1387218568274047125",
+                    "size": "11044953142",
+                    "download": "10742348896"
+                }
+            },
+            "decryptionkey": "0f856733248b8569b9065465796d1348f98cb5ec4882b20a78f6ec453cc83b49"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18952588",
+                "timeupdated": "1750545333"
+            }
+        }
+    }
+}
