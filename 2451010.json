@@ -1,0 +1,44 @@
+{
+    "appid": 2451010,
+    "name": "Project Hunt",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 20:53:22",
+    "change_number": 29648623,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2451011": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4976801258436387246",
+                    "size": "19140694772",
+                    "download": "18963588592"
+                }
+            },
+            "decryptionkey": "0537abcde8e1efe481cd600dfddf10c71eb1288c81409e9827a12d0f61b3de53"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18926215",
+                "timeupdated": "1750333738"
+            }
+        }
+    }
+}
