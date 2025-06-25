@@ -1,0 +1,45 @@
+{
+    "appid": 871170,
+    "name": "3tene",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-18 13:48:53",
+    "change_number": 29622481,
+    "depot": {
+        "baselanguages": "english",
+        "871171": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3947725096137854592",
+                    "size": "647713390",
+                    "download": "235695904"
+                }
+            },
+            "decryptionkey": "92891ab8a7ee8cc3b069a1104585b08b8234cc07246c0f41137afffc808ac8e1"
+        },
+        "871172": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7053059864072362418",
+                    "size": "829623954",
+                    "download": "275526560"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18399332",
+                "timeupdated": "1746774542"
+            }
+        }
+    }
+}
