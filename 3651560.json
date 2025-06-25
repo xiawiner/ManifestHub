@@ -1,0 +1,28 @@
+{
+    "appid": 3651560,
+    "name": "Easy Bubbles",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:55:48",
+    "change_number": 29683586,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,czech,romanian,turkish,arabic,brazilian,greek,latam,vietnamese,indonesian",
+        "3651561": {
+            "manifests": {
+                "public": {
+                    "gid": "2561625861432565775",
+                    "size": "1662032293",
+                    "download": "441305280"
+                }
+            },
+            "decryptionkey": "0730c105d0684c892e9db9ad1c55ebd8b88c4bdae74a2972f0770e242e607ebd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18950826",
+                "timeupdated": "1750521192"
+            }
+        }
+    }
+}
