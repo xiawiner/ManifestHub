@@ -1,0 +1,28 @@
+{
+    "appid": 619540,
+    "name": "Darkwater",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 11:31:48",
+    "change_number": 29660842,
+    "depot": {
+        "619541": {
+            "manifests": {
+                "public": {
+                    "gid": "1579627505830843112",
+                    "size": "10781010468",
+                    "download": "3700405088"
+                }
+            },
+            "decryptionkey": "3d62f69ab132eb4e3000cf6783cb97d993c4e8c0557d86203c59e4a3bcf03ae9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18812155",
+                "timeupdated": "1749574806"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
