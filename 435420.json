@@ -1,0 +1,73 @@
+{
+    "appid": 435420,
+    "name": "Operation: Matriarchy",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:54:49",
+    "change_number": 29683343,
+    "depot": {
+        "435421": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4532409812952889882",
+                    "size": "3012255099",
+                    "download": "1183612128"
+                }
+            },
+            "decryptionkey": "180e21caf9b0640e69ae3eb2fb8e6077fb6f592b9b25de0eff82298fded954c1"
+        },
+        "435422": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4346269665464672476",
+                    "size": "3531729529",
+                    "download": "1701864720"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "435423": {
+            "config": {
+                "language": "polish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1604445489617205521",
+                    "size": "3012565476",
+                    "download": "1183915568"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "435424": {
+            "config": {
+                "language": "bulgarian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "92791680815858526",
+                    "size": "3022076915",
+                    "download": "1188489376"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,russian,polish,bulgarian",
+        "branches": {
+            "public": {
+                "buildid": "928039"
+            }
+        }
+    }
+}
