@@ -1,0 +1,39 @@
+{
+    "appid": 1997040,
+    "name": "MARVEL SNAP",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-19 09:18:17",
+    "change_number": 29640011,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,thai,japanese,brazilian,latam,vietnamese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1997041": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7745966042878023049",
+                    "size": "5367184064",
+                    "download": "5002284560"
+                }
+            },
+            "decryptionkey": "47f68d7b70bc1a054ba3ab802ab17b93d8e60c5aa51e5c4b123204acb0b97116"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18738248",
+                "timeupdated": "1749564966"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
