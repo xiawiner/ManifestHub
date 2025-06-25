@@ -1,0 +1,58 @@
+{
+    "appid": 965940,
+    "name": "Qu-tros",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 09:02:33",
+    "change_number": 29686857,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese",
+        "965941": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7357947832218309272",
+                    "size": "107308709",
+                    "download": "25347808"
+                }
+            },
+            "decryptionkey": "27623231099135f38ba10fbc483f3d3888456c88dfd7be5115e4070555c26fa4"
+        },
+        "965942": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8717982706043028410",
+                    "size": "115550220",
+                    "download": "26668848"
+                }
+            },
+            "decryptionkey": "ea7d8a2636987cb36ab8a9a2a2de1ef8dfc616157ed1cacd5af17031f2e674a2"
+        },
+        "965943": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "670934539263517809",
+                    "size": "136422154",
+                    "download": "34894880"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18954042",
+                "timeupdated": "1750569514"
+            }
+        }
+    }
+}
