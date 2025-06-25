@@ -1,0 +1,35 @@
+{
+    "appid": 3388870,
+    "name": "青鬼 ブルーベリー温泉の怪異",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:59:04",
+    "change_number": 29684722,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,indonesian",
+        "3388871": {
+            "manifests": {
+                "public": {
+                    "gid": "7301033045130910232",
+                    "size": "441796573",
+                    "download": "295267568"
+                }
+            },
+            "decryptionkey": "9ea2b45c022bc4860fa857fecc09a14c1e815f2c0fe0ace4ab6ba91da7aae96d"
+        },
+        "3388872": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18512095",
+                "timeupdated": "1747886671"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
