@@ -1,0 +1,27 @@
+{
+    "appid": 3150690,
+    "name": "Homam: An Inventor's Fist",
+    "type": "Game",
+    "schinese_name": "霍马姆：发明家的拳头",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 10:57:33",
+    "change_number": 29674728,
+    "depot": {
+        "3150691": {
+            "manifests": {
+                "public": {
+                    "gid": "8214197804008741908",
+                    "size": "177551216",
+                    "download": "87367872"
+                }
+            },
+            "decryptionkey": "564a81c1266a78ad54f7c2c35b73ff94e4f985325c62bc484409231856ee5e2c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18880637",
+                "timeupdated": "1750066995"
+            }
+        }
+    }
+}
