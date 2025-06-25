@@ -1,0 +1,42 @@
+{
+    "appid": 1804010,
+    "name": "Labyrinth Of The Demon King",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 22:38:54",
+    "change_number": 29670227,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1804011": {
+            "manifests": {
+                "public": {
+                    "gid": "2614841324276711835",
+                    "size": "3911928293",
+                    "download": "2343847152"
+                }
+            },
+            "decryptionkey": "9e2dda820fdffc53cc3820a3315777e79e7ce3789f88843cea754bca4b09a897"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18477521",
+                "timeupdated": "1747762240"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
