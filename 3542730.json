@@ -1,0 +1,38 @@
+{
+    "appid": 3542730,
+    "name": "ZDSimulator - Kyiv-Jmerinka Route",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-19 16:44:08",
+    "change_number": 29645839,
+    "depot": {
+        "3542730": {
+            "manifests": {
+                "public": {
+                    "gid": "4077922391799221478",
+                    "size": "2549268116",
+                    "download": "716416464"
+                },
+                "beta": {
+                    "gid": "2294934194787008933",
+                    "size": "2577281609",
+                    "download": "720539664"
+                }
+            },
+            "dlcappid": "3542730",
+            "decryptionkey": "2ec9177285c7ce702785ac004ecb38825a5bd33ffadc0f4da621aecf06cc362f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18664488",
+                "timeupdated": "1748888795"
+            },
+            "beta": {
+                "buildid": "18924089",
+                "description": "Beta",
+                "timeupdated": "1750322642"
+            }
+        }
+    }
+}
