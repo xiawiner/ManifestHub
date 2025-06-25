@@ -1,0 +1,42 @@
+{
+    "appid": 2012510,
+    "name": "Stormgate",
+    "type": "Game",
+    "schinese_name": "风暴之门 Stormgate",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 05:29:44",
+    "change_number": 29655067,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2012511": {
+            "manifests": {
+                "public": {
+                    "gid": "818771192815131703",
+                    "size": "16519308648",
+                    "download": "13916578128"
+                }
+            },
+            "decryptionkey": "50377f4e0ebc8c49d0f5f557620f904411b78fbab190a3d88e50c8cc3a346d10"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18353453",
+                "timeupdated": "1746567894"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
