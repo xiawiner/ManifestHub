@@ -1,0 +1,27 @@
+{
+    "appid": 1020600,
+    "name": "Extreme Truck Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 06:14:47",
+    "change_number": 29569567,
+    "depot": {
+        "1020601": {
+            "manifests": {
+                "public": {
+                    "gid": "4064052760196162883",
+                    "size": "217553072",
+                    "download": "68775744"
+                }
+            },
+            "decryptionkey": "5a7429e78a3995a10a3d320176ddf6144d9da78120196123eaa73bc5a4633fe7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3550491",
+                "timeupdated": "1549892423"
+            }
+        }
+    }
+}
