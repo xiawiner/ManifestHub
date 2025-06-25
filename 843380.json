@@ -1,0 +1,47 @@
+{
+    "appid": 843380,
+    "name": "Super Animal Royale",
+    "type": "Game",
+    "schinese_name": "超级动物大逃杀",
+    "isfreeapp": 1,
+    "update_time": "2025-06-19 18:24:58",
+    "change_number": 29647453,
+    "depot": {
+        "843381": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2854837419620011052",
+                    "size": "1732945422",
+                    "download": "474448416"
+                }
+            },
+            "decryptionkey": "a5dc19c640fcea6784742fc659400fef18e32e4e5557e6ff1af4f9a06d4db001"
+        },
+        "843382": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6232516484324963311",
+                    "size": "1703194427",
+                    "download": "467969184"
+                }
+            },
+            "decryptionkey": "249e8ffc343547924f5f047df26c24cb3ab0493370ebb0dc34beb7d92b584d19"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "17693139",
+                "timeupdated": "1743526298"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
