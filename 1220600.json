@@ -1,0 +1,43 @@
+{
+    "appid": 1220600,
+    "name": "Edengrall",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 22:35:02",
+    "change_number": 29670165,
+    "depot": {
+        "1220601": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2833213186527184488",
+                    "size": "3179031331",
+                    "download": "888699664"
+                },
+                "beta": {
+                    "gid": "6755337606832385273",
+                    "size": "3179039528",
+                    "download": "888764448"
+                }
+            },
+            "decryptionkey": "b9d1b893deb43b0fcc6b2399d002965ce4870d9749a8dddcb46b61427bda9a00"
+        },
+        "workshopdepot": "1220600",
+        "branches": {
+            "public": {
+                "buildid": "18941336",
+                "timeupdated": "1750430095"
+            },
+            "beta": {
+                "buildid": "18940808",
+                "description": "Check out features early",
+                "timeupdated": "1750427876"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
