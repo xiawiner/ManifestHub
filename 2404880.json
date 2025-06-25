@@ -1,0 +1,33 @@
+{
+    "appid": 2404880,
+    "name": "Car Dealer Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 21:50:18",
+    "change_number": 29681667,
+    "depot": {
+        "2404881": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1757354876725315810",
+                    "size": "16308262958",
+                    "download": "15616633776"
+                }
+            },
+            "decryptionkey": "dd3322cbddd81741e4bd8f3d9d08fbe6ff172e3f5c36fec42e215f6661d3ea4f"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18940666",
+                "timeupdated": "1750431251"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
