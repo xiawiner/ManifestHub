@@ -1,0 +1,28 @@
+{
+    "appid": 3543350,
+    "name": "Holoidle",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 21:34:49",
+    "change_number": 29629779,
+    "depot": {
+        "3543351": {
+            "manifests": {
+                "public": {
+                    "gid": "5703860249676455181",
+                    "size": "996956632",
+                    "download": "394322496"
+                }
+            },
+            "decryptionkey": "301fd366c497e2f376ef8973ec4fdca277ef19fe635f673af31eef6d1db21345"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18802706",
+                "timeupdated": "1749515190"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
