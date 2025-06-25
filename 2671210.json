@@ -1,0 +1,31 @@
+{
+    "appid": 2671210,
+    "name": "Minesweeper Collector 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 08:08:00",
+    "change_number": 29559841,
+    "depot": {
+        "baselanguages": "english",
+        "2671211": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5793659501677178927",
+                    "size": "157501525",
+                    "download": "49699216"
+                }
+            },
+            "decryptionkey": "6148852bff576995c650cfb291d86caef5a23bd1d05d54f0ff957639b93cc1a6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18678077",
+                "timeupdated": "1748628162"
+            }
+        }
+    }
+}
