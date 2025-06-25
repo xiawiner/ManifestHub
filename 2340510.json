@@ -1,0 +1,33 @@
+{
+    "appid": 2340510,
+    "name": "Moon's Creed",
+    "type": "Game",
+    "schinese_name": "黄道信条",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 00:15:29",
+    "change_number": 29566953,
+    "depot": {
+        "workshopdepot": "2340510",
+        "2340511": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5778883284343297810",
+                    "size": "1640678393",
+                    "download": "1222310512"
+                }
+            },
+            "decryptionkey": "6f68925b081efcf091d8028396312ae6a81cbff3b3b1450b8cdf8f3645fa895a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18866697",
+                "timeupdated": "1749900736"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
