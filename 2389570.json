@@ -1,0 +1,28 @@
+{
+    "appid": 2389570,
+    "name": "Sniper Killer",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-04 08:58:21",
+    "change_number": 29360724,
+    "depot": {
+        "2389571": {
+            "manifests": {
+                "public": {
+                    "gid": "876323625525157037",
+                    "size": "7856935308",
+                    "download": "1726596576"
+                }
+            },
+            "decryptionkey": "b13bf2bebedf915caa1d9d969b7fcd43d730af50413d962d84b6b21c31d4a1e9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16281305",
+                "timeupdated": "1730667130"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
