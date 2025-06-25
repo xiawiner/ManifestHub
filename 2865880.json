@@ -1,0 +1,58 @@
+{
+    "appid": 2865880,
+    "name": "Touhou: Fading Illusion - Destitute Chapter",
+    "type": "DLC",
+    "schinese_name": "东方凋梦录 ~ Fading illusion - 贫乏之章",
+    "isfreeapp": 0,
+    "update_time": "2025-06-01 17:42:24",
+    "change_number": 29309645,
+    "depot": {
+        "2865880": {
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "2865880",
+            "manifests": {
+                "public": {
+                    "gid": "5163659774828999150",
+                    "size": "471385130",
+                    "download": "465507408"
+                }
+            },
+            "decryptionkey": "ee2ec003bc153e02ba82d2ab3f03e1699214f353588f526843428f755502ad1d"
+        },
+        "2865881": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4969213418801986193",
+                    "size": "471385130",
+                    "download": "465507408"
+                }
+            },
+            "dlcappid": "2865880"
+        },
+        "2865882": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7844368594601393908",
+                    "size": "471385130",
+                    "download": "465507408"
+                }
+            },
+            "dlcappid": "2865880"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18691426",
+                "timeupdated": "1748770937"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
