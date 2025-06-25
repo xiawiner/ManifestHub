@@ -1,0 +1,33 @@
+{
+    "appid": 2842160,
+    "name": "Half-Life: ESCAPE 2.0",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-14 07:39:12",
+    "change_number": 29559344,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "2842161": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3560271266234744395",
+                    "size": "707293663",
+                    "download": "310029984"
+                }
+            },
+            "decryptionkey": "f50f4a1c5f7ad6215a6693bf82d66a48e188677248124d11ed3a6151f5810e55"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18612670",
+                "timeupdated": "1748273078"
+            }
+        }
+    },
+    "access_token": 17712858593115265161
+}
