@@ -1,0 +1,69 @@
+{
+    "appid": 720620,
+    "name": "TaleSpire",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 19:10:54",
+    "change_number": 29627474,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "720622": {
+            "manifests": {
+                "public": {
+                    "gid": "3185325249712907519",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "7430390fbdae2ce456327f8273bd4987f1cedeef6bcb8c75890a0a15519acc1d"
+        },
+        "720623": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "829283163489497652",
+                    "size": "4216485552",
+                    "download": "3874412448"
+                }
+            },
+            "decryptionkey": "fffc0300271cb14d251db3991723c0466bbc687791f7aaf30f77c1dd97b38e8f"
+        },
+        "720621": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5906475721040421995",
+                    "size": "4234416720",
+                    "download": "3880598496"
+                }
+            },
+            "decryptionkey": "d08d757f36b034d29142c59699b700bcd098998d1bb9aff7b251b9ca67b96d46"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18835928",
+                "timeupdated": "1749727128"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
