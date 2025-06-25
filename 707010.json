@@ -1,0 +1,62 @@
+{
+    "appid": 707010,
+    "name": "Will To Live Online",
+    "type": "Game",
+    "schinese_name": "求生意志OL",
+    "isfreeapp": 1,
+    "update_time": "2025-06-19 17:55:20",
+    "change_number": 29646926,
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,russian",
+        "hasdepotsindlc": "0",
+        "707011": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8746793544206079707",
+                    "size": "30610295509",
+                    "download": "28988319232"
+                }
+            },
+            "decryptionkey": "85557593bc9091ff25ca78d7ac5ecdd5df713724f58ee9a7e02384fe1b6630ba"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18923298",
+                "timeupdated": "1750326913"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
