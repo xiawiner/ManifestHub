@@ -1,0 +1,63 @@
+{
+    "appid": 1742930,
+    "name": "Looking Up I See Only A Ceiling",
+    "type": "Game",
+    "schinese_name": "抬头只见天花板 Looking Up I See Only A Ceiling",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 04:58:02",
+    "change_number": 29536818,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "1742932": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4135915487103598319",
+                    "size": "450757596",
+                    "download": "372405040"
+                }
+            },
+            "decryptionkey": "cc19c725cac3e7033de557fc2e9127f808e67b0b725f0d44be7ee520c475f74d"
+        },
+        "1742931": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6298890777280913256",
+                    "size": "511752278",
+                    "download": "384022480"
+                }
+            }
+        },
+        "1742933": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2496881170112104787",
+                    "size": "977717553",
+                    "download": "478574080"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18828025",
+                "timeupdated": "1749758948"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
