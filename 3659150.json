@@ -1,0 +1,42 @@
+{
+    "appid": 3659150,
+    "name": "出張2 Next Business Trip",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 08:54:41",
+    "change_number": 29570248,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3659151": {
+            "manifests": {
+                "public": {
+                    "gid": "8376842994397945899",
+                    "size": "784663081",
+                    "download": "657334864"
+                }
+            },
+            "decryptionkey": "af78fc62ad9331ea8b13192b9e5dce3f78e1c037341ae014115507be5d75e64b"
+        },
+        "baselanguages": "english,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18865861",
+                "timeupdated": "1749886603"
+            }
+        }
+    }
+}
