@@ -1,0 +1,43 @@
+{
+    "appid": 3225790,
+    "name": "Wildrise",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 10:52:53",
+    "change_number": 29529017,
+    "depot": {
+        "3225791": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3594783209378560071",
+                    "size": "1105737744",
+                    "download": "961742288"
+                }
+            },
+            "decryptionkey": "a12357c5c4118d0ac6332a002698bc28186c7177e631c64a2a3616b84a271bd6"
+        },
+        "3225792": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2240580445674948009",
+                    "size": "1185327378",
+                    "download": "972789120"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18841035",
+                "timeupdated": "1749734935"
+            }
+        }
+    }
+}
