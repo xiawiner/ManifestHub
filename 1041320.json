@@ -1,0 +1,68 @@
+{
+    "appid": 1041320,
+    "name": "Lords Mobile: Pacific Rim War",
+    "type": "Game",
+    "schinese_name": "王国纪元：环太平洋正版联动",
+    "isfreeapp": 1,
+    "update_time": "2025-06-14 13:15:38",
+    "change_number": 29562280,
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1041321": {
+            "manifests": {
+                "public": {
+                    "gid": "8862716361977269986",
+                    "size": "2169938740",
+                    "download": "568490048"
+                },
+                "beta": {
+                    "gid": "8862716361977269986",
+                    "size": "2169938740",
+                    "download": "568490048"
+                },
+                "local": {
+                    "gid": "8663262421093650754",
+                    "size": "539588309",
+                    "download": "189018784"
+                }
+            },
+            "decryptionkey": "a7ed5a46f6788ec47446eca93a16f8b3afc300bf6157c2c268bee55fc30902f1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18618273",
+                "timeupdated": "1748326296"
+            },
+            "beta": {
+                "buildid": "18618273",
+                "timeupdated": "1748309672"
+            },
+            "local": {
+                "buildid": "3663578",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1553073350"
+            }
+        }
+    }
+}
