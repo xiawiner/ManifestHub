@@ -1,0 +1,42 @@
+{
+    "appid": 385950,
+    "name": "Infection: Humanity's Last Gasp",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-31 07:35:06",
+    "change_number": 29291626,
+    "depot": {
+        "385951": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5746918139602041699",
+                    "size": "776757042",
+                    "download": "131151088"
+                }
+            },
+            "decryptionkey": "7808672b3b97b8cf52cd8c55bd041c1df57b33a06d70324c0e0572d3579bbda1"
+        },
+        "385952": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2291977206922350817",
+                    "size": "819029030",
+                    "download": "133548720"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1156483",
+                "timeupdated": "1464712869"
+            }
+        }
+    }
+}
