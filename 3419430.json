@@ -1,0 +1,28 @@
+{
+    "appid": 3419430,
+    "name": "Bongo Cat",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-22 05:59:23",
+    "change_number": 29685299,
+    "depot": {
+        "3419431": {
+            "manifests": {
+                "public": {
+                    "gid": "7928429740501695582",
+                    "size": "289882010",
+                    "download": "51507488"
+                }
+            },
+            "decryptionkey": "ad41f244684b3ba8f8462a3b365e80a6a35012eeafa998c96664f5efc1497c0f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18793077",
+                "timeupdated": "1749487085"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
