@@ -1,0 +1,29 @@
+{
+    "appid": 3136070,
+    "name": "Sportvida CyberDash",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 00:18:34",
+    "change_number": 29671835,
+    "depot": {
+        "baselanguages": "english,tchinese",
+        "3136071": {
+            "manifests": {
+                "public": {
+                    "gid": "5720956892975474975",
+                    "size": "4747246095",
+                    "download": "1062531488"
+                }
+            },
+            "decryptionkey": "5ecf24f1ce04f17c8637e417fee33c343ce41905fb65308e689650b8a3fe8fec"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18934190",
+                "timeupdated": "1750420920"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
