@@ -1,0 +1,161 @@
+{
+    "appid": 2458700,
+    "name": "Mad Miner",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 03:44:36",
+    "change_number": 29636094,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,japanese,turkish",
+        "2458701": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3767355599023379128",
+                    "size": "282107854",
+                    "download": "211029232"
+                },
+                "alpha": {
+                    "gid": "6878478312747497810",
+                    "size": "38700024",
+                    "download": "12021568"
+                },
+                "v1.0": {
+                    "gid": "6390328765975826942",
+                    "size": "96200001",
+                    "download": "64467760"
+                },
+                "v1.07": {
+                    "gid": "4759644185635334895",
+                    "size": "106648134",
+                    "download": "69035344"
+                },
+                "v1.1": {
+                    "gid": "329065044014185541",
+                    "size": "113923766",
+                    "download": "74604672"
+                },
+                "v1.2": {
+                    "gid": "310032252494429983",
+                    "size": "119683136",
+                    "download": "79137104"
+                },
+                "v1.3": {
+                    "gid": "1987698851884256127",
+                    "size": "125023636",
+                    "download": "84401376"
+                },
+                "v1.4": {
+                    "gid": "3767355599023379128",
+                    "size": "282107854",
+                    "download": "211029232"
+                }
+            },
+            "decryptionkey": "6cd261183db1b50bba7acd51179293836359ecfec8bd8b8d05f8aecc514a03eb"
+        },
+        "2458702": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8857528197439237849",
+                    "size": "286473846",
+                    "download": "211573744"
+                },
+                "alpha": {
+                    "gid": "367890944432558100",
+                    "size": "41343688",
+                    "download": "12951920"
+                },
+                "v1.0": {
+                    "gid": "5063163135150627275",
+                    "size": "101590097",
+                    "download": "65828336"
+                },
+                "v1.07": {
+                    "gid": "2330251613680165945",
+                    "size": "112038230",
+                    "download": "70396352"
+                },
+                "v1.1": {
+                    "gid": "4928796609792859714",
+                    "size": "119309830",
+                    "download": "75971760"
+                },
+                "v1.2": {
+                    "gid": "5622870856606485117",
+                    "size": "125069200",
+                    "download": "80506016"
+                },
+                "v1.3": {
+                    "gid": "1625911826883644661",
+                    "size": "130464996",
+                    "download": "85767456"
+                },
+                "v1.4": {
+                    "gid": "8857528197439237849",
+                    "size": "286473846",
+                    "download": "211573744"
+                }
+            },
+            "decryptionkey": "d87c9d5f22956630255c65e0e3ce70b1cb462ea99ed865efc924a91c3720a9c3"
+        },
+        "workshopdepot": "2458700",
+        "branches": {
+            "public": {
+                "buildid": "18838665",
+                "timeupdated": "1749723529"
+            },
+            "alpha": {
+                "buildid": "13325096",
+                "description": "Before Steam",
+                "timeupdated": "1706710633"
+            },
+            "v1.0": {
+                "buildid": "11554558",
+                "description": "Stable",
+                "timeupdated": "1687719481"
+            },
+            "v1.07": {
+                "buildid": "11991218",
+                "description": "Stable",
+                "timeupdated": "1698765566"
+            },
+            "v1.1": {
+                "buildid": "12769371",
+                "description": "Stable",
+                "timeupdated": "1700646082"
+            },
+            "v1.2": {
+                "buildid": "13485402",
+                "description": "Stable",
+                "timeupdated": "1708175488"
+            },
+            "v1.3": {
+                "buildid": "13808223",
+                "description": "Stable",
+                "timeupdated": "1711013637"
+            },
+            "v1.4": {
+                "buildid": "18838665",
+                "description": "Stable",
+                "timeupdated": "1749723539"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
