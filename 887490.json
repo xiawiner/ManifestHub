@@ -1,0 +1,37 @@
+{
+    "appid": 887490,
+    "name": "Burden of Command",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 06:10:37",
+    "change_number": 29569521,
+    "depot": {
+        "baselanguages": "english",
+        "887491": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "887492": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7350607289996553918",
+                    "size": "12715229978",
+                    "download": "10934999696"
+                }
+            },
+            "decryptionkey": "916ee0bcee2bd55d9845e33454842d93f6c9d2cecf429bdeab6650607e69e98d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18863257",
+                "timeupdated": "1749858862"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
