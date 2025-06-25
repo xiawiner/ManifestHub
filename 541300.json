@@ -1,0 +1,83 @@
+{
+    "appid": 541300,
+    "name": "Survive the Nights",
+    "type": "Game",
+    "schinese_name": "生存之夜",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:16:22",
+    "change_number": 29653184,
+    "depot": {
+        "541301": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9147263525803475405",
+                    "size": "0",
+                    "download": "0"
+                },
+                "demo": {
+                    "gid": "9147263525803475405",
+                    "size": "0",
+                    "download": "0"
+                },
+                "experimental": {
+                    "gid": "9147263525803475405",
+                    "size": "0",
+                    "download": "0"
+                }
+            }
+        },
+        "541302": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "286626968569152136",
+                    "size": "11703860552",
+                    "download": "4544356224"
+                },
+                "demo": {
+                    "gid": "7492810064901719058",
+                    "size": "16322886731",
+                    "download": "7057485264"
+                },
+                "experimental": {
+                    "gid": "286626968569152136",
+                    "size": "11703860552",
+                    "download": "4544356224"
+                }
+            },
+            "decryptionkey": "e108e3e856b5624a39650b492d6fe4fc7d5f3818db8ea9cab1c8e4560fa39f7e"
+        },
+        "541309": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            }
+        },
+        "workshopdepot": "541300",
+        "branches": {
+            "public": {
+                "buildid": "18809399",
+                "timeupdated": "1749742618"
+            },
+            "demo": {
+                "buildid": "18873837",
+                "description": "Testing the demo build",
+                "timeupdated": "1749997813"
+            },
+            "experimental": {
+                "buildid": "18809399",
+                "description": "Most up to date testing branch. In here things will be more broken than in the public branch. Expect more DB resets and a lot more bugs. Be in here if you're hunting for the newest issues.",
+                "timeupdated": "1749742305"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "896ff4574203f7469c3b05fee9977c6daa524514998849dd4406ffe2b5451465"
+    }
+}
