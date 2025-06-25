@@ -1,0 +1,45 @@
+{
+    "appid": 1015940,
+    "name": "Welcome to Elk",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-10 05:38:16",
+    "change_number": 29473792,
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,danish,brazilian",
+        "1015941": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8770442892699818060",
+                    "size": "730348488",
+                    "download": "615165200"
+                }
+            },
+            "decryptionkey": "e34b9f3ae429fb44020170a4c224d34a0b5320e1c0e5104ce1a8ce93c88e60d7"
+        },
+        "1015942": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2931696169845535129",
+                    "size": "738793502",
+                    "download": "610574192"
+                }
+            },
+            "decryptionkey": "943aeb11c108880da0b2b1ffb31ab3df51f12a1b866dd8576a2d8550a3060f85"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8294237",
+                "timeupdated": "1646178433"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
