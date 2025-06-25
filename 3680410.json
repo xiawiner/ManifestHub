@@ -1,0 +1,27 @@
+{
+    "appid": 3680410,
+    "name": "Tears of Vanfell: New Beginning",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-22 06:18:18",
+    "change_number": 29686020,
+    "depot": {
+        "3680411": {
+            "manifests": {
+                "public": {
+                    "gid": "3062370677906762886",
+                    "size": "532369420",
+                    "download": "427762128"
+                }
+            },
+            "decryptionkey": "ec2f9558cecfdaa198c616df4bbd521969e751012a01589990d06de1d391d001"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18945352",
+                "timeupdated": "1750457033"
+            }
+        }
+    }
+}
