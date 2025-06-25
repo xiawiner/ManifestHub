@@ -1,0 +1,160 @@
+{
+    "appid": 552500,
+    "name": "Warhammer: Vermintide 2",
+    "type": "Game",
+    "schinese_name": "战锤：末世鼠疫2",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 20:20:24",
+    "change_number": 29604988,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,polish,brazilian",
+        "workshopdepot": "552500",
+        "hasdepotsindlc": "1",
+        "552501": {
+            "manifests": {
+                "public": {
+                    "gid": "8557175706894570494",
+                    "size": "67454969217",
+                    "download": "42104847200"
+                },
+                "temporary_launcher_workaround": {
+                    "gid": "8557175706894570494",
+                    "size": "67454969217",
+                    "download": "42104847200"
+                }
+            },
+            "decryptionkey": "a7a75811b296249cb955e09881a66f2d253d083995ab0a749c6448e5ee6beee2"
+        },
+        "552502": {
+            "manifests": {
+                "public": {
+                    "gid": "4642656104001527764",
+                    "size": "114460552",
+                    "download": "62529040"
+                },
+                "temporary_launcher_workaround": {
+                    "gid": "4642656104001527764",
+                    "size": "114460552",
+                    "download": "62529040"
+                }
+            },
+            "decryptionkey": "dda8511217a15f192cf48148ee19fc6176fd0d432342131bcb39a6187d16bc22"
+        },
+        "552503": {
+            "manifests": {
+                "public": {
+                    "gid": "4982309000004089357",
+                    "size": "272074101",
+                    "download": "68229840"
+                },
+                "temporary_launcher_workaround": {
+                    "gid": "4982309000004089357",
+                    "size": "272074101",
+                    "download": "68229840"
+                }
+            },
+            "decryptionkey": "dedd3fd14201a662940967a122b5f016d671e484a6b5e916669062f82007426a"
+        },
+        "552504": {
+            "manifests": {
+                "public": {
+                    "gid": "1948786653051546473",
+                    "size": "318641577",
+                    "download": "75529776"
+                },
+                "temporary_launcher_workaround": {
+                    "gid": "1948786653051546473",
+                    "size": "318641577",
+                    "download": "75529776"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "552505": {},
+        "737040": {
+            "dlcappid": "737040",
+            "manifests": {
+                "public": {
+                    "gid": "8568200941940119519",
+                    "size": "2779916516",
+                    "download": "2528584576"
+                },
+                "temporary_launcher_workaround": {
+                    "gid": "8568200941940119519",
+                    "size": "2779916516",
+                    "download": "2528584576"
+                }
+            },
+            "decryptionkey": "e0bb967ef64ac01918a6d98f7a1a7967925a7c34455bc35fe9c7e2ef0e9b1840"
+        },
+        "878550": {
+            "dlcappid": "878550",
+            "config": {
+                "optionaldlc": "878550"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18643134",
+                "timeupdated": "1748441413"
+            },
+            "temporary_launcher_workaround": {
+                "buildid": "18643127",
+                "description": "Bypass Launcher",
+                "timeupdated": "1748441371"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1",
+        "workshopdepotdecryptionkey": "1826b2a614f6f7cc91260278470651bbf674e69c2cb9a45349d387b89698d61d"
+    }
+}
