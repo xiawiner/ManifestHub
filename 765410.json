@@ -1,0 +1,30 @@
+{
+    "appid": 765410,
+    "name": "Bean Battles",
+    "type": "Game",
+    "schinese_name": "豆豆争霸",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 11:14:19",
+    "change_number": 29678709,
+    "depot": {
+        "765411": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7306461839912159866",
+                    "size": "1425075704",
+                    "download": "388955376"
+                }
+            },
+            "decryptionkey": "34f46b60e1d363714a7ca131730300636daa171b92978307ba8821dbddf9eafc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16946206",
+                "timeupdated": "1736387604"
+            }
+        }
+    }
+}
