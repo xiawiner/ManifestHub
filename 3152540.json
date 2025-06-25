@@ -1,0 +1,29 @@
+{
+    "appid": 3152540,
+    "name": "Hydroponics Farm & Store Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-12 08:08:43",
+    "change_number": 29517991,
+    "depot": {
+        "3152541": {
+            "manifests": {
+                "public": {
+                    "gid": "3527634484164483",
+                    "size": "2632287473",
+                    "download": "809130624"
+                }
+            },
+            "decryptionkey": "908fc9d312414097b4bc6a0636fd34b8c86607b121a294a1c0ce21c37c0ad1ea"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,dutch,hungarian,turkish,brazilian,ukrainian,indonesian",
+        "branches": {
+            "public": {
+                "buildid": "18611750",
+                "timeupdated": "1748523455"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
