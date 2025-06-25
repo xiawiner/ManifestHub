@@ -1,0 +1,28 @@
+{
+    "appid": 3689680,
+    "name": "奥术轮回 Arcane Eternity",
+    "type": "Game",
+    "schinese_name": "奥术轮回",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 21:15:25",
+    "change_number": 29574245,
+    "depot": {
+        "baselanguages": "english,schinese,japanese",
+        "3689681": {
+            "manifests": {
+                "public": {
+                    "gid": "6964427612883014153",
+                    "size": "780575159",
+                    "download": "144026368"
+                }
+            },
+            "decryptionkey": "ba1ad0acd118344126c47e1880d6cd9332398989a1b9937e6f67ffd6ad90adf8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18783763",
+                "timeupdated": "1749380103"
+            }
+        }
+    }
+}
