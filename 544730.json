@@ -1,0 +1,45 @@
+{
+    "appid": 544730,
+    "name": "Catan Universe",
+    "type": "Game",
+    "schinese_name": "卡坦岛",
+    "isfreeapp": 1,
+    "update_time": "2025-06-06 18:41:58",
+    "change_number": 29415879,
+    "depot": {
+        "baselanguages": "english,german,french,spanish,dutch",
+        "544731": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5164333926442975905",
+                    "size": "920444478",
+                    "download": "424941504"
+                }
+            },
+            "decryptionkey": "6c9052efca71f4aa72e432331d286b60e39116f28e0e2aec4f20977734986385"
+        },
+        "544732": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1701183142011426386",
+                    "size": "954742797",
+                    "download": "435420096"
+                }
+            },
+            "decryptionkey": "8a0f1e7436ca2643faff46457e4fc2d33039fbe42a7cc4859385cb96f7cceb46"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17974352",
+                "timeupdated": "1744631971"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
