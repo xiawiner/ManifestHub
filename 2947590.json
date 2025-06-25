@@ -1,0 +1,93 @@
+{
+    "appid": 2947590,
+    "name": "Deep Desktop",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 03:57:15",
+    "change_number": 29588861,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2947591": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2599600370238812785",
+                    "size": "360493189",
+                    "download": "204984000"
+                },
+                "beta": {
+                    "gid": "2599600370238812785",
+                    "size": "360493189",
+                    "download": "204984000"
+                },
+                "beta-install-cache": {
+                    "gid": "2599600370238812785",
+                    "size": "360493189",
+                    "download": "204984000"
+                },
+                "1.1.0": {
+                    "gid": "8071513948133557547",
+                    "size": "351574309",
+                    "download": "200055232"
+                },
+                "1.0.4-lookingglass": {
+                    "gid": "8812027921855759767",
+                    "size": "268001707",
+                    "download": "126095440"
+                }
+            },
+            "decryptionkey": "4cc8708a9b2e69c89afe0002913a8057aab15f719417a4e9b48b423eb77cb873"
+        },
+        "2947592": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "beta-install-cache": {
+                    "gid": "6389515152693854141",
+                    "size": "12900507380",
+                    "download": "6472641232"
+                }
+            },
+            "decryptionkey": "995893f9afd36fd7c26b8da3ae5de68b1b0cb88c2b850eb3ba6f994444187a6c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18858567",
+                "timeupdated": "1749830511"
+            },
+            "beta": {
+                "buildid": "18858567",
+                "description": "Beta branch",
+                "timeupdated": "1749832077"
+            },
+            "beta-install-cache": {
+                "buildid": "18858906",
+                "description": "Beta branch with install cache",
+                "timeupdated": "1749832085"
+            },
+            "1.1.0": {
+                "buildid": "15880915",
+                "description": "Version 1.1.0",
+                "timeupdated": "1737972869"
+            },
+            "1.0.4-lookingglass": {
+                "buildid": "15465849",
+                "description": "Version 1.0.4 for Looking Glass",
+                "timeupdated": "1724371206"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
