@@ -1,0 +1,32 @@
+{
+    "appid": 2267630,
+    "name": "Ternion",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 21:53:33",
+    "change_number": 29681339,
+    "depot": {
+        "baselanguages": "english,italian",
+        "2267631": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1244370294542864228",
+                    "size": "6095725956",
+                    "download": "2195141136"
+                }
+            },
+            "decryptionkey": "0b0c8a444b305b6de29d3b8919a0be46d7b31fe1ab6233111eb5e918e90ff9e0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18943263",
+                "timeupdated": "1750442085"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
