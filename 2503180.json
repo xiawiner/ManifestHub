@@ -1,0 +1,58 @@
+{
+    "appid": 2503180,
+    "name": "Run From Mummies",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-20 06:43:39",
+    "change_number": 29070899,
+    "depot": {
+        "2503181": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8422581876412857306",
+                    "size": "3872672571",
+                    "download": "1030764736"
+                }
+            },
+            "decryptionkey": "3fa0972452b5ecbaa76c0e39c438a082825f0e0b295df9bd5d052c262b17d02a"
+        },
+        "2503182": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7894607487891646689",
+                    "size": "3897930937",
+                    "download": "1039156592"
+                }
+            }
+        },
+        "2503183": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1709529263389301451",
+                    "size": "3879760650",
+                    "download": "1032268016"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "16666260",
+                "timeupdated": "1733574412"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
