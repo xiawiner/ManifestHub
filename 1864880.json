@@ -1,0 +1,38 @@
+{
+    "appid": 1864880,
+    "name": "Roman Triumph: Survival City Builder",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:59:35",
+    "change_number": 29684941,
+    "depot": {
+        "1864881": {
+            "manifests": {
+                "public": {
+                    "gid": "1082634707806916943",
+                    "size": "5130369529",
+                    "download": "2429283264"
+                },
+                "experimental": {
+                    "gid": "672016848927351915",
+                    "size": "4760644905",
+                    "download": "2358473776"
+                }
+            },
+            "decryptionkey": "d28e6e4ef6e0ea3e64e4fcf6b30932ee4ccbbfbfee4b66d0c8c85f47f1979e74"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18727388",
+                "timeupdated": "1749005030"
+            },
+            "experimental": {
+                "buildid": "18953882",
+                "description": "Experimental branch",
+                "timeupdated": "1750566979"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
