@@ -1,0 +1,58 @@
+{
+    "appid": 2871440,
+    "name": "Squeakross: Home Squeak Home",
+    "type": "Game",
+    "schinese_name": "鼠织小家",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 05:29:04",
+    "change_number": 29637424,
+    "depot": {
+        "2871441": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4367150002055797177",
+                    "size": "578579643",
+                    "download": "280690192"
+                },
+                "public_preview": {
+                    "gid": "536017635656830501",
+                    "size": "578420827",
+                    "download": "280536208"
+                }
+            },
+            "decryptionkey": "177789be0d1f54d2f49a562e606e04c2acf3cf092ed1938a3ce20f70f36254a6"
+        },
+        "2871442": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3748512712936127671",
+                    "size": "685266702",
+                    "download": "306633072"
+                },
+                "public_preview": {
+                    "gid": "3748512712936127671",
+                    "size": "685266702",
+                    "download": "306633072"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18875671",
+                "timeupdated": "1750021834"
+            },
+            "public_preview": {
+                "buildid": "18918173",
+                "description": "Preview builds",
+                "timeupdated": "1750282141"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
