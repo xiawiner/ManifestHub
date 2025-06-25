@@ -1,0 +1,44 @@
+{
+    "appid": 2516150,
+    "name": "CodeRED911",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 21:57:49",
+    "change_number": 29682541,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2516151": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4578762661109261849",
+                    "size": "18946963121",
+                    "download": "18222112832"
+                }
+            },
+            "decryptionkey": "cc959c48da314f372fca05948f61c0922015aa109d86e8eefd42350cb75d43dd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18950044",
+                "timeupdated": "1750511952"
+            }
+        }
+    }
+}
