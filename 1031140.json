@@ -1,0 +1,44 @@
+{
+    "appid": 1031140,
+    "name": "Warhammer Horus Heresy: Legions",
+    "type": "Game",
+    "schinese_name": "战锤 — 霍拉斯叛乱：军团",
+    "isfreeapp": 1,
+    "update_time": "2025-06-17 17:50:21",
+    "change_number": 29605196,
+    "depot": {
+        "1031141": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5594782751420597439",
+                    "size": "457968449",
+                    "download": "153810752"
+                }
+            },
+            "decryptionkey": "8d89873705504eddc8005dbbd2be1b80b924c00facc0b22b50d9d6806322e4e1"
+        },
+        "1031142": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1560803053399174522",
+                    "size": "647076538",
+                    "download": "171168864"
+                }
+            },
+            "decryptionkey": "6ac3ef89142913d63db869672977bdbb9179e227f1562668104fdcbc3a521b43"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18895303",
+                "timeupdated": "1750153814"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
