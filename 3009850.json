@@ -1,0 +1,29 @@
+{
+    "appid": 3009850,
+    "name": "Hard Time III",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-24 01:34:50",
+    "change_number": 29149652,
+    "depot": {
+        "3009851": {
+            "manifests": {
+                "public": {
+                    "gid": "581994381554443964",
+                    "size": "520703186",
+                    "download": "227398880"
+                }
+            },
+            "decryptionkey": "e92020d15750f186520ea5132e8c28e25b77f4d583725fc957e734ab28503e12"
+        },
+        "workshopdepot": "3009850",
+        "branches": {
+            "public": {
+                "buildid": "18581936",
+                "timeupdated": "1748003294"
+            }
+        },
+        "workshopdepotdecryptionkey": "9fdd8cb4b86c7cc5c3e572479c6d1a0275b0e5ae7901fcba8d3026389f9be9cc"
+    }
+}
