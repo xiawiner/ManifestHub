@@ -1,0 +1,50 @@
+{
+    "appid": 2472770,
+    "name": "Automate It",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 20:15:53",
+    "change_number": 29573894,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2472771": {
+            "manifests": {
+                "public": {
+                    "gid": "5261047688437262185",
+                    "size": "5870570144",
+                    "download": "5668783632"
+                }
+            },
+            "decryptionkey": "c985ef11facb043b5d929bee162fb609acc94e25179865354889080f7cb952ac"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18817437",
+                "timeupdated": "1749601529"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
