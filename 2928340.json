@@ -1,0 +1,30 @@
+{
+    "appid": 2928340,
+    "name": "Holy Clash Cards",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 08:39:42",
+    "change_number": 29598350,
+    "depot": {
+        "2928341": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5905907992957214552",
+                    "size": "978396624",
+                    "download": "375422384"
+                }
+            },
+            "decryptionkey": "F47F00518D6A01CDC41559A295E48EFD9EB23EEA05DB379AFB81C0B88684E850"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16724782",
+                "timeupdated": "1734024934"
+            }
+        }
+    }
+}
