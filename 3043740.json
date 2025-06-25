@@ -1,0 +1,37 @@
+{
+    "appid": 3043740,
+    "name": "Calculate It",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 06:08:17",
+    "change_number": 29611485,
+    "depot": {
+        "3043741": {
+            "manifests": {
+                "public": {
+                    "gid": "6857194708654794487",
+                    "size": "275944853",
+                    "download": "111468976"
+                },
+                "beta": {
+                    "gid": "6857194708654794487",
+                    "size": "275944853",
+                    "download": "111468976"
+                }
+            },
+            "decryptionkey": "dc9904d451a767bb28a0f1e19500c127bec5da7b99512b21b4ecf6b9da0fcdff"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18538140",
+                "timeupdated": "1750174978"
+            },
+            "beta": {
+                "buildid": "18538140",
+                "description": "Beta branch",
+                "timeupdated": "1747765847"
+            }
+        }
+    }
+}
