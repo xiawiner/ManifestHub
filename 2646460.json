@@ -1,0 +1,63 @@
+{
+    "appid": 2646460,
+    "name": "Soulmask",
+    "type": "Game",
+    "schinese_name": "灵魂面甲(Soulmask)",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 11:47:50",
+    "change_number": 29660975,
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,portuguese",
+        "workshopdepot": "2646460",
+        "hasdepotsindlc": "0",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2646461": {
+            "manifests": {
+                "public": {
+                    "gid": "5647278441257467417",
+                    "size": "11027114586",
+                    "download": "10677481472"
+                }
+            },
+            "decryptionkey": "b888b7fdf975bfc80d87df6beb2c5d56ada854d2adb6537fce281905a5d74d2a"
+        },
+        "3336600": {
+            "dlcappid": "3336600"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18922961",
+                "timeupdated": "1750316659"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "b23ed007512964e7e8555f41e6bb10b5e69ea21eb12bbb01e396db6520b78d59"
+    }
+}
