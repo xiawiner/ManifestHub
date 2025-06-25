@@ -1,0 +1,31 @@
+{
+    "appid": 2623430,
+    "name": "Dracoslayer",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-19 15:01:20",
+    "change_number": 29056545,
+    "depot": {
+        "2623431": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1889804996753491784",
+                    "size": "474421936",
+                    "download": "377390384"
+                }
+            },
+            "decryptionkey": "2be930ba4a168ab039f853aaf729c48c72f8ac3f3a132a19c9c0e2f52decaea7"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18514000",
+                "timeupdated": "1747638076"
+            }
+        }
+    }
+}
