@@ -1,0 +1,55 @@
+{
+    "appid": 1809530,
+    "name": "Renryuu: Ascension",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-11 22:38:27",
+    "change_number": 29506638,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1809531": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4028706647105471428",
+                    "size": "2434802728",
+                    "download": "2007128464"
+                }
+            },
+            "decryptionkey": "c9ece1f7b875917d59c400789aa63d0e1eb1fe393357ad528bb1ddc403fab651"
+        },
+        "1809532": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6767866922099286127",
+                    "size": "2779735777",
+                    "download": "2013473200"
+                }
+            }
+        },
+        "1809533": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8502012855543829099",
+                    "size": "2477637117",
+                    "download": "2009245024"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18824249",
+                "timeupdated": "1749642301"
+            }
+        }
+    }
+}
