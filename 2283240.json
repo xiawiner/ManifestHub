@@ -1,0 +1,30 @@
+{
+    "appid": 2283240,
+    "name": "Ultimate Flight Simulator Pro",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-09 18:22:07",
+    "change_number": 29459915,
+    "depot": {
+        "2283241": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4998281147283698784",
+                    "size": "855615389",
+                    "download": "584175792"
+                }
+            },
+            "decryptionkey": "d4267e6917c358630ced3b5ea8e30bfc12885c30970fcab928c835fe78baa89d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10316751",
+                "timeupdated": "1673622650"
+            }
+        }
+    }
+}
