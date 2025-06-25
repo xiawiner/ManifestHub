@@ -1,0 +1,27 @@
+{
+    "appid": 3732040,
+    "name": "Spacefighter Rukia 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-10 14:19:43",
+    "change_number": 29479930,
+    "depot": {
+        "3732041": {
+            "manifests": {
+                "public": {
+                    "gid": "5540857053926809959",
+                    "size": "1666472487",
+                    "download": "366328736"
+                }
+            },
+            "decryptionkey": "b796cbbe5f6c8678d1b8ccd6ef624cec644650b6d47014cce9fb7e88d46158ce"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18458153",
+                "timeupdated": "1747216789"
+            }
+        }
+    }
+}
