@@ -1,0 +1,54 @@
+{
+    "appid": 3739370,
+    "name": "They Came for More Pasta",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 22:52:25",
+    "change_number": 29670508,
+    "depot": {
+        "3739371": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "491227388741214946",
+                    "size": "288314369",
+                    "download": "91452272"
+                }
+            },
+            "decryptionkey": "90aae11b29510a43cc048c522bb28cb388a44be42fa1422d633de5c32a5b5831"
+        },
+        "3739372": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2847207857657389214",
+                    "size": "303141529",
+                    "download": "99178448"
+                }
+            }
+        },
+        "3739373": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4087393159015554364",
+                    "size": "285026803",
+                    "download": "89638800"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18941335",
+                "timeupdated": "1750430302"
+            }
+        }
+    }
+}
