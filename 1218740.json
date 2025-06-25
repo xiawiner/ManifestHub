@@ -1,0 +1,47 @@
+{
+    "appid": 1218740,
+    "name": "Rakion Chaos Force",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-18 13:02:21",
+    "change_number": 29621956,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,latam",
+        "1218741": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4969165529159512224",
+                    "size": "1648858072",
+                    "download": "1622143872"
+                }
+            },
+            "decryptionkey": "bd1ee7704b8d66be23b6d23ac35eb07a46b5f01de67e0a289d82d0bf053a57ce"
+        },
+        "1218742": {
+            "config": {
+                "language": "latam",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3129549080402189514",
+                    "size": "1652842680",
+                    "download": "1626293776"
+                }
+            },
+            "decryptionkey": "f26ba8f5e7b2c8a21c886146a343542d80fb0036dc2f9faa4e03961aa5ae2100"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18905751",
+                "timeupdated": "1750222937"
+            }
+        }
+    }
+}
