@@ -1,0 +1,126 @@
+{
+    "appid": 1708150,
+    "name": "Juice Galaxy",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 05:24:26",
+    "change_number": 29569227,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "1708151": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4151425090436075706",
+                    "size": "306106860",
+                    "download": "174291712"
+                },
+                "local": {
+                    "gid": "971997442750733619",
+                    "size": "293068783",
+                    "download": "163661136"
+                },
+                "beta": {
+                    "gid": "4151425090436075706",
+                    "size": "306106860",
+                    "download": "174291712"
+                }
+            },
+            "decryptionkey": "350e0a3bacd9f9a558fb952336912411ebc1dd3ea4e13cbc54ffd50c3805e7dd"
+        },
+        "1708152": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7761578125237334633",
+                    "size": "297675244",
+                    "download": "171726880"
+                },
+                "beta": {
+                    "gid": "7761578125237334633",
+                    "size": "297675244",
+                    "download": "171726880"
+                }
+            },
+            "decryptionkey": "a416649c4590909ce21411bbcd5f73de11da733340669e152b74afe1d29c3c34"
+        },
+        "1708153": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6840639227040384389",
+                    "size": "319592387",
+                    "download": "178983040"
+                },
+                "beta": {
+                    "gid": "6840639227040384389",
+                    "size": "319592387",
+                    "download": "178983040"
+                }
+            },
+            "decryptionkey": "4dcaaabed510cd6e63b04067324896dc8713d7da881cf453e3c99c4a43952f9d"
+        },
+        "1708154": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4302660874612701238",
+                    "size": "300865934",
+                    "download": "172945296"
+                },
+                "beta": {
+                    "gid": "4302660874612701238",
+                    "size": "300865934",
+                    "download": "172945296"
+                }
+            },
+            "decryptionkey": "995798dc31b8d22a5405ecef2a8ccb4ad415514fc8b869d9a438e1f1e9acd54c"
+        },
+        "2608730": {
+            "dlcappid": "2608730",
+            "manifests": {
+                "public": {
+                    "gid": "5784488609533887109",
+                    "size": "247615729",
+                    "download": "239538608"
+                },
+                "beta": {
+                    "gid": "5784488609533887109",
+                    "size": "247615729",
+                    "download": "239538608"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18869683",
+                "timeupdated": "1749936263"
+            },
+            "local": {
+                "buildid": "11769285",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1690148344"
+            },
+            "beta": {
+                "buildid": "18869683",
+                "description": "beta",
+                "timeupdated": "1749933461"
+            }
+        }
+    }
+}
