@@ -1,0 +1,57 @@
+{
+    "appid": 3201530,
+    "name": "巴哈姆特1-REMAKE",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-29 18:54:47",
+    "change_number": 29257953,
+    "depot": {
+        "3201531": {
+            "config": {
+                "language": "tchinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5553677226769871153",
+                    "size": "2366014560",
+                    "download": "2056821680"
+                }
+            },
+            "decryptionkey": "1c4cc15a9a68c5537fd1664584221c97218cbeb6e6de332e78230c22bfe48564"
+        },
+        "3201532": {
+            "config": {
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "745731751672154366",
+                    "size": "2366201457",
+                    "download": "2056776128"
+                }
+            },
+            "decryptionkey": "0c21277054bb723c6770cf1cf9f04ac0ec79b9d23e9d8d3e8f31b41e163a7a53"
+        },
+        "3201533": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "167572876286335922",
+                    "size": "2381982587",
+                    "download": "2056794960"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,schinese,tchinese",
+        "branches": {
+            "public": {
+                "buildid": "18657015",
+                "timeupdated": "1748516083"
+            }
+        }
+    }
+}
