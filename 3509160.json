@@ -1,0 +1,53 @@
+{
+    "appid": 3509160,
+    "name": "BAIONLENJA",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 04:18:15",
+    "change_number": 29675109,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3509161": {
+            "manifests": {
+                "public": {
+                    "gid": "5844259010103392529",
+                    "size": "837743780",
+                    "download": "679112720"
+                },
+                "testbranch": {
+                    "gid": "5844259010103392529",
+                    "size": "837743780",
+                    "download": "679112720"
+                }
+            },
+            "decryptionkey": "d04216ceb0f5b366310ff0d5ddbef46abd6d08717284112dd390a7a1e1dbae60"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18941376",
+                "timeupdated": "1750431190"
+            },
+            "testbranch": {
+                "buildid": "18941376",
+                "description": "For Testing Stuff",
+                "timeupdated": "1750430318"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
