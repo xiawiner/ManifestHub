@@ -1,0 +1,48 @@
+{
+    "appid": 3561640,
+    "name": "SHARP FISTS",
+    "type": "Game",
+    "schinese_name": "拳锋",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 21:29:56",
+    "change_number": 29629708,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,arabic,indonesian",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3561641": {
+            "manifests": {
+                "public": {
+                    "gid": "4685031764569443480",
+                    "size": "3112512559",
+                    "download": "2895429360"
+                }
+            },
+            "decryptionkey": "3d5c781c01ef5935baa587cb1b89c9c0dafee378a0fff3ff502a8e5ae561594a"
+        },
+        "3561642": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18894881",
+                "timeupdated": "1750151604"
+            }
+        }
+    }
+}
