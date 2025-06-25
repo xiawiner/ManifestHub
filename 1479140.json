@@ -1,0 +1,44 @@
+{
+    "appid": 1479140,
+    "name": "AK-xolotl: Together",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 12:06:09",
+    "change_number": 29661151,
+    "depot": {
+        "1479141": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5193707099127851534",
+                    "size": "640324372",
+                    "download": "431331360"
+                }
+            },
+            "decryptionkey": "a9fb539d8f51721164cf77f8eae5920f78569a47156b69a61f7aa1435f1f2343"
+        },
+        "1479142": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5784773614579650359",
+                    "size": "722644503",
+                    "download": "443966832"
+                }
+            },
+            "decryptionkey": "5aa484edabfed4cb8071959c5d5b56a1d3d3bb2e0b0560329518e9e4a895e1bb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18827726",
+                "timeupdated": "1749657521"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
