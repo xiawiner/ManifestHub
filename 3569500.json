@@ -1,0 +1,82 @@
+{
+    "appid": 3569500,
+    "name": "Card Shop Simulator Multiplayer",
+    "type": "Game",
+    "schinese_name": "卡牌店模拟器 多人联机版",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:55:25",
+    "change_number": 29685688,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3569501": {
+            "manifests": {
+                "public": {
+                    "gid": "1277178777527440051",
+                    "size": "2635136211",
+                    "download": "2421418464"
+                },
+                "nodlss": {
+                    "gid": "3052838765028241549",
+                    "size": "2648424123",
+                    "download": "2418327200"
+                },
+                "v0.032": {
+                    "gid": "4560620671033904105",
+                    "size": "2586487790",
+                    "download": "2372654240"
+                },
+                "v0.033": {
+                    "gid": "5478720624588166608",
+                    "size": "2737924227",
+                    "download": "2439248656"
+                },
+                "v0.034": {
+                    "gid": "1277178777527440051",
+                    "size": "2635136211",
+                    "download": "2421418464"
+                }
+            },
+            "decryptionkey": "a4b2f02fea15a8275b5d46d70727d80a505dca76ebbda765687007c9be7065f3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18950716",
+                "timeupdated": "1750529114"
+            },
+            "nodlss": {
+                "buildid": "18936893",
+                "description": "nodlss-TestV0.033",
+                "timeupdated": "1750405419"
+            },
+            "v0.032": {
+                "buildid": "18924032",
+                "description": "V0.032",
+                "timeupdated": "1750465900"
+            },
+            "v0.033": {
+                "buildid": "18938613",
+                "description": "v0.033",
+                "timeupdated": "1750529081"
+            },
+            "v0.034": {
+                "buildid": "18950716",
+                "description": "V0.034",
+                "timeupdated": "1750519651"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
