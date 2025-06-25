@@ -1,0 +1,28 @@
+{
+    "appid": 389430,
+    "name": "Knight Online",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-19 11:05:25",
+    "change_number": 29641184,
+    "depot": {
+        "389431": {
+            "manifests": {
+                "public": {
+                    "gid": "1652928774077182704",
+                    "size": "2981908610",
+                    "download": "1091860640"
+                }
+            },
+            "decryptionkey": "45c96106d80d3b981b64b86862a4fe039fc14ffe4bfcb07f074b688b75bfc347"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18921104",
+                "timeupdated": "1750302320"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
