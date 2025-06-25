@@ -1,0 +1,31 @@
+{
+    "appid": 3158270,
+    "name": "Football Life Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 03:02:32",
+    "change_number": 29674287,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "3158271": {
+            "manifests": {
+                "public": {
+                    "gid": "6999229062578287924",
+                    "size": "7795619708",
+                    "download": "2568393696"
+                }
+            },
+            "decryptionkey": "ac1bf1ba8de713dc13d490e06bb72281575f7214229629432aabe5bd27fc85f2"
+        },
+        "workshopdepot": "3158270",
+        "branches": {
+            "public": {
+                "buildid": "18704636",
+                "timeupdated": "1748881731"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
