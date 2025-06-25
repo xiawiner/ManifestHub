@@ -1,0 +1,37 @@
+{
+    "appid": 3239250,
+    "name": "Clover Reset",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:30:57",
+    "change_number": 29655654,
+    "depot": {
+        "3239251": {
+            "manifests": {
+                "public": {
+                    "gid": "8466966938983823245",
+                    "size": "2570478299",
+                    "download": "1607281488"
+                }
+            },
+            "decryptionkey": "05d0bb6a3326ce8a6fd1decafdace1dfc4ae5ab8555020c3762a3d4d379b6d61"
+        },
+        "3239252": {
+            "manifests": {
+                "public": {
+                    "gid": "4504200583405921479",
+                    "size": "4488646588",
+                    "download": "2650831120"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18840981",
+                "timeupdated": "1749734752"
+            }
+        }
+    }
+}
