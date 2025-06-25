@@ -1,0 +1,46 @@
+{
+    "appid": 2342030,
+    "name": "Military Tanks - Tank Games",
+    "type": "Game",
+    "schinese_name": "军用坦克 - 坦克模拟器 (Military Tanks)",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 05:18:07",
+    "change_number": 29650601,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,dutch,vietnamese",
+        "2342031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7834543031022741185",
+                    "size": "2538972616",
+                    "download": "2084852928"
+                }
+            },
+            "decryptionkey": "77827acb77330e8df7c918d66abe8f654daa9cdbb087d28055e118fe181ecd1d"
+        },
+        "2342032": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3995080581110272391",
+                    "size": "2672052775",
+                    "download": "2094965840"
+                }
+            },
+            "decryptionkey": "02dfcf6d842039d2a8ba2de9ab73e15a139233a305d00f3da91af3d594a47f8a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18897397",
+                "timeupdated": "1750341538"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
