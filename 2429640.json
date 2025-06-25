@@ -1,0 +1,42 @@
+{
+    "appid": 2429640,
+    "name": "THRONE AND LIBERTY",
+    "type": "Game",
+    "schinese_name": "王权与自由",
+    "isfreeapp": 1,
+    "update_time": "2025-06-14 13:50:25",
+    "change_number": 29562518,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2429641": {
+            "manifests": {
+                "public": {
+                    "gid": "6594677294802877699",
+                    "size": "110438312347",
+                    "download": "98628017504"
+                }
+            },
+            "decryptionkey": "6051e96a5f7110e0d5d05b21a62e68943aa2048e0e243705f53272127fc25314"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18862587",
+                "timeupdated": "1749880220"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
