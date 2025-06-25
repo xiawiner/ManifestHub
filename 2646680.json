@@ -1,0 +1,48 @@
+{
+    "appid": 2646680,
+    "name": "This Grand Life 2 Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-12 07:06:21",
+    "change_number": 29517287,
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2646681": {
+            "manifests": {
+                "public": {
+                    "gid": "3181771842318601145",
+                    "size": "177480408",
+                    "download": "141428640"
+                }
+            },
+            "decryptionkey": "7b842225de958c9ce895939ea955015e3b7392ed59e1ffdbb48701942b01f0cb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18832205",
+                "timeupdated": "1749683170"
+            }
+        }
+    }
+}
