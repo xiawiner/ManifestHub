@@ -1,0 +1,28 @@
+{
+    "appid": 1350720,
+    "name": "PaperKlay",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 20:04:14",
+    "change_number": 29573828,
+    "depot": {
+        "1350721": {
+            "manifests": {
+                "public": {
+                    "gid": "3941417551690220927",
+                    "size": "3659570722",
+                    "download": "1016515184"
+                }
+            },
+            "decryptionkey": "c39daa8021487fbcb4d542fccb506af3e1f4f004312fbf51cbdd8163faeb5e99"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18866618",
+                "timeupdated": "1749897264"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
