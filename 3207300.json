@@ -1,0 +1,28 @@
+{
+    "appid": 3207300,
+    "name": "Office After Hours",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 18:22:23",
+    "change_number": 29626733,
+    "depot": {
+        "3207301": {
+            "manifests": {
+                "public": {
+                    "gid": "1583402241979064124",
+                    "size": "3827937810",
+                    "download": "1586642496"
+                }
+            },
+            "decryptionkey": "cd723cc3c8b3cacba2d56e22b5ace0ee974d035085b2569b1c6cccf3c91c1c6c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18901568",
+                "timeupdated": "1750185878"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
