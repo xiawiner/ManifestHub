@@ -1,0 +1,31 @@
+{
+    "appid": 2373440,
+    "name": "Miners Settlement",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-05 20:46:27",
+    "change_number": 29395259,
+    "depot": {
+        "2373441": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6598314650461261251",
+                    "size": "347278370",
+                    "download": "85163696"
+                }
+            },
+            "decryptionkey": "3c255a18d4c513f7c409a6fa2a322a09ae4d955f1c8a17aa293d875446252578"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18750574",
+                "timeupdated": "1749127580"
+            }
+        }
+    }
+}
