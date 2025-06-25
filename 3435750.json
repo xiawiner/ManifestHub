@@ -1,0 +1,30 @@
+{
+    "appid": 3435750,
+    "name": "SNAREWAVES' SHOOTING CHALLENGE",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-21 02:30:01",
+    "change_number": 29088420,
+    "depot": {
+        "3435751": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2482041317431354700",
+                    "size": "88737556",
+                    "download": "77757872"
+                }
+            },
+            "decryptionkey": "d59dc6f2a1144e5e56f27f1b73cc3bb698340e5f0355b57f68ff2fb164e3bff7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18538115",
+                "timeupdated": "1747765796"
+            }
+        }
+    }
+}
