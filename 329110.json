@@ -1,0 +1,28 @@
+{
+    "appid": 329110,
+    "name": "Gems of War",
+    "type": "Game",
+    "schinese_name": "宝石战争",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 18:30:57",
+    "change_number": 29666292,
+    "depot": {
+        "329111": {
+            "manifests": {
+                "public": {
+                    "gid": "1298937341909716392",
+                    "size": "2245084942",
+                    "download": "1737487536"
+                }
+            },
+            "decryptionkey": "00ad10835c36c87d116ee78834db505059dd67dd9b463bead9e6694f1158d950"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18403170",
+                "timeupdated": "1747699713"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
