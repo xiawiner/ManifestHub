@@ -1,0 +1,65 @@
+{
+    "appid": 2328480,
+    "name": "Ascension",
+    "type": "Game",
+    "schinese_name": "宗门志",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 14:44:53",
+    "change_number": 29679927,
+    "depot": {
+        "2328481": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8921677412831626072",
+                    "size": "5701460354",
+                    "download": "4623289792"
+                },
+                "publictest": {
+                    "gid": "6135453065619584960",
+                    "size": "5815511419",
+                    "download": "4438887776"
+                }
+            },
+            "decryptionkey": "09c5b59ae7b6e031e179e66a22db7336d6be2108dbd016fa23b5052619ba8f15"
+        },
+        "2328482": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3130837438601153697",
+                    "size": "5701460354",
+                    "download": "4623290336"
+                },
+                "publictest": {
+                    "gid": "3528134757765261888",
+                    "size": "5815511419",
+                    "download": "4438888896"
+                }
+            },
+            "decryptionkey": "013f7da7c5fa0909c02485f8e2be56d004dff4ef0cb153e8304de20f7c0109d8"
+        },
+        "2328483": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "18794212",
+                "timeupdated": "1749473027"
+            },
+            "publictest": {
+                "buildid": "18938948",
+                "description": "用于公开场合测试的版本",
+                "timeupdated": "1750486081"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
