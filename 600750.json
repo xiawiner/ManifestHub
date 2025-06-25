@@ -1,0 +1,54 @@
+{
+    "appid": 600750,
+    "name": "Star Trek Timelines",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 18:48:32",
+    "change_number": 29666593,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "600751": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4950199713413721816",
+                    "size": "441682379",
+                    "download": "145195936"
+                }
+            },
+            "decryptionkey": "c2d8d67be9a1e0c62c029d4a404b906b205c75b72df43600dc9d5dc5a0137258"
+        },
+        "600752": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3644890711109266633",
+                    "size": "415262163",
+                    "download": "137028096"
+                }
+            },
+            "decryptionkey": "6929c441ca0ed99f5f6fe3dca71400b4691685a0ec3c469d23b9c01e5de74365"
+        },
+        "668710": {
+            "dlcappid": "668710"
+        },
+        "668714": {
+            "dlcappid": "668714"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18435664",
+                "timeupdated": "1747238395"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
