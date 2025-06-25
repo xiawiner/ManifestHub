@@ -1,0 +1,28 @@
+{
+    "appid": 2523890,
+    "name": "Whispers of the Eyeless",
+    "type": "Game",
+    "schinese_name": "无目低语",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 17:37:57",
+    "change_number": 29604985,
+    "depot": {
+        "2523891": {
+            "manifests": {
+                "public": {
+                    "gid": "3414803094466415250",
+                    "size": "9832792096",
+                    "download": "1930535888"
+                }
+            },
+            "decryptionkey": "83437f3f5e700f8dd152ae2dfc17434c2db28d04783993d736d5e4baed4a33e4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18732725",
+                "timeupdated": "1749234928"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
