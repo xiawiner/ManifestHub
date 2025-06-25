@@ -1,0 +1,28 @@
+{
+    "appid": 3256020,
+    "name": "Electrician Simulator VR",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 22:34:26",
+    "change_number": 29630892,
+    "depot": {
+        "3256021": {
+            "manifests": {
+                "public": {
+                    "gid": "2592957691130110568",
+                    "size": "7048561604",
+                    "download": "3003665408"
+                }
+            },
+            "decryptionkey": "ce6fd8f56262e17a4fc4a2441e49de4599c45a29d5f1022d0fe764686dba3184"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18581947",
+                "timeupdated": "1748349790"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
