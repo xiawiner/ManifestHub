@@ -1,0 +1,37 @@
+{
+    "appid": 1260320,
+    "name": "Party Animals",
+    "type": "Game",
+    "schinese_name": "猛兽派对",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 11:23:35",
+    "change_number": 29678758,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1260321": {
+            "manifests": {
+                "public": {
+                    "gid": "3269673602352501907",
+                    "size": "10825997443",
+                    "download": "9482096832"
+                }
+            },
+            "decryptionkey": "9623dafeee383701a837274d2547c7a5cbae7334393d64e82b4d2cdc01ef679e"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18942658",
+                "timeupdated": "1750476211"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 7641392735724118585
+}
