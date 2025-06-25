@@ -1,0 +1,27 @@
+{
+    "appid": 3277410,
+    "name": "Patient-001",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 06:07:43",
+    "change_number": 29611275,
+    "depot": {
+        "3277411": {
+            "manifests": {
+                "public": {
+                    "gid": "2020360022568065652",
+                    "size": "1768622242",
+                    "download": "1138284528"
+                }
+            },
+            "decryptionkey": "68d280cea527c37d74f905aaa1315c4cc404fa87b4e274ba30d01631969f8469"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18953861",
+                "timeupdated": "1750566775"
+            }
+        }
+    }
+}
