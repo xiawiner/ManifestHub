@@ -1,0 +1,31 @@
+{
+    "appid": 2482190,
+    "name": "Power Fantasy",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-19 04:06:25",
+    "change_number": 29636342,
+    "depot": {
+        "2482191": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6258800552765511595",
+                    "size": "359892172",
+                    "download": "149105824"
+                }
+            },
+            "decryptionkey": "886f9214c868838f5862799a8fb8fd93c9f0251881e8d0355ad6946aa124f2f2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18846175",
+                "timeupdated": "1749760129"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
