@@ -1,0 +1,28 @@
+{
+    "appid": 2679880,
+    "name": "HardAF",
+    "type": "Game",
+    "schinese_name": "求死之路 HardAF",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:28:55",
+    "change_number": 29654637,
+    "depot": {
+        "2679881": {
+            "manifests": {
+                "public": {
+                    "gid": "4694203284459828556",
+                    "size": "250568560",
+                    "download": "141972288"
+                }
+            },
+            "decryptionkey": "41fc9d080fe16bb923fbf2510ab7f97521b859b6e527af637faa6e7e840f2137"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18930108",
+                "timeupdated": "1750355145"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
