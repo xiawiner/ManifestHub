@@ -1,0 +1,27 @@
+{
+    "appid": 3711360,
+    "name": "Electronic shop simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-11 05:55:38",
+    "change_number": 29495147,
+    "depot": {
+        "3711361": {
+            "manifests": {
+                "public": {
+                    "gid": "8785136572369611015",
+                    "size": "1956000860",
+                    "download": "689902976"
+                }
+            },
+            "decryptionkey": "3040b62bfe13f5b1e0ff13a0b15812c96173a3149ce7949624c2941baafc32c5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18785556",
+                "timeupdated": "1749400827"
+            }
+        }
+    }
+}
