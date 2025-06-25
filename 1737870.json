@@ -1,0 +1,28 @@
+{
+    "appid": 1737870,
+    "name": "REKA",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 01:30:00",
+    "change_number": 29527725,
+    "depot": {
+        "1737871": {
+            "manifests": {
+                "public": {
+                    "gid": "6421470278239796662",
+                    "size": "2464766680",
+                    "download": "1681932304"
+                }
+            },
+            "decryptionkey": "288b0a2a0e74dc9fa05b6bc7ff0cb545073f5cef5c2039549a4373491652e742"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18673045",
+                "timeupdated": "1748869899"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
