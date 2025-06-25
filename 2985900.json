@@ -1,0 +1,27 @@
+{
+    "appid": 2985900,
+    "name": "中医模拟传承人",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-22 16:06:18",
+    "change_number": 29118398,
+    "depot": {
+        "2985901": {
+            "manifests": {
+                "public": {
+                    "gid": "845168714007574714",
+                    "size": "358237119",
+                    "download": "226109344"
+                }
+            },
+            "decryptionkey": "367b2fadf1221a1bcd9e4a7692dc02a7f01cecfbcc316d6baf619077e39e2f32"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15588966",
+                "timeupdated": "1725446078"
+            }
+        }
+    }
+}
