@@ -1,0 +1,92 @@
+{
+    "appid": 1289310,
+    "name": "Helltaker",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-19 10:38:49",
+    "change_number": 29640840,
+    "depot": {
+        "1289311": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9164867365911753620",
+                    "size": "348099925",
+                    "download": "68305008"
+                }
+            },
+            "decryptionkey": "8a76446486a985b6fb8019f9ff9cb51717155afebaf093f777936ca31df07bd8"
+        },
+        "1289312": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5439647822064687051",
+                    "size": "349158366",
+                    "download": "68578208"
+                }
+            },
+            "decryptionkey": "0aef62a3de894c4ef02336c5798e38c21a2a4564caa327e5412fe7d240811288"
+        },
+        "1289313": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6051994899057452556",
+                    "size": "341250557",
+                    "download": "66137984"
+                }
+            },
+            "decryptionkey": "36a1150a257c814238b63986e8bd03f1179691714589bff626e2bf0b7d6794a2"
+        },
+        "1289314": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8723838119065609357",
+                    "size": "349387016",
+                    "download": "68527104"
+                }
+            },
+            "decryptionkey": "0ae3f8de8828c5aa3bafe13d91bb5c66830de99cae356751025b076dfbff3cb1"
+        },
+        "1289315": {
+            "manifests": {
+                "public": {
+                    "gid": "6394422377711576735",
+                    "size": "50692",
+                    "download": "21488"
+                }
+            },
+            "decryptionkey": "77e4cd127cd6a189e8409ad5b3bed50b03b00b130c9e35a17f02b8d1daefa9fd"
+        },
+        "1298590": {
+            "dlcappid": "1298590",
+            "manifests": {
+                "public": {
+                    "gid": "5335439833889055261",
+                    "size": "169293695",
+                    "download": "168399376"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "6791993",
+                "timeupdated": "1622542274"
+            }
+        }
+    }
+}
