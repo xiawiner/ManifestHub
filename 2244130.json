@@ -1,0 +1,49 @@
+{
+    "appid": 2244130,
+    "name": "Ratopia",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-28 09:33:54",
+    "change_number": 29225739,
+    "depot": {
+        "2244131": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3890360644928054837",
+                    "size": "2250838610",
+                    "download": "501161008"
+                }
+            },
+            "decryptionkey": "7340a83f2505a34c0c785f3f3987f8ce558a86a11e0d806d8d8cd6d7a2f742ec"
+        },
+        "2244132": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3253504007912384914",
+                    "size": "2275705014",
+                    "download": "508964336"
+                }
+            },
+            "decryptionkey": "11a26a5128464419ef11896c4f6511ff277d2e52117a967f17d324a8de391980"
+        },
+        "baselanguages": "english,german,french,koreana,schinese,tchinese,russian,japanese",
+        "workshopdepot": "2244130",
+        "branches": {
+            "public": {
+                "buildid": "18634380",
+                "timeupdated": "1748396028"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "8ac54e69d00299cceca860052d27a678fc76c276af0bc21a351dc513f03de24b"
+    }
+}
