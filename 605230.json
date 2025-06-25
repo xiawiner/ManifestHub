@@ -1,0 +1,73 @@
+{
+    "appid": 605230,
+    "name": "Grey Hack",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:55:28",
+    "change_number": 29683442,
+    "depot": {
+        "605231": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8904154779025222310",
+                    "size": "715505398",
+                    "download": "73316576"
+                }
+            },
+            "decryptionkey": "f8ce15232e8c5ded9644310c1a9df571c731568b45e089110442ce8ad6d435f5"
+        },
+        "605232": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "396894843655965137",
+                    "size": "715472835",
+                    "download": "73451632"
+                }
+            }
+        },
+        "605233": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8647835421651672009",
+                    "size": "712942380",
+                    "download": "70990016"
+                }
+            },
+            "decryptionkey": "f50a69e9be40cc9bbc05a268eb0cc249c012ccd10ea9b0d28603fddd0e61b805"
+        },
+        "605234": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1757267051807479940",
+                    "size": "704165411",
+                    "download": "69991760"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "605230",
+        "branches": {
+            "public": {
+                "buildid": "18849107",
+                "timeupdated": "1749778816"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "745113dea91fce09e22afba17a8c516dff088344d7d4891922d75a49ff24ac10"
+    }
+}
