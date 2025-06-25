@@ -1,0 +1,28 @@
+{
+    "appid": 2994430,
+    "name": "Sarah's Adventure: Time Travel",
+    "type": "Game",
+    "schinese_name": "莎拉大冒险：时间旅行",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 21:31:27",
+    "change_number": 29669008,
+    "depot": {
+        "2994431": {
+            "manifests": {
+                "public": {
+                    "gid": "2865478955239564551",
+                    "size": "2815901118",
+                    "download": "1806121008"
+                }
+            },
+            "decryptionkey": "dec0ae6ee94945c91be976638454df129ce4de5662025dbd161eccc0413fdabd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18940125",
+                "timeupdated": "1750426281"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
