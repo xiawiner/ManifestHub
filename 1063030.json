@@ -1,0 +1,59 @@
+{
+    "appid": 1063030,
+    "name": "Monaco 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 00:58:56",
+    "change_number": 29633649,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1063032": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6862932298648135704",
+                    "size": "9905050513",
+                    "download": "3121622416"
+                },
+                "tools": {
+                    "gid": "3680088730569029390",
+                    "size": "10017191917",
+                    "download": "3146434160"
+                },
+                "v1.00.00": {
+                    "gid": "8060879535146976696",
+                    "size": "9356899680",
+                    "download": "3035338592"
+                }
+            },
+            "decryptionkey": "5df2d796feaa00cfb20c5c4eb91d46021671863f04310a6da64c101e53eea95a"
+        },
+        "baselanguages": "english,german,french,schinese,russian,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "18530095",
+                "timeupdated": "1750265915"
+            },
+            "tools": {
+                "buildid": "18530121",
+                "description": "Tools",
+                "timeupdated": "1750265932"
+            },
+            "v1.00.00": {
+                "buildid": "18016615",
+                "description": "v1.00.00",
+                "timeupdated": "1744059790"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
