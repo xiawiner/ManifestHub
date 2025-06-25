@@ -1,0 +1,43 @@
+{
+    "appid": 1708850,
+    "name": "Drug Dealer Simulator 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 06:34:26",
+    "change_number": 29686104,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1708851": {
+            "manifests": {
+                "public": {
+                    "gid": "7381941023270653545",
+                    "size": "31123061278",
+                    "download": "29917330528"
+                }
+            },
+            "decryptionkey": "9da58ce930b5409698dfdd9945f19efdbe1e0b7acead98d61080b5b7058f9890"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18943037",
+                "timeupdated": "1750440813"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
