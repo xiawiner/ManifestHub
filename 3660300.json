@@ -1,0 +1,27 @@
+{
+    "appid": 3660300,
+    "name": "Cash Cleaner Simulator - Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:29:38",
+    "change_number": 29655026,
+    "depot": {
+        "3660301": {
+            "manifests": {
+                "public": {
+                    "gid": "2888902693268649026",
+                    "size": "68836732",
+                    "download": "68738080"
+                }
+            },
+            "decryptionkey": "52b76fc0741c08617322b98fe08534682e59ccef8bc508ffee14375bdec30d77"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18372739",
+                "timeupdated": "1746614730"
+            }
+        }
+    }
+}
