@@ -1,0 +1,45 @@
+{
+    "appid": 2716620,
+    "name": "Demining",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 08:01:46",
+    "change_number": 29686570,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2716621": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8022801819350304963",
+                    "size": "2576221342",
+                    "download": "2172134944"
+                }
+            },
+            "decryptionkey": "36b4ed6e725e0a3fe8ff155de5abe451c5c741f552937501b606fe4b81907ea1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18952325",
+                "timeupdated": "1750543305"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
