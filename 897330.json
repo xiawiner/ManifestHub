@@ -1,0 +1,58 @@
+{
+    "appid": 897330,
+    "name": "Coloring Pixels",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-22 06:39:08",
+    "change_number": 29686123,
+    "depot": {
+        "baselanguages": "english",
+        "897331": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1172797307994605838",
+                    "size": "686599418",
+                    "download": "236357728"
+                }
+            },
+            "decryptionkey": "90ef04fccf8444a09f5f878bb865f2ca5c2478baaa3d60bf448153439b8822c6"
+        },
+        "897332": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2708131516221681914",
+                    "size": "694316630",
+                    "download": "238024096"
+                }
+            },
+            "decryptionkey": "451a7ba1ec57b3cd2ba995d242abc2673df48066ba0e808935af7f32ab22c065"
+        },
+        "897333": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "302171747558372316",
+                    "size": "694158019",
+                    "download": "238021888"
+                }
+            },
+            "decryptionkey": "95c9adc2d58ad3343687b48a02723470f6a441d1e6661c31ffbffacef33a1cf6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18895938",
+                "timeupdated": "1750165999"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
