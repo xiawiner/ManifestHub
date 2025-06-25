@@ -1,0 +1,104 @@
+{
+    "appid": 594650,
+    "name": "Hunt: Showdown 1896",
+    "type": "Game",
+    "schinese_name": "猎杀：对决 1896",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 06:43:15",
+    "change_number": 29676634,
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "594651": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2668565587485093847",
+                    "size": "719710698",
+                    "download": "261159376"
+                }
+            },
+            "decryptionkey": "2b731d9a42ee11b0f9a51d4aea2c779a2c1943f0ca0027bf38529240e3fd70e4"
+        },
+        "594652": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7178832313646817726",
+                    "size": "81185319113",
+                    "download": "80922923376"
+                }
+            },
+            "decryptionkey": "a8a0c9b88ad0802d43ca2c0d3b8dd40d95a480ddec25ddbc6d154f1b268da0b2"
+        },
+        "594653": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5446261526739713583",
+                    "size": "400454343",
+                    "download": "403319248"
+                }
+            },
+            "decryptionkey": "3ff39c9a082647ddfb27213a069c8fb08fd4161798aba12e5dd30cf535b99bb1"
+        },
+        "594654": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8435086870529823209",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "8b77c5e77de5ce174135da1a533aa4314f18efb1fd5c358665192adddd8b3f92"
+        },
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,japanese,polish,turkish,brazilian",
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18843624",
+                "timeupdated": "1750343551"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
