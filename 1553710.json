@@ -1,0 +1,28 @@
+{
+    "appid": 1553710,
+    "name": "Dreadhunter",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 08:49:49",
+    "change_number": 29686793,
+    "depot": {
+        "1553711": {
+            "manifests": {
+                "public": {
+                    "gid": "3833627306340982742",
+                    "size": "2788734082",
+                    "download": "1283192752"
+                }
+            },
+            "decryptionkey": "09e9e17c0608029b5145d3005bfd8d0641c56551cf4942e87b9ef8488cbec8c7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18665840",
+                "timeupdated": "1748606428"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
