@@ -1,0 +1,60 @@
+{
+    "appid": 2290000,
+    "name": "TerraScape",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 00:09:06",
+    "change_number": 29632638,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,dutch,brazilian",
+        "2290001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6013160478023455275",
+                    "size": "1557064676",
+                    "download": "1284374928"
+                },
+                "1.1.1.14": {
+                    "gid": "623792613672628603",
+                    "size": "1854169017",
+                    "download": "1553309840"
+                }
+            },
+            "decryptionkey": "3cf35d14bf13777748547142d001d9010de60946610bcdb524db81acc663069f"
+        },
+        "2290002": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2673715625734733698",
+                    "size": "1695147483",
+                    "download": "1309732784"
+                },
+                "1.1.1.14": {
+                    "gid": "6878173981855174297",
+                    "size": "1903831429",
+                    "download": "1564505104"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18913415",
+                "timeupdated": "1750260128"
+            },
+            "1.1.1.14": {
+                "buildid": "18475193",
+                "description": "DAWN",
+                "timeupdated": "1748861935"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
