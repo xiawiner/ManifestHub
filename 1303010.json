@@ -1,0 +1,140 @@
+{
+    "appid": 1303010,
+    "name": "Vincemus - Air Combat",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 13:55:44",
+    "change_number": 29642913,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229030": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1303011": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4067124178227675466",
+                    "size": "17539797310",
+                    "download": "5058582064"
+                },
+                "beta": {
+                    "gid": "2296213626818215338",
+                    "size": "17681677918",
+                    "download": "5098937632"
+                }
+            }
+        },
+        "1303012": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4740699500757849221",
+                    "size": "17504057717",
+                    "download": "5048411632"
+                },
+                "beta": {
+                    "gid": "4566606399847774649",
+                    "size": "17603222125",
+                    "download": "5085907200"
+                }
+            },
+            "decryptionkey": "325f2f900c5b56e425e5c58f7c333620a8a27befa888233c94d3753bdeb79a5f"
+        },
+        "1303013": {
+            "config": {
+                "language": "english",
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3907221784280770768",
+                    "size": "4174600124",
+                    "download": "3194864480"
+                },
+                "beta": {
+                    "gid": "3907221784280770768",
+                    "size": "4174600124",
+                    "download": "3194864480"
+                }
+            }
+        },
+        "1303014": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1883128723221591602",
+                    "size": "3777853147",
+                    "download": "2934961584"
+                },
+                "beta": {
+                    "gid": "1883128723221591602",
+                    "size": "3777853147",
+                    "download": "2934961584"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "16934098",
+                "timeupdated": "1736296868"
+            },
+            "beta": {
+                "buildid": "18922490",
+                "description": "Testing Only",
+                "timeupdated": "1750312539"
+            }
+        }
+    }
+}
