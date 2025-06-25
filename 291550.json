@@ -1,0 +1,71 @@
+{
+    "appid": 291550,
+    "name": "Brawlhalla",
+    "type": "Game",
+    "schinese_name": "英灵乱战",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 17:54:59",
+    "change_number": 29665699,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "291551": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9082288612742281731",
+                    "size": "1218536718",
+                    "download": "1188117392"
+                },
+                "32bit-windows": {
+                    "gid": "2160840768415016450",
+                    "size": "1237927029",
+                    "download": "1197764064"
+                }
+            },
+            "decryptionkey": "7912e24d0afdea4e76e9c8b3dfb438d294bfa7552216541f60d6638c81892d0e"
+        },
+        "291552": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6709110195924045043",
+                    "size": "1239118170",
+                    "download": "1191447744"
+                },
+                "32bit-windows": {
+                    "gid": "1964716328131457777",
+                    "size": "1239114846",
+                    "download": "1191444688"
+                }
+            },
+            "decryptionkey": "7bc0a2d1a917e8f3c0046aa1281e248a5e40491c7af4a03e28703b734a13cc3d"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18737477",
+                "timeupdated": "1749152100"
+            },
+            "32bit-windows": {
+                "buildid": "18738002",
+                "description": "32-bit Brawlhalla for older computers",
+                "timeupdated": "1749152061"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
