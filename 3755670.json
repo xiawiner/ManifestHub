@@ -1,0 +1,46 @@
+{
+    "appid": 3755670,
+    "name": "Car Dealer Life Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:53:06",
+    "change_number": 29683454,
+    "depot": {
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3755671": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2258078625712533821",
+                    "size": "10787995632",
+                    "download": "10312775536"
+                }
+            },
+            "decryptionkey": "0dcfad74fbb20e3f8b2357b5b288087ac9d8cd9963c1be34532a933f60eaac3c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18950630",
+                "timeupdated": "1750519916"
+            }
+        }
+    }
+}
