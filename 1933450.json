@@ -1,0 +1,44 @@
+{
+    "appid": 1933450,
+    "name": "​Triple Fantasy",
+    "type": "Game",
+    "schinese_name": "三重幻想",
+    "isfreeapp": 1,
+    "update_time": "2025-06-19 08:22:12",
+    "change_number": 29639459,
+    "depot": {
+        "1933451": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8014845007435254836",
+                    "size": "1095542873",
+                    "download": "250181504"
+                }
+            },
+            "decryptionkey": "8d4ad67c480af1f4bf40d0ac088db2a68cb04f9a29a06c9a658e379b8de0d0f5"
+        },
+        "1933452": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8432251665701460851",
+                    "size": "1276387143",
+                    "download": "268944480"
+                }
+            },
+            "decryptionkey": "5e4cc6959c163ead8eed5fa6254c68f2274f9334e6fb32fac508519c27ef413c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18890546",
+                "timeupdated": "1750292527"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
