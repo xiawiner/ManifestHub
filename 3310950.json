@@ -1,0 +1,61 @@
+{
+    "appid": 3310950,
+    "name": "Nightmare Frontier",
+    "type": "Game",
+    "schinese_name": "噩梦边境 - Nightmare Frontier",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 11:15:03",
+    "change_number": 29678717,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3310951": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3406993634866507958",
+                    "size": "4083170617",
+                    "download": "3605747184"
+                }
+            },
+            "decryptionkey": "71fe2b59778f12b80fe3fce38ec5ff55b881a9d809011afe73df2fdd8c3c5fec"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18888888",
+                "timeupdated": "1750115215"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
