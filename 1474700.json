@@ -1,0 +1,32 @@
+{
+    "appid": 1474700,
+    "name": "MONOPOLY Poker",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-03 19:51:44",
+    "change_number": 29346924,
+    "depot": {
+        "1474701": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4664454721588796273",
+                    "size": "555814844",
+                    "download": "176539456"
+                }
+            },
+            "decryptionkey": "8e55f8a9c3ab0f703cbf59d9b47e236eb8ddd1fb9771031947974bb1822a2e25"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18716914",
+                "timeupdated": "1748951498"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
