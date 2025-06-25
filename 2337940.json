@@ -1,0 +1,38 @@
+{
+    "appid": 2337940,
+    "name": "War of Wheels",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 22:08:03",
+    "change_number": 29669640,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,french,italian,schinese,russian,latam",
+        "2337941": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "59892667737597214",
+                    "size": "9326815575",
+                    "download": "3892435856"
+                }
+            },
+            "decryptionkey": "7fdda7b338460979351e2fcfa746bd8fa6be9848ab210188ca4b6b0e66a1bf4d"
+        },
+        "2337943": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18701935",
+                "timeupdated": "1748870888"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
