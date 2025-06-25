@@ -1,0 +1,38 @@
+{
+    "appid": 2707490,
+    "name": "Tower Factory",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 08:49:38",
+    "change_number": 29686792,
+    "depot": {
+        "2707491": {
+            "manifests": {
+                "public": {
+                    "gid": "8973308816563460028",
+                    "size": "240622527",
+                    "download": "157581024"
+                },
+                "testing": {
+                    "gid": "8973308816563460028",
+                    "size": "240622527",
+                    "download": "157581024"
+                }
+            },
+            "decryptionkey": "b436e56de3040764d467377c6c20eb7f879fea5110126e5d11a6ca4562a511d5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18953084",
+                "timeupdated": "1750553335"
+            },
+            "testing": {
+                "buildid": "18953084",
+                "description": "Testing branch",
+                "timeupdated": "1750553374"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
