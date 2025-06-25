@@ -1,0 +1,88 @@
+{
+    "appid": 2701700,
+    "name": "Maestro",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 01:50:02",
+    "change_number": 29673352,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2701701": {
+            "manifests": {
+                "public": {
+                    "gid": "4386559164039798889",
+                    "size": "1898507024",
+                    "download": "1745533184"
+                }
+            },
+            "decryptionkey": "b76ebf3606bcb620ac016cbd1b82209d33f969e6b2208f59946f2d562d0f1c06"
+        },
+        "3352570": {
+            "dlcappid": "3352570",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1665718128016603228",
+                    "size": "235339181",
+                    "download": "225567552"
+                }
+            },
+            "decryptionkey": "022fe7cb197b2917937fbdf1d8b2570c68cb40f132e43e12da84d73201e49090"
+        },
+        "3645630": {
+            "dlcappid": "3645630",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7105447767960507442",
+                    "size": "156741361",
+                    "download": "152636192"
+                }
+            },
+            "decryptionkey": "ea989b494e203fee4f27d10f6f0bf96e8c3f33c7493bdced6a929e4f851f71f9"
+        },
+        "3762030": {
+            "dlcappid": "3762030",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2459416886900945572",
+                    "size": "18567705",
+                    "download": "18247056"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18926312",
+                "timeupdated": "1750435539"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
