@@ -1,0 +1,41 @@
+{
+    "appid": 3435310,
+    "name": "Dragon Expedition",
+    "type": "Game",
+    "schinese_name": "龙之远征",
+    "isfreeapp": 0,
+    "update_time": "2025-06-02 13:33:40",
+    "change_number": 29318530,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3435311": {
+            "manifests": {
+                "public": {
+                    "gid": "7231206503145531026",
+                    "size": "13376764828",
+                    "download": "12743279792"
+                }
+            },
+            "decryptionkey": "e825760552b08c25f419765c009f342f938ceb92a03a5fede3339f57c58bd4d3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18697587",
+                "timeupdated": "1748842413"
+            }
+        }
+    }
+}
