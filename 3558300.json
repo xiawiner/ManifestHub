@@ -1,0 +1,27 @@
+{
+    "appid": 3558300,
+    "name": "Fear of Hot Water Ghost",
+    "type": "Game",
+    "schinese_name": "恐怖的性感水鬼",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 21:57:40",
+    "change_number": 29682529,
+    "depot": {
+        "3558301": {
+            "manifests": {
+                "public": {
+                    "gid": "4422836966985371094",
+                    "size": "7178003582",
+                    "download": "2608687136"
+                }
+            },
+            "decryptionkey": "582b092dae4f5ec6d477ccddd06fdbf2c93dc8775375d68bbb68664ef2ad8b6a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18852302",
+                "timeupdated": "1749800814"
+            }
+        }
+    }
+}
