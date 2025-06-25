@@ -1,0 +1,78 @@
+{
+    "appid": 1875060,
+    "name": "Reus 2",
+    "type": "Game",
+    "schinese_name": "造物主 2",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 04:38:29",
+    "change_number": 29675353,
+    "depot": {
+        "baselanguages": "english",
+        "1875061": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2170939221373384941",
+                    "size": "3290811990",
+                    "download": "684998960"
+                },
+                "experimental": {
+                    "gid": "2170939221373384941",
+                    "size": "3290811990",
+                    "download": "684998960"
+                }
+            },
+            "decryptionkey": "a33eb91dbaf0ab42248dfe4e4d11a817ad3f8e033b56465281a752da06245e7d"
+        },
+        "1875062": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2115272178259425033",
+                    "size": "3317417661",
+                    "download": "693201360"
+                },
+                "experimental": {
+                    "gid": "2115272178259425033",
+                    "size": "3317417661",
+                    "download": "693201360"
+                }
+            },
+            "decryptionkey": "80791d99567e5d3181ef98a4e8b9138fbf99a33d0d67d1d23d44f46cf315d2b2"
+        },
+        "3010540": {
+            "dlcappid": "3010540",
+            "manifests": {
+                "public": {
+                    "gid": "3896516526556556967",
+                    "size": "1736868590",
+                    "download": "1554107456"
+                },
+                "experimental": {
+                    "gid": "3896516526556556967",
+                    "size": "1736868590",
+                    "download": "1554107456"
+                }
+            },
+            "decryptionkey": "9cf3cbf9469a572366e3c3977b7a7c802708b3fcad132ac73745639df8e05b6f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18551317",
+                "timeupdated": "1747839409"
+            },
+            "experimental": {
+                "buildid": "18551317",
+                "description": "Unstable preview build for testing out upcoming updates.",
+                "timeupdated": "1747838952"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
