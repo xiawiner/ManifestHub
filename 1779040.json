@@ -1,0 +1,28 @@
+{
+    "appid": 1779040,
+    "name": "Poly Memory: Furries",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-03 06:32:23",
+    "change_number": 29336053,
+    "depot": {
+        "1779041": {
+            "manifests": {
+                "public": {
+                    "gid": "6921318913510669181",
+                    "size": "77966691",
+                    "download": "73201088"
+                }
+            },
+            "decryptionkey": "e788a4c4a38a6f30119660957df609a9b3f21c66945a68bf2eb49aefe95d8427"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "13490805",
+                "timeupdated": "1708269816"
+            }
+        }
+    }
+}
