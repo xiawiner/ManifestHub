@@ -1,0 +1,53 @@
+{
+    "appid": 1333350,
+    "name": "Angel Legion: LSP Idle RPG",
+    "type": "Game",
+    "schinese_name": "天使军团-LSP放置RPG",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 16:12:59",
+    "change_number": 29664116,
+    "depot": {
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "hasdepotsindlc": "0",
+        "1333351": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5027633926797954508",
+                    "size": "3107886607",
+                    "download": "2393858784"
+                }
+            },
+            "decryptionkey": "d261f1c5fd56aa71f668d873476793628c85f826b79dde306c3375a96d51f610"
+        },
+        "1541930": {
+            "dlcappid": "1541930",
+            "config": {
+                "osarch": "64"
+            }
+        },
+        "1333352": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6578053116080086178",
+                    "size": "3228865699",
+                    "download": "2444159568"
+                }
+            },
+            "decryptionkey": "2b212d2a86cc889645c7da7359add44dfc65cf493fb9f30ade3fc3a7cb95240f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18923189",
+                "timeupdated": "1750330559"
+            }
+        }
+    }
+}
