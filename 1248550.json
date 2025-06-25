@@ -1,0 +1,32 @@
+{
+    "appid": 1248550,
+    "name": "Breaking Gates",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 07:19:34",
+    "change_number": 29686362,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "",
+        "1248551": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8006844988387117981",
+                    "size": "134670367",
+                    "download": "111821440"
+                }
+            },
+            "decryptionkey": "7da016680edbe9df740c5b9c298042fc15fb8d786432a36fa0b1cd0d71cee860"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17703773",
+                "timeupdated": "1741842646"
+            }
+        }
+    }
+}
