@@ -1,0 +1,41 @@
+{
+    "appid": 3475670,
+    "name": "永夜地铁Eternal Night Metro",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 10:37:33",
+    "change_number": 29678469,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3475671": {
+            "manifests": {
+                "public": {
+                    "gid": "8417072330990208694",
+                    "size": "2136651488",
+                    "download": "1696696208"
+                }
+            },
+            "decryptionkey": "64fac743d940dee8b7f4029890300732913bb8c777a92ceaf3a00be2238aefbb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18946947",
+                "timeupdated": "1750473449"
+            }
+        }
+    }
+}
