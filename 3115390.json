@@ -1,0 +1,68 @@
+{
+    "appid": 3115390,
+    "name": "SuperImage Pro",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-12 05:54:22",
+    "change_number": 29516452,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3115391": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3411202392787863001",
+                    "size": "325239810",
+                    "download": "132117440"
+                },
+                "alpha": {
+                    "gid": "3411202392787863001",
+                    "size": "325239810",
+                    "download": "132117440"
+                },
+                "image-specs-decoding": {
+                    "gid": "650059515946318470",
+                    "size": "329307638",
+                    "download": "137136032"
+                },
+                "npu-testing": {
+                    "gid": "1091563217738276762",
+                    "size": "329421262",
+                    "download": "137152608"
+                }
+            },
+            "decryptionkey": "48f204e64a70b0c425f7e812fa17cea89cc9e0c6cd75f7b35ba19584e5cd02e2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18148644",
+                "timeupdated": "1744917747"
+            },
+            "alpha": {
+                "buildid": "18148644",
+                "description": "Alpha builds, MIGHT BE UNSTABLE!!!",
+                "timeupdated": "1744917543"
+            },
+            "image-specs-decoding": {
+                "buildid": "17737849",
+                "description": "A",
+                "timeupdated": "1742054878"
+            },
+            "npu-testing": {
+                "buildid": "17244530",
+                "description": "Test NPU support",
+                "timeupdated": "1749678856"
+            }
+        }
+    }
+}
