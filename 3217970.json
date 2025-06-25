@@ -1,0 +1,28 @@
+{
+    "appid": 3217970,
+    "name": "Yet Another Killing Game",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:32:30",
+    "change_number": 29656799,
+    "depot": {
+        "3217971": {
+            "manifests": {
+                "public": {
+                    "gid": "5571186540787897534",
+                    "size": "552563303",
+                    "download": "426600832"
+                }
+            },
+            "decryptionkey": "9f59a013d3c787a37facc3342f56f8476762455144705e5c932e00482d9c411b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18620784",
+                "timeupdated": "1749708915"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
