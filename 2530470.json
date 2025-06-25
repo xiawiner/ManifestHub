@@ -1,0 +1,29 @@
+{
+    "appid": 2530470,
+    "name": "Garden of Witches",
+    "type": "Game",
+    "schinese_name": "魔女庭院",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 13:54:25",
+    "change_number": 29679658,
+    "depot": {
+        "2530471": {
+            "manifests": {
+                "public": {
+                    "gid": "7476137228905823833",
+                    "size": "1231024470",
+                    "download": "432176480"
+                }
+            },
+            "decryptionkey": "a978c4dc2cbf61036edb2e812dc4d23ab3ef9162446c75c0dd2bd87f384c49af"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18699248",
+                "timeupdated": "1748865688"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
