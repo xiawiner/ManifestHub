@@ -1,0 +1,52 @@
+{
+    "appid": 505460,
+    "name": "Foxhole",
+    "type": "Game",
+    "schinese_name": "散兵坑",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 16:36:01",
+    "change_number": 29664467,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "505461": {
+            "manifests": {
+                "public": {
+                    "gid": "5047839360374171139",
+                    "size": "19578253686",
+                    "download": "6495913984"
+                },
+                "devbranch": {
+                    "gid": "1928804326390958437",
+                    "size": "19578057801",
+                    "download": "6495738672"
+                }
+            },
+            "decryptionkey": "bb4f2b312b248a9d82f22ce92055a5df6819410a63a872976e5541e2a22a4434"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18904619",
+                "timeupdated": "1750257515"
+            },
+            "devbranch": {
+                "buildid": "18813504",
+                "description": "Player testing environment",
+                "timeupdated": "1749585068"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
