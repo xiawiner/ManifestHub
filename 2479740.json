@@ -1,0 +1,45 @@
+{
+    "appid": 2479740,
+    "name": "Pieces of me",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 06:16:21",
+    "change_number": 29638048,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2479741": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8314586204663958005",
+                    "size": "19302591764",
+                    "download": "18704826784"
+                }
+            },
+            "decryptionkey": "55f6aca9343b0bba81246be597d56b1c834e857f7c78dcf3cc0f1b0de01ad21c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18613888",
+                "timeupdated": "1748279133"
+            }
+        }
+    }
+}
