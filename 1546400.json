@@ -1,0 +1,46 @@
+{
+    "appid": 1546400,
+    "name": "GigaBash",
+    "type": "Game",
+    "schinese_name": "巨击大乱斗",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 11:57:28",
+    "change_number": 29641756,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1546401": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5835310451207932169",
+                    "size": "12338576513",
+                    "download": "10669484832"
+                }
+            },
+            "decryptionkey": "204960045ed3c99ef55795d7304c0d2fb3b2c548b70fabf87559565b88696b18"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18345229",
+                "timeupdated": "1748573716"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
