@@ -1,0 +1,27 @@
+{
+    "appid": 2807250,
+    "name": "My Friend's Family (Captain Kitty)",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 18:22:42",
+    "change_number": 29647416,
+    "depot": {
+        "2807251": {
+            "manifests": {
+                "public": {
+                    "gid": "7408660697518730849",
+                    "size": "6543323382",
+                    "download": "6148723408"
+                }
+            },
+            "decryptionkey": "31cb61115b0eaeea97cca7486d70a8e694a7e983e3557a060904f5db959609cd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17595522",
+                "timeupdated": "1741127063"
+            }
+        }
+    }
+}
