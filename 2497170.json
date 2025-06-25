@@ -1,0 +1,58 @@
+{
+    "appid": 2497170,
+    "name": "Laura of Reigetsu",
+    "type": "Game",
+    "schinese_name": "零月的拉芙拉",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:57:19",
+    "change_number": 29684150,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "2497171": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2694945190071457233",
+                    "size": "2098029489",
+                    "download": "1660868592"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2497172": {
+            "config": {
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8905165880530331261",
+                    "size": "2074319290",
+                    "download": "1665103936"
+                }
+            },
+            "decryptionkey": "070cd52e17810b8dc3c63d0d3e5e0671c150d711955663abcdf65281eda3ca9d"
+        },
+        "2497173": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2145550451657489469",
+                    "size": "2076608970",
+                    "download": "1667116128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,schinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18744336",
+                "timeupdated": "1749093811"
+            }
+        }
+    }
+}
