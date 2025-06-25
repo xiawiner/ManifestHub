@@ -1,0 +1,54 @@
+{
+    "appid": 3301530,
+    "name": "Boogey Hunters",
+    "type": "Game",
+    "schinese_name": "枪手大战全球二线妖怪",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 21:50:25",
+    "change_number": 29681325,
+    "depot": {
+        "3301531": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6326011295071631678",
+                    "size": "2181148236",
+                    "download": "218609120"
+                }
+            },
+            "decryptionkey": "cf50470295e9097e0642fa7929a96921ddee3f23bb1b09ecb34b4d87a688955c"
+        },
+        "3301532": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8715907573777402965",
+                    "size": "2205396313",
+                    "download": "225904720"
+                }
+            }
+        },
+        "3301533": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7692363989837357536",
+                    "size": "2180392943",
+                    "download": "217325168"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18948998",
+                "timeupdated": "1750501072"
+            }
+        }
+    }
+}
