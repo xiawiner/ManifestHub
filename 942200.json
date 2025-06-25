@@ -1,0 +1,29 @@
+{
+    "appid": 942200,
+    "name": "Rocket Boots Mania",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 01:29:40",
+    "change_number": 29673035,
+    "depot": {
+        "942201": {
+            "manifests": {
+                "public": {
+                    "gid": "727508677551327742",
+                    "size": "5616593776",
+                    "download": "1823356752"
+                }
+            },
+            "decryptionkey": "21cb98a766189b88e303ff57aa062e50aeb0fc26893b37ec33746226072177ed"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18197269",
+                "timeupdated": "1745415312"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
