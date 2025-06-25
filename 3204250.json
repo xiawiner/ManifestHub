@@ -1,0 +1,76 @@
+{
+    "appid": 3204250,
+    "name": "Lost But Found",
+    "type": "Game",
+    "schinese_name": "失物招领模拟器",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 14:27:47",
+    "change_number": 29643281,
+    "depot": {
+        "3204251": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8677994138273066147",
+                    "size": "1397574547",
+                    "download": "200248176"
+                },
+                "beta": {
+                    "gid": "6267916707628596878",
+                    "size": "1397542972",
+                    "download": "200246096"
+                }
+            },
+            "decryptionkey": "02f7ccd2d70fc07720713ec9b6050c50ab6cdc94da70f9d3bc957b7c1b8a3415"
+        },
+        "3204252": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5988711560676076712",
+                    "size": "1421902057",
+                    "download": "207394688"
+                },
+                "beta": {
+                    "gid": "5789013646272895288",
+                    "size": "1421901025",
+                    "download": "207394640"
+                }
+            },
+            "decryptionkey": "7c474507298e54e35fa4f20cb6f55651b42b3fb8707d60f226b7f9ab64ad40df"
+        },
+        "3204253": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4801615819843912206",
+                    "size": "1398426955",
+                    "download": "200027536"
+                },
+                "beta": {
+                    "gid": "8353884636337554707",
+                    "size": "1398395787",
+                    "download": "200025520"
+                }
+            },
+            "decryptionkey": "33e97ec1e5a5c3813b65bdc5061d915c3d0d533753c03cef89e2e926a266eceb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18784278",
+                "timeupdated": "1749386702"
+            },
+            "beta": {
+                "buildid": "18783614",
+                "description": "Beta stating branch for Lost But Found usually full of bugs",
+                "timeupdated": "1749377859"
+            }
+        }
+    }
+}
