@@ -1,0 +1,101 @@
+{
+    "appid": 380600,
+    "name": "Fishing Planet",
+    "type": "Game",
+    "schinese_name": "垂钓星球",
+    "isfreeapp": 1,
+    "update_time": "2025-06-21 07:34:13",
+    "change_number": 29677033,
+    "depot": {
+        "baselanguages": "english,german,french,spanish,russian,polish,dutch,brazilian,ukrainian",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "380601": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2406640725011659338",
+                    "size": "10509767919",
+                    "download": "5560040976"
+                }
+            },
+            "decryptionkey": "5924c858980796455eb6e175328897a86ef9c115fd6fd98d4ebabcc349d9c1ed"
+        },
+        "380602": {
+            "config": {
+                "osarch": "32",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7203195350100104899",
+                    "size": "6904453163",
+                    "download": "3955154768"
+                }
+            },
+            "decryptionkey": "f90c7560e7aa94c844a5db501dab96220362dcea45aa20d17b81207f5b26df78"
+        },
+        "380603": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3219959213349887954",
+                    "size": "12969856393",
+                    "download": "6624179024"
+                }
+            },
+            "decryptionkey": "d5536481fe8ed073deff75fc2c0507229ff6664734ff72b9a5d848ed6eb13278"
+        },
+        "380604": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "433570204169931316",
+                    "size": "10609938949",
+                    "download": "5542141776"
+                }
+            },
+            "decryptionkey": "8141d803b45070bad8b4d19dd90f3f8b38dcc91019aa3d88ec6ebe8d30887520"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18918019",
+                "timeupdated": "1750281696"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
