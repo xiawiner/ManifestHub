@@ -1,0 +1,32 @@
+{
+    "appid": 1671200,
+    "name": "HonkaiImpact 3rd",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 14:38:56",
+    "change_number": 29662766,
+    "depot": {
+        "baselanguages": "",
+        "1671201": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5706233226448947563",
+                    "size": "29792770531",
+                    "download": "23579894192"
+                }
+            },
+            "decryptionkey": "18cebce265978fc20bb293bd48613f9850a6b79cfc67ad4ed76d5f5618ab4fe4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18069331",
+                "timeupdated": "1745469745"
+            }
+        }
+    }
+}
