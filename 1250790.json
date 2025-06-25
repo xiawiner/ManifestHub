@@ -1,0 +1,28 @@
+{
+    "appid": 1250790,
+    "name": "Crafting Idle Clicker",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-17 16:11:40",
+    "change_number": 29603565,
+    "depot": {
+        "1250791": {
+            "manifests": {
+                "public": {
+                    "gid": "593963188463073493",
+                    "size": "519744551",
+                    "download": "170015024"
+                }
+            },
+            "decryptionkey": "d2314775471efea67e018a202908acdf878d20466a5e93bc3f320206c4848ace"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18882101",
+                "timeupdated": "1750147897"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
