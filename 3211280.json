@@ -1,0 +1,37 @@
+{
+    "appid": 3211280,
+    "name": "Electro Bop Boxing League",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 08:47:45",
+    "change_number": 29677670,
+    "depot": {
+        "3211281": {
+            "manifests": {
+                "public": {
+                    "gid": "1092600819816527135",
+                    "size": "922436575",
+                    "download": "393395424"
+                },
+                "testing": {
+                    "gid": "6162283701170098719",
+                    "size": "921121951",
+                    "download": "391710752"
+                }
+            },
+            "decryptionkey": "af43620bcdd1a237e6393dd272ed7d217f50620b9c33d0c69d2893c0b8399273"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18683041",
+                "timeupdated": "1748663968"
+            },
+            "testing": {
+                "buildid": "18151137",
+                "description": " test branch",
+                "timeupdated": "1744933696"
+            }
+        }
+    }
+}
