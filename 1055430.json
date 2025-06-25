@@ -1,0 +1,42 @@
+{
+    "appid": 1055430,
+    "name": "Swords and Sandals Classic Collection",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-16 09:16:23",
+    "change_number": 29579087,
+    "depot": {
+        "1055431": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8306258091136223893",
+                    "size": "697139952",
+                    "download": "522507264"
+                }
+            }
+        },
+        "1055432": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8583273846534575660",
+                    "size": "1836747735",
+                    "download": "1287066352"
+                }
+            },
+            "decryptionkey": "a76e19417ad344b132f127e1e30afbe5acb7058130665602d4cc586bfc7c122c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18876852",
+                "timeupdated": "1750036548"
+            }
+        }
+    }
+}
