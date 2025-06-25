@@ -1,0 +1,31 @@
+{
+    "appid": 3631850,
+    "name": "Kyoto Anomaly",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-05 17:22:37",
+    "change_number": 29384768,
+    "depot": {
+        "3631851": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2719232257434986559",
+                    "size": "3840128367",
+                    "download": "1789423856"
+                }
+            },
+            "decryptionkey": "47731a005e2bb4dab265a0a8ba8d12dbb8b2854da14cd538c6ab9b7e1f4465a3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18743502",
+                "timeupdated": "1749088254"
+            }
+        }
+    }
+}
