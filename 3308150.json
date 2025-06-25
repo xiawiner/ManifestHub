@@ -1,0 +1,50 @@
+{
+    "appid": 3308150,
+    "name": "Handstand Hank",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 15:23:37",
+    "change_number": 29680141,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "",
+        "3308151": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9162032552395125251",
+                    "size": "7809084917",
+                    "download": "7578430592"
+                }
+            },
+            "decryptionkey": "fc2c5560b2affe13535e4601451e7edad7125d12bc0be93456702ee30119b5de"
+        },
+        "3308152": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18945471",
+                "timeupdated": "1750457553"
+            }
+        }
+    }
+}
