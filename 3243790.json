@@ -1,0 +1,33 @@
+{
+    "appid": 3243790,
+    "name": "中华英雄Online-一代宗师",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 16:14:43",
+    "change_number": 29664146,
+    "depot": {
+        "3243791": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5453578337395038771",
+                    "size": "12709632036",
+                    "download": "5628534640"
+                }
+            },
+            "decryptionkey": "5b08873185c1ccf1c8e6d577b4e40f205c7209ef215d40622594d8ad11dc4c61"
+        },
+        "baselanguages": "schinese",
+        "branches": {
+            "public": {
+                "buildid": "18810389",
+                "timeupdated": "1749606290"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
