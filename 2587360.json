@@ -1,0 +1,47 @@
+{
+    "appid": 2587360,
+    "name": "Neon Marble Rust",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-21 01:10:12",
+    "change_number": 29672736,
+    "depot": {
+        "2587362": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1845139491613336064",
+                    "size": "397037505",
+                    "download": "177682912"
+                }
+            },
+            "decryptionkey": "1f2331b82d7eec2b7324f889a476af98b8d8f5903a5e7343185cb55359419b4a"
+        },
+        "2587363": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7328949155722831307",
+                    "size": "424710522",
+                    "download": "186339776"
+                }
+            },
+            "decryptionkey": "d2fbab7f1d9eaaf31bebda4b511868db1a912e345635c54a7d24b0d0a6a19bb6"
+        },
+        "3833880": {
+            "dlcappid": "3833880"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18683409",
+                "timeupdated": "1748668537"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
