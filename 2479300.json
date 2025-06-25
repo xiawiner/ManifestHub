@@ -1,0 +1,28 @@
+{
+    "appid": 2479300,
+    "name": "A Promise Best Left Unkept - Aya Edition",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-11 08:44:22",
+    "change_number": 29496999,
+    "depot": {
+        "2479301": {
+            "manifests": {
+                "public": {
+                    "gid": "4538437111226038857",
+                    "size": "3535813084",
+                    "download": "2864623792"
+                }
+            },
+            "decryptionkey": "c049e29b9c3052c891d0c923a2edf1782883358c664a9d86a26a4ee63531ebc9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18753958",
+                "timeupdated": "1749142916"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
