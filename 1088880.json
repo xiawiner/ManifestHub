@@ -1,0 +1,27 @@
+{
+    "appid": 1088880,
+    "name": "Пацанский цитатник / Russian Test",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-08 16:22:46",
+    "change_number": 29443877,
+    "depot": {
+        "1088881": {
+            "manifests": {
+                "public": {
+                    "gid": "4593275015363695384",
+                    "size": "187175037",
+                    "download": "85705664"
+                }
+            },
+            "decryptionkey": "f6706dad739eb88d4bec460cb0f05ca7142b42e5501725ba67368ce62bf36ff4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3929137",
+                "timeupdated": "1560861444"
+            }
+        }
+    }
+}
