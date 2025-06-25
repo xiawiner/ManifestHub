@@ -1,0 +1,28 @@
+{
+    "appid": 3440120,
+    "name": "Knights of the Crusades",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 04:48:06",
+    "change_number": 29675451,
+    "depot": {
+        "3440121": {
+            "manifests": {
+                "public": {
+                    "gid": "2500143445346397991",
+                    "size": "6329205437",
+                    "download": "1766549488"
+                }
+            },
+            "decryptionkey": "7cc70acfc194ddb82e09fada54622a1eaa87031c9f147117a616a8cc2d727988"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18944290",
+                "timeupdated": "1750452481"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
