@@ -1,0 +1,35 @@
+{
+    "appid": 1683400,
+    "name": "The Chronicles: Wasteland Assault",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-19 14:12:13",
+    "change_number": 29056057,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1683401": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5888397065505249217",
+                    "size": "5787538717",
+                    "download": "2316006448"
+                }
+            },
+            "decryptionkey": "abbbd35ef49d68bafe3d7b0a3558f1148b6a59ab2a88a8a8b8065c6ca132502a"
+        },
+        "3409530": {
+            "dlcappid": "3409530"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18499788",
+                "timeupdated": "1747451943"
+            }
+        }
+    }
+}
