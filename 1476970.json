@@ -1,0 +1,46 @@
+{
+    "appid": 1476970,
+    "name": "Legends of Idleon MMO",
+    "type": "Game",
+    "schinese_name": "IdleOn - 放置类MMO",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 05:30:04",
+    "change_number": 29655232,
+    "depot": {
+        "1476971": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6419183490614589623",
+                    "size": "294566237",
+                    "download": "140540256"
+                }
+            },
+            "decryptionkey": "e922d073b8279666458207572cbcb8aaec1002653d68c97ce3c2bd8f56e43a55"
+        },
+        "1476972": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2655040563971588423",
+                    "size": "273570313",
+                    "download": "137677824"
+                }
+            },
+            "decryptionkey": "8baf43b04d99608238ff2f1bda7dfb3f23026f08531a8d68936c8e80b083caee"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18782491",
+                "timeupdated": "1749362664"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
