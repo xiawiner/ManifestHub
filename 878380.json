@@ -1,0 +1,55 @@
+{
+    "appid": 878380,
+    "name": "东方大战争 ~ Touhou Big Big Battle",
+    "type": "Game",
+    "schinese_name": "东方大战争 ~ Touhou Big Big Battle",
+    "isfreeapp": 1,
+    "update_time": "2025-05-19 19:15:24",
+    "change_number": 29060480,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,schinese,japanese",
+        "878381": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3126611051207999621",
+                    "size": "3557831068",
+                    "download": "3061906272"
+                }
+            },
+            "decryptionkey": "1084f8d115eae1f2a984f037c57d24e376258520ca4ecfbcda25374536205bb6"
+        },
+        "878382": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {}
+        },
+        "878383": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {}
+        },
+        "878384": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "18504495",
+                "timeupdated": "1747653317"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
