@@ -1,0 +1,27 @@
+{
+    "appid": 3406850,
+    "name": "Debugging Hero",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 14:17:13",
+    "change_number": 29662505,
+    "depot": {
+        "3406851": {
+            "manifests": {
+                "public": {
+                    "gid": "31760627848144413",
+                    "size": "345591667",
+                    "download": "310025872"
+                }
+            },
+            "decryptionkey": "d6b82538f2e24ef5312c3082e4f3f12a639a5958ebd657e48ed22f3e0dfe789a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18936131",
+                "timeupdated": "1750400228"
+            }
+        }
+    }
+}
