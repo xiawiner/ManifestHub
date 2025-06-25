@@ -1,0 +1,44 @@
+{
+    "appid": 1751270,
+    "name": "GunsBox VR",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 00:52:20",
+    "change_number": 29672368,
+    "depot": {
+        "workshopdepot": "1751270",
+        "hasdepotsindlc": "1",
+        "1751271": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7554678547964285778",
+                    "size": "4867690889",
+                    "download": "3966514336"
+                },
+                "experimental": {
+                    "gid": "7554678547964285778",
+                    "size": "4867690889",
+                    "download": "3966514336"
+                }
+            },
+            "decryptionkey": "2b913aa70119cb6e5ff7ce049dc52cf0a576b9efb2287be8c90dd5940ce29cab"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13182724",
+                "timeupdated": "1705392896"
+            },
+            "experimental": {
+                "buildid": "13182724",
+                "description": "experimental",
+                "timeupdated": "1705392869"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
