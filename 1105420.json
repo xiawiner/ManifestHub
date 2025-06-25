@@ -1,0 +1,47 @@
+{
+    "appid": 1105420,
+    "name": "Game of Thrones Winter is Coming",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-19 19:18:47",
+    "change_number": 29648207,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,thai,japanese,portuguese,polish,turkish,vietnamese",
+        "1105422": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4333729183097569161",
+                    "size": "4857404487",
+                    "download": "3769781568"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1105423": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2768472088786945499",
+                    "size": "9670765720",
+                    "download": "7201387984"
+                }
+            },
+            "decryptionkey": "a6a1d913607540bd50aeaad67fb903307b4c23add07c6eabc9c49a6541b00438"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18925892",
+                "timeupdated": "1750331923"
+            }
+        }
+    }
+}
