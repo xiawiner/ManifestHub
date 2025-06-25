@@ -1,0 +1,27 @@
+{
+    "appid": 2265180,
+    "name": "Sex with Succubus ❤️‍🔥",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-23 08:20:14",
+    "change_number": 29138900,
+    "depot": {
+        "2265181": {
+            "manifests": {
+                "public": {
+                    "gid": "4723683278328206514",
+                    "size": "1532462484",
+                    "download": "727489760"
+                }
+            },
+            "decryptionkey": "4832d6cc6ef75aeccd32e52f21aa360ae94f2418558a03f9051af7c01fd0f464"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10523296",
+                "timeupdated": "1676028313"
+            }
+        }
+    }
+}
