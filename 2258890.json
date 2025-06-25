@@ -1,0 +1,28 @@
+{
+    "appid": 2258890,
+    "name": "Xanadu Land",
+    "type": "Game",
+    "schinese_name": "黑白之地",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 19:50:30",
+    "change_number": 29667506,
+    "depot": {
+        "2258891": {
+            "manifests": {
+                "public": {
+                    "gid": "5588301785284782042",
+                    "size": "452172665",
+                    "download": "267534048"
+                }
+            },
+            "decryptionkey": "b72d8df425afc5778a560cf250457c52b1123ce358a058ae05538cea39f9be4d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18939626",
+                "timeupdated": "1750420225"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
