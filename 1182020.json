@@ -1,0 +1,46 @@
+{
+    "appid": 1182020,
+    "name": "WGT Golf",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-22 05:57:37",
+    "change_number": 29684262,
+    "depot": {
+        "1182021": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "582800766696627307",
+                    "size": "495735249",
+                    "download": "104610816"
+                }
+            },
+            "decryptionkey": "e9d9f0fb9746b747bb2eb19fa74297a0c53a887dbcf7fe5048c43b5813c15db7"
+        },
+        "1182022": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "261476751728652521",
+                    "size": "284902426",
+                    "download": "78265696"
+                }
+            },
+            "decryptionkey": "73cda5e05e4ee4abbdf3ebf67ff0fa13b088c5f72e404f8679bf049a4c51211c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18772488",
+                "timeupdated": "1749484192"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
