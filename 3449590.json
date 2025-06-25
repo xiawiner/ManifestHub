@@ -1,0 +1,28 @@
+{
+    "appid": 3449590,
+    "name": "Murim Survival",
+    "type": "Game",
+    "schinese_name": "武林生存",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:58:30",
+    "change_number": 29684585,
+    "depot": {
+        "3449591": {
+            "manifests": {
+                "public": {
+                    "gid": "6938600546406681497",
+                    "size": "551615070",
+                    "download": "142601024"
+                }
+            },
+            "decryptionkey": "80c64ca6bb584e1917ae422b2136a7f6b64847fa8f40f0270b8cee2ef33b08fd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18007136",
+                "timeupdated": "1744004153"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
