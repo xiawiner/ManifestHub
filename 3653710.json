@@ -1,0 +1,30 @@
+{
+    "appid": 3653710,
+    "name": "CyberControl: Another Life",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 00:33:28",
+    "change_number": 29672091,
+    "depot": {
+        "3653711": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9068236945315214487",
+                    "size": "307479262",
+                    "download": "209634944"
+                }
+            },
+            "decryptionkey": "181d145b7d37d84d0a3f9c62b6c8c54ebdc7b268ffac5addfb0999078cd9d9be"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18942572",
+                "timeupdated": "1750437203"
+            }
+        }
+    }
+}
