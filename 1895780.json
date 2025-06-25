@@ -1,0 +1,28 @@
+{
+    "appid": 1895780,
+    "name": "Sexy Space Airlines",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-19 01:08:30",
+    "change_number": 29633860,
+    "depot": {
+        "1895781": {
+            "manifests": {
+                "public": {
+                    "gid": "7720508049858084350",
+                    "size": "214318034",
+                    "download": "92573888"
+                }
+            },
+            "decryptionkey": "6d05487340f623a325941d29fc85e8bb3dc9fa2ac7d7285659a7d0ad34b8c6a2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18912071",
+                "timeupdated": "1750266505"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
