@@ -1,0 +1,51 @@
+{
+    "appid": 428180,
+    "name": "Islet Online",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 15:10:12",
+    "change_number": 29663157,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "428181": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5565805377216596833",
+                    "size": "773450815",
+                    "download": "636481440"
+                }
+            },
+            "decryptionkey": "667b9139de0b15a8a389eec0db89d64ef460ca1d170872965db5dc1e95675406"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18936273",
+                "timeupdated": "1750403405"
+            }
+        }
+    }
+}
