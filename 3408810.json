@@ -1,0 +1,57 @@
+{
+    "appid": 3408810,
+    "name": "WonderLang Spanish",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-09 21:19:02",
+    "change_number": 29463183,
+    "depot": {
+        "3408812": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1016670283468689339",
+                    "size": "3175628848",
+                    "download": "2381922768"
+                },
+                "beta": {
+                    "gid": "5008323885709203970",
+                    "size": "3183469312",
+                    "download": "2390762032"
+                }
+            }
+        },
+        "3408813": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2879085006800267351",
+                    "size": "3035736971",
+                    "download": "2352765328"
+                },
+                "beta": {
+                    "gid": "1345223576535832701",
+                    "size": "2982286205",
+                    "download": "2324814016"
+                }
+            },
+            "decryptionkey": "d36d10603aad23b30ee9e1c6c528eac4acacc3229180917bb63b6dd3c88afdb9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18794949",
+                "timeupdated": "1749475134"
+            },
+            "beta": {
+                "buildid": "18073514",
+                "description": "for beta testing",
+                "timeupdated": "1744382573"
+            }
+        }
+    }
+}
