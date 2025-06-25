@@ -1,0 +1,43 @@
+{
+    "appid": 3534850,
+    "name": "Summit : Steps of Solace",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 02:35:29",
+    "change_number": 29673956,
+    "depot": {
+        "baselanguages": "english,german,french,italian,schinese,russian,japanese,portuguese",
+        "3534851": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4217924135745658986",
+                    "size": "161252176",
+                    "download": "85256368"
+                },
+                "local": {
+                    "gid": "1528279430597953172",
+                    "size": "227149936",
+                    "download": "110985520"
+                }
+            },
+            "decryptionkey": "225761edf0e981c9eeae5fb0e29c5c9847893ccafecdbfcd3af4ede7d86a9f7a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18943740",
+                "timeupdated": "1750444522"
+            },
+            "local": {
+                "buildid": "17718626",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1741919700"
+            }
+        }
+    }
+}
