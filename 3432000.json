@@ -1,0 +1,27 @@
+{
+    "appid": 3432000,
+    "name": "Memory of Lust",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 04:56:45",
+    "change_number": 29675555,
+    "depot": {
+        "3432001": {
+            "manifests": {
+                "public": {
+                    "gid": "3522769527941394174",
+                    "size": "1835237022",
+                    "download": "1651609008"
+                }
+            },
+            "decryptionkey": "6503f0c1eb4ee13f42a68d654dfcedc5d9af64a7e899f394d0a0d293a7ff16a1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18892063",
+                "timeupdated": "1750133348"
+            }
+        }
+    }
+}
