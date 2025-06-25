@@ -1,0 +1,42 @@
+{
+    "appid": 2430470,
+    "name": "Vilde",
+    "type": "Game",
+    "schinese_name": "维尔德：枪域争锋",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 21:54:50",
+    "change_number": 29682525,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2430471": {
+            "manifests": {
+                "public": {
+                    "gid": "2982811236812951071",
+                    "size": "3409739466",
+                    "download": "2795092528"
+                }
+            },
+            "decryptionkey": "003e2f29b651f13ced562761e2661d1f9436e28c504d16ed7ce77a52d219565c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18882548",
+                "timeupdated": "1750082107"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
