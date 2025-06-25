@@ -1,0 +1,60 @@
+{
+    "appid": 822240,
+    "name": "Animal Jam",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 10:52:48",
+    "change_number": 29678567,
+    "depot": {
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "822241": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3264852459594506105",
+                    "size": "412573844",
+                    "download": "92474384"
+                }
+            },
+            "decryptionkey": "8cea4d4a6a5b62151393c35dbfb12ae7d47fb15f124d417867d12028006e3fea"
+        },
+        "822242": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4779471348672006567",
+                    "size": "528085188",
+                    "download": "110102576"
+                }
+            },
+            "decryptionkey": "cba73071c79d4464923cc9c9ed50a50beb65bc90de9cf07304b46023635fa619"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18723274",
+                "timeupdated": "1749066167"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
