@@ -1,0 +1,31 @@
+{
+    "appid": 3648910,
+    "name": "超忍伝",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 10:51:29",
+    "change_number": 29561013,
+    "depot": {
+        "3648911": {},
+        "3648912": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6070822749035971000",
+                    "size": "135615175",
+                    "download": "36637856"
+                }
+            },
+            "decryptionkey": "6f05971e8a035b8f94d01fbdb0c33da71537194e9bc87710630420e9d72965af"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18828511",
+                "timeupdated": "1749661284"
+            }
+        }
+    }
+}
