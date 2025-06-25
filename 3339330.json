@@ -1,0 +1,28 @@
+{
+    "appid": 3339330,
+    "name": "Junkyard Builder",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:59:45",
+    "change_number": 29684954,
+    "depot": {
+        "3339331": {
+            "manifests": {
+                "public": {
+                    "gid": "4001986865836743533",
+                    "size": "4696704655",
+                    "download": "1983517232"
+                }
+            },
+            "decryptionkey": "3b66c312e31f8601136acfb71627f8b86904a62555395569f8acb4cfd2dfb57f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18885484",
+                "timeupdated": "1750091100"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
