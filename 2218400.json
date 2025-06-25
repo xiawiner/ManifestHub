@@ -1,0 +1,54 @@
+{
+    "appid": 2218400,
+    "name": "Greedland",
+    "type": "Game",
+    "schinese_name": "贪婪大地",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 02:39:26",
+    "change_number": 29674003,
+    "depot": {
+        "baselanguages": "",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2218401": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4107643689652350319",
+                    "size": "4064663610",
+                    "download": "3574029552"
+                }
+            },
+            "decryptionkey": "50ce9e04af153be16d359d90ff3f2cc322ab4f88e8407139c48e34e6d6477091"
+        },
+        "2218402": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18899285",
+                "timeupdated": "1750184880"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
