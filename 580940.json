@@ -1,0 +1,54 @@
+{
+    "appid": 580940,
+    "name": "Redneck Rampage Rides Again",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-11 01:10:30",
+    "change_number": 29491252,
+    "depot": {
+        "580941": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8613061582811564317",
+                    "size": "429367963",
+                    "download": "264852640"
+                }
+            }
+        },
+        "580942": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5715689150418431181",
+                    "size": "423775254",
+                    "download": "264107888"
+                }
+            },
+            "decryptionkey": "ef111450139fd72a4178a06f159f82e9c693d9fee9a4ab7435e7627d22f3663c"
+        },
+        "580943": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3702816272819268730",
+                    "size": "430349355",
+                    "download": "265899584"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "7427342",
+                "timeupdated": "1632685833"
+            }
+        }
+    }
+}
