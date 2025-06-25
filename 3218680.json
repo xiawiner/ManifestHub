@@ -1,0 +1,28 @@
+{
+    "appid": 3218680,
+    "name": "Touhou: Fearless Frogslayer",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 04:18:15",
+    "change_number": 29675109,
+    "depot": {
+        "3218681": {
+            "manifests": {
+                "public": {
+                    "gid": "5247468265982522552",
+                    "size": "391922928",
+                    "download": "264597504"
+                }
+            },
+            "decryptionkey": "3fb13dbb1d6f600b0edf6f6121ce5c5668f42a01d2d0fe11547893f433403ef8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18811161",
+                "timeupdated": "1749565809"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
