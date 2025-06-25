@@ -1,0 +1,67 @@
+{
+    "appid": 1114380,
+    "name": "Orgynizer",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 11:14:29",
+    "change_number": 29620921,
+    "depot": {
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1114381": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3575726731913464351",
+                    "size": "358271483",
+                    "download": "180486688"
+                },
+                "playtesting": {
+                    "gid": "3575726731913464351",
+                    "size": "358271483",
+                    "download": "180486688"
+                }
+            },
+            "decryptionkey": "90eeac32af2b7ae17121fc960d0d98659832a46cc6ed53b079897bb0829039ba"
+        },
+        "1114382": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "690791692242887235",
+                    "size": "546613549",
+                    "download": "188784208"
+                },
+                "playtesting": {
+                    "gid": "690791692242887235",
+                    "size": "546613549",
+                    "download": "188784208"
+                }
+            }
+        },
+        "workshopdepot": "1114380",
+        "branches": {
+            "public": {
+                "buildid": "18873535",
+                "timeupdated": "1749994058"
+            },
+            "playtesting": {
+                "buildid": "18873535",
+                "description": "The latest playable test",
+                "timeupdated": "1749993854"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
