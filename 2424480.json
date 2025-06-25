@@ -1,0 +1,42 @@
+{
+    "appid": 2424480,
+    "name": "No Heroes Here 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 08:37:13",
+    "change_number": 29598314,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2424481": {
+            "manifests": {
+                "public": {
+                    "gid": "3104808858863128876",
+                    "size": "616474375",
+                    "download": "401018032"
+                }
+            },
+            "decryptionkey": "99e221a590529d5b988e92592fd9dd4b1405db0b453d07610b6fa6168c04f1bb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16931376",
+                "timeupdated": "1736275737"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
