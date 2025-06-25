@@ -1,0 +1,75 @@
+{
+    "appid": 468070,
+    "name": "90 Minute Fever",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-24 21:09:36",
+    "change_number": 29166514,
+    "depot": {
+        "468071": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6736087148525196336",
+                    "size": "1671625822",
+                    "download": "140105520"
+                }
+            },
+            "decryptionkey": "e2fffc3d364bb3860f9a90f5322ba572cc7f3dd98395d3b66076e021bf28a057"
+        },
+        "468072": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1068139673868469058",
+                    "size": "1730889280",
+                    "download": "157007984"
+                }
+            },
+            "decryptionkey": "bc9faf1db3dfd34f17b6a15d26b73602d4b4cbbfc5b034a27012ee721add1176"
+        },
+        "468073": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8218558925169844918",
+                    "size": "1687574302",
+                    "download": "144514160"
+                }
+            },
+            "decryptionkey": "ba86c8af63f0671e749ae54a9ecbf8310c2fe8c9df5b97554395645d1b962bac"
+        },
+        "492810": {
+            "dlcappid": "492810",
+            "manifests": {
+                "public": {
+                    "gid": "2610293135538166736",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "503570": {
+            "dlcappid": "503570"
+        },
+        "502040": {
+            "dlcappid": "502040"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18593940",
+                "timeupdated": "1748086830"
+            }
+        }
+    }
+}
