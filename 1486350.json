@@ -1,0 +1,46 @@
+{
+    "appid": 1486350,
+    "name": "VRoid Studio",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-18 23:11:13",
+    "change_number": 29631586,
+    "depot": {
+        "1486351": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5422207028459724689",
+                    "size": "1100972507",
+                    "download": "532076480"
+                }
+            },
+            "decryptionkey": "d7f7173e82faedae356b19b75a8f6a7649767601cd3f8b171b198b706e282173"
+        },
+        "1486352": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3136808275419370099",
+                    "size": "1231014808",
+                    "download": "556049280"
+                }
+            },
+            "decryptionkey": "8aae19ad1ab9f4c920e5168df4ce9e66f7280f3dfcf4fbeb51ac2aeb4682c3be"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18744762",
+                "timeupdated": "1749103536"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
