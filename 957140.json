@@ -1,0 +1,33 @@
+{
+    "appid": 957140,
+    "name": "新世勇者传",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 17:05:12",
+    "change_number": 29563553,
+    "depot": {
+        "baselanguages": "schinese",
+        "hasdepotsindlc": "1",
+        "957141": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4892297637805489918",
+                    "size": "1817582236",
+                    "download": "1484672272"
+                }
+            },
+            "decryptionkey": "ad0cab8616874d07a9bbbf96a09564e3e37da642d969bf422942d3a096d1def6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18845668",
+                "timeupdated": "1749757211"
+            }
+        }
+    }
+}
