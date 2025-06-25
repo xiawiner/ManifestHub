@@ -1,0 +1,40 @@
+{
+    "appid": 3592130,
+    "name": "Альтушка для скуфа: Третий Шанс",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 13:12:37",
+    "change_number": 29642485,
+    "depot": {
+        "3592130": {
+            "dlcappid": "3592130",
+            "manifests": {
+                "public": {
+                    "gid": "2410606828879270354",
+                    "size": "1241200793",
+                    "download": "1061374160"
+                }
+            },
+            "decryptionkey": "98a605c120bfbf438467d0a7a1496df45373b97c697cc2e3345720f7e7f44e9b"
+        },
+        "3592131": {
+            "manifests": {
+                "public": {
+                    "gid": "743925020866909656",
+                    "size": "1241200793",
+                    "download": "1061373904"
+                }
+            },
+            "dlcappid": "3592130",
+            "decryptionkey": "f22d7b483575259af6ad36c0fd144172376029ef2d01e8243287f340236c46eb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18254987",
+                "timeupdated": "1745746047"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
