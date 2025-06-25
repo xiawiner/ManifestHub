@@ -1,0 +1,38 @@
+{
+    "appid": 2870430,
+    "name": "Godslayer Arena",
+    "type": "Game",
+    "schinese_name": "弑神者竞技场",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 06:18:12",
+    "change_number": 29686018,
+    "depot": {
+        "2870431": {
+            "manifests": {
+                "public": {
+                    "gid": "139730045277739849",
+                    "size": "3986747837",
+                    "download": "1301035584"
+                },
+                "experimental": {
+                    "gid": "139730045277739849",
+                    "size": "3986747837",
+                    "download": "1301035584"
+                }
+            },
+            "decryptionkey": "fee213fd375ad3a530c3de459562eacf8fca03e04cc93bd25d2d417b06ff5c68"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18945545",
+                "timeupdated": "1750470151"
+            },
+            "experimental": {
+                "buildid": "18945545",
+                "description": "For testing experimental changes.",
+                "timeupdated": "1750470136"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
