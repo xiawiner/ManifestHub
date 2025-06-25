@@ -1,0 +1,31 @@
+{
+    "appid": 3234760,
+    "name": "Orange Roulette",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:57:37",
+    "change_number": 29684263,
+    "depot": {
+        "3234761": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8766648845343965558",
+                    "size": "1669789065",
+                    "download": "428949312"
+                }
+            },
+            "decryptionkey": "29475705b2fe8497831bc768dcc95f0cf7007d651b9fbd3137d00a0ed8126259"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18521257",
+                "timeupdated": "1747675244"
+            }
+        }
+    }
+}
