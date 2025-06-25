@@ -1,0 +1,28 @@
+{
+    "appid": 2877770,
+    "name": "Into the Restless Ruins",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 08:03:44",
+    "change_number": 29677254,
+    "depot": {
+        "2877771": {
+            "manifests": {
+                "public": {
+                    "gid": "2253661251110625047",
+                    "size": "838592335",
+                    "download": "266659120"
+                }
+            },
+            "decryptionkey": "c32c1ceb29c1499590334c45e2c8e8108d118244bee3dcce9c7ee1029aa4385e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18617591",
+                "timeupdated": "1748353551"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
