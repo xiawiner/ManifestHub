@@ -1,0 +1,69 @@
+{
+    "appid": 703680,
+    "name": "Cursed Deal",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 21:19:09",
+    "change_number": 29607893,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,turkish,greek,ukrainian,latam",
+        "hasdepotsindlc": "0",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "703682": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5447109713810998383",
+                    "size": "17489158539",
+                    "download": "16520671344"
+                }
+            },
+            "decryptionkey": "1a7c4022ef90a1b0eed2fd8ec2311a9f219d173a1e7838b2825fa44a096ecb5e"
+        },
+        "2560700": {
+            "dlcappid": "2560700",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "703681": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "703683": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "18694238",
+                "timeupdated": "1750163521"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
