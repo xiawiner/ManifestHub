@@ -1,0 +1,43 @@
+{
+    "appid": 2735580,
+    "name": "Netherworld Covenant",
+    "type": "Game",
+    "schinese_name": "冥界契约",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 06:18:15",
+    "change_number": 29686018,
+    "depot": {
+        "2735583": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6020348024327425172",
+                    "size": "3991787499",
+                    "download": "2626994144"
+                }
+            },
+            "decryptionkey": "c55904da7d44d2a56d195136d0a47a4c722bd166cd278e69055417c1972b39be"
+        },
+        "2735582": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7690019492915265148",
+                    "size": "4160840793",
+                    "download": "2691778656"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18953676",
+                "timeupdated": "1750566902"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
