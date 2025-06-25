@@ -1,0 +1,43 @@
+{
+    "appid": 2538880,
+    "name": "灵拳",
+    "type": "Game",
+    "schinese_name": "灵拳 Spirit X Strike",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:53:29",
+    "change_number": 29684583,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2538881": {
+            "manifests": {
+                "public": {
+                    "gid": "5736926897273416474",
+                    "size": "10301548906",
+                    "download": "5084779696"
+                }
+            },
+            "decryptionkey": "9506481c0c4259baed78cb030051d0756c74686ab42efba444cce3f08fad6698"
+        },
+        "baselanguages": "english,french,schinese,tchinese,japanese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18931690",
+                "timeupdated": "1750366670"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
