@@ -1,0 +1,64 @@
+{
+    "appid": 2505120,
+    "name": "Plant Therapy",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-21 03:31:30",
+    "change_number": 29674615,
+    "depot": {
+        "2505121": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7155625666411998830",
+                    "size": "1206873730",
+                    "download": "223122896"
+                }
+            },
+            "decryptionkey": "e5389e0f807dda0b689c597afc445ac3714b678b0b91566dbf7d55796c3d03e4"
+        },
+        "2544540": {
+            "dlcappid": "2544540",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "2505122": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7743490669193112595",
+                    "size": "1210522244",
+                    "download": "217862688"
+                }
+            },
+            "decryptionkey": "52e0182bf691b244fbcb38e539624bde1804e51e7cd3ddc87b773768cc32ddf8"
+        },
+        "2607000": {
+            "dlcappid": "2607000",
+            "manifests": {
+                "public": {
+                    "gid": "281564768112636076",
+                    "size": "53805618",
+                    "download": "50195280"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18462309",
+                "timeupdated": "1750447884"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
