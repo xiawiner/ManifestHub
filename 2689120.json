@@ -1,0 +1,28 @@
+{
+    "appid": 2689120,
+    "name": "Gladio Mori",
+    "type": "Game",
+    "schinese_name": "蠢蠢角斗士",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 01:32:31",
+    "change_number": 29528722,
+    "depot": {
+        "2689121": {
+            "manifests": {
+                "public": {
+                    "gid": "6527463211277651562",
+                    "size": "572172044",
+                    "download": "195541776"
+                }
+            },
+            "decryptionkey": "87cb2be56e4de79d17f5cb52efc521ae4a02a57f2195116339023ad0aa27c4be"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18783368",
+                "timeupdated": "1749374707"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
