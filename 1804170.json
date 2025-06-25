@@ -1,0 +1,30 @@
+{
+    "appid": 1804170,
+    "name": "Mimicry",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-11 06:12:29",
+    "change_number": 29495332,
+    "depot": {
+        "1804171": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3703962363676749834",
+                    "size": "825074681",
+                    "download": "610355136"
+                }
+            },
+            "decryptionkey": "32ec26fa58bf833319faa48806099cfff9c9e5606aef188ed57fb068abdc0449"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18544977",
+                "timeupdated": "1747901678"
+            }
+        }
+    }
+}
