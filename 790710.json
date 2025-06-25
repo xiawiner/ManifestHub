@@ -1,0 +1,45 @@
+{
+    "appid": 790710,
+    "name": "World of Warplanes",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 05:32:37",
+    "change_number": 29656896,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,brazilian,bulgarian,ukrainian,latam",
+        "hasdepotsindlc": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "790711": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "790712": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3821165260073324835",
+                    "size": "51199551000",
+                    "download": "19111329296"
+                }
+            },
+            "decryptionkey": "529fe4f9361644adfdc2389388bc10afd1563f0289b363c7dc39bfd113061639"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18301702",
+                "timeupdated": "1746613676"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
