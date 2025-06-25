@@ -1,0 +1,58 @@
+{
+    "appid": 1019590,
+    "name": "Lovely Planet 2: April Skies",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 12:35:38",
+    "change_number": 29600857,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,thai,japanese",
+        "1019591": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2981978272582208916",
+                    "size": "221309638",
+                    "download": "89724000"
+                }
+            },
+            "decryptionkey": "8af80ec620910e4a0a771b02aae1b97a13389fd43f6a7934314a787c8ab5ddd9"
+        },
+        "1019592": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2784950825183037981",
+                    "size": "223389221",
+                    "download": "90441488"
+                }
+            },
+            "decryptionkey": "7aa34ca939179901f62c1cf9587d210c54ef3749aed3aa267dd659aced2e949b"
+        },
+        "1019593": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7113322739374272285",
+                    "size": "273417956",
+                    "download": "93849696"
+                }
+            },
+            "decryptionkey": "420a891d02aa014f043fd46942bbf7b6429796393a24f9997823f0b1c779346a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11556323",
+                "timeupdated": "1687743438"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
