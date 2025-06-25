@@ -1,0 +1,32 @@
+{
+    "appid": 2842430,
+    "name": "ARC: TCG",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-21 21:50:22",
+    "change_number": 29681321,
+    "depot": {
+        "2842431": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1262821170358767473",
+                    "size": "2630857566",
+                    "download": "1358590000"
+                }
+            },
+            "decryptionkey": "32e34328a586075917b30adc7ddc91bcca16136a302196ef1676a2a0eb15770e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18872485",
+                "timeupdated": "1749978206"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
