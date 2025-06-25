@@ -1,0 +1,27 @@
+{
+    "appid": 3277350,
+    "name": "光域",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-25 00:56:15",
+    "change_number": 29169269,
+    "depot": {
+        "3277351": {
+            "manifests": {
+                "public": {
+                    "gid": "6282385444239818543",
+                    "size": "3480325084",
+                    "download": "425052000"
+                }
+            },
+            "decryptionkey": "3983beae263b53ac80b932adba8cfd4ebb4aa1bb543b68912e8f0f216a707a13"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18595698",
+                "timeupdated": "1748105770"
+            }
+        }
+    }
+}
