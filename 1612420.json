@@ -1,0 +1,41 @@
+{
+    "appid": 1612420,
+    "name": "Suit for Hire",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 07:19:46",
+    "change_number": 29686363,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1612421": {
+            "manifests": {
+                "public": {
+                    "gid": "7386177402373380280",
+                    "size": "3882671379",
+                    "download": "3599380224"
+                }
+            },
+            "decryptionkey": "94247ea5c273f90c20d1c1269b4a3591ef8b2bca05db931d4c5e42774cf2ab30"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18945960",
+                "timeupdated": "1750462248"
+            }
+        }
+    }
+}
