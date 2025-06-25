@@ -1,0 +1,32 @@
+{
+    "appid": 1905950,
+    "name": "Shelter 69",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-17 18:09:43",
+    "change_number": 29605574,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1905951": {
+            "manifests": {
+                "public": {
+                    "gid": "4213819154897318222",
+                    "size": "581473971",
+                    "download": "186719824"
+                }
+            },
+            "decryptionkey": "120a75b8b2d2194d118156abfbb95b0ff600e423817a6d015297c86acfc666c5"
+        },
+        "1996190": {
+            "dlcappid": "1996190"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18895162",
+                "timeupdated": "1750154976"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
