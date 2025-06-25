@@ -1,0 +1,57 @@
+{
+    "appid": 2665460,
+    "name": "Windward Horizon",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:30:33",
+    "change_number": 29656038,
+    "depot": {
+        "2665461": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6792437691592269966",
+                    "size": "637162301",
+                    "download": "220163456"
+                }
+            },
+            "decryptionkey": "9056134f1beb54803ae1af6bad16bf430c796326251386fa7e0fab7453828202"
+        },
+        "2665462": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2308948842899740037",
+                    "size": "618295935",
+                    "download": "216698288"
+                }
+            }
+        },
+        "2665463": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4501646795997673023",
+                    "size": "636399375",
+                    "download": "255313008"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18931204",
+                "timeupdated": "1750362616"
+            }
+        }
+    }
+}
