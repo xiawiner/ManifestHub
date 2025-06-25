@@ -1,0 +1,28 @@
+{
+    "appid": 3272930,
+    "name": "A Few Days With Amber",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-31 06:11:28",
+    "change_number": 29280684,
+    "depot": {
+        "3272931": {
+            "manifests": {
+                "public": {
+                    "gid": "8391358990473257160",
+                    "size": "316467740",
+                    "download": "111914560"
+                }
+            },
+            "decryptionkey": "5497435ad57d66e673db7a1a652c86d0b5db54ad2071010d21805bbb7fe186b5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16985027",
+                "timeupdated": "1736759088"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
