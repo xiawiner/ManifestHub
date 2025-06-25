@@ -1,0 +1,29 @@
+{
+    "appid": 2600700,
+    "name": "CONERU -DIMENSION GIRL-",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 10:53:54",
+    "change_number": 29687373,
+    "depot": {
+        "2600701": {
+            "manifests": {
+                "public": {
+                    "gid": "2131279373747824672",
+                    "size": "7999988552",
+                    "download": "1209800320"
+                }
+            },
+            "decryptionkey": "e16d9db295680467e5d5f54651b5deea84352c34855775a0939f578e243337c3"
+        },
+        "baselanguages": "japanese",
+        "branches": {
+            "public": {
+                "buildid": "18762652",
+                "timeupdated": "1749198533"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
