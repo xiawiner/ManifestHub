@@ -1,0 +1,28 @@
+{
+    "appid": 2433470,
+    "name": "Romance Club",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-30 13:27:20",
+    "change_number": 29276426,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "2433471": {
+            "manifests": {
+                "public": {
+                    "gid": "706954026259596565",
+                    "size": "284897920",
+                    "download": "48316496"
+                }
+            },
+            "decryptionkey": "ac667597d93736b83175f22d67c434f6c04f67dae653ff76076652028bb35bb4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18669010",
+                "timeupdated": "1748581998"
+            }
+        }
+    }
+}
