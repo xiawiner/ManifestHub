@@ -1,0 +1,86 @@
+{
+    "appid": 290470,
+    "name": "Onigiri",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-19 15:16:30",
+    "change_number": 29644210,
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,tchinese,japanese",
+        "hasdepotsindlc": "1",
+        "290471": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7669756369227054768",
+                    "size": "8122339306",
+                    "download": "7421035104"
+                },
+                "32bit": {
+                    "gid": "8217192953434283826",
+                    "size": "8120637346",
+                    "download": "7420427520"
+                }
+            },
+            "decryptionkey": "a12568f64bcefa130f2d60b9bca7f89b440dce8086d824a680627b01b5226852"
+        },
+        "1348500": {
+            "dlcappid": "1348500",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8082176618882061066",
+                    "size": "713",
+                    "download": "448"
+                },
+                "32bit": {
+                    "gid": "8082176618882061066",
+                    "size": "713",
+                    "download": "448"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1348470": {
+            "dlcappid": "1348470",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7960574470458266110",
+                    "size": "914",
+                    "download": "528"
+                },
+                "32bit": {
+                    "gid": "7960574470458266110",
+                    "size": "914",
+                    "download": "528"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18922803",
+                "timeupdated": "1750317386"
+            },
+            "32bit": {
+                "buildid": "18922805",
+                "description": "onigiri 32bit",
+                "timeupdated": "1750317304"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
