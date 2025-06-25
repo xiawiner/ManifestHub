@@ -1,0 +1,42 @@
+{
+    "appid": 2416350,
+    "name": "Yard Sale Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 09:18:03",
+    "change_number": 29686924,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2416351": {
+            "manifests": {
+                "public": {
+                    "gid": "2064539517559150190",
+                    "size": "1267557052",
+                    "download": "1115033808"
+                }
+            },
+            "decryptionkey": "b8d7213d8e8911e8aade4c08851047c07ca5b9c1b99bba29555f5ea241c29a1f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18828905",
+                "timeupdated": "1749663032"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
