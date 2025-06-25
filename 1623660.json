@@ -1,0 +1,44 @@
+{
+    "appid": 1623660,
+    "name": "MIR4",
+    "type": "Game",
+    "schinese_name": "传奇4",
+    "isfreeapp": 1,
+    "update_time": "2025-06-18 16:13:57",
+    "change_number": 29624535,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "1623661": {
+            "manifests": {
+                "public": {
+                    "gid": "1897020533727733366",
+                    "size": "514955235",
+                    "download": "235151936"
+                }
+            },
+            "decryptionkey": "1041c3b158f316ee0590805796ae98ddb308f7468e1ce6de0ed1df161c879141"
+        },
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18745599",
+                "timeupdated": "1749510566"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
