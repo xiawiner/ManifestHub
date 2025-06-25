@@ -1,0 +1,78 @@
+{
+    "appid": 2407300,
+    "name": "Asteroids ++",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-21 05:43:43",
+    "change_number": 29676085,
+    "depot": {
+        "workshopdepot": "2407300",
+        "baselanguages": "english",
+        "2407301": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1142578306189493046",
+                    "size": "283120057",
+                    "download": "226920432"
+                },
+                "publicbeta": {
+                    "gid": "1142578306189493046",
+                    "size": "283120057",
+                    "download": "226920432"
+                },
+                "arm_branch": {
+                    "gid": "6979939072557749829",
+                    "size": "307498860",
+                    "download": "248975632"
+                }
+            },
+            "decryptionkey": "78a9b3d572dbb1d09574e56e0bd0107226e9f7f2cb2aa85874aa4783acc20c6b"
+        },
+        "2407302": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "652732572883694281",
+                    "size": "282482275",
+                    "download": "226297600"
+                },
+                "publicbeta": {
+                    "gid": "652732572883694281",
+                    "size": "282482275",
+                    "download": "226297600"
+                },
+                "arm_branch": {
+                    "gid": "2609533680579783415",
+                    "size": "302571736",
+                    "download": "248058928"
+                }
+            },
+            "decryptionkey": "9e33b732081e63761337e8e2a6d19e9eca715c2a9d3cf2f2eabe01254de47787"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18800876",
+                "timeupdated": "1749502519"
+            },
+            "publicbeta": {
+                "buildid": "18800876",
+                "description": "Public Beta of Asteroids ++",
+                "timeupdated": "1749502431"
+            },
+            "arm_branch": {
+                "buildid": "16572400",
+                "description": "Only for Windows ARM computers",
+                "timeupdated": "1732836477"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
