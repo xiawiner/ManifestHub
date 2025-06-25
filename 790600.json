@@ -1,0 +1,45 @@
+{
+    "appid": 790600,
+    "name": "Stormbound",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-13 01:30:32",
+    "change_number": 29527827,
+    "depot": {
+        "790601": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2963868054172508537",
+                    "size": "1465415457",
+                    "download": "172520656"
+                }
+            },
+            "decryptionkey": "11010f6ca08ac27991201a37d9e9d33673c15e98d51c0eb8ac9bf1e523d092d3"
+        },
+        "790602": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4132819771712308013",
+                    "size": "1279742533",
+                    "download": "152518320"
+                }
+            },
+            "decryptionkey": "017c171c6b14bb0920d5f32739dc0be3d160437b9ab15c25bb0335611e4cc207"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18462643",
+                "timeupdated": "1747236667"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
