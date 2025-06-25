@@ -1,0 +1,27 @@
+{
+    "appid": 1889890,
+    "name": "Shinehill",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-16 05:06:27",
+    "change_number": 29577456,
+    "depot": {
+        "1889891": {
+            "manifests": {
+                "public": {
+                    "gid": "3114655850871796913",
+                    "size": "997113948",
+                    "download": "737740560"
+                }
+            },
+            "decryptionkey": "394f614167c2148a460030a32651bb7767018fd312d0faf108ccd8fc3ee988a2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18875649",
+                "timeupdated": "1750021580"
+            }
+        }
+    }
+}
