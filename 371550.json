@@ -1,0 +1,30 @@
+{
+    "appid": 371550,
+    "name": "A Bastard's Tale",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 16:17:35",
+    "change_number": 29544881,
+    "depot": {
+        "371551": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8378771574327072167",
+                    "size": "68069804",
+                    "download": "68400176"
+                }
+            },
+            "decryptionkey": "8616551a9e7151229dd074d7fad31847f529ceb12eecaaf755adaf5101c1af2b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1601911",
+                "timeupdated": "1485894081"
+            }
+        }
+    }
+}
