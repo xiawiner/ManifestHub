@@ -1,0 +1,28 @@
+{
+    "appid": 3515550,
+    "name": "Mr. Meat",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 13:18:09",
+    "change_number": 29679448,
+    "depot": {
+        "3515551": {
+            "manifests": {
+                "public": {
+                    "gid": "59405656862712641",
+                    "size": "468391066",
+                    "download": "142255024"
+                }
+            },
+            "decryptionkey": "fb9a6a473186e026749119f5ba44c5c40b9bcc1ddf524a756f775a9ba0fc596b"
+        },
+        "baselanguages": "english,spanish,latam",
+        "branches": {
+            "public": {
+                "buildid": "18903385",
+                "timeupdated": "1750194976"
+            }
+        }
+    }
+}
