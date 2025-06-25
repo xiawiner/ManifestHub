@@ -1,0 +1,56 @@
+{
+    "appid": 3358250,
+    "name": "Loot of Baal",
+    "type": "Game",
+    "schinese_name": "巴尔的遗产",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 18:04:40",
+    "change_number": 29681235,
+    "depot": {
+        "baselanguages": "english,french,koreana,schinese,tchinese,russian,japanese,turkish",
+        "hasdepotsindlc": "1",
+        "3358251": {
+            "manifests": {
+                "public": {
+                    "gid": "4620416521443546514",
+                    "size": "1839221639",
+                    "download": "425818016"
+                },
+                "beta": {
+                    "gid": "6193347278694122899",
+                    "size": "1839266991",
+                    "download": "425827568"
+                }
+            },
+            "decryptionkey": "f68c49dc4bd554c9dbf396aae940daa371d8deae4986edff7244a6f2040680b8"
+        },
+        "3801620": {
+            "dlcappid": "3801620",
+            "manifests": {
+                "public": {
+                    "gid": "1874381177359130907",
+                    "size": "8",
+                    "download": "64"
+                },
+                "beta": {
+                    "gid": "1874381177359130907",
+                    "size": "8",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18940116",
+                "timeupdated": "1750423130"
+            },
+            "beta": {
+                "buildid": "18948878",
+                "description": "net",
+                "timeupdated": "1750497404"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
