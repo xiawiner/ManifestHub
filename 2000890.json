@@ -1,0 +1,45 @@
+{
+    "appid": 2000890,
+    "name": "MechWarrior 5: Clans",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 21:54:23",
+    "change_number": 29681466,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2000891": {
+            "manifests": {
+                "public": {
+                    "gid": "6822428157429341807",
+                    "size": "101452904579",
+                    "download": "98500451264"
+                }
+            },
+            "decryptionkey": "2e57d475d5e205a6ad926d2b6817b2585d9698098c141a54af8e60e6489bb444"
+        },
+        "hasdepotsindlc": "1",
+        "workshopdepot": "2000890",
+        "branches": {
+            "public": {
+                "buildid": "18478583",
+                "timeupdated": "1748019633"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
