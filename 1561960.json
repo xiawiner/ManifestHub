@@ -1,0 +1,62 @@
+{
+    "appid": 1561960,
+    "name": "Yield! Fall of Rome",
+    "type": "Game",
+    "schinese_name": "罗马陨落 - Yield! Fall of Rome",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 01:40:50",
+    "change_number": 29673246,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1561962": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7947719767414996825",
+                    "size": "1882075342",
+                    "download": "831623328"
+                }
+            },
+            "decryptionkey": "0660405628a3843952e55a1c68adde5756fc35f494c32eec8f30a7ee10e63125"
+        },
+        "1561963": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8184676736123473708",
+                    "size": "1898943633",
+                    "download": "835881472"
+                }
+            },
+            "decryptionkey": "3226137c81eb9f51c29e9ec4a1a7491650d811a63575bbd670d78914e6b1dd52"
+        },
+        "3372030": {
+            "dlcappid": "3372030",
+            "manifests": {
+                "public": {
+                    "gid": "329408780299180320",
+                    "size": "50055278",
+                    "download": "50164576"
+                }
+            },
+            "decryptionkey": "6879ab82d6eafbad1b970c3efe19aa47409251de5cf3e3e6c38f11d90364c0ec"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18842215",
+                "timeupdated": "1749742795"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
