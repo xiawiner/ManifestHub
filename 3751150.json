@@ -1,0 +1,47 @@
+{
+    "appid": 3751150,
+    "name": "Station 0 - المحطة 0",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 04:18:19",
+    "change_number": 29675114,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3751151": {
+            "manifests": {
+                "public": {
+                    "gid": "8305159775365162034",
+                    "size": "5106213213",
+                    "download": "4856856304"
+                }
+            },
+            "decryptionkey": "def1992297140d8e40a39e1cdfa2c04e9de970757b88b947a79efd6ba1b1e054"
+        },
+        "3751152": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18826200",
+                "timeupdated": "1749651018"
+            }
+        }
+    }
+}
