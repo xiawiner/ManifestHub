@@ -1,0 +1,28 @@
+{
+    "appid": 1989760,
+    "name": "Pax Augusta",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 12:31:47",
+    "change_number": 29679164,
+    "depot": {
+        "1989761": {
+            "manifests": {
+                "public": {
+                    "gid": "6736190095583900698",
+                    "size": "29106029050",
+                    "download": "14444896048"
+                }
+            },
+            "decryptionkey": "179baa77102a4e8a9ef108fda237b240f492841de6ac4699d94afea26aed6608"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18504428",
+                "timeupdated": "1747543708"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
