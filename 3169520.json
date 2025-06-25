@@ -1,0 +1,36 @@
+{
+    "appid": 3169520,
+    "name": "Warhammer 40,000: Space Marine - Master Crafted Edition",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 04:31:31",
+    "change_number": 29675290,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,polish,dutch,czech",
+        "3169521": {
+            "manifests": {
+                "public": {
+                    "gid": "7937958727984927930",
+                    "size": "46764664224",
+                    "download": "40633810656"
+                }
+            },
+            "decryptionkey": "9c327e47da8ad83eb864ec73bad3a78e2f7ff2844fd4cc6c3ed89e72725e9217"
+        },
+        "3169522": {},
+        "3169523": {
+            "config": {
+                "osarch": "64",
+                "steamdeck": "1"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18808083",
+                "timeupdated": "1749558030"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
