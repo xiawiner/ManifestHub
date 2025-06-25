@@ -1,0 +1,61 @@
+{
+    "appid": 237310,
+    "name": "Elsword",
+    "type": "Game",
+    "schinese_name": "艾尔之光",
+    "isfreeapp": 1,
+    "update_time": "2025-06-19 10:46:44",
+    "change_number": 29640944,
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english",
+        "237311": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5028036631188809167",
+                    "size": "25313256643",
+                    "download": "25426715360"
+                }
+            },
+            "decryptionkey": "dbf5ed23a0dc276193e06728915647e08ab8fcddb1e6ff4777ac5b5113550501"
+        },
+        "237312": {
+            "config": {
+                "language": "brazilian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3931468471741909999",
+                    "size": "25267065037",
+                    "download": "25385216384"
+                }
+            },
+            "decryptionkey": "2aba55b75f92345d9c0d89700839ea28559592670e56455aeaa76fb536ef401e"
+        },
+        "237313": {
+            "config": {
+                "language": "thai"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5246014828955575341",
+                    "size": "25249569572",
+                    "download": "25372130688"
+                }
+            },
+            "decryptionkey": "4eff99b650a38da94b13aa8a47cbccda30a77df64b82ef22efeacd1767778a62"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18920922",
+                "timeupdated": "1750301198"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
