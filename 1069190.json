@@ -1,0 +1,43 @@
+{
+    "appid": 1069190,
+    "name": "Flight Of Nova",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 21:47:18",
+    "change_number": 29630015,
+    "depot": {
+        "1069191": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2938815417238804560",
+                    "size": "8068058020",
+                    "download": "2260727680"
+                }
+            },
+            "decryptionkey": "6fd9fdecb27dcede2dccccd28f303f2e2f23e91045af6f2385ae629e86ec3472"
+        },
+        "1069194": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5615730781171351174",
+                    "size": "8136070487",
+                    "download": "2274328352"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18912997",
+                "timeupdated": "1750254433"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
