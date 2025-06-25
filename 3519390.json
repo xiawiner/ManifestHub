@@ -1,0 +1,28 @@
+{
+    "appid": 3519390,
+    "name": "Wreckfest 2 Dedicated Server",
+    "type": "Tool",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-22 21:01:19",
+    "change_number": 29126964,
+    "depot": {
+        "3519391": {
+            "manifests": {
+                "public": {
+                    "gid": "165068998243196038",
+                    "size": "1167894464",
+                    "download": "694111952"
+                }
+            },
+            "decryptionkey": "20022fdb59f665dbfc5e7de9b00bf36130ea6398a8b3b2d13e6dbf55b3f562cb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18561284",
+                "timeupdated": "1747918870"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
