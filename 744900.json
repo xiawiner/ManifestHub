@@ -1,0 +1,32 @@
+{
+    "appid": 744900,
+    "name": "Dead Frontier 2",
+    "type": "Game",
+    "schinese_name": "死亡边境2",
+    "isfreeapp": 1,
+    "update_time": "2025-06-18 22:50:43",
+    "change_number": 29631179,
+    "depot": {
+        "744901": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "378191607822145552",
+                    "size": "10768110259",
+                    "download": "4120489488"
+                }
+            },
+            "decryptionkey": "6c001af4bda0e78ffd4dafd2017db83c50571db2f086cfec5ad36efe7fbd736a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18440676",
+                "timeupdated": "1747126182"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
