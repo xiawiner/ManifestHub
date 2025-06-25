@@ -1,0 +1,58 @@
+{
+    "appid": 489520,
+    "name": "Minion Masters",
+    "type": "Game",
+    "schinese_name": "随从大师",
+    "isfreeapp": 1,
+    "update_time": "2025-06-17 04:42:18",
+    "change_number": 29595408,
+    "depot": {
+        "489521": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1059273836214056120",
+                    "size": "3783348550",
+                    "download": "3211994288"
+                }
+            },
+            "decryptionkey": "45a166379b24baf7777bc77d32ad618dbb49857a55199085a38bd2a0c5beee72"
+        },
+        "489522": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3329616495086480078",
+                    "size": "3783348550",
+                    "download": "3211994288"
+                }
+            },
+            "decryptionkey": "7225f5252b1a5ad86620873e7d4b862fcbafc56bbe826dd52be1b3b34c279f6c"
+        },
+        "489523": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6081400652518914520",
+                    "size": "3777389544",
+                    "download": "3220075264"
+                }
+            },
+            "decryptionkey": "d5321a86e91d11c18618b16ed442a2d53d2baecb3780fc25e2f7aa02da8723a7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18601981",
+                "timeupdated": "1748193602"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
