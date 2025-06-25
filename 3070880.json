@@ -1,0 +1,28 @@
+{
+    "appid": 3070880,
+    "name": "Farming & Supermarket Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-11 22:31:25",
+    "change_number": 29503160,
+    "depot": {
+        "3070881": {
+            "manifests": {
+                "public": {
+                    "gid": "5605964055928103229",
+                    "size": "1772581826",
+                    "download": "540076784"
+                }
+            },
+            "decryptionkey": "7689083b7ce5497c3fe92f58a175d1777d2c19284e940681609557d9d5c940a3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18733259",
+                "timeupdated": "1749051929"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
