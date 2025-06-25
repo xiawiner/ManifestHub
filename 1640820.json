@@ -1,0 +1,52 @@
+{
+    "appid": 1640820,
+    "name": "Chinese Frontiers",
+    "type": "Game",
+    "schinese_name": "华夏山河",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 10:16:48",
+    "change_number": 29687228,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1640821": {
+            "manifests": {
+                "public": {
+                    "gid": "119456162520934073",
+                    "size": "27938314685",
+                    "download": "12399201376"
+                }
+            },
+            "decryptionkey": "2de4c341c69a5caece120eed798bbd441bada826bdf8b1ea784ad8d1964397b9"
+        },
+        "1640822": {
+            "manifests": {
+                "public": {
+                    "gid": "2110041086799325647",
+                    "size": "10",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": "523e44823dd5e6b046a2f63a9d4c6cdea4d21188c21f153da271138c00b1685e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18930374",
+                "timeupdated": "1750356588"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
