@@ -1,0 +1,46 @@
+{
+    "appid": 1157250,
+    "name": "Anomaly Zone",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-13 05:18:46",
+    "change_number": 29537093,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1157251": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5063108651220192157",
+                    "size": "15786296290",
+                    "download": "10084032208"
+                }
+            },
+            "decryptionkey": "6b31cae9fddf57e22945cb5dd9162c7d3535c70f57a916b017e0cb59ac0a2ba2"
+        },
+        "baselanguages": "english,schinese,russian",
+        "branches": {
+            "public": {
+                "buildid": "18846643",
+                "timeupdated": "1749763121"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
