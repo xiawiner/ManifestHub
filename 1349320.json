@@ -1,0 +1,62 @@
+{
+    "appid": 1349320,
+    "name": "SGS Edit",
+    "type": "Tool",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-28 22:22:10",
+    "change_number": 29238075,
+    "depot": {
+        "1349321": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1148049235468714115",
+                    "size": "245583998",
+                    "download": "130968512"
+                }
+            },
+            "decryptionkey": "1869f71e501d4dab20b129b8e0be281401da62f0e76499cf5c8744a70c0a7c8b"
+        },
+        "1349322": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1724872020474160606",
+                    "size": "233528430",
+                    "download": "127427040"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1349323": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "678759140862584000",
+                    "size": "261507502",
+                    "download": "137789104"
+                }
+            }
+        },
+        "baselanguages": "english,french",
+        "branches": {
+            "public": {
+                "buildid": "18643275",
+                "timeupdated": "1748442105"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
