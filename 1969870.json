@@ -1,0 +1,65 @@
+{
+    "appid": 1969870,
+    "name": "生死狙击2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 18:32:19",
+    "change_number": 29666318,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,schinese",
+        "1969871": {
+            "manifests": {
+                "public": {
+                    "gid": "4552914066876355838",
+                    "size": "64579463450",
+                    "download": "60735705152"
+                },
+                "test": {
+                    "gid": "3452092766153593695",
+                    "size": "22090383386",
+                    "download": "19693481120"
+                }
+            },
+            "decryptionkey": "eb562f797b101b9491cff7e022f4123054a914f556f5c23ebb32a79d443f4cea"
+        },
+        "1969872": {
+            "manifests": {
+                "public": {
+                    "gid": "3292458352186849247",
+                    "size": "53430705613",
+                    "download": "50083139056"
+                },
+                "test": {
+                    "gid": "1257526151431576169",
+                    "size": "18830736518",
+                    "download": "17390634256"
+                }
+            },
+            "decryptionkey": "9f1e43c5ae4423baad6bb759be69ecef6ee3e8214f48a85456b3b6aa55bd8a1a"
+        },
+        "1969873": {
+            "manifests": {
+                "public": {
+                    "gid": "3019039649617415651",
+                    "size": "37923298991",
+                    "download": "32002169408"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18938772",
+                "timeupdated": "1750415535"
+            },
+            "test": {
+                "buildid": "9120318",
+                "description": "精英体验服",
+                "timeupdated": "1657797344"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
