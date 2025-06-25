@@ -1,0 +1,44 @@
+{
+    "appid": 1287540,
+    "name": "Dino Hazard: Chronos Blackout",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:53:20",
+    "change_number": 29682923,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
+        "1287541": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5320747859051601891",
+                    "size": "907658783",
+                    "download": "540863536"
+                }
+            },
+            "decryptionkey": "349f215bcc42a21c113013d88ecf4d4dcd11e194bd5a802e157231a96c4356f3"
+        },
+        "1287542": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1453468341308875482",
+                    "size": "957019802",
+                    "download": "539284720"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18950368",
+                "timeupdated": "1750515300"
+            }
+        }
+    }
+}
