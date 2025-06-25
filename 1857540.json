@@ -1,0 +1,44 @@
+{
+    "appid": 1857540,
+    "name": "Kurukshetra: Ascension",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-19 19:18:08",
+    "change_number": 29648192,
+    "depot": {
+        "1857541": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5083858099832203050",
+                    "size": "2114559785",
+                    "download": "1853990448"
+                }
+            },
+            "decryptionkey": "2903d96e5897db86886a2e223105800d47f8eb5df5f5c3d79dd319450a4dbae4"
+        },
+        "1857542": {
+            "config": {
+                "oslist": "macos",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "909978000979881124",
+                    "size": "2099053985",
+                    "download": "1729361152"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18761554",
+                "timeupdated": "1749280668"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
