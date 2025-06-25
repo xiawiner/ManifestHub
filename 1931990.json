@@ -1,0 +1,29 @@
+{
+    "appid": 1931990,
+    "name": "Sunrise's Order",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-23 05:25:05",
+    "change_number": 29132422,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1931991": {
+            "manifests": {
+                "public": {
+                    "gid": "1350806590417582322",
+                    "size": "1353328329",
+                    "download": "205289632"
+                }
+            },
+            "decryptionkey": "52df1b9e0ee6a89af80f10670a3b859a0d2408e96c5af860f13dcec23f7e15ff"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18569473",
+                "timeupdated": "1747933974"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
