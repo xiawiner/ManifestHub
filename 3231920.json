@@ -1,0 +1,52 @@
+{
+    "appid": 3231920,
+    "name": "Project SJHG",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-29 15:53:19",
+    "change_number": 29254845,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3231921": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6641582494632432767",
+                    "size": "9748763044",
+                    "download": "9464581584"
+                }
+            },
+            "decryptionkey": "622b443f4b585d765c9d53d0ba8c9a4811af3d0828bf9654e5ec632bf33277cd"
+        },
+        "baselanguages": "english,koreana",
+        "branches": {
+            "public": {
+                "buildid": "18655197",
+                "timeupdated": "1748505189"
+            }
+        }
+    }
+}
