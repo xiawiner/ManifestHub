@@ -1,0 +1,28 @@
+{
+    "appid": 3235170,
+    "name": "Islets Defense",
+    "type": "Game",
+    "schinese_name": "浮岛防线",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 07:05:55",
+    "change_number": 29686264,
+    "depot": {
+        "baselanguages": "english,german,french,schinese,tchinese,japanese,brazilian,latam",
+        "3235171": {
+            "manifests": {
+                "public": {
+                    "gid": "1163073549647484153",
+                    "size": "487448144",
+                    "download": "364893328"
+                }
+            },
+            "decryptionkey": "3711a03f0a3dd4f433eb05be626294fe2206997d92c41f9d85ab305240224859"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18929961",
+                "timeupdated": "1750354356"
+            }
+        }
+    }
+}
