@@ -1,0 +1,31 @@
+{
+    "appid": 3244670,
+    "name": "The Empty Desk",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 03:14:38",
+    "change_number": 29556299,
+    "depot": {
+        "3244671": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "972551724080265316",
+                    "size": "8599030167",
+                    "download": "3148079872"
+                }
+            },
+            "decryptionkey": "3ba4ea6202de099e57e5ee5d2bca860dc640202e5139fda281bf26f74ffa0776"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18509776",
+                "timeupdated": "1747588552"
+            }
+        }
+    }
+}
