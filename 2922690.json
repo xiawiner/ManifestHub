@@ -1,0 +1,27 @@
+{
+    "appid": 2922690,
+    "name": "Catale",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-09 13:54:44",
+    "change_number": 29455734,
+    "depot": {
+        "2922691": {
+            "manifests": {
+                "public": {
+                    "gid": "5464020878155988589",
+                    "size": "1041778789",
+                    "download": "575268288"
+                }
+            },
+            "decryptionkey": "2adb5aa0dc2671abb937107034835573795483d6c5b2b5cfd017324ec7752429"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18790431",
+                "timeupdated": "1749448477"
+            }
+        }
+    }
+}
