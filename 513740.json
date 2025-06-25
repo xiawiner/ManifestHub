@@ -1,0 +1,27 @@
+{
+    "appid": 513740,
+    "name": "Joana's Life",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-01 01:23:16",
+    "change_number": 29303516,
+    "depot": {
+        "513741": {
+            "manifests": {
+                "public": {
+                    "gid": "416001791692755054",
+                    "size": "5315387728",
+                    "download": "2291748240"
+                }
+            },
+            "decryptionkey": "9f4d11134177df7c6ff7e0a3ffb21e727de025b4cd9dba84fa12076085b1bde6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1312493",
+                "timeupdated": "1472729308"
+            }
+        }
+    }
+}
