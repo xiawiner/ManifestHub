@@ -1,0 +1,29 @@
+{
+    "appid": 1765160,
+    "name": "封神榜  伏魔三太子（重制版）",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 08:30:04",
+    "change_number": 29598241,
+    "depot": {
+        "baselanguages": "schinese",
+        "1765161": {
+            "manifests": {
+                "public": {
+                    "gid": "3897514835751626450",
+                    "size": "554549373",
+                    "download": "303349920"
+                }
+            },
+            "decryptionkey": "7f7db68c94f017ff62fdf18ebd80ba0b0af48da549e68cfd438049e7044ef9db"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "14268678",
+                "timeupdated": "1714880960"
+            }
+        }
+    }
+}
