@@ -1,0 +1,27 @@
+{
+    "appid": 3020130,
+    "name": "Foxlore",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 09:18:28",
+    "change_number": 29640012,
+    "depot": {
+        "3020131": {
+            "manifests": {
+                "public": {
+                    "gid": "354056585849570049",
+                    "size": "73512247",
+                    "download": "66121648"
+                }
+            },
+            "decryptionkey": "14054302617bc4156895b69a6adfbfea741f9eb96c5c5bb0b8de8862dc8f8d54"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18846932",
+                "timeupdated": "1749764363"
+            }
+        }
+    }
+}
