@@ -1,0 +1,102 @@
+{
+    "appid": 672590,
+    "name": "Azure Saga: Pathfinder",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 15:37:49",
+    "change_number": 29602994,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "672592": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6028789256253315001",
+                    "size": "2201708785",
+                    "download": "472875536"
+                }
+            }
+        },
+        "672593": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4712399395542738502",
+                    "size": "2153583844",
+                    "download": "459627680"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "672594": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5875631231103011989",
+                    "size": "2158214376",
+                    "download": "460911424"
+                }
+            },
+            "decryptionkey": "4101ea1ee2f6daacb1eef835ee3fa4401cfed9e2536bba04b555250f16f11bed"
+        },
+        "672591": {
+            "dlcappid": "783040",
+            "manifests": {
+                "public": {
+                    "gid": "78061601011536046",
+                    "size": "1578308",
+                    "download": "1599904"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "672595": {
+            "dlcappid": "699000",
+            "manifests": {
+                "public": {
+                    "gid": "3016834927294113528",
+                    "size": "1578359",
+                    "download": "1600000"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "672596": {
+            "dlcappid": "782770",
+            "manifests": {
+                "public": {
+                    "gid": "2873284006254059267",
+                    "size": "1578258",
+                    "download": "1599872"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "672597": {
+            "dlcappid": "783030",
+            "manifests": {
+                "public": {
+                    "gid": "331753019248241201",
+                    "size": "1578344",
+                    "download": "1600032"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "3371710",
+                "timeupdated": "1544146104"
+            }
+        }
+    }
+}
