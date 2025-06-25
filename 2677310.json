@@ -1,0 +1,54 @@
+{
+    "appid": 2677310,
+    "name": "GRIDROAD",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 07:19:59",
+    "change_number": 29686365,
+    "depot": {
+        "2677311": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7452305027448644357",
+                    "size": "129616157",
+                    "download": "40012272"
+                }
+            },
+            "decryptionkey": "ce05f5daeb38532c2a8eb83987f455bfd13108f3bad4645d70f420428a28e6dc"
+        },
+        "2677312": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4372581384035995958",
+                    "size": "153432176",
+                    "download": "47041072"
+                }
+            }
+        },
+        "2677313": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2341433066396708967",
+                    "size": "128061688",
+                    "download": "38332416"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18885789",
+                "timeupdated": "1750092321"
+            }
+        }
+    }
+}
