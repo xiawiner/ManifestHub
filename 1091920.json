@@ -1,0 +1,27 @@
+{
+    "appid": 1091920,
+    "name": "Plantera 2: Golden Acorn",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 23:15:21",
+    "change_number": 29575040,
+    "depot": {
+        "1091921": {
+            "manifests": {
+                "public": {
+                    "gid": "3859550229003090257",
+                    "size": "192338957",
+                    "download": "162357344"
+                }
+            },
+            "decryptionkey": "c01bcb85999d2fa414479543489bfb2af548fafe6fb1eae5b8175c581354e6dd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17106964",
+                "timeupdated": "1738598082"
+            }
+        }
+    }
+}
