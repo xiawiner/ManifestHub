@@ -1,0 +1,28 @@
+{
+    "appid": 3116810,
+    "name": "Saber Survivors",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 12:19:24",
+    "change_number": 29621582,
+    "depot": {
+        "3116811": {
+            "manifests": {
+                "public": {
+                    "gid": "6942402290699720324",
+                    "size": "296029018",
+                    "download": "42683632"
+                }
+            },
+            "decryptionkey": "d0c62ba169c449a6e7260840d6d6dce47740ca3609a09d1638516a5ee7c0d410"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17721062",
+                "timeupdated": "1741939745"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
