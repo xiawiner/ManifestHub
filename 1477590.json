@@ -1,0 +1,63 @@
+{
+    "appid": 1477590,
+    "name": "EZ2ON REBOOT : R",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 16:55:35",
+    "change_number": 29646006,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "1477591": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8808208397190663595",
+                    "size": "81594951567",
+                    "download": "73059218416"
+                }
+            },
+            "decryptionkey": "be6fde91b3fd41595188145d3f615546f92ef745010e1296bdec41f9cccb22d8"
+        },
+        "1477592": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2106498716838214965",
+                    "size": "70916731659",
+                    "download": "61857171488"
+                }
+            },
+            "decryptionkey": "2fd251cc6b1807b6f5660299063a872076c0169a063f52608c358dedfc1ff485"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18924210",
+                "timeupdated": "1750323328"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
