@@ -1,0 +1,42 @@
+{
+    "appid": 2193540,
+    "name": "Wizard of Legend 2",
+    "type": "Game",
+    "schinese_name": "传说法师2",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 02:38:16",
+    "change_number": 29635134,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2193541": {
+            "manifests": {
+                "public": {
+                    "gid": "4211276341314316136",
+                    "size": "3713724311",
+                    "download": "3267656944"
+                }
+            },
+            "decryptionkey": "0b38693b47350ed1df704c576d67dd2d05ce6e286543e940c52a95a6f7b3b812"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18736697",
+                "timeupdated": "1749736851"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
