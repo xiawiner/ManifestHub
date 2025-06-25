@@ -1,0 +1,39 @@
+{
+    "appid": 1116170,
+    "name": "CyberCorp",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:20:47",
+    "change_number": 29650966,
+    "depot": {
+        "1116171": {
+            "manifests": {
+                "public": {
+                    "gid": "7935754300955899488",
+                    "size": "8788192835",
+                    "download": "5904232576"
+                },
+                "beta": {
+                    "gid": "7935754300955899488",
+                    "size": "8788192835",
+                    "download": "5904232576"
+                }
+            },
+            "decryptionkey": "0a8e6d26608d6b4e3848c00bfc00da06c7a7efff396b34bab1820c5ab12fed8b"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18790028",
+                "timeupdated": "1749463786"
+            },
+            "beta": {
+                "buildid": "18790028",
+                "description": "Beta version",
+                "timeupdated": "1749445048"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
