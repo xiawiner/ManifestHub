@@ -1,0 +1,31 @@
+{
+    "appid": 2800840,
+    "name": "Gunbot Diplomacy",
+    "type": "Game",
+    "schinese_name": "炮舰外交",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 15:45:16",
+    "change_number": 29644832,
+    "depot": {
+        "2800841": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "54552311429835842",
+                    "size": "711623661",
+                    "download": "152053504"
+                }
+            },
+            "decryptionkey": "d905484c40e7ede92522929150334d5730e541dff68df7a2c4c0d2837f0a5d2e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18642597",
+                "timeupdated": "1748439357"
+            }
+        }
+    }
+}
