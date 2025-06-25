@@ -1,0 +1,98 @@
+{
+    "appid": 2835510,
+    "name": "SysAdmin Odyssey. Back to the office Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 07:36:26",
+    "change_number": 29558941,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2835513": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1381315481032054814",
+                    "size": "2971705432",
+                    "download": "581885568"
+                },
+                "0.15": {
+                    "gid": "1381315481032054814",
+                    "size": "2971705432",
+                    "download": "581885568"
+                }
+            },
+            "decryptionkey": "7e57387aed03ff44945d75ef33d3c6e272fdbe0976d7d317ffd23fe5cab47389"
+        },
+        "2835512": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4071514231390604283",
+                    "size": "2948021383",
+                    "download": "559429264"
+                },
+                "0.15": {
+                    "gid": "4071514231390604283",
+                    "size": "2948021383",
+                    "download": "559429264"
+                }
+            }
+        },
+        "2835511": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5554233378365317657",
+                    "size": "2956363918",
+                    "download": "570425360"
+                },
+                "0.15": {
+                    "gid": "5554233378365317657",
+                    "size": "2956363918",
+                    "download": "570425360"
+                }
+            }
+        },
+        "baselanguages": "",
+        "branches": {
+            "public": {
+                "buildid": "18695628",
+                "timeupdated": "1748821041"
+            },
+            "0.15": {
+                "buildid": "18695628",
+                "description": "build 0.15",
+                "timeupdated": "1748821004"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
