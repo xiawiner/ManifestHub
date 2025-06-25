@@ -1,0 +1,76 @@
+{
+    "appid": 1372660,
+    "name": "An Amazing Wizard",
+    "type": "Game",
+    "schinese_name": "神奇魔法师",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 22:23:18",
+    "change_number": 29669936,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,portuguese,polish,brazilian,ukrainian,latam",
+        "1372661": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4531133474380917867",
+                    "size": "3079860861",
+                    "download": "607276256"
+                },
+                "beta": {
+                    "gid": "4531133474380917867",
+                    "size": "3079860861",
+                    "download": "607276256"
+                }
+            },
+            "decryptionkey": "46b7f88c00efe708ee832d94d94b8df385f6452be162fccd9ec0fe8a191566e4"
+        },
+        "1372662": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5473965781679496374",
+                    "size": "3103893203",
+                    "download": "608576288"
+                },
+                "beta": {
+                    "gid": "5473965781679496374",
+                    "size": "3103893203",
+                    "download": "608576288"
+                }
+            }
+        },
+        "1372663": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7325050023153857984",
+                    "size": "3064849177",
+                    "download": "606088496"
+                },
+                "beta": {
+                    "gid": "7325050023153857984",
+                    "size": "3064849177",
+                    "download": "606088496"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18941098",
+                "timeupdated": "1750429387"
+            },
+            "beta": {
+                "buildid": "18941098",
+                "description": "Beta branch",
+                "timeupdated": "1750429265"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
