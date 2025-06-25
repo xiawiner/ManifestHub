@@ -1,0 +1,45 @@
+{
+    "appid": 2851700,
+    "name": "Nasty Zombies",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 08:29:13",
+    "change_number": 29686684,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2851701": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6196092692343158455",
+                    "size": "1229638484",
+                    "download": "385709808"
+                }
+            },
+            "decryptionkey": "053b3e90f41a63024b2603a78ecb597d6bc4633e43e218ef1117692b159e0d55"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18949823",
+                "timeupdated": "1750509424"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
