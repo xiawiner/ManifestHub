@@ -1,0 +1,45 @@
+{
+    "appid": 961200,
+    "name": "Predecessor",
+    "type": "Game",
+    "schinese_name": "先驱",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 05:31:52",
+    "change_number": 29656303,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "961201": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4262230499710311664",
+                    "size": "18230087394",
+                    "download": "14688201632"
+                }
+            },
+            "decryptionkey": "6741cadcf781daa8e89c92951a76d44c4aa8955ba7ae8657a5857ce8d22a56bf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18886135",
+                "timeupdated": "1750158679"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
