@@ -1,0 +1,29 @@
+{
+    "appid": 3059010,
+    "name": "Commando Collection",
+    "type": "Game",
+    "schinese_name": "二战前线合集",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 16:54:06",
+    "change_number": 29625220,
+    "depot": {
+        "3059011": {
+            "manifests": {
+                "public": {
+                    "gid": "9042798637534255291",
+                    "size": "313300890",
+                    "download": "285563424"
+                }
+            },
+            "decryptionkey": "0f60e5e2e1c7e3a45d14d6b1fcf6c228e0102bfe05e325313c53b9cfed38f8a7"
+        },
+        "workshopdepot": "3059010",
+        "branches": {
+            "public": {
+                "buildid": "18909518",
+                "timeupdated": "1750236841"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
