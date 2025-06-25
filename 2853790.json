@@ -1,0 +1,68 @@
+{
+    "appid": 2853790,
+    "name": "Wyvern Studios Solitaire: 30th Aniversary Edition",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-21 03:12:05",
+    "change_number": 29674398,
+    "depot": {
+        "baselanguages": "english",
+        "2853791": {
+            "manifests": {
+                "public": {
+                    "gid": "5289058946022480836",
+                    "size": "339514287",
+                    "download": "115723136"
+                }
+            },
+            "decryptionkey": "e197a442c192b1f78bde4350bdb72c020433f06339ff49ca9d1e452b73170cc2"
+        },
+        "2860080": {
+            "dlcappid": "2860080"
+        },
+        "3821640": {
+            "dlcappid": "3821640"
+        },
+        "3821650": {
+            "dlcappid": "3821650"
+        },
+        "3821660": {
+            "dlcappid": "3821660"
+        },
+        "3821670": {
+            "dlcappid": "3821670"
+        },
+        "3821690": {
+            "dlcappid": "3821690"
+        },
+        "3821700": {
+            "dlcappid": "3821700"
+        },
+        "3821710": {
+            "dlcappid": "3821710"
+        },
+        "3821720": {
+            "dlcappid": "3821720"
+        },
+        "3821730": {
+            "dlcappid": "3821730"
+        },
+        "3821740": {
+            "dlcappid": "3821740"
+        },
+        "3821750": {
+            "dlcappid": "3821750"
+        },
+        "3821680": {
+            "dlcappid": "3821680"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "13899966",
+                "timeupdated": "1711762236"
+            }
+        }
+    }
+}
