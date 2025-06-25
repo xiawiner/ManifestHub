@@ -1,0 +1,27 @@
+{
+    "appid": 3598250,
+    "name": "Virtual Frenzy - Nexus Corps",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-22 10:23:46",
+    "change_number": 29687251,
+    "depot": {
+        "3598251": {
+            "manifests": {
+                "public": {
+                    "gid": "8082168242643538793",
+                    "size": "731203710",
+                    "download": "268577104"
+                }
+            },
+            "decryptionkey": "7e99d50c226b27d781c72ae40f7f9575ac4cd84ced39b8576558a0bcc94e3eea"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18953447",
+                "timeupdated": "1750559022"
+            }
+        }
+    }
+}
