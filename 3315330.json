@@ -1,0 +1,35 @@
+{
+    "appid": 3315330,
+    "name": "Big Winner",
+    "type": "Game",
+    "schinese_name": "江城大赢家",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 21:57:38",
+    "change_number": 29682529,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3315331": {
+            "manifests": {
+                "public": {
+                    "gid": "8382281962704105926",
+                    "size": "1049035060",
+                    "download": "888976080"
+                }
+            },
+            "decryptionkey": "344564527350bf3b50dd5c3b53fad031f3bb5ada52f603d1bdb73a357ae67290"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18941440",
+                "timeupdated": "1750431422"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
