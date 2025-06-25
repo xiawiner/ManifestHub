@@ -1,0 +1,30 @@
+{
+    "appid": 2395760,
+    "name": "MagicCraft",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-14 15:00:42",
+    "change_number": 29562660,
+    "depot": {
+        "2395761": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7825409167444201009",
+                    "size": "1876721614",
+                    "download": "1514371648"
+                }
+            },
+            "decryptionkey": "7a8b3bf2f8f31ec68d8f4f9ea0eb54bb1cdc20e6a1722294d27cee776c00b240"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18749882",
+                "timeupdated": "1749124623"
+            }
+        }
+    }
+}
