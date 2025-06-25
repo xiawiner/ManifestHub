@@ -1,0 +1,36 @@
+{
+    "appid": 3002850,
+    "name": "FAIRY TAIL 2",
+    "type": "Game",
+    "schinese_name": "妖精的尾巴2",
+    "isfreeapp": 0,
+    "update_time": "2025-06-04 16:46:41",
+    "change_number": 29367221,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3002851": {
+            "manifests": {
+                "public": {
+                    "gid": "3514777598807704182",
+                    "size": "15650483909",
+                    "download": "12211236304"
+                }
+            },
+            "decryptionkey": "e948f2d613815929e41d2ea8914218fc1071df961d38a2f8e0336060c00fdb6c"
+        },
+        "baselanguages": "english,french,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18437575",
+                "timeupdated": "1748307297"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
