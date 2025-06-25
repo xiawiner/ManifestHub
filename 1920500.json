@@ -1,0 +1,32 @@
+{
+    "appid": 1920500,
+    "name": "STUG",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-10 03:21:28",
+    "change_number": 29471733,
+    "depot": {
+        "1920501": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2339390133435950702",
+                    "size": "355508604",
+                    "download": "142190912"
+                }
+            },
+            "decryptionkey": "c98b20136f839f78ec8a56120e3d29ecaba9228580639646cb9fcee337f8fa0b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18541590",
+                "timeupdated": "1747786545"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
