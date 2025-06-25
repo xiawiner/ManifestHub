@@ -1,0 +1,80 @@
+{
+    "appid": 2345800,
+    "name": "RetroArch - ScummVM",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-13 16:12:25",
+    "change_number": 29544805,
+    "depot": {
+        "2345800": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1322607333761126835",
+                    "size": "194258027",
+                    "download": "107974176"
+                },
+                "nightly": {
+                    "gid": "3248041226827088043",
+                    "size": "195193895",
+                    "download": "108342336"
+                }
+            },
+            "dlcappid": "2345800",
+            "decryptionkey": "77e5ba6f699bf646d9e770d4e4734e0e44ee3e2d9dceac61fa0d09ef333a018a"
+        },
+        "2345801": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2275048378178444075",
+                    "size": "201860435",
+                    "download": "108634672"
+                },
+                "nightly": {
+                    "gid": "3388459609337859017",
+                    "size": "202869007",
+                    "download": "108974208"
+                }
+            },
+            "dlcappid": "2345800",
+            "decryptionkey": "e8aa3667aabb1366f1ccf477be86528eb1975c6e3410512c2283afeeecd811d2"
+        },
+        "2345802": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1940786147057621637",
+                    "size": "298797150",
+                    "download": "128107968"
+                },
+                "nightly": {
+                    "gid": "1762570848488993298",
+                    "size": "300531770",
+                    "download": "128488768"
+                }
+            },
+            "dlcappid": "2345800",
+            "decryptionkey": "816c4fe90902fa171ac1fddbeaa71306ea775cbaa937c404cb4835f716f562fb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18265283",
+                "timeupdated": "1745845006"
+            },
+            "nightly": {
+                "buildid": "18852661",
+                "description": "Nightly unstable builds",
+                "timeupdated": "1749802339"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
