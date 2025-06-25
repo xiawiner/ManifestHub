@@ -1,0 +1,27 @@
+{
+    "appid": 2622000,
+    "name": "Astral Party ",
+    "type": "Game",
+    "schinese_name": "星引擎 Party",
+    "isfreeapp": 1,
+    "update_time": "2025-06-19 20:57:40",
+    "change_number": 29647657,
+    "depot": {
+        "2622001": {
+            "manifests": {
+                "public": {
+                    "gid": "5762979824303490744",
+                    "size": "6040450513",
+                    "download": "4583353408"
+                }
+            },
+            "decryptionkey": "e349ff4cf458e371d7328d5f0d88575f8b0bcfc869cf31c4bf50ff6085999585"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18765345",
+                "timeupdated": "1749210002"
+            }
+        }
+    }
+}
