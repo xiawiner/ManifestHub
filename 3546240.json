@@ -1,0 +1,27 @@
+{
+    "appid": 3546240,
+    "name": "치르노의 카드교실",
+    "type": "Game",
+    "schinese_name": "琪露诺的卡牌教室",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 18:28:22",
+    "change_number": 29647508,
+    "depot": {
+        "3546241": {
+            "manifests": {
+                "public": {
+                    "gid": "5304109340391517439",
+                    "size": "73314796",
+                    "download": "45735712"
+                }
+            },
+            "decryptionkey": "3be53f71993b362dfb07f9a24a1a2392ac26b4c17d28b8ff81a041eee63aba83"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18925299",
+                "timeupdated": "1750328897"
+            }
+        }
+    }
+}
