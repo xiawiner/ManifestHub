@@ -1,0 +1,37 @@
+{
+    "appid": 3232580,
+    "name": "Medieval Legacy",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 20:16:05",
+    "change_number": 29573896,
+    "depot": {
+        "3232581": {
+            "manifests": {
+                "public": {
+                    "gid": "348597806098724755",
+                    "size": "1450828487",
+                    "download": "246599296"
+                },
+                "unstable": {
+                    "gid": "1377313298908854628",
+                    "size": "1450843891",
+                    "download": "246749568"
+                }
+            },
+            "decryptionkey": "b96990e834aafc7731a6ef24150eecc00337eee048f876c7253ff30f2ddba1da"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18451155",
+                "timeupdated": "1747173126"
+            },
+            "unstable": {
+                "buildid": "18682188",
+                "description": "preview branch for in progress changes",
+                "timeupdated": "1748654608"
+            }
+        }
+    }
+}
