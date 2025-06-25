@@ -1,0 +1,39 @@
+{
+    "appid": 2617700,
+    "name": "Tinkerlands",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 00:00:43",
+    "change_number": 29632481,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2617701": {
+            "manifests": {
+                "public": {
+                    "gid": "8413944809275202345",
+                    "size": "294595821",
+                    "download": "125958320"
+                },
+                "china-dedicated-server": {
+                    "gid": "6760646581861766714",
+                    "size": "294601325",
+                    "download": "126004512"
+                }
+            },
+            "decryptionkey": "0151b8692c144b2d131cb45001d70cedfc16ae266e9857a28673d3db89e962ea"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18866921",
+                "timeupdated": "1749899626"
+            },
+            "china-dedicated-server": {
+                "buildid": "18867024",
+                "description": "china-dedicated-server",
+                "timeupdated": "1749900989"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
