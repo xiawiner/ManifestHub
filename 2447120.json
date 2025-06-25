@@ -1,0 +1,28 @@
+{
+    "appid": 2447120,
+    "name": "베일드 엣지(Veiled Edge)",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 01:17:31",
+    "change_number": 29525371,
+    "depot": {
+        "2447121": {
+            "manifests": {
+                "public": {
+                    "gid": "2906792961855299182",
+                    "size": "5414024058",
+                    "download": "457071568"
+                }
+            },
+            "decryptionkey": "e08a419241f28c016e9bb88a00e1f10ab7c6903f6c4b3f5d309442efc76d7ba3"
+        },
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18807297",
+                "timeupdated": "1749545928"
+            }
+        }
+    }
+}
