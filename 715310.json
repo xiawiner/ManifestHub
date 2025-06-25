@@ -1,0 +1,59 @@
+{
+    "appid": 715310,
+    "name": "Urban Rivals",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-27 23:32:06",
+    "change_number": 29215896,
+    "depot": {
+        "baselanguages": "",
+        "hasdepotsindlc": "1",
+        "715311": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7519524115670242121",
+                    "size": "1777555082",
+                    "download": "1221198720"
+                }
+            },
+            "decryptionkey": "f67c1b6bbaa78bdbde86ff8dda202b885b61a12d840e714fa0882f5b902a9c51"
+        },
+        "715312": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1213229660465077228",
+                    "size": "1781060741",
+                    "download": "1220802832"
+                }
+            },
+            "decryptionkey": "b8d1dc1579f74f60cdea99ede2769e727d16785ba26d14983f7e728befcce175"
+        },
+        "715313": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4401415132007778139",
+                    "size": "1815936385",
+                    "download": "1213665920"
+                }
+            },
+            "decryptionkey": "298aad182351fbdaedd04a8aaa880cfdead13fa1f6bdbb81b5262a550dbe201d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18627720",
+                "timeupdated": "1748359921"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
