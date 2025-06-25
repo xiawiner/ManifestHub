@@ -1,0 +1,38 @@
+{
+    "appid": 1976440,
+    "name": "CounterSide",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-12 15:31:03",
+    "change_number": 29523119,
+    "depot": {
+        "1976441": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2627287031274856673",
+                    "size": "13540388715",
+                    "download": "11205899936"
+                }
+            },
+            "decryptionkey": "3e2056d7a2ef32e4beb859050fbb0c1237893bcfd749a41177967323faa5454e"
+        },
+        "1976442": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "baselanguages": "english,german,french,koreana,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18824928",
+                "timeupdated": "1749713459"
+            }
+        }
+    }
+}
