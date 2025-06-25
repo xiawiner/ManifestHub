@@ -1,0 +1,28 @@
+{
+    "appid": 576430,
+    "name": "World Of Robots",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-17 19:22:38",
+    "change_number": 29606737,
+    "depot": {
+        "576431": {
+            "manifests": {
+                "public": {
+                    "gid": "6950844286249255115",
+                    "size": "1497756568",
+                    "download": "664500400"
+                }
+            },
+            "decryptionkey": "dcc2c39e6a13fb6e6da57af53efc5471eaac32cf65eb9e21ada113eb7a78cfdf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18896420",
+                "timeupdated": "1750159353"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
