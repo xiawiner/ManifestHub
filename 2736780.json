@@ -1,0 +1,46 @@
+{
+    "appid": 2736780,
+    "name": "RED NIGHT",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:32:51",
+    "change_number": 29656991,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "2736782": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2495161804720164975",
+                    "size": "9011105487",
+                    "download": "8515392784"
+                }
+            },
+            "decryptionkey": "41007945df8250123e1da15da6e9ec94863b3fb51a61279c7119fb7cdf909060"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18588619",
+                "timeupdated": "1748035297"
+            }
+        }
+    }
+}
