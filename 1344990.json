@@ -1,0 +1,29 @@
+{
+    "appid": 1344990,
+    "name": "Zefyr: A Thief's Melody",
+    "type": "Game",
+    "schinese_name": "如风：盗贼之歌",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 06:00:01",
+    "change_number": 29685175,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1344991": {
+            "manifests": {
+                "public": {
+                    "gid": "3610357635070523472",
+                    "size": "5673510468",
+                    "download": "1241239776"
+                }
+            },
+            "decryptionkey": "bd71f1bd90921b1664ae1799ba2abf6a1e46780127a4b932b1d6c66a4815bd33"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18950830",
+                "timeupdated": "1750535473"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
