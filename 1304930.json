@@ -1,0 +1,49 @@
+{
+    "appid": 1304930,
+    "name": "The Outlast Trials",
+    "type": "Game",
+    "schinese_name": "逃生：试炼",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 04:23:19",
+    "change_number": 29675188,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1304931": {
+            "manifests": {
+                "public": {
+                    "gid": "6749732324828615774",
+                    "size": "48972835510",
+                    "download": "46619947216"
+                }
+            },
+            "decryptionkey": "81611074b6fd0d2e108d34562aca73115d01d6bea3f08092b8d98aad42c2f0fb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18722992",
+                "timeupdated": "1749131877"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
