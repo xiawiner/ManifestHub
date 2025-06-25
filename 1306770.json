@@ -1,0 +1,41 @@
+{
+    "appid": 1306770,
+    "name": "Revival: Recolonization",
+    "type": "Game",
+    "schinese_name": "废土帝国：人类复兴",
+    "isfreeapp": 0,
+    "update_time": "2025-06-05 17:35:30",
+    "change_number": 29389858,
+    "depot": {
+        "1306771": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5812604649247442544",
+                    "size": "2116616861",
+                    "download": "978254816"
+                },
+                "revival1.1.": {
+                    "gid": "4645142007323226390",
+                    "size": "2079872131",
+                    "download": "973266224"
+                }
+            },
+            "decryptionkey": "f2502a1a377932d59c61198585dbdfcd53450654b8205fa3a325743e4b0f4fab"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18642375",
+                "timeupdated": "1748438680"
+            },
+            "revival1.1.": {
+                "buildid": "15518723",
+                "description": "for_hotseat_tests",
+                "timeupdated": "1724850767"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
