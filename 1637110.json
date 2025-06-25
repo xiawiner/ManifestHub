@@ -1,0 +1,43 @@
+{
+    "appid": 1637110,
+    "name": "MoneyFalls Coin Pusher Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 10:23:20",
+    "change_number": 29540624,
+    "depot": {
+        "1637111": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6410351193386340826",
+                    "size": "5224680570",
+                    "download": "1394388144"
+                },
+                "nvidia": {
+                    "gid": "5020934351234702069",
+                    "size": "4398288612",
+                    "download": "1387517280"
+                }
+            },
+            "decryptionkey": "6475abfdddb078fbec7c9ba1d122d15caeb858b57c9c2dc04d882a5698029331"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18837705",
+                "timeupdated": "1749719257"
+            },
+            "nvidia": {
+                "buildid": "18838204",
+                "description": "Version RTX",
+                "timeupdated": "1749721223"
+            }
+        }
+    }
+}
