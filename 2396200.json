@@ -1,0 +1,59 @@
+{
+    "appid": 2396200,
+    "name": "Letalis",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-01 23:26:31",
+    "change_number": 29312042,
+    "depot": {
+        "2396201": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6410461856743458563",
+                    "size": "226014057",
+                    "download": "69215840"
+                },
+                "prerelease": {
+                    "gid": "6410461856743458563",
+                    "size": "226014057",
+                    "download": "69215840"
+                }
+            },
+            "decryptionkey": "beba73e36516cb2de9e0c321901799324947c782949f6af6d23c7055a6ad605e"
+        },
+        "2396202": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "783399536602112183",
+                    "size": "249777028",
+                    "download": "76236000"
+                },
+                "prerelease": {
+                    "gid": "783399536602112183",
+                    "size": "249777028",
+                    "download": "76236000"
+                }
+            },
+            "decryptionkey": "42781f28494fa47a38d6f415253a8a8c531058df00f7603762f54835bddf131c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18595880",
+                "timeupdated": "1748108231"
+            },
+            "prerelease": {
+                "buildid": "18595880",
+                "description": "Builds uploaded as prerelease before sending them to live",
+                "timeupdated": "1748107589"
+            }
+        }
+    }
+}
