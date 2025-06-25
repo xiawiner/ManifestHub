@@ -1,0 +1,51 @@
+{
+    "appid": 2802820,
+    "name": "School 666",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:53:29",
+    "change_number": 29682944,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2802821": {
+            "manifests": {
+                "public": {
+                    "gid": "3020736097987311147",
+                    "size": "16544954398",
+                    "download": "14073548336"
+                },
+                "temp": {
+                    "gid": "3020736097987311147",
+                    "size": "16544954398",
+                    "download": "14073548336"
+                }
+            },
+            "decryptionkey": "b9b87b3927b1b8e5a42ff1c971d8e7da18f4471694f024fd2f9d55402345a76f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18894934",
+                "timeupdated": "1750152174"
+            },
+            "temp": {
+                "buildid": "18894934",
+                "description": "temporary",
+                "timeupdated": "1750151808"
+            }
+        }
+    }
+}
