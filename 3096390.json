@@ -1,0 +1,27 @@
+{
+    "appid": 3096390,
+    "name": "三国时代3",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-25 16:37:22",
+    "change_number": 29173026,
+    "depot": {
+        "3096391": {
+            "manifests": {
+                "public": {
+                    "gid": "1919525334831377012",
+                    "size": "14467944",
+                    "download": "13260464"
+                }
+            },
+            "decryptionkey": "b9c684c59f03fcd29c30a56c66f1a54b6e4fac91fa2e31b5e9b98189dc2e39d5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18477981",
+                "timeupdated": "1747321426"
+            }
+        }
+    }
+}
