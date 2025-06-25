@@ -1,0 +1,27 @@
+{
+    "appid": 3133560,
+    "name": "Demon Quest",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-05 17:37:22",
+    "change_number": 29390694,
+    "depot": {
+        "3133561": {
+            "manifests": {
+                "public": {
+                    "gid": "3790102160432409236",
+                    "size": "2471844778",
+                    "download": "1805761504"
+                }
+            },
+            "decryptionkey": "803b0d12b456f0ee75c2d54c4a5ecd738150268b5530bc7260ad6d28998a1f20"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18747551",
+                "timeupdated": "1749113985"
+            }
+        }
+    }
+}
