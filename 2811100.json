@@ -1,0 +1,57 @@
+{
+    "appid": 2811100,
+    "name": "The Mosquito Gang",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 19:19:43",
+    "change_number": 29667044,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2811101": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9078602337612500678",
+                    "size": "4040043867",
+                    "download": "3605537856"
+                }
+            },
+            "decryptionkey": "8a067378b05efe4b1a2a5b3ec9f0092c228ca6443d094a0bacd78627381d29fd"
+        },
+        "2811102": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6566177482312757144",
+                    "size": "5615182601",
+                    "download": "3860696688"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18861790",
+                "timeupdated": "1749848524"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
