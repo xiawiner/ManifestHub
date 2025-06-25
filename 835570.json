@@ -1,0 +1,57 @@
+{
+    "appid": 835570,
+    "name": "Conqueror's Blade",
+    "type": "Game",
+    "schinese_name": "战意",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 19:19:17",
+    "change_number": 29667035,
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,turkish,brazilian,latam,vietnamese",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "835571": {
+            "manifests": {
+                "public": {
+                    "gid": "4621634512420478826",
+                    "size": "71048810561",
+                    "download": "52616678080"
+                }
+            },
+            "decryptionkey": "f2597d3fb3b84945af5479bcdc98ba0c2c5a4c3494c2c4ec31f43668ddcc62df"
+        },
+        "835572": {
+            "manifests": {}
+        },
+        "835573": {
+            "manifests": {}
+        },
+        "835574": {},
+        "branches": {
+            "public": {
+                "buildid": "18938711",
+                "timeupdated": "1750415562"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
