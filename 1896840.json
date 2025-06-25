@@ -1,0 +1,28 @@
+{
+    "appid": 1896840,
+    "name": "Sexy Furry",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-09 07:46:17",
+    "change_number": 29452183,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1896841": {
+            "manifests": {
+                "public": {
+                    "gid": "4837299718734290381",
+                    "size": "249209347",
+                    "download": "247389376"
+                }
+            },
+            "decryptionkey": "55e4fe548dae0c35ff210629c7d8dc9e1605deebae320c8d62a0ec6a737e223f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18788112",
+                "timeupdated": "1749426370"
+            }
+        }
+    }
+}
