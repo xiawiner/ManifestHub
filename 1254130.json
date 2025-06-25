@@ -1,0 +1,39 @@
+{
+    "appid": 1254130,
+    "name": "Phobies",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 06:08:52",
+    "change_number": 29657496,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1254131": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1720014972312066078",
+                    "size": "672255587",
+                    "download": "660040736"
+                }
+            },
+            "decryptionkey": "23dfb41b21335633dbd6d137d15993200de1853027ca77f639b102add2246fde"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18631000",
+                "timeupdated": "1748887502"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
