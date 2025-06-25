@@ -1,0 +1,58 @@
+{
+    "appid": 2868860,
+    "name": "Card Survival: Fantasy Forest",
+    "type": "Game",
+    "schinese_name": "卡牌生存：奇幻森林",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 08:30:53",
+    "change_number": 29598251,
+    "depot": {
+        "2868861": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4703200545650919400",
+                    "size": "714959581",
+                    "download": "164883760"
+                },
+                "openbetabranch": {
+                    "gid": "6837866111780327638",
+                    "size": "733235261",
+                    "download": "167706624"
+                }
+            },
+            "decryptionkey": "184987f74fbd9ce7b4460cf727ca7d3eec737adec7aab9dc0e7e438a0a01841b"
+        },
+        "2868862": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6675177587864007054",
+                    "size": "705344016",
+                    "download": "162364368"
+                },
+                "openbetabranch": {
+                    "gid": "6675177587864007054",
+                    "size": "705344016",
+                    "download": "162364368"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18890233",
+                "timeupdated": "1750120114"
+            },
+            "openbetabranch": {
+                "buildid": "18890273",
+                "description": "A branch for new updates before they get officially released",
+                "timeupdated": "1750120249"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
