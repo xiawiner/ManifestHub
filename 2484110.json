@@ -1,0 +1,54 @@
+{
+    "appid": 2484110,
+    "name": "FINAL FANTASY VII EVER CRISIS",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-12 09:18:18",
+    "change_number": 29518873,
+    "depot": {
+        "baselanguages": "english,japanese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2484111": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "101938801980131285",
+                    "size": "602071240",
+                    "download": "375947936"
+                }
+            },
+            "decryptionkey": "b3a968d9a6cc78c6beb8210974b098248155fb4c1381c8ee468f6dc99d7f0a9d"
+        },
+        "2484112": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6112660236676645984",
+                    "size": "602031621",
+                    "download": "377566288"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18670597",
+                "timeupdated": "1748843513"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
