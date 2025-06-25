@@ -1,0 +1,28 @@
+{
+    "appid": 3372980,
+    "name": "Tower Wizard",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:53:40",
+    "change_number": 29682946,
+    "depot": {
+        "3372981": {
+            "manifests": {
+                "public": {
+                    "gid": "4748705475510043103",
+                    "size": "106526888",
+                    "download": "62513600"
+                }
+            },
+            "decryptionkey": "96854c520e39fd615815985aa82022d8d382f5c390742938e086ddb4abba21c4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18944231",
+                "timeupdated": "1750460904"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
