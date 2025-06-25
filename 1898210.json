@@ -1,0 +1,27 @@
+{
+    "appid": 1898210,
+    "name": "Eros Fantasy",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-19 08:14:37",
+    "change_number": 29639383,
+    "depot": {
+        "1898211": {
+            "manifests": {
+                "public": {
+                    "gid": "1905648336562812560",
+                    "size": "428578132",
+                    "download": "215223840"
+                }
+            },
+            "decryptionkey": "3c0ff465d076b14a7bbbd9b515f36204c899288f9243af21a7a59e4d7349e41d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18910858",
+                "timeupdated": "1750243709"
+            }
+        }
+    }
+}
