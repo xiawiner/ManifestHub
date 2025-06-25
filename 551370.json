@@ -1,0 +1,35 @@
+{
+    "appid": 551370,
+    "name": "Gravity Sketch VR",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-21 11:58:08",
+    "change_number": 29678975,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "551371": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1000976649700094695",
+                    "size": "818875094",
+                    "download": "258097904"
+                }
+            },
+            "decryptionkey": "2feb1056b1d98332407748b5ca95aca786d34533776b0dd42276db157504526d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18924931",
+                "timeupdated": "1750327827"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
