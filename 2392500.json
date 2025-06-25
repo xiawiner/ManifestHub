@@ -1,0 +1,33 @@
+{
+    "appid": 2392500,
+    "name": "Ever 17 - The Out of Infinity",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-22 00:17:46",
+    "change_number": 29108345,
+    "depot": {
+        "baselanguages": "english,tchinese,japanese",
+        "2392501": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6213077749480317156",
+                    "size": "2869676449",
+                    "download": "2698882144"
+                }
+            },
+            "decryptionkey": "2c5fc59275ad44981947a41574e33c7eae97db7a03d72e2bd056f3f8abe352d4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18121027",
+                "timeupdated": "1746025221"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
