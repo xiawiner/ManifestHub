@@ -1,0 +1,56 @@
+{
+    "appid": 3564590,
+    "name": "Rivers of Astrum: Daughter of Darkness",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 11:26:24",
+    "change_number": 29341721,
+    "depot": {
+        "baselanguages": "english",
+        "3564591": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8291398113738685295",
+                    "size": "2008378889",
+                    "download": "1809394496"
+                }
+            },
+            "decryptionkey": "8ff22fc1f27aa4ff811e590a1994807efe586643955cfc172144377bf8bf1993"
+        },
+        "3564592": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2385509661562857844",
+                    "size": "2008378889",
+                    "download": "1809394496"
+                }
+            }
+        },
+        "3564593": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "805119720163507205",
+                    "size": "2008378889",
+                    "download": "1809394496"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17893930",
+                "timeupdated": "1743144352"
+            }
+        }
+    }
+}
