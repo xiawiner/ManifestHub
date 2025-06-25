@@ -1,0 +1,74 @@
+{
+    "appid": 1610430,
+    "name": "OPG: Clan Wars",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-01 14:26:23",
+    "change_number": 29308458,
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1610431": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5155092137893217036",
+                    "size": "17439869443",
+                    "download": "16856595968"
+                }
+            },
+            "decryptionkey": "a2432e44aaa7fd3e2914d37cc5b286358f43fbcb998fdb70f3dd48344cdb7398"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16962610",
+                "timeupdated": "1736502249"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
