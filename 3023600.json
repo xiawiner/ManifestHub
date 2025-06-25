@@ -1,0 +1,27 @@
+{
+    "appid": 3023600,
+    "name": "Horse Farm Simulator",
+    "type": "Game",
+    "schinese_name": "马场模拟器 - Horse Farm Simulator",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:14:34",
+    "change_number": 29649957,
+    "depot": {
+        "3023601": {
+            "manifests": {
+                "public": {
+                    "gid": "2829497121360168570",
+                    "size": "3982472915",
+                    "download": "1288902816"
+                }
+            },
+            "decryptionkey": "94f559459b987a7e297c1bfc6292c0af60d7a2b91b3c0876b37e7f6a0a5a9aac"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18710377",
+                "timeupdated": "1748911502"
+            }
+        }
+    }
+}
