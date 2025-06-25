@@ -1,0 +1,44 @@
+{
+    "appid": 1589570,
+    "name": "Dunjungle",
+    "type": "Game",
+    "schinese_name": "护林猿神",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 00:06:52",
+    "change_number": 29671670,
+    "depot": {
+        "1589571": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7784921989989011978",
+                    "size": "877696068",
+                    "download": "164855440"
+                }
+            },
+            "decryptionkey": "b279480a59b8ae5c32073d58db964ea027458c94f59bcf7c7d72ed1b45b974eb"
+        },
+        "1589572": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4547134237593039306",
+                    "size": "870463546",
+                    "download": "162738640"
+                }
+            },
+            "decryptionkey": "9232ac1d3c2ec661d0ce7000269f63647ed2ffa401639e8745b29fb461ea0eb0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18814749",
+                "timeupdated": "1749616272"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
