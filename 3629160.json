@@ -1,0 +1,53 @@
+{
+    "appid": 3629160,
+    "name": "Business Age phoneCEO",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 13:58:07",
+    "change_number": 29562514,
+    "depot": {
+        "baselanguages": "schinese",
+        "hasdepotsindlc": "0",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3629161": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8494934473925710113",
+                    "size": "3310048873",
+                    "download": "936816832"
+                }
+            },
+            "decryptionkey": "fdd3ab8294ca3e434935c39407db4d4c688aeb4eb854c19d09d03023cc8e2d41"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18690795",
+                "timeupdated": "1748761510"
+            }
+        }
+    }
+}
