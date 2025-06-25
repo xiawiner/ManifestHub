@@ -1,0 +1,89 @@
+{
+    "appid": 1201550,
+    "name": "Mad Experiments: Escape Room",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 23:15:51",
+    "change_number": 29670897,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,spanish,schinese,tchinese,russian,japanese,portuguese,brazilian,latam",
+        "hasdepotsindlc": "1",
+        "1201551": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8212836356325349205",
+                    "size": "5771231875",
+                    "download": "3337699584"
+                }
+            },
+            "decryptionkey": "d7a1901dfb50b304fa1ef45cc743b495b83b1ad2a6c2ae78fdfa6c3a85cc7dcc"
+        },
+        "1201552": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7876429672996980662",
+                    "size": "5769516159",
+                    "download": "3335158608"
+                }
+            },
+            "decryptionkey": "ff6ae32e6eee7f4890d57829e97353de11e9cf51c26af75d909e878da7503554"
+        },
+        "1201553": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "244293173259806018",
+                    "size": "5863205525",
+                    "download": "3374640384"
+                }
+            },
+            "decryptionkey": "58eecb80fe988aa859e17fc18a7285292fba5d489385adbf41964bac8cabd5ab"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18941689",
+                "timeupdated": "1750432532"
+            }
+        }
+    }
+}
