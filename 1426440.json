@@ -1,0 +1,48 @@
+{
+    "appid": 1426440,
+    "name": "MICROVOLTS: Recharged",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-19 16:19:08",
+    "change_number": 29645423,
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1426441": {
+            "manifests": {
+                "public": {
+                    "gid": "4691469939658303831",
+                    "size": "2804369205",
+                    "download": "2560782576"
+                }
+            },
+            "decryptionkey": "769b95c53b3043b557137ff583db01e318d0bcbc7e22256bfece767e941c63dc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18805740",
+                "timeupdated": "1749536313"
+            }
+        }
+    }
+}
