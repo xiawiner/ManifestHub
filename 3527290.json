@@ -1,0 +1,32 @@
+{
+    "appid": 3527290,
+    "name": "PEAK",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 06:39:15",
+    "change_number": 29686123,
+    "depot": {
+        "3527291": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3343287431520121869",
+                    "size": "5211563405",
+                    "download": "1135677440"
+                }
+            },
+            "decryptionkey": "f55585bb6a00ba332421256f80ba05e27afc38fec6170b9a763138244c506f05"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18914856",
+                "timeupdated": "1750511311"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
