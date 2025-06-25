@@ -1,0 +1,28 @@
+{
+    "appid": 1127390,
+    "name": "Cute Cute Cuties",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-02 14:28:32",
+    "change_number": 29319046,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1127391": {
+            "manifests": {
+                "public": {
+                    "gid": "5009211640711168818",
+                    "size": "429877114",
+                    "download": "176108112"
+                }
+            },
+            "decryptionkey": "1814eab23b4619246e5e144edfece235a8c5b7d0206b742241d3dc3cdb2c989f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4082672",
+                "timeupdated": "1565174480"
+            }
+        }
+    }
+}
