@@ -1,0 +1,57 @@
+{
+    "appid": 3169330,
+    "name": "The Exit of Nightmare",
+    "type": "Game",
+    "schinese_name": "噩梦出口",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 08:14:59",
+    "change_number": 29686618,
+    "depot": {
+        "3169331": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7436983385925661174",
+                    "size": "4631657235",
+                    "download": "1641763472"
+                }
+            },
+            "decryptionkey": "e03083ac205170373f7c17df2a1bde065b8ed378385d3d24bbeab357a6f32d8c"
+        },
+        "3169332": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5267850882406308492",
+                    "size": "4711135038",
+                    "download": "1659556000"
+                }
+            }
+        },
+        "3169333": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1371623364061900556",
+                    "size": "4824605416",
+                    "download": "1709157424"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18953965",
+                "timeupdated": "1750568546"
+            }
+        }
+    }
+}
