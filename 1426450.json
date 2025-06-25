@@ -1,0 +1,42 @@
+{
+    "appid": 1426450,
+    "name": "Age of Darkness: Final Stand",
+    "type": "Game",
+    "schinese_name": "黑暗时代：背水一战 ",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 13:58:41",
+    "change_number": 29662321,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1426451": {
+            "manifests": {
+                "public": {
+                    "gid": "4611851285200112644",
+                    "size": "17516390765",
+                    "download": "7241140064"
+                }
+            },
+            "decryptionkey": "b09e3c9d0dffe091ddf8d16b5128f66f217374487676f92db0e2fc9c53ff6c6a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18605710",
+                "timeupdated": "1748318739"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
