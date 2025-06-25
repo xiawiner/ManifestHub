@@ -1,0 +1,28 @@
+{
+    "appid": 2927780,
+    "name": "Last Outpost",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 03:57:42",
+    "change_number": 29589311,
+    "depot": {
+        "2927781": {
+            "manifests": {
+                "public": {
+                    "gid": "861737600777056416",
+                    "size": "1084557545",
+                    "download": "271105936"
+                }
+            },
+            "decryptionkey": "2f80066bc2ec65724f707d1bac4cfa8c63355e03a969f77b06891f789c8bc55a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18884141",
+                "timeupdated": "1750084664"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
