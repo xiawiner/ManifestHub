@@ -1,0 +1,42 @@
+{
+    "appid": 955870,
+    "name": "Battlecruisers",
+    "type": "Game",
+    "schinese_name": "战巡大作战",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:13:41",
+    "change_number": 29649949,
+    "depot": {
+        "955872": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7815141216016422511",
+                    "size": "1387570611",
+                    "download": "329772288"
+                },
+                "publicbeta": {
+                    "gid": "7815141216016422511",
+                    "size": "1387570611",
+                    "download": "329772288"
+                }
+            },
+            "decryptionkey": "1d8b89134cbf25c6b400c05737c3c8219adec37dc1bc237b89c591821b758640"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18918266",
+                "timeupdated": "1750339023"
+            },
+            "publicbeta": {
+                "buildid": "18918266",
+                "description": "Public Beta Builds",
+                "timeupdated": "1750282935"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
