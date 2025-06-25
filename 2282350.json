@@ -1,0 +1,46 @@
+{
+    "appid": 2282350,
+    "name": "La Quimera",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 06:14:51",
+    "change_number": 29612547,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2282351": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4850393558379585977",
+                    "size": "52374195637",
+                    "download": "17997985264"
+                }
+            },
+            "decryptionkey": "6d30b906df3f94271959b620e26ffa9c21aced6a540a1fd659b8af7adae0ede2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18855671",
+                "timeupdated": "1749828080"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
