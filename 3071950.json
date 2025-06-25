@@ -1,0 +1,41 @@
+{
+    "appid": 3071950,
+    "name": "Our Home",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 06:15:27",
+    "change_number": 29569574,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "3071951": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4503896691760880763",
+                    "size": "8783938597",
+                    "download": "8597010176"
+                },
+                "debug": {
+                    "gid": "4889090502237343245",
+                    "size": "8789073669",
+                    "download": "8601946688"
+                }
+            },
+            "decryptionkey": "2f5384b64b7ccf926123258d41bb2982eeb9725abe7ea4b4c4345bd2175d0999"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18574807",
+                "timeupdated": "1747967035"
+            },
+            "debug": {
+                "buildid": "18709348",
+                "description": "Debug version",
+                "timeupdated": "1748904783"
+            }
+        }
+    }
+}
