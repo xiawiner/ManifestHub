@@ -1,0 +1,59 @@
+{
+    "appid": 2163160,
+    "name": "OVRLRD",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 11:51:36",
+    "change_number": 29571025,
+    "depot": {
+        "2163161": {
+            "manifests": {
+                "public": {
+                    "gid": "5031850106808807935",
+                    "size": "5432835620",
+                    "download": "1514108832"
+                },
+                "old-version": {
+                    "gid": "2355350804931886259",
+                    "size": "3669860938",
+                    "download": "1034544208"
+                },
+                "public-testing": {
+                    "gid": "5031850106808807935",
+                    "size": "5432835620",
+                    "download": "1514108832"
+                },
+                "very-old-version": {
+                    "gid": "3379153061006338530",
+                    "size": "2939893074",
+                    "download": "883328736"
+                }
+            },
+            "decryptionkey": "edecdcddaaec4d0901db9c1eac3078a5c004e0a0b561547441ff542a1109d861"
+        },
+        "workshopdepot": "2163160",
+        "branches": {
+            "public": {
+                "buildid": "18871160",
+                "timeupdated": "1749955677"
+            },
+            "old-version": {
+                "buildid": "17083787",
+                "description": "The previous version of OVRLRD, in case of issues.",
+                "timeupdated": "1742907307"
+            },
+            "public-testing": {
+                "buildid": "18871160",
+                "description": "For trying out experimental features.",
+                "timeupdated": "1749956239"
+            },
+            "very-old-version": {
+                "buildid": "15642113",
+                "description": "A very old version of OVRLRD, for fun.",
+                "timeupdated": "1729813753"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
