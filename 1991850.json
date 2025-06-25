@@ -1,0 +1,60 @@
+{
+    "appid": 1991850,
+    "name": "Navy War",
+    "type": "Game",
+    "schinese_name": "Navy War: 现代战舰",
+    "isfreeapp": 1,
+    "update_time": "2025-06-02 08:22:41",
+    "change_number": 29313894,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1991851": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2756329474108255975",
+                    "size": "1677337173",
+                    "download": "1290727904"
+                }
+            },
+            "decryptionkey": "7e9d2cd3824bea5cd9785ec9d74ba66529df4bad265384974cb2f8afa5a568aa"
+        },
+        "1991852": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6935258959902321358",
+                    "size": "1744749985",
+                    "download": "1314236176"
+                }
+            },
+            "decryptionkey": "6cf3b306f22341d93e0f58b184e4831667a88a53a4880246d0d2c3bddc62f550"
+        },
+        "1991853": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3186575092473012128",
+                    "size": "1803932213",
+                    "download": "1304815104"
+                }
+            },
+            "decryptionkey": "9a6d589103dc2b5760a463045f616608c2c9352c49bb884d30bb5fc29d90beeb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16735155",
+                "timeupdated": "1734337767"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
