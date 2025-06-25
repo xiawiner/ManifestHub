@@ -1,0 +1,32 @@
+{
+    "appid": 1101980,
+    "name": "白石洲往事",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 15:59:15",
+    "change_number": 29284753,
+    "depot": {
+        "baselanguages": "schinese",
+        "hasdepotsindlc": "0",
+        "1101981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5809087930036686029",
+                    "size": "541520221",
+                    "download": "341395168"
+                }
+            },
+            "decryptionkey": "ed97d23d5c201a258f969ec784f01e7b86f2e978bc87e0ae2c4209d11271c638"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18674445",
+                "timeupdated": "1748610969"
+            }
+        }
+    }
+}
