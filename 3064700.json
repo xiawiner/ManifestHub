@@ -1,0 +1,40 @@
+{
+    "appid": 3064700,
+    "name": "Darkest Dungeon® II: Mod Tools",
+    "type": "Tool",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 06:16:25",
+    "change_number": 29613715,
+    "depot": {
+        "3064701": {
+            "manifests": {
+                "public": {
+                    "gid": "430694415207355983",
+                    "size": "190670751",
+                    "download": "179426528"
+                },
+                "coming_in_hot": {
+                    "gid": "8010718435543908735",
+                    "size": "2081686775",
+                    "download": "764396432"
+                }
+            },
+            "decryptionkey": "91bf97a9c24b4c5d94ca4b30371c8e55c5b64ce038baa4c90f54a74060d3a6ba"
+        },
+        "workshopdepot": "3064700",
+        "branches": {
+            "public": {
+                "buildid": "15295731",
+                "timeupdated": "1723228440"
+            },
+            "coming_in_hot": {
+                "buildid": "18847373",
+                "description": "Experimental builds",
+                "timeupdated": "1749832888"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
