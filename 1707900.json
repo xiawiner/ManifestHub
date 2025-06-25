@@ -1,0 +1,80 @@
+{
+    "appid": 1707900,
+    "name": "Delta Particles",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-06 22:23:05",
+    "change_number": 29420070,
+    "depot": {
+        "baselanguages": "english,spanish,russian",
+        "1707901": {
+            "manifests": {
+                "public": {
+                    "gid": "1893391648285304996",
+                    "size": "396712185",
+                    "download": "194333920"
+                }
+            },
+            "decryptionkey": "7b4239d325c2747a968dde5e698ff70f820f1e4406d9e7d80f56e45f9a65d117"
+        },
+        "1707902": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1663066811280194931",
+                    "size": "29617908",
+                    "download": "19761504"
+                }
+            },
+            "decryptionkey": "1d47f36bff1c84375bffebcb6d79a60235af2dae7e26ce53fda69b0245314721"
+        },
+        "1707903": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4014729629713041579",
+                    "size": "47705211",
+                    "download": "15097856"
+                }
+            },
+            "decryptionkey": "809c53318d6ce45555698f705d4f78fd11ad83da564c6094b4a302e50def3ea1"
+        },
+        "1707904": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5789398386916175930",
+                    "size": "127625874",
+                    "download": "36449104"
+                }
+            },
+            "decryptionkey": "8a34bb87b329aa4d68b27d4aba2f8466ff516a13069b17785d65c5d6b71bb6c3"
+        },
+        "1707905": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4326610607673383714",
+                    "size": "172095",
+                    "download": "26048"
+                }
+            },
+            "decryptionkey": "9c54e081663538a8c1d57babb87f761bb02918c8df56800d89736f804c1c6c99"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16812629",
+                "timeupdated": "1734690358"
+            }
+        }
+    }
+}
