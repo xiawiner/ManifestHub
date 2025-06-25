@@ -1,0 +1,45 @@
+{
+    "appid": 1004270,
+    "name": "My Island",
+    "type": "Game",
+    "schinese_name": "我的海岛",
+    "isfreeapp": 0,
+    "update_time": "2025-05-28 16:51:51",
+    "change_number": 29231669,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1004271": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3235642330189754261",
+                    "size": "5863454116",
+                    "download": "5671890992"
+                }
+            },
+            "decryptionkey": "e33708c654903e5852d50c652ae8682ffd62ddb00d56e466ddc9a4e2db063bda"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "18638744",
+                "timeupdated": "1748422302"
+            }
+        }
+    }
+}
