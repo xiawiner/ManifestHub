@@ -1,0 +1,41 @@
+{
+    "appid": 3045430,
+    "name": "装甲红锋 Playtest",
+    "type": "Beta",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-16 09:44:42",
+    "change_number": 29579276,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3045431": {
+            "manifests": {
+                "public": {
+                    "gid": "6152251015451148838",
+                    "size": "26848770850",
+                    "download": "24337335008"
+                }
+            },
+            "decryptionkey": "921a900f083ce10155e970faae1765011f609987242ef36e91646130dfe2139c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18866689",
+                "timeupdated": "1750038278"
+            }
+        }
+    }
+}
