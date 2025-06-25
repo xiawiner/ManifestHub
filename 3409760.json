@@ -1,0 +1,33 @@
+{
+    "appid": 3409760,
+    "name": "Sloppy Fields",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 06:38:54",
+    "change_number": 29686120,
+    "depot": {
+        "3409761": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2356944718686571607",
+                    "size": "52220594",
+                    "download": "30906736"
+                }
+            },
+            "decryptionkey": "e8df2ceb56e365d1936a53e2f4e8181e68e5831c932108c733f7ab2927c2ee83"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18923966",
+                "timeupdated": "1750322091"
+            }
+        }
+    }
+}
