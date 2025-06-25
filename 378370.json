@@ -1,0 +1,63 @@
+{
+    "appid": 378370,
+    "name": "Nomad",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-15 00:29:39",
+    "change_number": 29567083,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "378371": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9199465575378267845",
+                    "size": "1275652518",
+                    "download": "930377408"
+                },
+                "beta": {
+                    "gid": "9199465575378267845",
+                    "size": "1275652518",
+                    "download": "930377408"
+                }
+            },
+            "decryptionkey": "081e6f5fd10b3c598c5bd8b9ec1e21c9d8863d6749e0247d4953ab962e45e9af"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18868545",
+                "timeupdated": "1749918546"
+            },
+            "beta": {
+                "buildid": "18868545",
+                "description": "Newest and upcoming version. May be unstable.",
+                "timeupdated": "1749918559"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
