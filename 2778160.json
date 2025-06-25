@@ -1,0 +1,29 @@
+{
+    "appid": 2778160,
+    "name": "猩红梦魇 The Nightmare of Scarlet Tempest",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 14:37:19",
+    "change_number": 29643371,
+    "depot": {
+        "baselanguages": "schinese",
+        "2778162": {},
+        "2778161": {
+            "manifests": {
+                "public": {
+                    "gid": "4054070452444660145",
+                    "size": "1029311183",
+                    "download": "783765184"
+                }
+            },
+            "decryptionkey": "f79b068d732a7085ffb0d6c14576b98d5acb3f3cb6e5d35a70835fe85c8c2742"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18922811",
+                "timeupdated": "1750315033"
+            }
+        }
+    }
+}
