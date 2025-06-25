@@ -1,0 +1,42 @@
+{
+    "appid": 556990,
+    "name": "Rage Against The Zombies",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 22:24:05",
+    "change_number": 29669955,
+    "depot": {
+        "556991": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "157891471937862619",
+                    "size": "246704577",
+                    "download": "67594064"
+                }
+            },
+            "decryptionkey": "19d36f23726fbea08400cf4a4863bc65900433c671b2231079b46310205172de"
+        },
+        "556992": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4425044959946828305",
+                    "size": "552638375",
+                    "download": "76738512"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1486869",
+                "timeupdated": "1480421254"
+            }
+        }
+    }
+}
