@@ -1,0 +1,27 @@
+{
+    "appid": 3402730,
+    "name": "Mission To Fission",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-29 07:22:15",
+    "change_number": 29248035,
+    "depot": {
+        "3402731": {
+            "manifests": {
+                "public": {
+                    "gid": "4839619120411400398",
+                    "size": "201552160",
+                    "download": "61075664"
+                }
+            },
+            "decryptionkey": "7c846b8b08c16c324781e8206229f9e53e9a6671962b6a4b1dc2dfc25051eae4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18370416",
+                "timeupdated": "1746603998"
+            }
+        }
+    }
+}
