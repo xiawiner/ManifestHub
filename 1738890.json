@@ -1,0 +1,46 @@
+{
+    "appid": 1738890,
+    "name": "Naval Hurricane",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-16 13:21:36",
+    "change_number": 29580988,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1738891": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7392451643605599973",
+                    "size": "509570020",
+                    "download": "409262288"
+                }
+            },
+            "decryptionkey": "bb04109bcf1ce1483bbe1d723f19d1900042f4ace2868ce1d40d47775cb2e297"
+        },
+        "1738892": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8788805066530528784",
+                    "size": "502134811",
+                    "download": "406992272"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18878323",
+                "timeupdated": "1750051291"
+            }
+        }
+    }
+}
