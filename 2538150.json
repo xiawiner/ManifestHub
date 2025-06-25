@@ -1,0 +1,76 @@
+{
+    "appid": 2538150,
+    "name": "OyasumiVR",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-22 06:00:15",
+    "change_number": 29685608,
+    "depot": {
+        "baselanguages": "english,french,koreana,spanish,schinese,tchinese,japanese,dutch",
+        "2538151": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "91231766501572664",
+                    "size": "459279991",
+                    "download": "199564128"
+                },
+                "beta": {
+                    "gid": "4246513653377831972",
+                    "size": "645725493",
+                    "download": "243488832"
+                },
+                "legacy-1.13.3": {
+                    "gid": "2335677658297485275",
+                    "size": "457963992",
+                    "download": "198183968"
+                }
+            },
+            "decryptionkey": "e5fb54cce8269ff85b3a693be95fee22cbcf1bbe18569eea9d2751c622340b3c"
+        },
+        "2538152": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7152343129490098540",
+                    "size": "459313842",
+                    "download": "199573520"
+                },
+                "beta": {
+                    "gid": "885373517568706591",
+                    "size": "645763636",
+                    "download": "243504672"
+                },
+                "legacy-1.13.3": {
+                    "gid": "5390980200451087096",
+                    "size": "457997843",
+                    "download": "198193040"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16490038",
+                "timeupdated": "1732211718"
+            },
+            "beta": {
+                "buildid": "18952205",
+                "description": "Pre-selected development builds for beta-testing",
+                "timeupdated": "1750539962"
+            },
+            "legacy-1.13.3": {
+                "buildid": "15022964",
+                "description": " Older (deprecated) version of OyasumiVR",
+                "timeupdated": "1727806952"
+            }
+        }
+    }
+}
