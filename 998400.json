@@ -1,0 +1,46 @@
+{
+    "appid": 998400,
+    "name": "Trans-Siberian Railway Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 06:00:24",
+    "change_number": 29685282,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "998401": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2076211379587216014",
+                    "size": "43996710473",
+                    "download": "37925996816"
+                }
+            },
+            "decryptionkey": "edea4a78e56567e965ed901d64d5b248e8b90195edbb0500ffd8c56a8aa9c95d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18951969",
+                "timeupdated": "1750536599"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
