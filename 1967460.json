@@ -1,0 +1,28 @@
+{
+    "appid": 1967460,
+    "name": "Wicked Engine",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-13 01:35:51",
+    "change_number": 29530249,
+    "depot": {
+        "1967461": {
+            "manifests": {
+                "public": {
+                    "gid": "8620344361505244982",
+                    "size": "576446990",
+                    "download": "291566688"
+                }
+            },
+            "decryptionkey": "a1b974d9c70ab1d2ddfdf1234f74031d565b503673deaf9ba850084bbb1a37db"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18736626",
+                "timeupdated": "1749051395"
+            }
+        }
+    }
+}
