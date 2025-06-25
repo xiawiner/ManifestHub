@@ -1,0 +1,56 @@
+{
+    "appid": 3385370,
+    "name": "Maze Mice",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 21:53:40",
+    "change_number": 29681463,
+    "depot": {
+        "3385371": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2658501160179686257",
+                    "size": "102822280",
+                    "download": "53560880"
+                }
+            },
+            "decryptionkey": "2d56e4408892643e0fa5d463e4da28628df9877ddb33e890d8d89d95ad673b39"
+        },
+        "3385372": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4577364028293448003",
+                    "size": "177902812",
+                    "download": "68552624"
+                }
+            }
+        },
+        "3385373": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8616435235145943061",
+                    "size": "110980840",
+                    "download": "55591984"
+                }
+            }
+        },
+        "baselanguages": "",
+        "branches": {
+            "public": {
+                "buildid": "18949244",
+                "timeupdated": "1750502551"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
