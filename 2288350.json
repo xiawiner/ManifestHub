@@ -1,0 +1,168 @@
+{
+    "appid": 2288350,
+    "name": "RAIDOU Remastered: The Mystery of the Soulless Army",
+    "type": "Game",
+    "schinese_name": "RAIDOU Remastered: 超力兵团奇谭",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 16:17:41",
+    "change_number": 29680485,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,japanese",
+        "2288351": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8954425886569925147",
+                    "size": "17347516177",
+                    "download": "14606352416"
+                }
+            },
+            "decryptionkey": "584b8f457ad0579c460b81cc7584871d2076e59040b8e355650051f39e5509f3"
+        },
+        "2486840": {
+            "dlcappid": "2486840",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9192334707918728422",
+                    "size": "720844",
+                    "download": "554832"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2486841": {
+            "dlcappid": "2486841",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9150438052186207553",
+                    "size": "4457150",
+                    "download": "3552448"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2486842": {
+            "dlcappid": "2486842",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5494123129689557076",
+                    "size": "21360241",
+                    "download": "17847520"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2486843": {
+            "dlcappid": "2486843",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5879568682417045509",
+                    "size": "238090",
+                    "download": "172944"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2486844": {
+            "dlcappid": "2486844",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9146745134707839547",
+                    "size": "78811",
+                    "download": "63472"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2486845": {
+            "dlcappid": "2486845",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9187613266433653033",
+                    "size": "233190",
+                    "download": "167632"
+                }
+            },
+            "decryptionkey": "b5ec8393c1fa4a977d0dba88aff0281a930e0341190fa65158c6067f8836a309"
+        },
+        "2486846": {
+            "dlcappid": "2486846",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6407885136060269582",
+                    "size": "46623",
+                    "download": "36832"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2486847": {
+            "dlcappid": "2486847",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9136072776669612931",
+                    "size": "96451",
+                    "download": "76240"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2486848": {
+            "dlcappid": "2486848",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9177818177746597766",
+                    "size": "96390",
+                    "download": "76192"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18702106",
+                "timeupdated": "1749776503"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
