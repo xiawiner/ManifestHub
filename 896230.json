@@ -1,0 +1,74 @@
+{
+    "appid": 896230,
+    "name": "Picross Bonbon - Nonogram",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-27 16:41:38",
+    "change_number": 29207430,
+    "depot": {
+        "896231": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4832432294541475695",
+                    "size": "349675502",
+                    "download": "87884112"
+                }
+            },
+            "decryptionkey": "b4ea7778a67869ce502c749bb1ac20e0a9ea6b5aa0fe505e6d0ebade20c845d8"
+        },
+        "896232": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5574899500655306509",
+                    "size": "349675494",
+                    "download": "87883696"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "896233": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4237603970782225559",
+                    "size": "349675502",
+                    "download": "87884224"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "896234": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2256497596368579222",
+                    "size": "349675498",
+                    "download": "87883632"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,german,french,russian",
+        "branches": {
+            "public": {
+                "buildid": "3929386",
+                "timeupdated": "1560865966"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
