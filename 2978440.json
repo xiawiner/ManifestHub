@@ -1,0 +1,43 @@
+{
+    "appid": 2978440,
+    "name": "PROJEKT GODHAND",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 09:41:26",
+    "change_number": 29560754,
+    "depot": {
+        "2978441": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2039516858770981784",
+                    "size": "1186263503",
+                    "download": "316433392"
+                }
+            },
+            "decryptionkey": "004dc9e4d6f18cb965014e1f1b513fd2a0dd0d6ceaec09cc09c06c3cf35d880f"
+        },
+        "2978442": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9061217298598504604",
+                    "size": "1002991125",
+                    "download": "344448992"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18768655",
+                "timeupdated": "1749226204"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
