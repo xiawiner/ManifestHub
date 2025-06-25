@@ -1,0 +1,27 @@
+{
+    "appid": 3513350,
+    "name": "Wuthering Waves",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-18 19:11:23",
+    "change_number": 29627477,
+    "depot": {
+        "3513351": {
+            "manifests": {
+                "public": {
+                    "gid": "5590654469926539250",
+                    "size": "60511134312",
+                    "download": "57624065248"
+                }
+            },
+            "decryptionkey": "6778f1059fd9d25eba753ff9611b28a0af891837e17b075d2d6649c715394003"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18857452",
+                "timeupdated": "1749876810"
+            }
+        }
+    }
+}
