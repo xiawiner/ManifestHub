@@ -1,0 +1,67 @@
+{
+    "appid": 1685870,
+    "name": "Near-Mage",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 21:19:47",
+    "change_number": 29668799,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1685871": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7083126179562753031",
+                    "size": "9513806137",
+                    "download": "4479763984"
+                }
+            },
+            "decryptionkey": "e91e3b8a0c5c10a0ab7bd2336c0a1233e77f5459be4bd135cbd335d0e00f0ead"
+        },
+        "1685872": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6088549463220360851",
+                    "size": "9532334466",
+                    "download": "4484509808"
+                }
+            }
+        },
+        "1685873": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7334283464608574520",
+                    "size": "9470140105",
+                    "download": "4468198480"
+                }
+            }
+        },
+        "3748670": {
+            "dlcappid": "3748670",
+            "manifests": {
+                "public": {
+                    "gid": "1928315373627072113",
+                    "size": "342806127",
+                    "download": "341022528"
+                }
+            },
+            "decryptionkey": "705cb0f857d2e3bffaf498937c51bcdf8dec49a4c469fa19d6317c527b117b72"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18872327",
+                "timeupdated": "1750008784"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
