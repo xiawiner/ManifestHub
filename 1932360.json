@@ -1,0 +1,36 @@
+{
+    "appid": 1932360,
+    "name": "Death Duel VR",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-18 14:02:44",
+    "change_number": 29622632,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1932361": {
+            "manifests": {
+                "public": {
+                    "gid": "2150123840925241348",
+                    "size": "7367572072",
+                    "download": "5962779552"
+                }
+            },
+            "decryptionkey": "3b0dadab4594e07904a8a17102a2596166fb5954b0517071d047e8b9a7d46e0c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18907409",
+                "timeupdated": "1750226560"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
