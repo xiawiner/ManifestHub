@@ -1,0 +1,29 @@
+{
+    "appid": 3060630,
+    "name": "修仙：但系统让我种田",
+    "type": "Game",
+    "schinese_name": "修仙：但系统让我种田",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:30:37",
+    "change_number": 29655574,
+    "depot": {
+        "3060632": {
+            "manifests": {
+                "public": {
+                    "gid": "36908606232644649",
+                    "size": "7728895650",
+                    "download": "5834991328"
+                }
+            },
+            "decryptionkey": "18866e1f46a0203087f2f9d7841a1246cd4d918b127c6e8b1cd8803da6a9341f"
+        },
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18897935",
+                "timeupdated": "1750167108"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
