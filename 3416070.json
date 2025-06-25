@@ -1,0 +1,28 @@
+{
+    "appid": 3416070,
+    "name": "Ropuka's Idle Island",
+    "type": "Game",
+    "schinese_name": "青蛙的空之绿洲",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 21:56:45",
+    "change_number": 29682243,
+    "depot": {
+        "3416071": {
+            "manifests": {
+                "public": {
+                    "gid": "3028902485685136776",
+                    "size": "248110309",
+                    "download": "103628096"
+                }
+            },
+            "decryptionkey": "dd9c9acd29a60cf2cd7bf22e51433362f2e97ba5fdadfa5734087bd224683daf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18941470",
+                "timeupdated": "1750430981"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
