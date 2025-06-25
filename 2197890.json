@@ -1,0 +1,70 @@
+{
+    "appid": 2197890,
+    "name": "Paranormal Cleanup",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 06:23:02",
+    "change_number": 29617110,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2197891": {
+            "manifests": {
+                "public": {
+                    "gid": "4549053790396695359",
+                    "size": "13538628964",
+                    "download": "6024156768"
+                }
+            },
+            "decryptionkey": "c4edc51ed5989640f604dab4ab2066669ea1ad25684d39142e6df692b201b729"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18834487",
+                "timeupdated": "1749697940"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
