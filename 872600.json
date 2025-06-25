@@ -1,0 +1,32 @@
+{
+    "appid": 872600,
+    "name": "创史者Hist Maker",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-30 14:26:45",
+    "change_number": 29277241,
+    "depot": {
+        "baselanguages": "schinese",
+        "872601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6585442074878555278",
+                    "size": "535178830",
+                    "download": "97055376"
+                }
+            },
+            "decryptionkey": "578866cb8792e7f8b3019dc890de4caaaf0bbe89a2c2a0f8df34a20eaa101160"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4830558",
+                "timeupdated": "1585378526"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
