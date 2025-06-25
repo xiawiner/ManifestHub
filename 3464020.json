@@ -1,0 +1,46 @@
+{
+    "appid": 3464020,
+    "name": "Interactive Movie Engine",
+    "type": "Application",
+    "schinese_name": "互动视频游戏引擎",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 16:46:13",
+    "change_number": 29680678,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "workshopdepot": "3464020",
+        "baselanguages": "english",
+        "3464021": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2247476156303830988",
+                    "size": "143410613",
+                    "download": "78034384"
+                }
+            },
+            "decryptionkey": "5fa06b011b183e4b78a990af3874f5521a3369846510a9a2bdd00ecce89230a8"
+        },
+        "3464022": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1380653032678339224",
+                    "size": "168853811",
+                    "download": "85125280"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18953936",
+                "timeupdated": "1750567857"
+            }
+        },
+        "workshopdepotdecryptionkey": "14a45c4e9673feb58456f079f5c0ec7f26eb7cad754b4879585611d6096dfe2b"
+    }
+}
