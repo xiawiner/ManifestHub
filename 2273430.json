@@ -1,0 +1,83 @@
+{
+    "appid": 2273430,
+    "name": "BlazBlue Entropy Effect",
+    "type": "Game",
+    "schinese_name": "苍翼：混沌效应",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 12:05:38",
+    "change_number": 29661147,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,schinese,japanese",
+        "hasdepotsindlc": "1",
+        "2273431": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5585592230693079363",
+                    "size": "10085017005",
+                    "download": "8699522736"
+                },
+                "bbee-ea": {
+                    "gid": "1181538358703119718",
+                    "size": "5527866314",
+                    "download": "4686327248"
+                }
+            },
+            "decryptionkey": "8208c2f3da1d2334a1bdfdce064948df43608a9dce229fd006defc11ec0bb5ff"
+        },
+        "2273432": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8647357607935395000",
+                    "size": "10091967431",
+                    "download": "8688979136"
+                },
+                "bbee-ea": {
+                    "gid": "8289491013708764854",
+                    "size": "5795480466",
+                    "download": "4739167264"
+                }
+            },
+            "decryptionkey": "61cf08549f627caaf2793f6324710aa2bc1e9ce5b15ddd5f91a07fe323c89cef"
+        },
+        "2771130": {
+            "dlcappid": "2771130",
+            "manifests": {
+                "public": {
+                    "gid": "8440413603119081723",
+                    "size": "132709570",
+                    "download": "132753472"
+                }
+            },
+            "decryptionkey": "9252ee34ddef99b9842cf9b953a265b23f119aac46977475999deac055a2aa24"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18609016",
+                "timeupdated": "1748255944"
+            },
+            "bbee-ea": {
+                "sc_schinese": "Early Access",
+                "buildid": "12847799",
+                "description": "Early Access",
+                "timeupdated": "1706080711"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 16677277415782867963
+}
