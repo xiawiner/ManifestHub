@@ -1,0 +1,58 @@
+{
+    "appid": 1900020,
+    "name": "PunjiVR",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-16 00:15:35",
+    "change_number": 29575449,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1900021": {
+            "manifests": {
+                "public": {
+                    "gid": "8968473395159223677",
+                    "size": "2452552512",
+                    "download": "964343136"
+                },
+                "previous_stable_build": {
+                    "gid": "247302457997107267",
+                    "size": "2452552096",
+                    "download": "964338384"
+                },
+                "test_build": {
+                    "gid": "1442103231703953438",
+                    "size": "2610446758",
+                    "download": "1033873168"
+                },
+                "version1": {
+                    "gid": "7329244516999027631",
+                    "size": "4613585017",
+                    "download": "920322192"
+                }
+            },
+            "decryptionkey": "9dea3ca9c33f13c7b61ef8b4e2a06ffb51f55e580488bf8ec7318a628afaa4da"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18297468",
+                "timeupdated": "1746024534"
+            },
+            "previous_stable_build": {
+                "buildid": "18250047",
+                "description": "       If you'd like to roll back to the last stable update, this is the branch to use",
+                "timeupdated": "1746024557"
+            },
+            "test_build": {
+                "buildid": "18874293",
+                "description": "Test 1.1 for Update 1",
+                "timeupdated": "1750004120"
+            },
+            "version1": {
+                "buildid": "13731081",
+                "description": "original version of PunjiVR",
+                "timeupdated": "1745687022"
+            }
+        }
+    }
+}
