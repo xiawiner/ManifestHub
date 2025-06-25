@@ -1,0 +1,31 @@
+{
+    "appid": 2389120,
+    "name": "战姬军团",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-13 18:25:58",
+    "change_number": 29547162,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "2389121": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5744685588332709422",
+                    "size": "1556668717",
+                    "download": "1257366000"
+                }
+            },
+            "decryptionkey": "e66b46c3ce6fbe07784d2b0ecf1b475b03fb0b58fe6b75ebc77602cbbf0894db"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18854340",
+                "timeupdated": "1749810354"
+            }
+        }
+    }
+}
