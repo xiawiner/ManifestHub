@@ -1,0 +1,61 @@
+{
+    "appid": 1568530,
+    "name": "Realife Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 00:17:51",
+    "change_number": 29671828,
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "1577488": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1198043151224948819",
+                    "size": "28001880206",
+                    "download": "26116424576"
+                }
+            },
+            "decryptionkey": "bd3061f2765da69f12a61c85cb4874e876c7f05b992c43861e5d363748bf996e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18687819",
+                "timeupdated": "1748719407"
+            }
+        }
+    }
+}
