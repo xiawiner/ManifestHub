@@ -1,0 +1,42 @@
+{
+    "appid": 1103860,
+    "name": "The Wizards - Dark Times",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-04 23:17:33",
+    "change_number": 29374833,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1103861": {
+            "manifests": {
+                "public": {
+                    "gid": "1003612159995827093",
+                    "size": "20856680006",
+                    "download": "19787429568"
+                }
+            },
+            "decryptionkey": "8cfec9cb1a721afa63655b301fd5b872632b30c028cf2a22fdba1d8202b895e5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18465024",
+                "timeupdated": "1747317436"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
