@@ -1,0 +1,28 @@
+{
+    "appid": 3229100,
+    "name": "Teenage Mutant Ninja Turtles: Tactical Takedown",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 09:15:43",
+    "change_number": 29677889,
+    "depot": {
+        "3229101": {
+            "manifests": {
+                "public": {
+                    "gid": "7699727126020486028",
+                    "size": "2395334648",
+                    "download": "522128016"
+                }
+            },
+            "decryptionkey": "c746340bf45568e7851fe49c2f2f99f13fdd29e7743597ab018cc1a62ee1c503"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18795030",
+                "timeupdated": "1749575297"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
