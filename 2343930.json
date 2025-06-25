@@ -1,0 +1,44 @@
+{
+    "appid": 2343930,
+    "name": "Eyes Of War",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-24 01:30:16",
+    "change_number": 29153014,
+    "depot": {
+        "baselanguages": "english,turkish",
+        "2343931": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1342684440673077512",
+                    "size": "7676263549",
+                    "download": "5230494336"
+                }
+            },
+            "decryptionkey": "396378d0b188534e18166400651f8ceb3cbfe68b2a374641b0b72a90b7559116"
+        },
+        "2343932": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "811671075483184160",
+                    "size": "9975437481",
+                    "download": "5618168432"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18583834",
+                "timeupdated": "1748013418"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
