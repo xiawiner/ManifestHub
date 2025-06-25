@@ -1,0 +1,60 @@
+{
+    "appid": 1282410,
+    "name": "Hard West 2",
+    "type": "Game",
+    "schinese_name": "血战西部2",
+    "isfreeapp": 0,
+    "update_time": "2025-06-16 19:51:13",
+    "change_number": 29586355,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1282411": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6669900906482373816",
+                    "size": "36290886766",
+                    "download": "18391781584"
+                }
+            },
+            "decryptionkey": "ed806de682e2ef949547012e45206c1f39611d45a31c4559c43e2145b9a49283"
+        },
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,polish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "9902624",
+                "timeupdated": "1750074562"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
