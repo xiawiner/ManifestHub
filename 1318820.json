@@ -1,0 +1,58 @@
+{
+    "appid": 1318820,
+    "name": "Cyberpulse",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-30 10:12:53",
+    "change_number": 29274263,
+    "depot": {
+        "1318821": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1822487645378589955",
+                    "size": "2915571330",
+                    "download": "664044640"
+                }
+            }
+        },
+        "1318822": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5563933654556352186",
+                    "size": "2825127793",
+                    "download": "643259712"
+                }
+            },
+            "decryptionkey": "521ec324819dbdf30e4f30c0f0beb35a1d8074627a72fbfa8cd54efd7b8eb4e1"
+        },
+        "1318823": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4408897992044731574",
+                    "size": "2859422438",
+                    "download": "647865424"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18659404",
+                "timeupdated": "1748527244"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
