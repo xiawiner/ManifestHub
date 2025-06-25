@@ -1,0 +1,74 @@
+{
+    "appid": 2505570,
+    "name": "Burger Shop 3",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 06:22:31",
+    "change_number": 29616724,
+    "depot": {
+        "2505571": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1042121333414325435",
+                    "size": "78342443",
+                    "download": "71628096"
+                },
+                "beta": {
+                    "gid": "1042121333414325435",
+                    "size": "78342443",
+                    "download": "71628096"
+                },
+                "oldversion": {
+                    "gid": "516522945191929421",
+                    "size": "78205208",
+                    "download": "71041072"
+                }
+            },
+            "decryptionkey": "37130c3d1cef8499046837217b86c1be5fc653ca4a8065c063b9e22f32bd15cc"
+        },
+        "2505572": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1664494302915057685",
+                    "size": "86498000",
+                    "download": "74545040"
+                },
+                "beta": {
+                    "gid": "1664494302915057685",
+                    "size": "86498000",
+                    "download": "74545040"
+                },
+                "oldversion": {
+                    "gid": "1615725709000866081",
+                    "size": "82821756",
+                    "download": "71885088"
+                }
+            },
+            "decryptionkey": "8c050277aab59550b42861a6dfee6a277518079de457b2ec65a70c564772a0e8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18708783",
+                "timeupdated": "1749145163"
+            },
+            "beta": {
+                "buildid": "18708783",
+                "description": "Early Early Access (for testing new Early Access builds)",
+                "timeupdated": "1748902271"
+            },
+            "oldversion": {
+                "buildid": "18268308",
+                "description": "Old Version 0.6.7b",
+                "timeupdated": "1750194437"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
