@@ -1,0 +1,27 @@
+{
+    "appid": 1102880,
+    "name": "Kawaii Deathu Desu",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-31 08:21:30",
+    "change_number": 29295398,
+    "depot": {
+        "1102881": {
+            "manifests": {
+                "public": {
+                    "gid": "583826410449647943",
+                    "size": "874841447",
+                    "download": "62278672"
+                }
+            },
+            "decryptionkey": "fcae8e58ee44ff63a73730aa8bde7caea9af34f7563fb51ab529b1fc34d6c133"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4714382",
+                "timeupdated": "1585687660"
+            }
+        }
+    }
+}
