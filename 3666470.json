@@ -1,0 +1,49 @@
+{
+    "appid": 3666470,
+    "name": "BackSlap",
+    "type": "Game",
+    "schinese_name": "敲背王",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 19:33:18",
+    "change_number": 29667257,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "3666471": {
+            "manifests": {
+                "public": {
+                    "gid": "6020775518020773649",
+                    "size": "725907026",
+                    "download": "384493856"
+                },
+                "local": {
+                    "gid": "2903775664244147310",
+                    "size": "650749229",
+                    "download": "315806768"
+                },
+                "preview": {
+                    "gid": "6020775518020773649",
+                    "size": "725907026",
+                    "download": "384493856"
+                }
+            },
+            "decryptionkey": "985467b07c86442749285d5785afd00df99586a2936a1f3461abec85b10d4431"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18939314",
+                "timeupdated": "1750419191"
+            },
+            "local": {
+                "buildid": "18928899",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1750347963"
+            },
+            "preview": {
+                "buildid": "18939314",
+                "description": "preview",
+                "timeupdated": "1750418668"
+            }
+        }
+    }
+}
