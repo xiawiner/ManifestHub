@@ -1,0 +1,32 @@
+{
+    "appid": 3011560,
+    "name": "City Lights Love Bites Season 0",
+    "type": "Game",
+    "schinese_name": "爱欲之都开篇季",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:59:10",
+    "change_number": 29684725,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "3011561": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6942614741021795303",
+                    "size": "13257180903",
+                    "download": "13248655312"
+                }
+            },
+            "decryptionkey": "1d00e46b6cf91037e5bcc758b2e7730e71037025ab3c8af09a8a00789bac23a0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18737941",
+                "timeupdated": "1749057508"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
