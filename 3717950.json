@@ -1,0 +1,28 @@
+{
+    "appid": 3717950,
+    "name": "Rune Factory: Guardians of Azuma - Art Book",
+    "type": "DLC",
+    "schinese_name": "符文工房 龙之天地 - 数字美术设定集",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 17:08:18",
+    "change_number": 29495671,
+    "depot": {
+        "3717950": {
+            "manifests": {
+                "public": {
+                    "gid": "1370050809622978742",
+                    "size": "658357506",
+                    "download": "658404832"
+                }
+            },
+            "dlcappid": "3717950",
+            "decryptionkey": "b12e4d792b17735ff82a052e418ef9f13f6d10a415e43c14c5f636d5a6494a7e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18465550",
+                "timeupdated": "1747250815"
+            }
+        }
+    }
+}
