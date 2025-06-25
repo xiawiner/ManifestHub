@@ -1,0 +1,27 @@
+{
+    "appid": 2391310,
+    "name": "Lies of Astaroth",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-27 20:16:37",
+    "change_number": 29211729,
+    "depot": {
+        "2391311": {
+            "manifests": {
+                "public": {
+                    "gid": "6124286961274721282",
+                    "size": "1247284939",
+                    "download": "280474160"
+                }
+            },
+            "decryptionkey": "efafbe4ba0845340d5c40c19645bedaa5efa57e0bb4f359c3a5aa7cc9b4b2d52"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18386997",
+                "timeupdated": "1746698654"
+            }
+        }
+    }
+}
