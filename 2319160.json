@@ -1,0 +1,58 @@
+{
+    "appid": 2319160,
+    "name": "Duel Revolution",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-23 07:28:17",
+    "change_number": 29138274,
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2319161": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7637393653007501806",
+                    "size": "176410847",
+                    "download": "147452512"
+                }
+            },
+            "decryptionkey": "76f6e40397fbc7af266b58e11f9e2279b607f8f92f81760c8597ce7464df42aa"
+        },
+        "2319163": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8545067322608281925",
+                    "size": "171595430",
+                    "download": "151556592"
+                }
+            },
+            "decryptionkey": "a4c6ba8c3cbb741aae901d3c8e6ac0b743868772f9262d89ba775f31e00bd8dd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18573748",
+                "timeupdated": "1747956491"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
