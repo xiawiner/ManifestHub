@@ -1,0 +1,28 @@
+{
+    "appid": 2208530,
+    "name": "Alchemia Story",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-18 13:50:13",
+    "change_number": 29622493,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "2208531": {
+            "manifests": {
+                "public": {
+                    "gid": "999449665178727833",
+                    "size": "257950820",
+                    "download": "92596224"
+                }
+            },
+            "decryptionkey": "2d07a32d96c9755e2a880c75ae3c6e865d29d5b1173ef6665e7cf25104ced3fb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18853256",
+                "timeupdated": "1750225809"
+            }
+        }
+    }
+}
