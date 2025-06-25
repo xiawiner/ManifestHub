@@ -1,0 +1,38 @@
+{
+    "appid": 2743080,
+    "name": "100 Capitalist Cats",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-05 04:53:55",
+    "change_number": 29380771,
+    "depot": {
+        "2743081": {
+            "manifests": {
+                "public": {
+                    "gid": "7882095943018813212",
+                    "size": "224779377",
+                    "download": "37545680"
+                }
+            },
+            "decryptionkey": "d5244216a790c4a6d223f0defbd1dc87406872a8b952571ad940cd8b54bf1823"
+        },
+        "2779650": {
+            "dlcappid": "2779650",
+            "manifests": {
+                "public": {
+                    "gid": "241110808166481553",
+                    "size": "21251580",
+                    "download": "16699984"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18740606",
+                "timeupdated": "1749070428"
+            }
+        }
+    }
+}
