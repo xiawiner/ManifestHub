@@ -1,0 +1,44 @@
+{
+    "appid": 2720010,
+    "name": "Rogue Fable IV",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 05:09:44",
+    "change_number": 29595830,
+    "depot": {
+        "2720011": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2388913856203598927",
+                    "size": "473527376",
+                    "download": "83723104"
+                }
+            },
+            "decryptionkey": "9234f5e3d1f13b518710676fbc03654b164ea4891abd11dee8bcd2b40dbec2ac"
+        },
+        "2720012": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6363788021301731899",
+                    "size": "617546754",
+                    "download": "127973472"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18888508",
+                "timeupdated": "1750108177"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
