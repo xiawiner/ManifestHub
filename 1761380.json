@@ -1,0 +1,31 @@
+{
+    "appid": 1761380,
+    "name": "Otherworld Legends",
+    "type": "Game",
+    "schinese_name": "战魂铭人",
+    "isfreeapp": 1,
+    "update_time": "2025-05-27 16:29:21",
+    "change_number": 29202862,
+    "depot": {
+        "1761381": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7831448188851041856",
+                    "size": "1602871022",
+                    "download": "657269328"
+                }
+            },
+            "decryptionkey": "519cf38b3d934c5d95b676bd2ffc86297dc57ffbd4c050eb85007b57ba765794"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18559489",
+                "timeupdated": "1748311491"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
