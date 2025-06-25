@@ -1,0 +1,33 @@
+{
+    "appid": 3166140,
+    "name": "SquareLean",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 01:46:48",
+    "change_number": 29673316,
+    "depot": {
+        "workshopdepot": "3166140",
+        "baselanguages": "english",
+        "3166141": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1119687697282414950",
+                    "size": "2345469635",
+                    "download": "738108336"
+                }
+            },
+            "decryptionkey": "465d1cf0d5d96a125e4949619a8510b6123cc95c6154ed987e9a73922807dd80"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18933369",
+                "timeupdated": "1750379492"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
