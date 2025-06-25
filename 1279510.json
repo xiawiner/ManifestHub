@@ -1,0 +1,31 @@
+{
+    "appid": 1279510,
+    "name": "Screw Drivers",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 23:22:21",
+    "change_number": 29670987,
+    "depot": {
+        "workshopdepot": "1279510",
+        "1279511": {
+            "manifests": {
+                "public": {
+                    "gid": "9191275873765160512",
+                    "size": "8727728340",
+                    "download": "2228617056"
+                }
+            },
+            "decryptionkey": "ef004932c90fe787672412305ac6f8a390431f51947c405d255840ead5220052"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18131624",
+                "timeupdated": "1744821958"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
