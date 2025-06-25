@@ -1,0 +1,60 @@
+{
+    "appid": 3415300,
+    "name": "Supercat Survivors: Meow or Die",
+    "type": "Game",
+    "schinese_name": "超级猫幸存者: 死或喵",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 20:18:17",
+    "change_number": 29667926,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,turkish",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3415301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6917420713577316917",
+                    "size": "1733180564",
+                    "download": "634947200"
+                }
+            },
+            "decryptionkey": "0383f6f81a76ef6e18abcf143a9b2db3f599cff081e549595a8939e5036089d1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18922637",
+                "timeupdated": "1750313616"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
