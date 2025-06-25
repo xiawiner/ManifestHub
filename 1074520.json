@@ -1,0 +1,31 @@
+{
+    "appid": 1074520,
+    "name": "A Sceptic's Guide to Magic",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-02 23:24:38",
+    "change_number": 29327386,
+    "depot": {
+        "1074521": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4125448057522730864",
+                    "size": "850158258",
+                    "download": "709309600"
+                }
+            },
+            "decryptionkey": "dcb61386353eac76ae0d47ae00605f7b89710774bf39dcd254b3eded05e6547a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4141098",
+                "timeupdated": "1566887606"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
