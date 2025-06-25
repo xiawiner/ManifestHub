@@ -1,0 +1,60 @@
+{
+    "appid": 567380,
+    "name": "Heartbound",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-05 08:58:40",
+    "change_number": 29384084,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,french,spanish,russian,brazilian",
+        "hasdepotsindlc": "0",
+        "567381": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "540457178653579355",
+                    "size": "402815562",
+                    "download": "321145712"
+                }
+            },
+            "decryptionkey": "dc4a2ce8d7bf9c0300e2af4f041e35e33a9aa897758ee1317192e8e4d6915c3b"
+        },
+        "567383": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8165880359283554696",
+                    "size": "406298688",
+                    "download": "321540304"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18638585",
+                "timeupdated": "1748421353"
+            }
+        }
+    }
+}
