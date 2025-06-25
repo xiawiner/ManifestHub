@@ -1,0 +1,59 @@
+{
+    "appid": 1365760,
+    "name": "Defold",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-01 01:23:42",
+    "change_number": 29303522,
+    "depot": {
+        "1365761": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "443261435624797503",
+                    "size": "319292560",
+                    "download": "284597584"
+                }
+            },
+            "decryptionkey": "8660d16c840a123c540bdc5075ec9bd6436ad57f156aadb39222aa016fb3db6d"
+        },
+        "1365762": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7753755863487753023",
+                    "size": "321714089",
+                    "download": "290750320"
+                }
+            },
+            "decryptionkey": "6e6c4e3f0a29a2676e61e91549ae9ce04d2bd3782da105ba912fc5c5a5cc3f9e"
+        },
+        "1365763": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8049682739213691426",
+                    "size": "342252650",
+                    "download": "302422368"
+                }
+            },
+            "decryptionkey": "ed29abf79966a3b79df3b325f318d6a8c7ea99cf064251d1664b3ccfb4746733"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17227625",
+                "timeupdated": "1738606769"
+            }
+        }
+    }
+}
