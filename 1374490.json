@@ -1,0 +1,47 @@
+{
+    "appid": 1374490,
+    "name": "RuneScape: Dragonwilds",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 03:27:31",
+    "change_number": 29674565,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1374491": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1091460250949820352",
+                    "size": "17471882125",
+                    "download": "7807120288"
+                }
+            },
+            "decryptionkey": "e1a3b5ad6a0fbda32b1fceadce8be5fe365e6c98dcc654bfdef62b6aa01f48d5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18911515",
+                "timeupdated": "1750254733"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
