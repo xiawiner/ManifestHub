@@ -1,0 +1,54 @@
+{
+    "appid": 2290180,
+    "name": "Riders Republic",
+    "type": "Game",
+    "schinese_name": "极限国度",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 16:10:00",
+    "change_number": 29603528,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2290181": {
+            "manifests": {
+                "public": {
+                    "gid": "1067016915466219233",
+                    "size": "30956079915",
+                    "download": "29490639696"
+                }
+            },
+            "decryptionkey": "87bb928cf12682614e38b33c1fdbcfe71c6473b5bad0c278583e2478ccf34f36"
+        },
+        "1716751": {
+            "manifests": {
+                "public": {
+                    "gid": "7692967814764193714",
+                    "size": "631944",
+                    "download": "515248"
+                }
+            },
+            "depotfromapp": "1716750",
+            "decryptionkey": "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18750755",
+                "timeupdated": "1750147795"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
