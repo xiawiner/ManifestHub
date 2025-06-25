@@ -1,0 +1,41 @@
+{
+    "appid": 3160580,
+    "name": "Trade Conquest",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-30 06:23:40",
+    "change_number": 29271334,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3160581": {
+            "manifests": {
+                "public": {
+                    "gid": "5736613132892742434",
+                    "size": "1958770083",
+                    "download": "1731116384"
+                }
+            },
+            "decryptionkey": "17789ab3d4d840be90a638edbe0fc40cba5f38448c3f2e5083ad4e1d7883af66"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18602432",
+                "timeupdated": "1748198960"
+            }
+        }
+    }
+}
