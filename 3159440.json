@@ -1,0 +1,29 @@
+{
+    "appid": 3159440,
+    "name": "修仙故事: 無儘劍域 Cultivation Story: Infinite Sword Realm",
+    "type": "Game",
+    "schinese_name": "修仙故事: 无尽剑域",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 08:18:18",
+    "change_number": 29686634,
+    "depot": {
+        "3159441": {
+            "manifests": {
+                "public": {
+                    "gid": "2483336737096407856",
+                    "size": "282776468",
+                    "download": "225679696"
+                }
+            },
+            "decryptionkey": "dbf73ccb3e98f3de21ee28008f403a25d04f581571ab326e6e9ed476289ac265"
+        },
+        "baselanguages": "english,schinese,tchinese",
+        "branches": {
+            "public": {
+                "buildid": "18865871",
+                "timeupdated": "1749886938"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
