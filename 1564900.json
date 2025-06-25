@@ -1,0 +1,40 @@
+{
+    "appid": 1564900,
+    "name": "CRIXUS: Life of free Gladiator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-09 18:48:51",
+    "change_number": 29460358,
+    "depot": {
+        "1564901": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2920643687492865801",
+                    "size": "6400069450",
+                    "download": "2786232112"
+                },
+                "beta": {
+                    "gid": "2920643687492865801",
+                    "size": "6400069450",
+                    "download": "2786232112"
+                }
+            },
+            "decryptionkey": "11d3ef7a3ef0433f6a28c5fd5ab523321f3113b2aa05664fcaf4c11a88a35743"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18793209",
+                "timeupdated": "1749466125"
+            },
+            "beta": {
+                "buildid": "18793209",
+                "description": "beta branch",
+                "timeupdated": "1749466078"
+            }
+        }
+    }
+}
