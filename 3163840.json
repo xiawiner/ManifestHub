@@ -1,0 +1,31 @@
+{
+    "appid": 3163840,
+    "name": "Market Empire Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 21:58:05",
+    "change_number": 29682642,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "3163843": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2417482112089423570",
+                    "size": "4474239914",
+                    "download": "1109158000"
+                }
+            },
+            "decryptionkey": "1b9093dbd681ad60160e331f0ec19559bcc3406df4d914d2d3fdd7bd6d15fa91"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18950101",
+                "timeupdated": "1750512848"
+            }
+        }
+    }
+}
