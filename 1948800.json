@@ -1,0 +1,58 @@
+{
+    "appid": 1948800,
+    "name": "Yi Xian: The Cultivation Card Game",
+    "type": "Game",
+    "schinese_name": "弈仙牌",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 14:01:14",
+    "change_number": 29662351,
+    "depot": {
+        "baselanguages": "schinese",
+        "1948801": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4921744491973295537",
+                    "size": "887264185",
+                    "download": "666613008"
+                }
+            },
+            "decryptionkey": "36faa07f73256bab7c712cb6f5d353eb2fda66998700a7fa29f504f0144bf81b"
+        },
+        "1948802": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8842048063494252173",
+                    "size": "853242408",
+                    "download": "656979376"
+                }
+            },
+            "decryptionkey": "60312180090ac7e5966de810e791c5eac01abbe638b404f23ab2104a23ca0c01"
+        },
+        "1948803": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4949974551900450463",
+                    "size": "877867236",
+                    "download": "656224144"
+                }
+            },
+            "decryptionkey": "407089b44256e578ee60c2a6903feb10a4bfa7f0a689de8318659457ce3f375f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18935519",
+                "timeupdated": "1750399165"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
