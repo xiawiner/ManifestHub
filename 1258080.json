@@ -1,0 +1,38 @@
+{
+    "appid": 1258080,
+    "name": "Shop Titans",
+    "type": "Game",
+    "schinese_name": "传奇商店",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 05:29:56",
+    "change_number": 29655213,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1258081": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "614567189159560627",
+                    "size": "1179550042",
+                    "download": "766289984"
+                }
+            },
+            "decryptionkey": "18f6857be8fe6619967839c91b7a7c2e82bf8db7a0c34c6486ce0cd42607c590"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18901088",
+                "timeupdated": "1750358224"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
