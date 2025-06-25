@@ -1,0 +1,33 @@
+{
+    "appid": 899770,
+    "name": "Last Epoch",
+    "type": "Game",
+    "schinese_name": "最后纪元",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 02:38:51",
+    "change_number": 29673994,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "899771": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2222607942752329324",
+                    "size": "25583791866",
+                    "download": "12183301568"
+                }
+            },
+            "decryptionkey": "c2e2078a202c652383c595f86a2661e2c0bf747e070ab942890d958aaecb06d9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18663540",
+                "timeupdated": "1749526217"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
