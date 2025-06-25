@@ -1,0 +1,27 @@
+{
+    "appid": 1125250,
+    "name": "Hentai Petting Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 15:19:37",
+    "change_number": 29543890,
+    "depot": {
+        "1125251": {
+            "manifests": {
+                "public": {
+                    "gid": "1324207412753120434",
+                    "size": "47458668",
+                    "download": "29735136"
+                }
+            },
+            "decryptionkey": "64c1c547c5a190594b1c8c75e26576a54c928c9b1adce3cc85ce304923aacd26"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17612954",
+                "timeupdated": "1741227585"
+            }
+        }
+    }
+}
