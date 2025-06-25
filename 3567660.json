@@ -1,0 +1,40 @@
+{
+    "appid": 3567660,
+    "name": "Funfair Billionaire",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 04:01:08",
+    "change_number": 29593025,
+    "depot": {
+        "3567661": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1981611097341602236",
+                    "size": "908738805",
+                    "download": "347670336"
+                },
+                "beta": {
+                    "gid": "4344780102651940144",
+                    "size": "1040488883",
+                    "download": "374964256"
+                }
+            },
+            "decryptionkey": "6447bf0f938fb7907d54a49967929ee526e7da133ac6054e78222ddcd5406a37"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18256711",
+                "timeupdated": "1745769379"
+            },
+            "beta": {
+                "buildid": "18886602",
+                "description": "Beta branch for testing",
+                "timeupdated": "1750096560"
+            }
+        }
+    }
+}
