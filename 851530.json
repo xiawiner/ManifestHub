@@ -1,0 +1,45 @@
+{
+    "appid": 851530,
+    "name": "Mini-Dead",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 20:51:16",
+    "change_number": 29668356,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "851531": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6471302088986912475",
+                    "size": "173480279",
+                    "download": "148940016"
+                }
+            },
+            "decryptionkey": "3956a1fbc9f95ee2f89eb98995c2c5e03bc6a193f3aa842b0b7926113c3985d3"
+        },
+        "851532": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "7085369",
+                "timeupdated": "1627248827"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
