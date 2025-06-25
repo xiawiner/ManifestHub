@@ -1,0 +1,36 @@
+{
+    "appid": 2024070,
+    "name": "Party Quiz",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 20:10:43",
+    "change_number": 29564629,
+    "depot": {
+        "workshopdepot": "2024070",
+        "baselanguages": "english,german,french,spanish,russian,portuguese,polish",
+        "hasdepotsindlc": "1",
+        "2024071": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1284461539673961713",
+                    "size": "649685822",
+                    "download": "251599296"
+                }
+            },
+            "decryptionkey": "ca9aa81b0b92768ac495e7e7c41612806728a9c8e87ae18f6e2036d8ad65909e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18866948",
+                "timeupdated": "1749900077"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
