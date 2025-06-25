@@ -1,0 +1,39 @@
+{
+    "appid": 1014040,
+    "name": "PictoQuest",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 22:46:05",
+    "change_number": 29670379,
+    "depot": {
+        "1014041": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5115780667425391206",
+                    "size": "435711209",
+                    "download": "107056656"
+                },
+                "test": {
+                    "gid": "5115780667425391206",
+                    "size": "435711209",
+                    "download": "107056656"
+                }
+            },
+            "decryptionkey": "d9c4bb4b28345a8b44d20465f05e1d646bb024e34dbc08189bd04f018176d3c1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4701165",
+                "timeupdated": "1586855357"
+            },
+            "test": {
+                "buildid": "4701165",
+                "timeupdated": "1586855179"
+            }
+        }
+    }
+}
