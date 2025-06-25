@@ -1,0 +1,27 @@
+{
+    "appid": 2153770,
+    "name": "Coin Flipper",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-03 03:49:17",
+    "change_number": 29333640,
+    "depot": {
+        "2153771": {
+            "manifests": {
+                "public": {
+                    "gid": "5259174066609594186",
+                    "size": "249971360",
+                    "download": "40550960"
+                }
+            },
+            "decryptionkey": "366241e522fa64071b93a5a06a443ce591eae02d0d65841fb04e5d3d95badf4c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16823393",
+                "timeupdated": "1734780576"
+            }
+        }
+    }
+}
