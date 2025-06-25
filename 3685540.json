@@ -1,0 +1,28 @@
+{
+    "appid": 3685540,
+    "name": "只要你幸福就好",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-06 16:18:49",
+    "change_number": 29413379,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "3685541": {
+            "manifests": {
+                "public": {
+                    "gid": "675433280899817049",
+                    "size": "509129184",
+                    "download": "369394016"
+                }
+            },
+            "decryptionkey": "a46727d49f7123a4bd98bb52a7971c894fdd006c3fa2da336334a896db4e9dea"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18552473",
+                "timeupdated": "1747844006"
+            }
+        }
+    }
+}
