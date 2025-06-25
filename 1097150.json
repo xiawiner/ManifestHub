@@ -1,0 +1,35 @@
+{
+    "appid": 1097150,
+    "name": "Fall Guys",
+    "type": "Game",
+    "schinese_name": "糖豆人",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 16:44:21",
+    "change_number": 29664588,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1097151": {
+            "manifests": {
+                "public": {
+                    "gid": "2790638740024239269",
+                    "size": "7722761159",
+                    "download": "6330977088"
+                }
+            },
+            "decryptionkey": "243e7ffcd6bbd15f3976f648f7d851f975219f7a995ffb32e404e7a94e84dae9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18896736",
+                "timeupdated": "1750323288"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
