@@ -1,0 +1,211 @@
+{
+    "appid": 1029550,
+    "name": "Torque Drift",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-19 15:09:06",
+    "change_number": 29643906,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1029551": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6995203344022552429",
+                    "size": "11539009736",
+                    "download": "4788628176"
+                },
+                "beta": {
+                    "gid": "638954706211241312",
+                    "size": "11539009831",
+                    "download": "4788623792"
+                }
+            },
+            "decryptionkey": "be8027e5929e7be5b64a639da0cc132be37d336da6b6b34796a25fe258a09e75"
+        },
+        "1202603": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1202603"
+        },
+        "1202601": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1202601"
+        },
+        "1268821": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1268821"
+        },
+        "1247900": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1247900"
+        },
+        "1146131": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1146131"
+        },
+        "1241240": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1241240"
+        },
+        "1202604": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1202604"
+        },
+        "1202605": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1202605"
+        },
+        "1146132": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1146132"
+        },
+        "1123420": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1123420"
+        },
+        "1123430": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1123430"
+        },
+        "1123431": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1123431"
+        },
+        "1123433": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1123433"
+        },
+        "1123434": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1123434"
+        },
+        "1123440": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1123440"
+        },
+        "1123441": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1123441"
+        },
+        "1123470": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1123470"
+        },
+        "1123471": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1123471"
+        },
+        "1123472": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1123472"
+        },
+        "1123480": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1123480"
+        },
+        "1123481": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1123481"
+        },
+        "1123482": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1123482"
+        },
+        "1146130": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1146130"
+        },
+        "1247901": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1247901"
+        },
+        "1268820": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1268820"
+        },
+        "1071780": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1071780"
+        },
+        "1071690": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1071690"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18905003",
+                "timeupdated": "1750316938"
+            },
+            "beta": {
+                "buildid": "18910146",
+                "description": "Branch for testing new features before a public release. Code in this version may be unstable.",
+                "timeupdated": "1750239986"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
