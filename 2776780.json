@@ -1,0 +1,62 @@
+{
+    "appid": 2776780,
+    "name": "Blood Bar Tycoon",
+    "type": "Game",
+    "schinese_name": "吸血鬼酒吧大亨",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 16:29:23",
+    "change_number": 29395058,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
+        "2776781": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7109870647291397143",
+                    "size": "3891073644",
+                    "download": "2692194704"
+                },
+                "beta": {
+                    "gid": "7109870647291397143",
+                    "size": "3891073644",
+                    "download": "2692194704"
+                }
+            },
+            "decryptionkey": "afa10f600fdbcfa388448072896e37c7d362a5efbbf2f49e6e85493d0e90aabe"
+        },
+        "3372940": {
+            "dlcappid": "3372940"
+        },
+        "2776782": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "887627883361929556",
+                    "size": "3979219259",
+                    "download": "2742690976"
+                },
+                "beta": {
+                    "gid": "7357388279645706950",
+                    "size": "3978053366",
+                    "download": "2741912688"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18750434",
+                "timeupdated": "1749126915"
+            },
+            "beta": {
+                "buildid": "18750096",
+                "description": "Public testing branch",
+                "timeupdated": "1749125376"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
