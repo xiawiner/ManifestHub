@@ -1,0 +1,27 @@
+{
+    "appid": 3486770,
+    "name": "Red Light",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 21:57:42",
+    "change_number": 29682529,
+    "depot": {
+        "3486771": {
+            "manifests": {
+                "public": {
+                    "gid": "8814948861525455980",
+                    "size": "1679918800",
+                    "download": "1269049456"
+                }
+            },
+            "decryptionkey": "003ae6b504108e78dd4d55c04a7f114d7c3f586e97e3bbe4daf7b18929bf179f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18919052",
+                "timeupdated": "1750287623"
+            }
+        }
+    }
+}
