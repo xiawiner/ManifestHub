@@ -1,0 +1,39 @@
+{
+    "appid": 2619650,
+    "name": "Cauldron",
+    "type": "Game",
+    "schinese_name": "魔釜小女巫",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 21:15:49",
+    "change_number": 29668743,
+    "depot": {
+        "2619651": {
+            "manifests": {
+                "public": {
+                    "gid": "1624125951015752015",
+                    "size": "219212668",
+                    "download": "143315120"
+                },
+                "playtest": {
+                    "gid": "1624125951015752015",
+                    "size": "219212668",
+                    "download": "143315120"
+                }
+            },
+            "decryptionkey": "918343dada47c356828b1df3d51c6692efc744449fe8c03d3cadc84846436aee"
+        },
+        "2619652": {},
+        "branches": {
+            "public": {
+                "buildid": "18925040",
+                "timeupdated": "1750425343"
+            },
+            "playtest": {
+                "buildid": "18925040",
+                "description": "live testing new updates",
+                "timeupdated": "1750327491"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
