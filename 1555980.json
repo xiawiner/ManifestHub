@@ -1,0 +1,46 @@
+{
+    "appid": 1555980,
+    "name": "Mother Machine",
+    "type": "Game",
+    "schinese_name": "遵命！机母大人",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 06:32:40",
+    "change_number": 29676546,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1555981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "129854930997991321",
+                    "size": "16659990579",
+                    "download": "16243391008"
+                }
+            },
+            "decryptionkey": "af26c56a40d4adfa8da15282c080280dc0d9b9b6cb9e16decd832f14bd83d3a0"
+        },
+        "baselanguages": "english,german,french,koreana,spanish,schinese,japanese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18900180",
+                "timeupdated": "1750236066"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
