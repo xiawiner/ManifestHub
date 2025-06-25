@@ -1,0 +1,53 @@
+{
+    "appid": 1063540,
+    "name": "Space Wreck",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-10 13:47:13",
+    "change_number": 29479518,
+    "depot": {
+        "1063541": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2382748485165038064",
+                    "size": "773871393",
+                    "download": "544791904"
+                },
+                "latest": {
+                    "gid": "2382748485165038064",
+                    "size": "773871393",
+                    "download": "544791904"
+                },
+                "stable": {
+                    "gid": "7121141192300998939",
+                    "size": "773836750",
+                    "download": "544788048"
+                }
+            },
+            "decryptionkey": "769f847c505c6dc6fb9b6f59df7507681a4406379a3081f8d9a94a553b4f3744"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18783443",
+                "timeupdated": "1749534425"
+            },
+            "latest": {
+                "buildid": "18783443",
+                "description": "Latest changes. May be unstable.",
+                "timeupdated": "1749375258"
+            },
+            "stable": {
+                "buildid": "12728364",
+                "description": "Backup version in case the latest branch is too unstable.",
+                "timeupdated": "1719989904"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
