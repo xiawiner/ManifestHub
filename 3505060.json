@@ -1,0 +1,43 @@
+{
+    "appid": 3505060,
+    "name": "Castle of Mist",
+    "type": "Game",
+    "schinese_name": "古堡迷雾",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 18:16:14",
+    "change_number": 29573215,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3505061": {
+            "manifests": {
+                "public": {
+                    "gid": "3321397851252298569",
+                    "size": "13820070322",
+                    "download": "13435421920"
+                }
+            },
+            "decryptionkey": "6a077f1ce966cae3c985181bf333b929e04ddec8bcf2956e4cb722046b78d625"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,turkish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18691184",
+                "timeupdated": "1748769027"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
