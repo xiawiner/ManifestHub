@@ -1,0 +1,43 @@
+{
+    "appid": 1888520,
+    "name": "AI Stories",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-21 17:50:56",
+    "change_number": 29681139,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1888522": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4402812918776946660",
+                    "size": "1901957344",
+                    "download": "1744838288"
+                }
+            },
+            "decryptionkey": "b9cda45849026b60298ef9f2002789f0c33e4690bb5fc0f65c20873be2f87a0d"
+        },
+        "1888521": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8306662058202194212",
+                    "size": "1905683376",
+                    "download": "1745921776"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18880860",
+                "timeupdated": "1750068293"
+            }
+        }
+    }
+}
