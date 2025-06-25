@@ -1,0 +1,77 @@
+{
+    "appid": 3336530,
+    "name": "Embers Adrift",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 01:38:44",
+    "change_number": 29673189,
+    "depot": {
+        "3336533": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4292328087678797682",
+                    "size": "10193766148",
+                    "download": "5597680064"
+                },
+                "development": {
+                    "gid": "9135945216231853720",
+                    "size": "10404446918",
+                    "download": "5728426432"
+                }
+            }
+        },
+        "3336532": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2322014753362760297",
+                    "size": "9834575746",
+                    "download": "5289497856"
+                },
+                "development": {
+                    "gid": "8376989112733436175",
+                    "size": "10072207088",
+                    "download": "5434443840"
+                }
+            }
+        },
+        "3336531": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1077872339711859644",
+                    "size": "9639862647",
+                    "download": "5298236976"
+                },
+                "development": {
+                    "gid": "2249504190276785468",
+                    "size": "9853050802",
+                    "download": "5442451648"
+                }
+            },
+            "decryptionkey": "d61eaa9efa46e92dafb506cf8b62380c12d5b52c3b7588e815f71e274b93f18e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18751972",
+                "timeupdated": "1749133705"
+            },
+            "development": {
+                "buildid": "18917164",
+                "description": "QA Testing",
+                "timeupdated": "1750276276"
+            }
+        }
+    }
+}
