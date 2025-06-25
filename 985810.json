@@ -1,0 +1,60 @@
+{
+    "appid": 985810,
+    "name": "GrandChase",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 16:03:04",
+    "change_number": 29663968,
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "985811": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1790114761623051233",
+                    "size": "10842222994",
+                    "download": "10692834160"
+                }
+            },
+            "decryptionkey": "6111bbf3bb4f0d09da16fb01371c5c9357c24486eb64467729691a65d2a4bb9b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18935787",
+                "timeupdated": "1750401966"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
