@@ -1,0 +1,28 @@
+{
+    "appid": 2826820,
+    "name": "Turbo Play",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-13 06:04:40",
+    "change_number": 29537690,
+    "depot": {
+        "baselanguages": "english",
+        "2826821": {
+            "manifests": {
+                "public": {
+                    "gid": "8362118924760531801",
+                    "size": "578865549",
+                    "download": "177445856"
+                }
+            },
+            "decryptionkey": "ff181746799dc92be6284d9496fc765d4901ecca2b2ae62d5c6b1a4a3eb7ae1c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18847037",
+                "timeupdated": "1749765875"
+            }
+        }
+    }
+}
