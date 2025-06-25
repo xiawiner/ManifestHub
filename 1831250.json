@@ -1,0 +1,43 @@
+{
+    "appid": 1831250,
+    "name": "WasteLand Express 废土快递",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 03:56:04",
+    "change_number": 29587711,
+    "depot": {
+        "baselanguages": "schinese",
+        "workshopdepot": "1831250",
+        "hasdepotsindlc": "1",
+        "1831251": {
+            "manifests": {
+                "public": {
+                    "gid": "2424434455544388169",
+                    "size": "2085696271",
+                    "download": "222114368"
+                }
+            },
+            "decryptionkey": "248951d03b35e79d7a691a1d9de74625731c0d66d318b94ed3f7d5745b0bcd11"
+        },
+        "2336570": {
+            "dlcappid": "2336570",
+            "manifests": {
+                "public": {
+                    "gid": "385860325276904936",
+                    "size": "2085696271",
+                    "download": "222257520"
+                }
+            },
+            "decryptionkey": "531355f6c470949938aeab2e80e226749a25ed0d7d98d71156b2ebaf4032246a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18882130",
+                "timeupdated": "1750079409"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "95da5542c7d417cd11fa797c92c23cbb61c6949d4b70166b562f91788da6273f"
+    }
+}
