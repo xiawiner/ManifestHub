@@ -1,0 +1,52 @@
+{
+    "appid": 2435870,
+    "name": "Blood Rush",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:59:41",
+    "change_number": 29684951,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2435871": {
+            "manifests": {
+                "public": {
+                    "gid": "1872721286345510872",
+                    "size": "663987053",
+                    "download": "337383280"
+                },
+                "public_beta": {
+                    "gid": "1872721286345510872",
+                    "size": "663987053",
+                    "download": "337383280"
+                }
+            },
+            "decryptionkey": "40cacec5f8ff0cf28adc92712f67f941864cd92948f40d46ecb1f6db6d557578"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18940204",
+                "timeupdated": "1750424088"
+            },
+            "public_beta": {
+                "buildid": "18940204",
+                "description": "Branch for public tests",
+                "timeupdated": "1750423480"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
