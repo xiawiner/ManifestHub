@@ -1,0 +1,33 @@
+{
+    "appid": 2405360,
+    "name": "再上一层",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 11:14:53",
+    "change_number": 29678712,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "schinese",
+        "2405361": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3974074268141218480",
+                    "size": "640471353",
+                    "download": "429148480"
+                }
+            },
+            "decryptionkey": "e33110f0fbf5baf7961293ed551e2e0291d10e9698249ba36b1217e6a6ac8571"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18841177",
+                "timeupdated": "1749735647"
+            }
+        }
+    }
+}
