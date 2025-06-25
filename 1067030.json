@@ -1,0 +1,32 @@
+{
+    "appid": 1067030,
+    "name": "META REVELATIONS - RING SPIRITS",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-09 04:03:55",
+    "change_number": 29449984,
+    "depot": {
+        "baselanguages": "",
+        "1067031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2587919106611706766",
+                    "size": "625610898",
+                    "download": "611245312"
+                }
+            },
+            "decryptionkey": "d339facbd4a82f9a53fa5d188c3f818974ed49b27c782d39c11b578d274eb7d4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18786541",
+                "timeupdated": "1749413028"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
