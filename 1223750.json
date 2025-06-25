@@ -1,0 +1,44 @@
+{
+    "appid": 1223750,
+    "name": "Cloud Meadow",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 08:17:23",
+    "change_number": 29618892,
+    "depot": {
+        "1223751": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6088733260915754010",
+                    "size": "1150273387",
+                    "download": "842702256"
+                }
+            },
+            "decryptionkey": "88d74738f99c281635e93487fe2dd2868ccb7c88dbf1c87dcbb748da80e3e8db"
+        },
+        "1223752": {
+            "config": {
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1497475986447479238",
+                    "size": "1093886373",
+                    "download": "807060880"
+                }
+            },
+            "decryptionkey": "de4a25bf0aad5f39e9c95f5f55a504bb2bf6aa283f335d47b9213474109c6db1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18667170",
+                "timeupdated": "1748613334"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
