@@ -1,0 +1,29 @@
+{
+    "appid": 3226460,
+    "name": "Scar-Lead Salvation",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 17:18:08",
+    "change_number": 29625606,
+    "depot": {
+        "3226461": {
+            "manifests": {
+                "public": {
+                    "gid": "9017713001217507467",
+                    "size": "4660394335",
+                    "download": "1250791088"
+                }
+            },
+            "decryptionkey": "7925e91b821bb5818ded269e6ed58610c50d8375f813d07bc23b17bcd668a1fc"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18877713",
+                "timeupdated": "1750208785"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
