@@ -1,0 +1,27 @@
+{
+    "appid": 3632530,
+    "name": "Violated Princess",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 11:15:09",
+    "change_number": 29678717,
+    "depot": {
+        "3632531": {
+            "manifests": {
+                "public": {
+                    "gid": "4361831354252533342",
+                    "size": "932843018",
+                    "download": "728775584"
+                }
+            },
+            "decryptionkey": "fed674fc3155a06656b120f555c177ac3cd3cc9b25965f741b5eddb39e15334b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18245370",
+                "timeupdated": "1745623229"
+            }
+        }
+    }
+}
