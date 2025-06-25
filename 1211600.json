@@ -1,0 +1,38 @@
+{
+    "appid": 1211600,
+    "name": "ZED ZONE",
+    "type": "Game",
+    "schinese_name": "隔离区-丧尸末日生存",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 15:37:10",
+    "change_number": 29680219,
+    "depot": {
+        "1211602": {
+            "manifests": {
+                "public": {
+                    "gid": "598125685572414840",
+                    "size": "1347167913",
+                    "download": "226072432"
+                },
+                "publicplaytest": {
+                    "gid": "598125685572414840",
+                    "size": "1347167913",
+                    "download": "226072432"
+                }
+            },
+            "decryptionkey": "0378532b7715d88cc41c1a7f96a42d2ac9ab565ff5818653cdbbfe54548f87db"
+        },
+        "baselanguages": "english,schinese,tchinese",
+        "branches": {
+            "public": {
+                "buildid": "18948423",
+                "timeupdated": "1750491426"
+            },
+            "publicplaytest": {
+                "buildid": "18948423",
+                "description": "Playtest 测试版",
+                "timeupdated": "1750491386"
+            }
+        }
+    }
+}
