@@ -1,0 +1,60 @@
+{
+    "appid": 1536090,
+    "name": "Echoes of the Plum Grove",
+    "type": "Game",
+    "schinese_name": "梅树林的回声",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 03:58:45",
+    "change_number": 29590443,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1536091": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7685691592984194597",
+                    "size": "2279639334",
+                    "download": "403026688"
+                }
+            },
+            "decryptionkey": "3d3857b760b7b5ff52f50f5b402d4413a1e911ba3238c4b9ee9c225792fc32b9"
+        },
+        "1536092": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7150994159277626873",
+                    "size": "3174771674",
+                    "download": "573476384"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1536093": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7404230410418969250",
+                    "size": "2304854043",
+                    "download": "411245296"
+                }
+            },
+            "decryptionkey": "69847c5909ab3810e703594a25197aaf86b1650459daa2f33e45c8ce5ba73bd7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18652966",
+                "timeupdated": "1748492004"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
