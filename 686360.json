@@ -1,0 +1,28 @@
+{
+    "appid": 686360,
+    "name": "Dungeons & Treasure VR",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 01:17:24",
+    "change_number": 29525986,
+    "depot": {
+        "686361": {
+            "manifests": {
+                "public": {
+                    "gid": "3599943943240733172",
+                    "size": "464277962",
+                    "download": "125397584"
+                }
+            },
+            "decryptionkey": "e53ac8ff3e799134dd1ebcc7d411fdb1440123b0c07ec60483cd265cf7ff4bbb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17833340",
+                "timeupdated": "1742811415"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
