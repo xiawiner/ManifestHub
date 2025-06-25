@@ -1,0 +1,41 @@
+{
+    "appid": 2528150,
+    "name": "Trans-Siberian Railway Simulator: Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-16 19:49:41",
+    "change_number": 29585796,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2528151": {
+            "manifests": {
+                "public": {
+                    "gid": "2451641058594054977",
+                    "size": "14819261160",
+                    "download": "11872305712"
+                }
+            },
+            "decryptionkey": "7dfdfa736dbe68c2b2ae632fa103442dc56ac4f37c3319cea98bfbc466a53633"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18881458",
+                "timeupdated": "1750072383"
+            }
+        }
+    }
+}
