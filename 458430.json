@@ -1,0 +1,57 @@
+{
+    "appid": 458430,
+    "name": "Steel Seed",
+    "type": "Game",
+    "schinese_name": "钢铁之种",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:25:38",
+    "change_number": 29652332,
+    "depot": {
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "458432": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2802080638504533570",
+                    "size": "40673860850",
+                    "download": "29564381072"
+                }
+            },
+            "decryptionkey": "676d0c262af24e6cd734932d053a9997f4e69a5226ac436b337b04054884257a"
+        },
+        "3626520": {
+            "dlcappid": "3626520",
+            "manifests": {
+                "public": {
+                    "gid": "4513624616451772644",
+                    "size": "861518154",
+                    "download": "861942112"
+                }
+            },
+            "decryptionkey": "9e6ccdec2df7d0d334069f38327098dd7fad54e37fc15d75f364187201721c2d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18568602",
+                "timeupdated": "1748609546"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
