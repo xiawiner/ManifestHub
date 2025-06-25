@@ -1,0 +1,27 @@
+{
+    "appid": 1032210,
+    "name": "2014.Aftermath",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 03:15:36",
+    "change_number": 29568311,
+    "depot": {
+        "1032211": {
+            "manifests": {
+                "public": {
+                    "gid": "6473848073959606988",
+                    "size": "188794131",
+                    "download": "57842896"
+                }
+            },
+            "decryptionkey": "aff5378d0acb1afef206958a9acf2087652302776e171e882c7f3e0823c35af6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3597470",
+                "timeupdated": "1551219719"
+            }
+        }
+    }
+}
