@@ -1,0 +1,57 @@
+{
+    "appid": 774171,
+    "name": "Muse Dash",
+    "type": "Game",
+    "schinese_name": "喵斯快跑",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 18:46:51",
+    "change_number": 29666570,
+    "depot": {
+        "baselanguages": "english,koreana,schinese,tchinese,japanese",
+        "hasdepotsindlc": "1",
+        "774172": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1071495725124850592",
+                    "size": "4172193270",
+                    "download": "3683548048"
+                }
+            },
+            "decryptionkey": "c4fdeb37adb91f019b5f8f1378c0a63c3a3b90ffec89c7e0394b32a28206d2ec"
+        },
+        "774173": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3086981041089488621",
+                    "size": "4120363395",
+                    "download": "3670888944"
+                }
+            },
+            "decryptionkey": "e3c55a2a1de897657fb5347590d09a3c41d944a2b041848d5cdacb44afed102f"
+        },
+        "1055810": {
+            "dlcappid": "1055810",
+            "manifests": {
+                "public": {
+                    "gid": "3071104558056225302",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "ecf8e8de3bbebc8dc0a0f6aecb1c46d919f2172bb7e3611cd56ba636d523d880"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18592747",
+                "timeupdated": "1748595608"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
