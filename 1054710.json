@@ -1,0 +1,58 @@
+{
+    "appid": 1054710,
+    "name": "Driven Out",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-10 08:21:16",
+    "change_number": 29475697,
+    "depot": {
+        "1054711": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2982062545419000518",
+                    "size": "302887760",
+                    "download": "192061840"
+                }
+            },
+            "decryptionkey": "4a612d2b6810efdcc4eda7ba46a0a88de904092afd9accfa0ed8b1f377cc1eb1"
+        },
+        "1054712": {
+            "config": {
+                "language": "koreana",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6138070129027419559",
+                    "size": "303558300",
+                    "download": "192111344"
+                }
+            },
+            "decryptionkey": "dc252f2929ddfc5c04ce9beac03c4a76e2edec50fddb0d33174563f676bd59b9"
+        },
+        "1054713": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6072096870575057565",
+                    "size": "303418470",
+                    "download": "192028960"
+                }
+            },
+            "decryptionkey": "424745928e0f1ae3116856959caa841b39e8dbdade402dbe43668dc98fc00f75"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4457498",
+                "timeupdated": "1575451339"
+            }
+        }
+    }
+}
