@@ -1,0 +1,59 @@
+{
+    "appid": 1050280,
+    "name": "Kaion Tale MMORPG",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-05 08:53:40",
+    "change_number": 29384032,
+    "depot": {
+        "baselanguages": "english,spanish,russian,brazilian",
+        "1050281": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7425712749529154514",
+                    "size": "780912316",
+                    "download": "556681424"
+                }
+            },
+            "decryptionkey": "3b2491128f145e81f9551404b85b4c0af97469288d3f5a83cdbb278550b00ef2"
+        },
+        "1050282": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3877725353186686562",
+                    "size": "764118519",
+                    "download": "552718064"
+                }
+            },
+            "decryptionkey": "b4725028d847ee11541604b155a55bbc2fe13d9bbc0b499047bbac64507567e1"
+        },
+        "1050283": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7457809906035653089",
+                    "size": "795960533",
+                    "download": "561760416"
+                }
+            },
+            "decryptionkey": "4debc770bc8c917e963bf062e1978f20232f9798ce5b6472c22da4ca7b6d4e2d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18695813",
+                "timeupdated": "1748823314"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
