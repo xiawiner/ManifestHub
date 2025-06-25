@@ -1,0 +1,44 @@
+{
+    "appid": 2447980,
+    "name": "Crown Gambit",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:55:00",
+    "change_number": 29684583,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2447981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1272324539515892524",
+                    "size": "7672970269",
+                    "download": "2377322112"
+                }
+            },
+            "decryptionkey": "0f953f0a434dfe917dd66d01bb6e61b66807d427289649ffba29003ca44092c1"
+        },
+        "2447982": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8504432143592396544",
+                    "size": "7840804894",
+                    "download": "2406237296"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18883253",
+                "timeupdated": "1750173700"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
