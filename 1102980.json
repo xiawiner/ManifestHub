@@ -1,0 +1,29 @@
+{
+    "appid": 1102980,
+    "name": "英雄群侠传",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-05 17:31:35",
+    "change_number": 29388198,
+    "depot": {
+        "baselanguages": "schinese",
+        "hasdepotsindlc": "0",
+        "1102981": {
+            "manifests": {
+                "public": {
+                    "gid": "4778880445200169095",
+                    "size": "671910643",
+                    "download": "107683872"
+                }
+            },
+            "decryptionkey": "6062ec3b3936faf217a02b5406ba7f7c5405a016e0014c19b7142df757b6402b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18745749",
+                "timeupdated": "1749105240"
+            }
+        }
+    }
+}
