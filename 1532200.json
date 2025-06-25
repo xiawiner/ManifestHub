@@ -1,0 +1,43 @@
+{
+    "appid": 1532200,
+    "name": "Mars First Logistics",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 11:28:04",
+    "change_number": 29621063,
+    "depot": {
+        "1532201": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2517685948775011715",
+                    "size": "390624470",
+                    "download": "170296192"
+                },
+                "beta": {
+                    "gid": "2517685948775011715",
+                    "size": "390624470",
+                    "download": "170296192"
+                }
+            },
+            "decryptionkey": "817366fa3557fd7360844c98856d1448a3c23773756a71b1a0bc76989bf65cd4"
+        },
+        "workshopdepot": "1532200",
+        "branches": {
+            "public": {
+                "buildid": "18905702",
+                "timeupdated": "1750217280"
+            },
+            "beta": {
+                "buildid": "18905702",
+                "description": "Latest features and fixes. May be untested and buggy!",
+                "timeupdated": "1750217258"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "3ae6cd9fc9439f93bf42f81c0c08e6369879cd8b62df48ab40dfbcd3b753768e"
+    }
+}
