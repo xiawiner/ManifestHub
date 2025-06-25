@@ -1,0 +1,44 @@
+{
+    "appid": 2200780,
+    "name": "My dream setup",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:30:04",
+    "change_number": 29655232,
+    "depot": {
+        "2200781": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7064180011600605244",
+                    "size": "2392012660",
+                    "download": "919390176"
+                }
+            },
+            "decryptionkey": "29406521ce5331ba5fdd43d43177449ef8464b67e6b6de257c894a5dbdb26cb1"
+        },
+        "2200782": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4455528104888999195",
+                    "size": "2414487031",
+                    "download": "926008384"
+                }
+            },
+            "decryptionkey": "112155b443b5d2147602ac203014c4d4baeb01b241d22704420be8135a38f04a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18776378",
+                "timeupdated": "1749286999"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
