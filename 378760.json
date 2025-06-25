@@ -1,0 +1,78 @@
+{
+    "appid": 378760,
+    "name": "Pixel Starships",
+    "type": "Game",
+    "schinese_name": "像素星舰 - Pixel Starships",
+    "isfreeapp": 1,
+    "update_time": "2025-06-21 21:54:47",
+    "change_number": 29681942,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,brazilian,latam,vietnamese",
+        "378763": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2963803976026658047",
+                    "size": "295092675",
+                    "download": "86203248"
+                },
+                "staging": {
+                    "gid": "7867084408333213855",
+                    "size": "295316512",
+                    "download": "86258992"
+                }
+            },
+            "decryptionkey": "58fc74e167c2c3cfd065a3f0ad706461505ab2be6c3eac7f8f370bf08e2a99b9"
+        },
+        "378761": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8865730805737204377",
+                    "size": "543280235",
+                    "download": "116289056"
+                },
+                "staging": {
+                    "gid": "7184873094024672318",
+                    "size": "543885616",
+                    "download": "116381552"
+                }
+            },
+            "decryptionkey": "f7aa7945fe08f57631e1cecc6b3f092e3cedc62bbcd22a6666998adcf0b7d026"
+        },
+        "378762": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3408619901745409865",
+                    "size": "430047557",
+                    "download": "101084688"
+                },
+                "staging": {
+                    "gid": "8834295985144032426",
+                    "size": "430387906",
+                    "download": "101129696"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18949380",
+                "timeupdated": "1750504434"
+            },
+            "staging": {
+                "buildid": "18949632",
+                "description": "Public Test Realm. Used for testing incoming release builds",
+                "timeupdated": "1750506656"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
