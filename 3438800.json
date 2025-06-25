@@ -1,0 +1,61 @@
+{
+    "appid": 3438800,
+    "name": "Doodle Empires",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 03:18:14",
+    "change_number": 29674469,
+    "depot": {
+        "workshopdepot": "3438800",
+        "baselanguages": "english",
+        "3438801": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2001665273213678949",
+                    "size": "1017434991",
+                    "download": "399426656"
+                }
+            },
+            "decryptionkey": "d7c3577cfbad3d5beb7a8dc46c1305693679a43e287b97f73599ea233100113b"
+        },
+        "3438802": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4052948927714314655",
+                    "size": "1041271919",
+                    "download": "408512480"
+                }
+            }
+        },
+        "3438803": {
+            "config": {
+                "language": "english",
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "623265132276390849",
+                    "size": "1015439426",
+                    "download": "397122160"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18726221",
+                "timeupdated": "1748996688"
+            }
+        },
+        "workshopdepotdecryptionkey": "0e70cfe08e6b23238f88be655dedc6ae4ec07589cfbea0443acfe4cb5453c0ea"
+    }
+}
