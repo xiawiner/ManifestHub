@@ -1,0 +1,47 @@
+{
+    "appid": 2437170,
+    "name": "SMITE 2",
+    "type": "Game",
+    "schinese_name": "《神之浩劫2》",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 18:58:05",
+    "change_number": 29666741,
+    "depot": {
+        "baselanguages": "english,german,french,schinese,russian,japanese,polish,turkish,brazilian,ukrainian,latam",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2437171": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6600751641991228110",
+                    "size": "21277070606",
+                    "download": "18990170208"
+                }
+            },
+            "decryptionkey": "b812d1b17a2a57774d8eaf7f83f550ef62d7233a26b05d5133ad110d489f5600"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18932640",
+                "timeupdated": "1750417077"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
