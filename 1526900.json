@@ -1,0 +1,44 @@
+{
+    "appid": 1526900,
+    "name": "Sapphire Safari",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 14:39:02",
+    "change_number": 29679894,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1526901": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4091115160917709066",
+                    "size": "3194742073",
+                    "download": "2844840752"
+                }
+            },
+            "decryptionkey": "9c4e34006cee70e91a1245dcdd513e30d1dfcf391a5cd0d8e52b0bc8203d2178"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18928827",
+                "timeupdated": "1750348266"
+            }
+        }
+    }
+}
