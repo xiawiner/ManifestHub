@@ -1,0 +1,76 @@
+{
+    "appid": 2283410,
+    "name": "Cthuloot",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 04:01:25",
+    "change_number": 29593477,
+    "depot": {
+        "2283411": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6592151703830358850",
+                    "size": "906361901",
+                    "download": "205557760"
+                },
+                "staging": {
+                    "gid": "6592151703830358850",
+                    "size": "906361901",
+                    "download": "205557760"
+                }
+            },
+            "decryptionkey": "133f28fc93dd9acec253e20551c7f75246a38f06d08953f37ad3a66403126484"
+        },
+        "2283412": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7486018271295784288",
+                    "size": "934941911",
+                    "download": "215226576"
+                },
+                "staging": {
+                    "gid": "7486018271295784288",
+                    "size": "934941911",
+                    "download": "215226576"
+                }
+            }
+        },
+        "2283413": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2288092402113167322",
+                    "size": "910604342",
+                    "download": "208903664"
+                },
+                "staging": {
+                    "gid": "2288092402113167322",
+                    "size": "910604342",
+                    "download": "208903664"
+                }
+            }
+        },
+        "baselanguages": "english,french",
+        "branches": {
+            "public": {
+                "buildid": "18880151",
+                "timeupdated": "1750098361"
+            },
+            "staging": {
+                "buildid": "18880151",
+                "description": "Testing builds",
+                "timeupdated": "1750064320"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
