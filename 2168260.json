@@ -1,0 +1,28 @@
+{
+    "appid": 2168260,
+    "name": "Forgotten Seas",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:57:16",
+    "change_number": 29684150,
+    "depot": {
+        "2168261": {
+            "manifests": {
+                "public": {
+                    "gid": "8401481861007934422",
+                    "size": "4999023939",
+                    "download": "2187919808"
+                }
+            },
+            "decryptionkey": "e87ba8c96036622a748b7a049ca375701dbcebfcc561de74eb0815ce807dc8d4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18590339",
+                "timeupdated": "1748191394"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
