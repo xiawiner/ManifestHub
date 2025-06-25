@@ -1,0 +1,34 @@
+{
+    "appid": 3107270,
+    "name": "Holy Heroes",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-19 08:13:30",
+    "change_number": 29053432,
+    "depot": {
+        "baselanguages": "english,brazilian",
+        "hasdepotsindlc": "0",
+        "3107271": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3898031784227529395",
+                    "size": "1411997531",
+                    "download": "727385888"
+                }
+            },
+            "decryptionkey": "4fe72180ac2a1d6cf422c68b50ecfb805270c79356c4f16dc8ebceab918fdc79"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18448523",
+                "timeupdated": "1747157420"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
