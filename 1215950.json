@@ -1,0 +1,46 @@
+{
+    "appid": 1215950,
+    "name": "Getaway Storm",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-08 21:33:29",
+    "change_number": 29446272,
+    "depot": {
+        "1215951": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5684290915125339249",
+                    "size": "303413205",
+                    "download": "173410944"
+                }
+            },
+            "decryptionkey": "f8ec971dce3bacbe89eb06022ac87c39761aa291af3033c23c92b0aa1de4b8fe"
+        },
+        "1215952": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5548462955853830219",
+                    "size": "297908964",
+                    "download": "169741024"
+                }
+            },
+            "decryptionkey": "6b719133e9d2da2f684bfbfcfa0536092dbd4be273544663a8edb39998c584d9"
+        },
+        "workshopdepot": "1215950",
+        "branches": {
+            "public": {
+                "buildid": "18083141",
+                "timeupdated": "1744457343"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
