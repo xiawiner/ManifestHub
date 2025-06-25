@@ -1,0 +1,32 @@
+{
+    "appid": 1080450,
+    "name": "Wayward Strand",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-03 19:39:40",
+    "change_number": 29344639,
+    "depot": {
+        "baselanguages": "english",
+        "1080451": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5665570788627851251",
+                    "size": "4489122551",
+                    "download": "2697066864"
+                }
+            },
+            "decryptionkey": "8740e84b1fd1df5618ef9a873d4a70032fd097f7800719ab3dde56fe051c4d0f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9727185",
+                "timeupdated": "1666939179"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
