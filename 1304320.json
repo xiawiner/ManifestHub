@@ -1,0 +1,31 @@
+{
+    "appid": 1304320,
+    "name": "重装无限·Metal Infinite",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-06 00:04:21",
+    "change_number": 29399559,
+    "depot": {
+        "baselanguages": "schinese,tchinese",
+        "1304321": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5832747947429314371",
+                    "size": "692850427",
+                    "download": "105175984"
+                }
+            },
+            "decryptionkey": "cebb86b85f3f22b4aebefa3894d617fe0c75272d755bdd8c863cbf0583b11040"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18738255",
+                "timeupdated": "1749058835"
+            }
+        }
+    }
+}
