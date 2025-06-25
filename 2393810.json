@@ -1,0 +1,40 @@
+{
+    "appid": 2393810,
+    "name": "FFFL: Brutal Ball Manager",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 20:56:44",
+    "change_number": 29668449,
+    "depot": {
+        "2393811": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3290569815481459490",
+                    "size": "1692116654",
+                    "download": "174325376"
+                },
+                "betabrach": {
+                    "gid": "7516214040568636433",
+                    "size": "1692387486",
+                    "download": "174450288"
+                }
+            },
+            "decryptionkey": "0f462cc0740f4d8e91d6cd9875340175328382d150b7f0d8bf67ab674336a304"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17217088",
+                "timeupdated": "1738522018"
+            },
+            "betabrach": {
+                "buildid": "18940335",
+                "description": "Beta branch before release",
+                "timeupdated": "1750424198"
+            }
+        }
+    }
+}
