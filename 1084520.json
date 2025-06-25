@@ -1,0 +1,101 @@
+{
+    "appid": 1084520,
+    "name": "雀姬",
+    "type": "Game",
+    "schinese_name": "雀姬/姫麻雀",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 14:48:06",
+    "change_number": 29662882,
+    "depot": {
+        "baselanguages": "schinese,tchinese,japanese",
+        "1084521": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4962282325612689253",
+                    "size": "3036511107",
+                    "download": "2450460304"
+                }
+            },
+            "decryptionkey": "105a88a2d9c1f32519b83b4c7638fe7a453a96616fdb468124e7b219cc50db45"
+        },
+        "1084522": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "387406101116560789",
+                    "size": "3040990770",
+                    "download": "2481887792"
+                }
+            },
+            "decryptionkey": "7d93e963f0fa27380f002c0db3aa1bb8ef9b411acb71329d1e47ec6b8e2e6074"
+        },
+        "1084525": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1411339403064323320",
+                    "size": "3036389770",
+                    "download": "2450361840"
+                }
+            },
+            "decryptionkey": "01106b1462f817c5210e17fd4b13a76f8b5a9b1afb338cc89b4226b507c56d34"
+        },
+        "1084526": {
+            "config": {
+                "language": "japanese",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2986059314925682754",
+                    "size": "3040853611",
+                    "download": "2452510640"
+                }
+            },
+            "decryptionkey": "0af37b87dcb5bf5ddf05582cb86ed0ffd4bc354c980c4200f08b29f505f09d3d"
+        },
+        "1084527": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7426308210300358274",
+                    "size": "3035887023",
+                    "download": "2449660272"
+                }
+            },
+            "decryptionkey": "38705596296e99d67cc8c063fc550dc6ab93080faa04d0f25fb8cd5fb75079b3"
+        },
+        "1084528": {
+            "config": {
+                "language": "schinese",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6729644607989002829",
+                    "size": "3040359400",
+                    "download": "2449567472"
+                }
+            },
+            "decryptionkey": "b10b543ffe1d42a1c6ed530bbe039b21d1cca54bb1502c1b1e04b955400d5c75"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18923075",
+                "timeupdated": "1750316419"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
