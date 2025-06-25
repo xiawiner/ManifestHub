@@ -1,0 +1,93 @@
+{
+    "appid": 2862140,
+    "name": "Shaolin Bao",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 07:39:26",
+    "change_number": 29618437,
+    "depot": {
+        "2862141": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3625169347607914485",
+                    "size": "704268513",
+                    "download": "220140864"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2862142": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3801682986227743782",
+                    "size": "736922661",
+                    "download": "224076480"
+                }
+            }
+        },
+        "2862143": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4259595258417757323",
+                    "size": "718928896",
+                    "download": "223972480"
+                }
+            }
+        },
+        "2862144": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2125920012581554230",
+                    "size": "704268513",
+                    "download": "220169264"
+                }
+            },
+            "decryptionkey": "9c50c8fb6cd2aa8d0927afd8ec7710a3ce64d845dbc428bf6fdccbb8f03d75eb"
+        },
+        "2862145": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6489081257825811756",
+                    "size": "736922661",
+                    "download": "224065168"
+                }
+            }
+        },
+        "2862146": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4564177258501983824",
+                    "size": "718928896",
+                    "download": "224068576"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18901489",
+                "timeupdated": "1750202565"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
