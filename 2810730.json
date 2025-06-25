@@ -1,0 +1,44 @@
+{
+    "appid": 2810730,
+    "name": "A Building Full of Cats 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:53:19",
+    "change_number": 29684583,
+    "depot": {
+        "2810731": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3608475108997000810",
+                    "size": "611862576",
+                    "download": "522719552"
+                }
+            },
+            "decryptionkey": "452dbb8aff3ac3d649b92c7a2b591932c978e9d66a88f2a6bf5705245ab3b3b7"
+        },
+        "2810732": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1090686521895087776",
+                    "size": "614499056",
+                    "download": "519837312"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18943511",
+                "timeupdated": "1750442939"
+            }
+        }
+    }
+}
