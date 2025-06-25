@@ -1,0 +1,38 @@
+{
+    "appid": 1922010,
+    "name": "Breachers",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 17:21:01",
+    "change_number": 29665158,
+    "depot": {
+        "1922011": {
+            "manifests": {
+                "public": {
+                    "gid": "1850731143631425663",
+                    "size": "10400033346",
+                    "download": "8071233472"
+                }
+            },
+            "decryptionkey": "515868fe0b42e739aec093cc314cd9ecd5aa9ca87e7e94e58211c8104a73dd36"
+        },
+        "3246660": {
+            "dlcappid": "3246660"
+        },
+        "3246720": {
+            "dlcappid": "3246720"
+        },
+        "3246730": {
+            "dlcappid": "3246730"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18837488",
+                "timeupdated": "1749730294"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
