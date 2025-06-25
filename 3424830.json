@@ -1,0 +1,51 @@
+{
+    "appid": 3424830,
+    "name": "Backrooms Multi-Verses",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 06:38:54",
+    "change_number": 29638333,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3424832": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4575831424913565502",
+                    "size": "12331554106",
+                    "download": "4029065616"
+                }
+            },
+            "decryptionkey": "5f6f764d11a54bfe6ca4ff1225c02109fce3cbbc739739fa0e0b1f2d151a515e"
+        },
+        "3424833": {
+            "config": {
+                "osarch": "32"
+            }
+        },
+        "3424831": {},
+        "branches": {
+            "public": {
+                "buildid": "18387401",
+                "timeupdated": "1746701463"
+            }
+        }
+    }
+}
