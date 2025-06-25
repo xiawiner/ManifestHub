@@ -1,0 +1,42 @@
+{
+    "appid": 1876880,
+    "name": "Primitive Society Simulator",
+    "type": "Game",
+    "schinese_name": "大荒先民",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 15:26:48",
+    "change_number": 29680160,
+    "depot": {
+        "baselanguages": "schinese",
+        "1876881": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4355836048984955246",
+                    "size": "1170618268",
+                    "download": "709759984"
+                },
+                "beta": {
+                    "gid": "3195406565745838427",
+                    "size": "1525383280",
+                    "download": "971902624"
+                }
+            },
+            "decryptionkey": "645131603cb7f183e2bdd59a28ef2cd45871d6ff310f3662d16544c468b3114a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16047336",
+                "timeupdated": "1728972467"
+            },
+            "beta": {
+                "buildid": "18948368",
+                "description": "不稳定但是有新内容",
+                "timeupdated": "1750490802"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
