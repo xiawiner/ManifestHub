@@ -1,0 +1,31 @@
+{
+    "appid": 2891520,
+    "name": "Deep Dark Wrath",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-08 14:44:51",
+    "change_number": 29443205,
+    "depot": {
+        "2891521": {
+            "config": {
+                "language": "english",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1148641534647774614",
+                    "size": "138761349",
+                    "download": "95652064"
+                }
+            },
+            "decryptionkey": "e03eb070392cfa4191dec3dd0d2beef11a8e9cfe9c1de5e57118002cf927491f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17530896",
+                "timeupdated": "1741955508"
+            }
+        }
+    }
+}
