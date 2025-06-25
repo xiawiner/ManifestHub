@@ -1,0 +1,33 @@
+{
+    "appid": 2641350,
+    "name": "YoloX",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-01 13:58:08",
+    "change_number": 29305905,
+    "depot": {
+        "workshopdepot": "2641350",
+        "2641352": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4406342225986848710",
+                    "size": "7079769",
+                    "download": "1782592"
+                }
+            },
+            "decryptionkey": "b0f4c63cdb543d5bb1d0dfb5693998ec72f5395bbddd92c76223ce3474687142"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18649681",
+                "timeupdated": "1748504895"
+            }
+        },
+        "workshopdepotdecryptionkey": "1d4f4be01c2a98fe8b49b30b32d79426d2d18408b1ed41588810e16dd6eb39df"
+    }
+}
