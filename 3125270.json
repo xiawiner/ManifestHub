@@ -1,0 +1,57 @@
+{
+    "appid": 3125270,
+    "name": "Square Wars",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 12:28:35",
+    "change_number": 28968845,
+    "depot": {
+        "3125271": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7106889522787968127",
+                    "size": "626929433",
+                    "download": "199048432"
+                },
+                "beta": {
+                    "gid": "7106889522787968127",
+                    "size": "626929433",
+                    "download": "199048432"
+                }
+            },
+            "decryptionkey": "cf414efcb1e35a3302aee5ef433a03091397440aa726386609bb6518b03f6f98"
+        },
+        "3125272": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5164799462105877506",
+                    "size": "634893810",
+                    "download": "204167936"
+                },
+                "beta": {
+                    "gid": "5164799462105877506",
+                    "size": "634893810",
+                    "download": "204167936"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17699416",
+                "timeupdated": "1741883049"
+            },
+            "beta": {
+                "buildid": "17699416",
+                "description": "v0.4.0",
+                "timeupdated": "1741815637"
+            }
+        }
+    }
+}
