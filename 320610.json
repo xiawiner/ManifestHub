@@ -1,0 +1,197 @@
+{
+    "appid": 320610,
+    "name": "Questerium: Sinister Trinity HD",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-21 19:23:05",
+    "change_number": 29095519,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,brazilian",
+        "320611": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5141946635186240513",
+                    "size": "1956695300",
+                    "download": "743179952"
+                }
+            },
+            "decryptionkey": "b869e68f7100483fb53492623615b2601c528ef94f64d306cd45eb9fc7420583"
+        },
+        "320612": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3026964759116139171",
+                    "size": "1956695354",
+                    "download": "743179952"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "320613": {
+            "config": {
+                "language": "spanish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7387579299689007652",
+                    "size": "1956695354",
+                    "download": "743179952"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "320614": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8702915578176803512",
+                    "size": "1956695354",
+                    "download": "743179952"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "320615": {
+            "config": {
+                "language": "italian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4577952125920933928",
+                    "size": "1956695354",
+                    "download": "743179952"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "320616": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5095966727932936964",
+                    "size": "1956695354",
+                    "download": "743179952"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "320617": {
+            "config": {
+                "language": "koreana",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3010270115050221733",
+                    "size": "1956695354",
+                    "download": "743179952"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "320618": {
+            "config": {
+                "language": "brazilian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9094717730767629768",
+                    "size": "1956695354",
+                    "download": "743179952"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "320619": {
+            "config": {
+                "language": "portuguese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1347654136617939187",
+                    "size": "1956695354",
+                    "download": "743179952"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "320620": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8027283229771241774",
+                    "size": "1956695354",
+                    "download": "743179952"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "320621": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6064947291093142647",
+                    "size": "1956695354",
+                    "download": "743179952"
+                }
+            },
+            "decryptionkey": "95351a7732587da97d3f62376d845582364f9b913b98dcbcf26c37557546dde6"
+        },
+        "320622": {
+            "config": {
+                "language": "tchinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6404636254794439008",
+                    "size": "1956695357",
+                    "download": "743179952"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "320623": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1109875364242217684",
+                    "size": "1956225586",
+                    "download": "743863184"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "493837"
+            }
+        }
+    }
+}
