@@ -1,0 +1,28 @@
+{
+    "appid": 3588130,
+    "name": "In Stars and Time Artbook",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-23 05:46:10",
+    "change_number": 29136263,
+    "depot": {
+        "3588130": {
+            "manifests": {
+                "public": {
+                    "gid": "8063523616368215071",
+                    "size": "76306619",
+                    "download": "65494976"
+                }
+            },
+            "dlcappid": "3588130",
+            "decryptionkey": "83a033d78d81407460af0e7d6e5009e1265b384b9ae86cd3236cdb971cfedc4f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18402159",
+                "timeupdated": "1746789383"
+            }
+        }
+    }
+}
