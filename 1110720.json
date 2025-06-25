@@ -1,0 +1,31 @@
+{
+    "appid": 1110720,
+    "name": "The Last Companion",
+    "type": "Game",
+    "schinese_name": "我与我行将离去的小友。",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 18:18:32",
+    "change_number": 29547063,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1110721": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5709834102053372709",
+                    "size": "1112062686",
+                    "download": "491788576"
+                }
+            },
+            "decryptionkey": "c7999753970ad34f7379b4917de34e2bafcdcbfefcfd78f6370f83b9b3ad0588"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4301753",
+                "timeupdated": "1571414335"
+            }
+        }
+    }
+}
