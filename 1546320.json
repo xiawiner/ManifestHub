@@ -1,0 +1,69 @@
+{
+    "appid": 1546320,
+    "name": "Your Chronicle",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-21 12:06:25",
+    "change_number": 29679030,
+    "depot": {
+        "baselanguages": "english,japanese",
+        "1546321": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4489116077244621013",
+                    "size": "248390591",
+                    "download": "63232448"
+                }
+            },
+            "decryptionkey": "c3a9e89d1f4e4fb13ecf909ae7531955958791f279509eca727ed6200510c045"
+        },
+        "1546322": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6654285741901914931",
+                    "size": "233620043",
+                    "download": "58912640"
+                }
+            },
+            "decryptionkey": "a8c5686b683b1a3881ed0cad672dbb423894303c6ce26ed5a1db6591e272bf63"
+        },
+        "1546323": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9154700441761526755",
+                    "size": "240986522",
+                    "download": "60165952"
+                }
+            },
+            "decryptionkey": "42c4edd12dea63044e5e0cc2919a0a097846d87c3c59d7554946539595fab6b3"
+        },
+        "1682010": {
+            "dlcappid": "1682010",
+            "manifests": {
+                "public": {
+                    "gid": "7173663477377120295",
+                    "size": "5813290",
+                    "download": "5892384"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18782674",
+                "timeupdated": "1749608049"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
