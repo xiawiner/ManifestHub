@@ -1,0 +1,29 @@
+{
+    "appid": 3301060,
+    "name": "Desktop Mate",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 18:55:24",
+    "change_number": 29666710,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "3301061": {
+            "manifests": {
+                "public": {
+                    "gid": "356023360777707937",
+                    "size": "174598565",
+                    "download": "64397664"
+                }
+            },
+            "decryptionkey": "6e7d44d14db1b1b4e5d43a64af62fb4845066fe0ccacef125ac6390978ac97d0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18922686",
+                "timeupdated": "1750324805"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
