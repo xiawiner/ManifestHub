@@ -1,0 +1,57 @@
+{
+    "appid": 2495050,
+    "name": "Merge Adventure: Magic Dragons",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-12 00:23:44",
+    "change_number": 29511404,
+    "depot": {
+        "2495051": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4746151125708456588",
+                    "size": "290455937",
+                    "download": "175052032"
+                }
+            },
+            "decryptionkey": "f7a033b22843c0422d527e7d410bee866dd76cd11a73839c7a0826c001512fa0"
+        },
+        "2495052": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2919910539703465663",
+                    "size": "419176869",
+                    "download": "188383408"
+                }
+            },
+            "decryptionkey": "d9b4afae33c865de1c33c9eb93ddd9a5607c8eb44728ae8f598fa68087aa00ec"
+        },
+        "2495053": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9105998143988510797",
+                    "size": "455863104",
+                    "download": "194225168"
+                }
+            },
+            "decryptionkey": "49f3722d3c8ab41f2f47fea7df04d689729bf339fd6e64fab4f80de3de474768"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18828003",
+                "timeupdated": "1749659018"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
