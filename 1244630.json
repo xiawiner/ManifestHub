@@ -1,0 +1,30 @@
+{
+    "appid": 1244630,
+    "name": "House Builder",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 22:11:14",
+    "change_number": 29669710,
+    "depot": {
+        "1244631": {
+            "manifests": {
+                "public": {
+                    "gid": "3053548995361711833",
+                    "size": "35635760353",
+                    "download": "16445101216"
+                }
+            },
+            "decryptionkey": "ba806487fbb3c4c74be56020cc45597f544a05be23107ee399efb2418e43e149"
+        },
+        "workshopdepot": "1244630",
+        "branches": {
+            "public": {
+                "buildid": "18940514",
+                "timeupdated": "1750428665"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "393feff359e86d26bd69d6c642e87351d9e7f864475440b3c911f4ef376f107a"
+    }
+}
