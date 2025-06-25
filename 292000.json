@@ -1,0 +1,62 @@
+{
+    "appid": 292000,
+    "name": "No More Room in Hell 2",
+    "type": "Game",
+    "schinese_name": "地狱已满2",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 06:05:23",
+    "change_number": 29611261,
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,brazilian",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "292001": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "499666141904622975",
+                    "size": "23564907493",
+                    "download": "19659410896"
+                }
+            },
+            "decryptionkey": "2bb3dfcc7245e9a85e6adcb82c91257dfd6e3ca66bdc188476820020395cc812"
+        },
+        "292002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "3320920",
+            "manifests": {
+                "public": {
+                    "gid": "4943363864670021285",
+                    "size": "24854716792",
+                    "download": "20419109744"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18855198",
+                "timeupdated": "1750170608"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
