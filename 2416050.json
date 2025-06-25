@@ -1,0 +1,30 @@
+{
+    "appid": 2416050,
+    "name": "Cento",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-05 01:38:54",
+    "change_number": 29377467,
+    "depot": {
+        "2416051": {
+            "manifests": {
+                "public": {
+                    "gid": "2812220542048016061",
+                    "size": "562074328",
+                    "download": "475014240"
+                }
+            },
+            "decryptionkey": "db9f67f3e1af4f8549a6f559de7d6de7818e453a17e44731d0c2f5148499a2f4"
+        },
+        "workshopdepot": "2416050",
+        "branches": {
+            "public": {
+                "buildid": "18738172",
+                "timeupdated": "1749058726"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
