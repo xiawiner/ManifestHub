@@ -1,0 +1,28 @@
+{
+    "appid": 2635670,
+    "name": "Cycle Idle RPG",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-04 22:07:31",
+    "change_number": 29373352,
+    "depot": {
+        "2635671": {
+            "manifests": {
+                "public": {
+                    "gid": "5244907736725691889",
+                    "size": "365211933",
+                    "download": "99170880"
+                }
+            },
+            "decryptionkey": "2fe44f8637e282154326f76edde8a0a69098a99fdfacc3dee46929a5599a1f16"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18735408",
+                "timeupdated": "1749046028"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
