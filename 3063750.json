@@ -1,0 +1,61 @@
+{
+    "appid": 3063750,
+    "name": "Pixel Dungeon VR",
+    "type": "Game",
+    "schinese_name": "像素地牢VR",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 21:50:23",
+    "change_number": 29681321,
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,japanese,portuguese,brazilian,latam",
+        "3063751": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3232003329822364868",
+                    "size": "4300102344",
+                    "download": "3485592800"
+                },
+                "test": {
+                    "gid": "5288043697529230708",
+                    "size": "1353160046",
+                    "download": "1146161392"
+                }
+            },
+            "decryptionkey": "6265f528576bd352c2a35a18154ed52fa3972a61b67e16e84abfff989d64a837"
+        },
+        "3063752": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "201038555177720886",
+                    "size": "4300321872",
+                    "download": "3580155680"
+                },
+                "test": {
+                    "gid": "201038555177720886",
+                    "size": "4300321872",
+                    "download": "3580155680"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18788461",
+                "timeupdated": "1749430044"
+            },
+            "test": {
+                "buildid": "18515673",
+                "description": "test",
+                "timeupdated": "1747647081"
+            }
+        }
+    }
+}
