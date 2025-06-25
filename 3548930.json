@@ -1,0 +1,27 @@
+{
+    "appid": 3548930,
+    "name": "The Unrested",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:30:25",
+    "change_number": 29655394,
+    "depot": {
+        "3548931": {
+            "manifests": {
+                "public": {
+                    "gid": "6752327231276963494",
+                    "size": "2446231455",
+                    "download": "1228495136"
+                }
+            },
+            "decryptionkey": "736b075e5f46f18c74db7beeb567d3e2017883b6feade649e03c228801129511"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18930751",
+                "timeupdated": "1750359107"
+            }
+        }
+    }
+}
