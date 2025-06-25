@@ -1,0 +1,33 @@
+{
+    "appid": 3712960,
+    "name": "思恋与你的终焉",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-28 10:33:06",
+    "change_number": 29226528,
+    "depot": {
+        "baselanguages": "schinese",
+        "3712961": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "851055756071416084",
+                    "size": "625779370",
+                    "download": "489293312"
+                }
+            },
+            "decryptionkey": "3a48ae57469dfb6d4a5804ab90c6d08cee329580465f18f142396a1970007d80"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18512479",
+                "timeupdated": "1747621558"
+            }
+        }
+    }
+}
