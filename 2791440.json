@@ -1,0 +1,43 @@
+{
+    "appid": 2791440,
+    "name": "Brighter Shores",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-16 19:48:26",
+    "change_number": 29585437,
+    "depot": {
+        "2791441": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9117580160624968804",
+                    "size": "918429955",
+                    "download": "809310656"
+                }
+            },
+            "decryptionkey": "26a01b237e42c8808353e77330bbc1d704a25c70294ec8722b637a7b3fd7ac9f"
+        },
+        "2791442": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "302699228184354107",
+                    "size": "888151382",
+                    "download": "808614496"
+                }
+            },
+            "decryptionkey": "cb2df41209d9655d2e0c30ada7c36bf9ba42ade8082d925560b5be580630a2e7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18881407",
+                "timeupdated": "1750070940"
+            }
+        }
+    }
+}
