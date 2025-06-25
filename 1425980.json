@@ -1,0 +1,45 @@
+{
+    "appid": 1425980,
+    "name": "Stone Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-03 02:41:41",
+    "change_number": 29332582,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "1425981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "589984465140813782",
+                    "size": "9695087770",
+                    "download": "4680027712"
+                }
+            },
+            "decryptionkey": "dde5f80538f27db019e695ddb939adb8ef447676b275f36433e3e87a4aa88e2d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18706641",
+                "timeupdated": "1748889696"
+            }
+        }
+    }
+}
