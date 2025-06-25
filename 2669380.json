@@ -1,0 +1,54 @@
+{
+    "appid": 2669380,
+    "name": "BRUTALISTICK VR",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 04:18:00",
+    "change_number": 29675107,
+    "depot": {
+        "2669381": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5175153652177676647",
+                    "size": "2732179498",
+                    "download": "952326736"
+                },
+                "experimental": {
+                    "gid": "5175153652177676647",
+                    "size": "2732179498",
+                    "download": "952326736"
+                },
+                "meleemodding": {
+                    "gid": "7578156036588213459",
+                    "size": "2565840580",
+                    "download": "816407696"
+                }
+            },
+            "decryptionkey": "090e1bcded479bdd950b9884d5966cfa9ee95438a9857d823c3d288f80a7ac70"
+        },
+        "workshopdepot": "2669380",
+        "branches": {
+            "public": {
+                "buildid": "18857861",
+                "timeupdated": "1749827142"
+            },
+            "experimental": {
+                "buildid": "18857861",
+                "description": "Branch to test new features that may or may not make it to the main branch",
+                "timeupdated": "1749827117"
+            },
+            "meleemodding": {
+                "buildid": "16142130",
+                "description": "Workaround older branch for testing melee mods",
+                "timeupdated": "1745079486"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "0bdf4d33c3597d7c40fc6bf747755c888d9ec2167aec2dac298b0766e49f03ab"
+    }
+}
