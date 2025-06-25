@@ -1,0 +1,67 @@
+{
+    "appid": 1948430,
+    "name": "Planet S",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-14 03:28:07",
+    "change_number": 29556497,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,polish,dutch,czech,ukrainian",
+        "workshopdepot": "1948430",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1948431": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8628455258705252509",
+                    "size": "375987754",
+                    "download": "264511584"
+                }
+            },
+            "decryptionkey": "09b446fcded597191bc5f0a11da457d6b98a766270eaac0536b45b38fe217562"
+        },
+        "1948434": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4986763902867446680",
+                    "size": "458729129",
+                    "download": "273047904"
+                }
+            },
+            "decryptionkey": "a58df3bfad725c68606404abb64d9b36cf4b7b37746b8044849d5d44b1daee42"
+        },
+        "3448720": {
+            "dlcappid": "3448720",
+            "manifests": {
+                "public": {
+                    "gid": "3799226737286101662",
+                    "size": "62826601",
+                    "download": "56553616"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18860804",
+                "timeupdated": "1749842875"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
