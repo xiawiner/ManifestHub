@@ -1,0 +1,53 @@
+{
+    "appid": 1391110,
+    "name": "Steam Linux Runtime 2.0 (soldier)",
+    "type": "Tool",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-29 01:49:33",
+    "change_number": 29242710,
+    "depot": {
+        "1391111": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4418974102192253180",
+                    "size": "655991598",
+                    "download": "181405984"
+                },
+                "client_beta": {
+                    "gid": "7382163513261287354",
+                    "size": "656188485",
+                    "download": "181476512"
+                },
+                "previous_release": {
+                    "gid": "221233725579411950",
+                    "size": "655884658",
+                    "download": "181368336"
+                }
+            },
+            "decryptionkey": "8c0894de187f61e472607bbb2763b8f3195bc050763b506fe829b70baf9040af"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18196142",
+                "timeupdated": "1748454540"
+            },
+            "client_beta": {
+                "buildid": "18646199",
+                "description": "use with Steam beta client",
+                "timeupdated": "1748454552"
+            },
+            "previous_release": {
+                "buildid": "17679736",
+                "description": "previous release",
+                "timeupdated": "1748454509"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
