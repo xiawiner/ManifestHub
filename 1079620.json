@@ -1,0 +1,55 @@
+{
+    "appid": 1079620,
+    "name": "Infinity: Battlescape",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:53:19",
+    "change_number": 29683052,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1079621": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6725605283349023615",
+                    "size": "8820363709",
+                    "download": "3970428672"
+                },
+                "beta": {
+                    "gid": "54045572819997990",
+                    "size": "8824933287",
+                    "download": "3975658592"
+                }
+            },
+            "decryptionkey": "7d6fd42be97f375f0ebc01c829fe2de09a55a58935c1b889e2385d9649726985"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18002964",
+                "timeupdated": "1743962399"
+            },
+            "beta": {
+                "buildid": "18950397",
+                "timeupdated": "1750516557"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
