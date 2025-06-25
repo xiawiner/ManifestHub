@@ -1,0 +1,47 @@
+{
+    "appid": 915810,
+    "name": "Midnight Ghost Hunt",
+    "type": "Game",
+    "schinese_name": "午夜猎魂",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 21:25:27",
+    "change_number": 29668915,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "915811": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5559256817396101866",
+                    "size": "15265504303",
+                    "download": "12421680672"
+                }
+            },
+            "decryptionkey": "d7b9540b9686b8d615fa43442db4e31e903d7770c28306479c875f17e92ed930"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17798751",
+                "timeupdated": "1742579786"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
