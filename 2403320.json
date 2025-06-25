@@ -1,0 +1,28 @@
+{
+    "appid": 2403320,
+    "name": "冬日树下的回忆",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-01 03:17:45",
+    "change_number": 29304439,
+    "depot": {
+        "baselanguages": "schinese",
+        "2403321": {
+            "manifests": {
+                "public": {
+                    "gid": "2533887789780546227",
+                    "size": "2114538245",
+                    "download": "1883872976"
+                }
+            },
+            "decryptionkey": "0347998936037fcc49aeae36dcc9852d1e4fda8a96c134ed7a8586370bc5c9c3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16915575",
+                "timeupdated": "1736151940"
+            }
+        }
+    }
+}
