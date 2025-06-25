@@ -1,0 +1,49 @@
+{
+    "appid": 2720620,
+    "name": "One More Night",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 14:03:19",
+    "change_number": 29679704,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "2720621": {
+            "manifests": {
+                "public": {
+                    "gid": "8369197765728155463",
+                    "size": "4242210712",
+                    "download": "4037577184"
+                }
+            },
+            "decryptionkey": "3cdb35e089661a1ff0a427ca4f6e72b88a8461de151ccc96ce8079b5adaf4c3b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18946216",
+                "timeupdated": "1750465865"
+            }
+        }
+    }
+}
