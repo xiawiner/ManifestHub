@@ -1,0 +1,41 @@
+{
+    "appid": 3697240,
+    "name": "Idle Cultivation",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 06:01:25",
+    "change_number": 29685688,
+    "depot": {
+        "3697241": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "575392503850364631",
+                    "size": "137097728",
+                    "download": "57293024"
+                },
+                "beta": {
+                    "gid": "2114765736739771481",
+                    "size": "137108592",
+                    "download": "57346208"
+                }
+            },
+            "decryptionkey": "135c2a1b45bd4701c0e53613689483379f99bb4083926ef8c4266b4ad5730428"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18912210",
+                "timeupdated": "1750250840"
+            },
+            "beta": {
+                "buildid": "18949408",
+                "description": "Beta branch",
+                "timeupdated": "1750504504"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
