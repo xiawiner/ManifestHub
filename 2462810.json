@@ -1,0 +1,29 @@
+{
+    "appid": 2462810,
+    "name": "Ligo",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 12:29:03",
+    "change_number": 28495761,
+    "depot": {
+        "2462811": {
+            "manifests": {
+                "public": {
+                    "gid": "4763841501352584646",
+                    "size": "402390814",
+                    "download": "273663136"
+                }
+            },
+            "decryptionkey": "56cf254ec507491a967fae882b6ca682f33279159bd39ea2b95fd24be53500fb"
+        },
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,french",
+        "branches": {
+            "public": {
+                "buildid": "17892082",
+                "timeupdated": "1743130121"
+            }
+        }
+    }
+}
