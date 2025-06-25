@@ -1,0 +1,74 @@
+{
+    "appid": 1683340,
+    "name": "Kayak VR: Mirage",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 19:10:01",
+    "change_number": 29666902,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,japanese,portuguese",
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1683341": {
+            "manifests": {
+                "public": {
+                    "gid": "3300903894924770625",
+                    "size": "16912360282",
+                    "download": "16522620448"
+                },
+                "beta": {
+                    "gid": "3686333962137069190",
+                    "size": "16761935479",
+                    "download": "16392837584"
+                }
+            },
+            "decryptionkey": "8b6ef18be7308345993f5f17a40a8dcd8c78c73bf42a79a4180abbf3e7a537d6"
+        },
+        "2926750": {
+            "dlcappid": "2926750",
+            "manifests": {
+                "public": {
+                    "gid": "3846308120172936313",
+                    "size": "6911540108",
+                    "download": "6795056512"
+                },
+                "beta": {
+                    "gid": "6846906882859246635",
+                    "size": "6976037226",
+                    "download": "6840696528"
+                }
+            },
+            "decryptionkey": "1278d96e72cd6ddb2e72c4cd853d93a1166b341a0504b7bba89fbe25132c2e3b"
+        },
+        "3437140": {
+            "dlcappid": "3437140",
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "18565473",
+                "timeupdated": "1748339348"
+            },
+            "beta": {
+                "buildid": "15447943",
+                "description": "Public beta branch",
+                "timeupdated": "1724245857"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
