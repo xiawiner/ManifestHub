@@ -1,0 +1,57 @@
+{
+    "appid": 777130,
+    "name": "Blush Blush",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-21 00:01:09",
+    "change_number": 29671578,
+    "depot": {
+        "777131": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6655423197253934752",
+                    "size": "679687520",
+                    "download": "592097584"
+                }
+            },
+            "decryptionkey": "050b3fce05f050ff4d9ea7319b6e4210e89173946da7ce8bac867472fc425f85"
+        },
+        "777132": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5461383336791972536",
+                    "size": "712713066",
+                    "download": "601976768"
+                }
+            },
+            "decryptionkey": "13793856cffc9df68f4ce12b794c00505ea84056406a1248cbd452dc7f3348f3"
+        },
+        "777133": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7457742293530909094",
+                    "size": "731752671",
+                    "download": "595265424"
+                }
+            },
+            "decryptionkey": "6bdf225849878dc62ff8b8ddede7efa4e33d1bcc8a52518dd8cb911ff874312e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18762116",
+                "timeupdated": "1749677361"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
