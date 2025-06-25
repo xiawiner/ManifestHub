@@ -1,0 +1,40 @@
+{
+    "appid": 1750770,
+    "name": "Starcom: Unknown Space",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:56:26",
+    "change_number": 29683835,
+    "depot": {
+        "1750771": {
+            "manifests": {
+                "public": {
+                    "gid": "1961524303325440925",
+                    "size": "2763640303",
+                    "download": "1739378544"
+                },
+                "unstable_kepler": {
+                    "gid": "574555051929404729",
+                    "size": "2763652939",
+                    "download": "1739914784"
+                }
+            },
+            "decryptionkey": "14c59a14483bf41745ce97ea0a1ca33e57817e1f744d59aa9ff2a411111df765"
+        },
+        "workshopdepot": "1750770",
+        "branches": {
+            "public": {
+                "buildid": "18718100",
+                "timeupdated": "1748957098"
+            },
+            "unstable_kepler": {
+                "buildid": "18950985",
+                "description": "Opt-in Beta",
+                "timeupdated": "1750523469"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
