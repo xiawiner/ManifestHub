@@ -1,0 +1,104 @@
+{
+    "appid": 349260,
+    "name": "BlastZone 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:23:59",
+    "change_number": 29651347,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "349261": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7270531712527938651",
+                    "size": "555140659",
+                    "download": "159868544"
+                }
+            },
+            "decryptionkey": "0546db72bdc5b397d8b35c1dfe383b41f2bd0fb155805574da95fe5291c10fa3"
+        },
+        "349262": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2290363815626993723",
+                    "size": "4122272",
+                    "download": "2395984"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "349263": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7225647997449257418",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "e1add37c84fa7b422efa72395752811972e10ef84e99e0e5352daff63411d34b"
+        },
+        "822060": {
+            "dlcappid": "822060",
+            "manifests": {
+                "public": {
+                    "gid": "1364126057118068273",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "config": {
+                "optionaldlc": "822060"
+            },
+            "decryptionkey": ""
+        },
+        "822061": {
+            "dlcappid": "822061",
+            "manifests": {
+                "public": {
+                    "gid": "8919037268996380984",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "config": {
+                "optionaldlc": "822061"
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18727119",
+                "timeupdated": "1749265236"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
