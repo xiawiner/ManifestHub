@@ -1,0 +1,30 @@
+{
+    "appid": 3469990,
+    "name": "Mama Station",
+    "type": "Game",
+    "schinese_name": "妈妈驿站",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 21:32:37",
+    "change_number": 29453795,
+    "depot": {
+        "3469991": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1308481618697972257",
+                    "size": "60086806",
+                    "download": "49146928"
+                }
+            },
+            "decryptionkey": "51c6bb6e8adac2cf02ebe568c7256eb204b75b331a41f537239d9ae3c1fa244d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18746253",
+                "timeupdated": "1749107596"
+            }
+        }
+    }
+}
