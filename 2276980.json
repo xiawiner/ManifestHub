@@ -1,0 +1,57 @@
+{
+    "appid": 2276980,
+    "name": "FACEMINER",
+    "type": "Game",
+    "schinese_name": "面容采集者 (FACEMINER) ",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 00:25:38",
+    "change_number": 29567045,
+    "depot": {
+        "2276982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1281338959972031329",
+                    "size": "1296987942",
+                    "download": "1064119840"
+                }
+            },
+            "decryptionkey": "4dd90c4b7502551d62833e2ab83711ef706d1560f598ad82008c60b894181ddd"
+        },
+        "2276983": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3907872684847466498",
+                    "size": "1458376246",
+                    "download": "1109030000"
+                }
+            }
+        },
+        "2276984": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7003664450473660338",
+                    "size": "1298948991",
+                    "download": "1058689984"
+                }
+            }
+        },
+        "baselanguages": "english,german,schinese,russian,japanese,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "18826260",
+                "timeupdated": "1749652008"
+            }
+        }
+    }
+}
