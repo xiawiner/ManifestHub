@@ -1,0 +1,31 @@
+{
+    "appid": 2808630,
+    "name": "Paintball Playground",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-13 01:43:15",
+    "change_number": 29533560,
+    "depot": {
+        "2808631": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3745381364010560992",
+                    "size": "2876634920",
+                    "download": "927538320"
+                }
+            },
+            "decryptionkey": "cb09c93c5b73c59a6991d1fd214bd59331b6d509d88252eaf89060d93d59e059"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18844140",
+                "timeupdated": "1749748934"
+            }
+        }
+    }
+}
