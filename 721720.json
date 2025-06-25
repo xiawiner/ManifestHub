@@ -1,0 +1,31 @@
+{
+    "appid": 721720,
+    "name": "Company of Heroes: Battle of Crete",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-07 08:46:10",
+    "change_number": 29426471,
+    "depot": {
+        "721721": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7563372367715154575",
+                    "size": "621162510",
+                    "download": "317942880"
+                }
+            },
+            "decryptionkey": "3cabc6dda31d34ba454e7b13935d6b9fcbbf746a886a8ee2e8116f094a6f0ef9"
+        },
+        "baselanguages": "",
+        "branches": {
+            "public": {
+                "buildid": "18695950",
+                "timeupdated": "1748824479"
+            }
+        }
+    }
+}
