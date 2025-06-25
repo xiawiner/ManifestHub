@@ -1,0 +1,97 @@
+{
+    "appid": 1778820,
+    "name": "TEKKEN 8",
+    "type": "Game",
+    "schinese_name": "铁拳8",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 03:44:26",
+    "change_number": 29674752,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,arabic,brazilian,latam",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1778821": {
+            "manifests": {
+                "public": {
+                    "gid": "2434125641804352105",
+                    "size": "124660987260",
+                    "download": "108697705792"
+                }
+            },
+            "decryptionkey": "c7c87be587ce9a828a290d82a8650ff9edd77f53919f2f8d2f686f1e586417b7"
+        },
+        "1778822": {
+            "manifests": {
+                "public": {
+                    "gid": "8448240444531247139",
+                    "size": "1686882638",
+                    "download": "301922064"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2497260": {
+            "dlcappid": "2497260",
+            "manifests": {
+                "public": {
+                    "gid": "1690622727565019840",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3025000": {
+            "dlcappid": "3025000",
+            "manifests": {
+                "public": {
+                    "gid": "6220439871464418842",
+                    "size": "34884128",
+                    "download": "35360608"
+                }
+            },
+            "decryptionkey": "afe85b92428daa47e2254a44004a7f97b0defce56555bcca59a44a94e357f373"
+        },
+        "3145890": {
+            "dlcappid": "3145890",
+            "manifests": {
+                "public": {
+                    "gid": "8461657819190922589",
+                    "size": "39846240",
+                    "download": "40391456"
+                }
+            },
+            "decryptionkey": "8587b0c4c63e914df99aedf5179181d680a74c88324d4e86a80cb08baff28efb"
+        },
+        "3564550": {
+            "dlcappid": "3564550",
+            "manifests": {
+                "public": {
+                    "gid": "3006045251628593482",
+                    "size": "35651936",
+                    "download": "36139456"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18711029",
+                "timeupdated": "1748916001"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
