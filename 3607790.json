@@ -1,0 +1,30 @@
+{
+    "appid": 3607790,
+    "name": "Brick Breaker Maker",
+    "type": "Game",
+    "schinese_name": "打砖块创作家",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:55:19",
+    "change_number": 29683369,
+    "depot": {
+        "3607791": {
+            "manifests": {
+                "public": {
+                    "gid": "5867254861585050390",
+                    "size": "185746094",
+                    "download": "57523312"
+                }
+            },
+            "decryptionkey": "3f0d0e9b08699dcd56120d50803c46faf268ab3d004bbb0ca60db0b4a6d3f24a"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,turkish,indonesian",
+        "workshopdepot": "3607790",
+        "branches": {
+            "public": {
+                "buildid": "18950684",
+                "timeupdated": "1750519219"
+            }
+        },
+        "workshopdepotdecryptionkey": "df3de88be29cab8361fc26a33b05e527dec0ee00c62375c69dbf33837c87c8a4"
+    }
+}
