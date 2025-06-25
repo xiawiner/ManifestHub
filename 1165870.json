@@ -1,0 +1,34 @@
+{
+    "appid": 1165870,
+    "name": "Mahou Arms",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 03:17:23",
+    "change_number": 29674462,
+    "depot": {
+        "baselanguages": "english",
+        "1165871": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7793450252635437963",
+                    "size": "12097985643",
+                    "download": "11952225424"
+                }
+            },
+            "decryptionkey": "d9f54b16c1da7cd86fb9df6038fea5304ff0ab65adbf2e0508cab3112ada43a4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18793983",
+                "timeupdated": "1749482220"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
