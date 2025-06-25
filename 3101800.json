@@ -1,0 +1,29 @@
+{
+    "appid": 3101800,
+    "name": "Dynasty Legends 2",
+    "type": "Game",
+    "schinese_name": "极无双2",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 21:20:07",
+    "change_number": 29668804,
+    "depot": {
+        "baselanguages": "english,schinese,tchinese,thai,indonesian",
+        "3101801": {
+            "manifests": {
+                "public": {
+                    "gid": "5366526800741396191",
+                    "size": "12593553828",
+                    "download": "11084705040"
+                }
+            },
+            "decryptionkey": "dc1955bb8af2aa8fd0cc6d55309f8ba89d7d4602d2c3789926990658115a4de3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18619503",
+                "timeupdated": "1749607357"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
