@@ -1,0 +1,38 @@
+{
+    "appid": 2848740,
+    "name": "OverRider",
+    "type": "Game",
+    "schinese_name": "超控行者",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 09:51:15",
+    "change_number": 29659731,
+    "depot": {
+        "2848741": {
+            "manifests": {
+                "public": {
+                    "gid": "3546478422455296615",
+                    "size": "3155768112",
+                    "download": "1912429008"
+                },
+                "beta-test": {
+                    "gid": "9066913392889097878",
+                    "size": "3155118347",
+                    "download": "1911790016"
+                }
+            },
+            "decryptionkey": "2ff4371554ec98d39afab5cde3c48e9c5246789ad7663dc02f7938dc2ecf4978"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18819592",
+                "timeupdated": "1749614965"
+            },
+            "beta-test": {
+                "buildid": "18823587",
+                "description": "beta-test",
+                "timeupdated": "1749638650"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
