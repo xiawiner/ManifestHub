@@ -1,0 +1,27 @@
+{
+    "appid": 3328730,
+    "name": "Autogun Heroes: Supercharged",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 21:23:53",
+    "change_number": 29629608,
+    "depot": {
+        "3328731": {
+            "manifests": {
+                "public": {
+                    "gid": "2899467604960306103",
+                    "size": "872008310",
+                    "download": "373970176"
+                }
+            },
+            "decryptionkey": "2eb28c860b074a6729fde3e0dd4def575d4032ba7ba862f8435c0d026c20337d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18907886",
+                "timeupdated": "1750227765"
+            }
+        }
+    }
+}
