@@ -1,0 +1,41 @@
+{
+    "appid": 1027880,
+    "name": "A Dance of Fire and Ice OST",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 19:15:32",
+    "change_number": 29573563,
+    "depot": {
+        "2715611": {
+            "manifests": {
+                "public": {
+                    "gid": "3169101590469166791",
+                    "size": "149422301",
+                    "download": "146915360"
+                }
+            },
+            "decryptionkey": "42f4bbb800d0eb8cd934988ca3178cbf4bc744081d6315553bcc663ead6afb93"
+        },
+        "2715612": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7522140137043311940",
+                    "size": "501977893",
+                    "download": "507745776"
+                }
+            },
+            "decryptionkey": "98cf950ac365cf9c0ef0dc7ea2f17257157f65789f3bbd730e30446d3717772a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18561334",
+                "timeupdated": "1747896405"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
