@@ -1,0 +1,42 @@
+{
+    "appid": 1601920,
+    "name": "Sparkball - Season Zero",
+    "type": "Beta",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 11:02:27",
+    "change_number": 29620782,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1601921": {
+            "manifests": {
+                "public": {
+                    "gid": "254192460504387660",
+                    "size": "4391148885",
+                    "download": "3746294048"
+                }
+            },
+            "decryptionkey": "1156b5d507e85adacbccca78158e27a3fa32f34ef6a8b11c431dc18b9cf10739"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18890941",
+                "timeupdated": "1750126479"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
