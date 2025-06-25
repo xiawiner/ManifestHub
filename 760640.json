@@ -1,0 +1,46 @@
+{
+    "appid": 760640,
+    "name": "Tennis Elbow 4",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 12:36:43",
+    "change_number": 29621751,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,dutch,hungarian,czech,romanian,brazilian",
+        "760641": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6693056252089554144",
+                    "size": "3498959429",
+                    "download": "2911421680"
+                }
+            },
+            "decryptionkey": "fc5142989bcce5ee38544d856dcdb773b564d490c3f08abd7a1826a45ff3711e"
+        },
+        "760642": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8721836847445747962",
+                    "size": "3539847313",
+                    "download": "2936992784"
+                }
+            }
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18907070",
+                "timeupdated": "1750221398"
+            }
+        }
+    }
+}
