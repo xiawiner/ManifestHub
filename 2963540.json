@@ -1,0 +1,41 @@
+{
+    "appid": 2963540,
+    "name": "Idle Waters",
+    "type": "Game",
+    "schinese_name": "佛系鱼塘",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:55:05",
+    "change_number": 29683355,
+    "depot": {
+        "baselanguages": "english",
+        "2963542": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "891268005612632168",
+                    "size": "253699209",
+                    "download": "82673248"
+                },
+                "experimental": {
+                    "gid": "579866590634355006",
+                    "size": "253737609",
+                    "download": "82673744"
+                }
+            },
+            "decryptionkey": "b70785d2f4af67dca603cb2d6679c0c433542623c55fc6f360b8acce351a5a70"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18935243",
+                "timeupdated": "1750430906"
+            },
+            "experimental": {
+                "buildid": "18953698",
+                "description": "Warning -Not fully tested. Better to have backups ready.",
+                "timeupdated": "1750563545"
+            }
+        }
+    }
+}
