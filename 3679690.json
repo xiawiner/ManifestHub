@@ -1,0 +1,31 @@
+{
+    "appid": 3679690,
+    "name": "Duskmarch",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 15:24:05",
+    "change_number": 29662715,
+    "depot": {
+        "3679691": {},
+        "3679692": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2598827846559497449",
+                    "size": "411368774",
+                    "download": "249201264"
+                }
+            },
+            "decryptionkey": "95de08fa9bf9730bd06aa98430f0916a5e85846867cbefc0b65ae0b00bdde107"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18925204",
+                "timeupdated": "1750328368"
+            }
+        }
+    }
+}
