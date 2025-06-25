@@ -1,0 +1,40 @@
+{
+    "appid": 2644610,
+    "name": "Menace from the Deep",
+    "type": "Game",
+    "schinese_name": "蠕行的恐惧：克苏鲁选集",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 14:08:08",
+    "change_number": 29679730,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2644611": {
+            "manifests": {
+                "public": {
+                    "gid": "6202988933674735721",
+                    "size": "4471912027",
+                    "download": "707036048"
+                }
+            },
+            "decryptionkey": "1904090690a12c756694f903980a0e97fb0057b2dad6885e1cda140e8041d758"
+        },
+        "3280710": {
+            "dlcappid": "3280710",
+            "manifests": {
+                "public": {
+                    "gid": "3872835952718716364",
+                    "size": "93350849",
+                    "download": "91348416"
+                }
+            },
+            "decryptionkey": "a0e09b941c844c8f0f0c8f28afb56e21a207c0e08438f7d20424ccf4965eaf66"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18948025",
+                "timeupdated": "1750486083"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
