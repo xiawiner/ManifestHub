@@ -1,0 +1,28 @@
+{
+    "appid": 3673660,
+    "name": "東方凸凹遊戯",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:59:23",
+    "change_number": 29684822,
+    "depot": {
+        "3673661": {
+            "manifests": {
+                "public": {
+                    "gid": "249825647066851217",
+                    "size": "331120317",
+                    "download": "309557840"
+                }
+            },
+            "decryptionkey": "beba7355fbdb35d756fcbaca30264ff1abc8939611dfbb6cdc450eeeaf257c6b"
+        },
+        "baselanguages": "japanese",
+        "branches": {
+            "public": {
+                "buildid": "18951679",
+                "timeupdated": "1750532063"
+            }
+        }
+    }
+}
