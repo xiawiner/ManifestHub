@@ -1,0 +1,32 @@
+{
+    "appid": 1602330,
+    "name": "ACROBATIC CAR",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-22 06:01:36",
+    "change_number": 29685786,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "1602331": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3798280613047926193",
+                    "size": "66561240",
+                    "download": "43926000"
+                }
+            },
+            "decryptionkey": "fd5c8958ae1747552ed8b46917f75fb5abe698a32d16ed950e57330ec33dddbf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18946780",
+                "timeupdated": "1750470791"
+            }
+        }
+    }
+}
