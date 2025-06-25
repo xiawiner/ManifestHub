@@ -1,0 +1,59 @@
+{
+    "appid": 3795220,
+    "name": "猫神牧场：恐龙纪元（Cat God Ranch:​​Age of Dinosaurs​）",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 10:17:08",
+    "change_number": 29687230,
+    "depot": {
+        "3795221": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "182090669830184098",
+                    "size": "322946161",
+                    "download": "163527120"
+                },
+                "beta": {
+                    "gid": "182090669830184098",
+                    "size": "322946161",
+                    "download": "163527120"
+                }
+            },
+            "dlcappid": "3795220",
+            "decryptionkey": "2e89963ffcab13efa5665387c67d010a7f27006209b5a2fb3a6428c5273d55b9"
+        },
+        "3795222": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3669785032677994779",
+                    "size": "441382439",
+                    "download": "193124560"
+                },
+                "beta": {
+                    "gid": "3669785032677994779",
+                    "size": "441382439",
+                    "download": "193124560"
+                }
+            },
+            "dlcappid": "3795220"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18950821",
+                "timeupdated": "1750521073"
+            },
+            "beta": {
+                "buildid": "18950821",
+                "description": "Beta测试",
+                "timeupdated": "1750521017"
+            }
+        }
+    }
+}
