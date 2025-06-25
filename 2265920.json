@@ -1,0 +1,46 @@
+{
+    "appid": 2265920,
+    "name": "Castle of Blackwater",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 01:35:11",
+    "change_number": 29530003,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "2265921": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "969635796203048670",
+                    "size": "2610546950",
+                    "download": "723326464"
+                }
+            },
+            "decryptionkey": "86f7844137c9ae7536ba0515df6abfa1dba39c25f5786e4e24bcfb79349b2e44"
+        },
+        "2265922": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4443893010518150054",
+                    "size": "2813191562",
+                    "download": "760449152"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18585645",
+                "timeupdated": "1748021037"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
