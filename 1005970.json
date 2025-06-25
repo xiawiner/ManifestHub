@@ -1,0 +1,31 @@
+{
+    "appid": 1005970,
+    "name": "iVRy Driver for SteamVR (PSVR Lite Edition)",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-16 17:49:46",
+    "change_number": 29584401,
+    "depot": {
+        "1005973": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "613353075617674098",
+                    "size": "16710417",
+                    "download": "8415040"
+                }
+            },
+            "dlcappid": "1005970",
+            "decryptionkey": "d31395a182361bf1c83d2df7f61661f967c0e0f8bbbd1a40281919f8d32ddd26"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18880570",
+                "timeupdated": "1750067380"
+            }
+        }
+    }
+}
