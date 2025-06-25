@@ -1,0 +1,28 @@
+{
+    "appid": 1380410,
+    "name": "Puzzle Quest 3",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 18:42:07",
+    "change_number": 29666498,
+    "depot": {
+        "1380411": {
+            "manifests": {
+                "public": {
+                    "gid": "8995034194979687264",
+                    "size": "6360819816",
+                    "download": "5197013152"
+                }
+            },
+            "decryptionkey": "967db68f67f40d3fedc4387f68ab16ee9af8fb74955d0a023e43cd7462a3b55d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18730347",
+                "timeupdated": "1749513630"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
