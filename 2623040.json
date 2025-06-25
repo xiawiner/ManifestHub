@@ -1,0 +1,42 @@
+{
+    "appid": 2623040,
+    "name": "Robots at Midnight",
+    "type": "Game",
+    "schinese_name": "午夜机器人",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 09:17:38",
+    "change_number": 29686917,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2623041": {
+            "manifests": {
+                "public": {
+                    "gid": "2401990912185010914",
+                    "size": "8444120489",
+                    "download": "7935252640"
+                }
+            },
+            "decryptionkey": "ffb7b6ea3589f131a8597ef59c7c8c974ca0e3432a2828e4d74fcf11482a7c8a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18812548",
+                "timeupdated": "1749676447"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
