@@ -1,0 +1,78 @@
+{
+    "appid": 1280420,
+    "name": "Mannequin Character Generator",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 06:05:38",
+    "change_number": 29676312,
+    "depot": {
+        "baselanguages": "english",
+        "workshopdepot": "1280420",
+        "1280421": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5882036724907628856",
+                    "size": "2671393768",
+                    "download": "680215776"
+                },
+                "nightly": {
+                    "gid": "1887012037389511446",
+                    "size": "2671395511",
+                    "download": "680017392"
+                }
+            },
+            "decryptionkey": "70f61105b645192b0611a9f846ff09f52918aa66c4756760a6cadd70ced4ff0c"
+        },
+        "1280422": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4583682086830514739",
+                    "size": "2653259190",
+                    "download": "675505152"
+                },
+                "nightly": {
+                    "gid": "6560305262913447692",
+                    "size": "2653260829",
+                    "download": "675489056"
+                }
+            }
+        },
+        "1280423": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "965526616455146308",
+                    "size": "3472056858",
+                    "download": "725224288"
+                },
+                "nightly": {
+                    "gid": "7385273847770668915",
+                    "size": "3472058503",
+                    "download": "725136256"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18945428",
+                "timeupdated": "1750457131"
+            },
+            "nightly": {
+                "buildid": "18287027",
+                "description": "Get first look at in-progress feature and template updates.",
+                "timeupdated": "1745966272"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
