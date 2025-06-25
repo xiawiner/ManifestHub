@@ -1,0 +1,55 @@
+{
+    "appid": 2987180,
+    "name": "ACTION GAME MAKER",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 12:14:39",
+    "change_number": 29679075,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,german,koreana,schinese,tchinese,russian,japanese,brazilian,latam",
+        "2987181": {
+            "manifests": {
+                "public": {
+                    "gid": "5039752569954679836",
+                    "size": "1441849340",
+                    "download": "469664176"
+                },
+                "1.0.5": {
+                    "gid": "2884702288194308888",
+                    "size": "1421828559",
+                    "download": "443874096"
+                },
+                "1.0.6": {
+                    "gid": "6987868964729697696",
+                    "size": "1421841709",
+                    "download": "443903488"
+                }
+            },
+            "decryptionkey": "8107c4e9b305a44b207af39fc730f46329192fd7cd6d1a962baeffb253cd5ed8"
+        },
+        "2987182": {
+            "config": {
+                "oslist": "linux"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18939689",
+                "timeupdated": "1750420467"
+            },
+            "1.0.5": {
+                "buildid": "18882927",
+                "description": "1.0.5 ver",
+                "timeupdated": "1750165132"
+            },
+            "1.0.6": {
+                "buildid": "18897497",
+                "description": "1.0.6 ver",
+                "timeupdated": "1750255504"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
