@@ -1,0 +1,32 @@
+{
+    "appid": 2560340,
+    "name": "Bonaparte",
+    "type": "Game",
+    "schinese_name": "波拿巴 - 机甲大革命",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:31:39",
+    "change_number": 29656105,
+    "depot": {
+        "2560341": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6692698725279718239",
+                    "size": "2258402896",
+                    "download": "605970192"
+                }
+            },
+            "decryptionkey": "8bca18896136a286690aca12ab1b52ab1c6274e4501a749b64fd8e25e867ad98"
+        },
+        "baselanguages": "english,french",
+        "branches": {
+            "public": {
+                "buildid": "18750365",
+                "timeupdated": "1749496251"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
