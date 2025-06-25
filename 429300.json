@@ -1,0 +1,39 @@
+{
+    "appid": 429300,
+    "name": "Sepia Tears",
+    "type": "Game",
+    "schinese_name": "棕褐色的眼泪",
+    "isfreeapp": 1,
+    "update_time": "2025-06-02 08:21:54",
+    "change_number": 29313677,
+    "depot": {
+        "429301": {
+            "manifests": {
+                "public": {
+                    "gid": "5342442864633045190",
+                    "size": "538691542",
+                    "download": "387704848"
+                }
+            },
+            "decryptionkey": "582a1c071a53430f55ad397789096f93857b0329322e613f025b3f7e49cddeaa"
+        },
+        "867861": {
+            "dlcappid": "867860",
+            "manifests": {
+                "public": {
+                    "gid": "2696218416256862156",
+                    "size": "1975560944",
+                    "download": "1555185232"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16042872",
+                "timeupdated": "1728944515"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
