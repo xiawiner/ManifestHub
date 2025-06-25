@@ -1,0 +1,39 @@
+{
+    "appid": 1352330,
+    "name": "Zoo 2: Animal Park",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-18 06:08:43",
+    "change_number": 29611848,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1352331": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8870047088879219192",
+                    "size": "488777743",
+                    "download": "121915632"
+                }
+            },
+            "decryptionkey": "d9a76e33e7a222522d2a1486673cb6a697aad81f60cda4afe8c46097d473698a"
+        },
+        "baselanguages": "english,german,french,italian,spanish,russian,polish,danish,dutch,swedish,hungarian,czech,romanian,bulgarian,greek",
+        "branches": {
+            "public": {
+                "buildid": "18898254",
+                "timeupdated": "1750176018"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
