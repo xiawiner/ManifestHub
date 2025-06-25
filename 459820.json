@@ -1,0 +1,61 @@
+{
+    "appid": 459820,
+    "name": "Crush Crush",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-18 06:22:31",
+    "change_number": 29616741,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "459821": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8855162301331314318",
+                    "size": "928005822",
+                    "download": "845272768"
+                }
+            },
+            "decryptionkey": "aa604fcda9432e9771859c3e86da68938ee4ea9fe1ecef2756ecfa4b6a29e965"
+        },
+        "459822": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8980138304847045794",
+                    "size": "969619015",
+                    "download": "855568912"
+                }
+            },
+            "decryptionkey": "d6c6b792d89f44bf67940e24fd6fe4a380d469b022308bb03732ca3868f9cd36"
+        },
+        "459823": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2940537252205737410",
+                    "size": "962572044",
+                    "download": "855077248"
+                }
+            },
+            "decryptionkey": "f937c6c3585fef083d295ad35234e588cc1fc94cfecf1f5b5db510af7cd24516"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18801002",
+                "timeupdated": "1749673938"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
