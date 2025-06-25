@@ -1,0 +1,38 @@
+{
+    "appid": 1629830,
+    "name": "Research Story",
+    "type": "Game",
+    "schinese_name": "研究物语",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 17:25:33",
+    "change_number": 29665241,
+    "depot": {
+        "1629831": {
+            "manifests": {
+                "public": {
+                    "gid": "5260780467444363938",
+                    "size": "721476753",
+                    "download": "546378112"
+                },
+                "beta-public": {
+                    "gid": "5260780467444363938",
+                    "size": "721476753",
+                    "download": "546378112"
+                }
+            },
+            "decryptionkey": "c44015fcaaf42ef956e92da590db8940b4edeef9783f87ca52b6c242346fa1bd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18937958",
+                "timeupdated": "1750411527"
+            },
+            "beta-public": {
+                "buildid": "18937958",
+                "description": "Beta build for public playtests",
+                "timeupdated": "1750411496"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
