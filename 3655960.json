@@ -1,0 +1,27 @@
+{
+    "appid": 3655960,
+    "name": "Tales Beyond The Tomb - White Silence",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:53:41",
+    "change_number": 29682946,
+    "depot": {
+        "3655961": {
+            "manifests": {
+                "public": {
+                    "gid": "102184211431550516",
+                    "size": "6132824060",
+                    "download": "5571380176"
+                }
+            },
+            "decryptionkey": "e1c8db79257443a9645e373c8517fe3e2036d662916defe3c745da9fcf88c584"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18935240",
+                "timeupdated": "1750393205"
+            }
+        }
+    }
+}
