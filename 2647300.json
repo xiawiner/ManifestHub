@@ -1,0 +1,48 @@
+{
+    "appid": 2647300,
+    "name": "Meow Moments: Celebrating Together",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-05 21:35:14",
+    "change_number": 29396359,
+    "depot": {
+        "workshopdepot": "2647300",
+        "hasdepotsindlc": "1",
+        "2647301": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8456360913820130206",
+                    "size": "272735992",
+                    "download": "173968240"
+                }
+            },
+            "decryptionkey": "a5d10d130630f4e9b34cf956a5118d55e2fafd6978d99a49d3b9d2b7d4207ea5"
+        },
+        "2647302": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4231434125192481634",
+                    "size": "265460437",
+                    "download": "172071360"
+                }
+            },
+            "decryptionkey": "36851d04f9a9ec35de5c8ec8d504c0f67bb9f837d8588e4cf1a3d0256463633e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18315479",
+                "timeupdated": "1746148451"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
