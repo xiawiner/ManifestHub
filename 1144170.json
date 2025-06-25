@@ -1,0 +1,47 @@
+{
+    "appid": 1144170,
+    "name": "Warhammer: Chaos & Conquest",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-05 17:34:30",
+    "change_number": 29389520,
+    "depot": {
+        "1144171": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4292741220163263343",
+                    "size": "292503960",
+                    "download": "131019248"
+                }
+            },
+            "decryptionkey": "cc916ff0dd902d534a7db44cb4e44fb9189c93f57496a0fe04993386cad07fe8"
+        },
+        "1144172": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6960246112173791541",
+                    "size": "664825084",
+                    "download": "168754656"
+                }
+            },
+            "decryptionkey": "7866450ebf86c6494e65decf81db813d50767e11011ce68bd17a1e9889efbf66"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18737687",
+                "timeupdated": "1749110140"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
