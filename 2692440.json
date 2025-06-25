@@ -1,0 +1,53 @@
+{
+    "appid": 2692440,
+    "name": "LoveCraft",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-21 02:38:55",
+    "change_number": 29673994,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,portuguese,polish,turkish,brazilian,latam",
+        "2692441": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4147199296641784438",
+                    "size": "7508302484",
+                    "download": "6860653088"
+                },
+                "beta": {
+                    "gid": "262905540033799742",
+                    "size": "7810362335",
+                    "download": "7108316016"
+                },
+                "legacy": {
+                    "gid": "7217014065022960586",
+                    "size": "7326578430",
+                    "download": "6724863760"
+                }
+            },
+            "decryptionkey": "265ff61fb95c6ca10afe9ae21cc3e1bc01bb93754e8d658167e217de34002a00"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18497743",
+                "timeupdated": "1747433866"
+            },
+            "beta": {
+                "buildid": "18656877",
+                "description": "Public testing",
+                "timeupdated": "1748514626"
+            },
+            "legacy": {
+                "buildid": "17847182",
+                "description": "Works on windows 7 and 8",
+                "timeupdated": "1742883862"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
