@@ -1,0 +1,36 @@
+{
+    "appid": 2514680,
+    "name": "时空传说-佣兵王战记",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 21:39:42",
+    "change_number": 29609092,
+    "depot": {
+        "baselanguages": "schinese",
+        "hasdepotsindlc": "1",
+        "2514681": {
+            "manifests": {
+                "public": {
+                    "gid": "6786284321604374553",
+                    "size": "2097390798",
+                    "download": "1723712864"
+                }
+            },
+            "decryptionkey": "ca2843f26042c53e81555a6c5db2138b8becfff6ff1f060c0cc91ebe5225c1ad"
+        },
+        "2514682": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18854509",
+                "timeupdated": "1749811067"
+            }
+        }
+    }
+}
