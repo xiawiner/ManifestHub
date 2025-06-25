@@ -1,0 +1,45 @@
+{
+    "appid": 2421410,
+    "name": "Cyber Manhunt 2: New World - The Hacking Simulator",
+    "type": "Game",
+    "schinese_name": "全网公敌2 新世界",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 11:14:28",
+    "change_number": 29660708,
+    "depot": {
+        "2421411": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3317070826172030181",
+                    "size": "3800630292",
+                    "download": "2884569408"
+                }
+            },
+            "decryptionkey": "4129c0dfb7314a4a7464996cf15ad5ce4d98037edd8d2dbdce1370681f078042"
+        },
+        "2421412": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7950316659094835923",
+                    "size": "3466437040",
+                    "download": "2841279024"
+                }
+            },
+            "decryptionkey": "de9d565e3be8af53510237991c16dab96fb14373b032f085124ec01a67847e28"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18890735",
+                "timeupdated": "1750389262"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
