@@ -1,0 +1,33 @@
+{
+    "appid": 3637800,
+    "name": "Tales of The Nightmares: Episode 1 – Blood and Leaves",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 23:10:10",
+    "change_number": 29631576,
+    "depot": {
+        "baselanguages": "english,brazilian",
+        "hasdepotsindlc": "1",
+        "3637801": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8605719391751805807",
+                    "size": "1076453796",
+                    "download": "873354448"
+                }
+            },
+            "decryptionkey": "70dac7013a9b5db63fe2c92d4ba4af7293fb849dcce38f5451f940ebc7a2d6ff"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18913951",
+                "timeupdated": "1750259404"
+            }
+        }
+    }
+}
