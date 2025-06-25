@@ -1,0 +1,27 @@
+{
+    "appid": 3372120,
+    "name": "FINAL FANTASY X Original Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 09:30:42",
+    "change_number": 29659513,
+    "depot": {
+        "3372121": {
+            "manifests": {
+                "public": {
+                    "gid": "7432897326177274954",
+                    "size": "639993068",
+                    "download": "577758784"
+                }
+            },
+            "decryptionkey": "3bd80adfc871870071ca757459f1091e3b57cc640bc239ed834d840aa2699b34"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16679168",
+                "timeupdated": "1733741228"
+            }
+        }
+    }
+}
