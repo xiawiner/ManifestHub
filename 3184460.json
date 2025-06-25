@@ -1,0 +1,65 @@
+{
+    "appid": 3184460,
+    "name": "Five Nights at Restroom 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:29:44",
+    "change_number": 29655183,
+    "depot": {
+        "baselanguages": "english,brazilian",
+        "hasdepotsindlc": "1",
+        "3184461": {
+            "manifests": {
+                "public": {
+                    "gid": "3523819670180686921",
+                    "size": "165624371",
+                    "download": "126180048"
+                },
+                "window_resize_enabled": {
+                    "gid": "4279352559716220243",
+                    "size": "165546275",
+                    "download": "126128768"
+                }
+            },
+            "decryptionkey": "a4afd4fb1c5b6ac882043d820d5b18dfbe767b9863899abd4ba4048bc03a1996"
+        },
+        "3184760": {
+            "dlcappid": "3184760",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "91812553135084518",
+                    "size": "44042896",
+                    "download": "30345008"
+                },
+                "window_resize_enabled": {
+                    "gid": "91812553135084518",
+                    "size": "44042896",
+                    "download": "30345008"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3431940": {
+            "dlcappid": "3431940",
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18930479",
+                "timeupdated": "1750357404"
+            },
+            "window_resize_enabled": {
+                "buildid": "18801443",
+                "description": "build with window resize",
+                "timeupdated": "1749505377"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
