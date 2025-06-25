@@ -1,0 +1,38 @@
+{
+    "appid": 3542740,
+    "name": "ZDSimulator - ChS4 KVR Locomotive",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-22 05:55:21",
+    "change_number": 29685271,
+    "depot": {
+        "3542740": {
+            "manifests": {
+                "public": {
+                    "gid": "72074906587798983",
+                    "size": "115763219",
+                    "download": "49114784"
+                },
+                "beta": {
+                    "gid": "1732482480197441129",
+                    "size": "119293365",
+                    "download": "54020384"
+                }
+            },
+            "dlcappid": "3542740",
+            "decryptionkey": "cc0d4cb89faded38a8de620c8252390b1c1faeef46aec65a849eb4c7ef5b3376"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18255982",
+                "timeupdated": "1746014696"
+            },
+            "beta": {
+                "buildid": "18951945",
+                "description": "beta",
+                "timeupdated": "1750536434"
+            }
+        }
+    }
+}
