@@ -1,0 +1,52 @@
+{
+    "appid": 3549220,
+    "name": "Tennis Manager 25",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:55:11",
+    "change_number": 29684585,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3549221": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "382586284050440862",
+                    "size": "4395355421",
+                    "download": "2915704944"
+                }
+            },
+            "decryptionkey": "160dae45b34c12ba41e25a4ba0940b0d7203c755e61eaf21c4f6f16509430245"
+        },
+        "3549223": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3233913015323662495",
+                    "size": "4416720091",
+                    "download": "2832864208"
+                }
+            }
+        },
+        "workshopdepot": "3549220",
+        "branches": {
+            "public": {
+                "buildid": "18923778",
+                "timeupdated": "1750320961"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
