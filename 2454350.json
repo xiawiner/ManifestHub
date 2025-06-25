@@ -1,0 +1,43 @@
+{
+    "appid": 2454350,
+    "name": "REDLINE CROOKS",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 06:22:21",
+    "change_number": 29686048,
+    "depot": {
+        "2454351": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5953856441297996662",
+                    "size": "372297912",
+                    "download": "319907504"
+                }
+            },
+            "decryptionkey": "29514f783cf9c6e586751c7802be3621930233fa79adaf93a245f298d01c93a7"
+        },
+        "2454352": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5616349054754672175",
+                    "size": "376670232",
+                    "download": "321216032"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "16814612",
+                "timeupdated": "1734702441"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
