@@ -1,0 +1,28 @@
+{
+    "appid": 2324150,
+    "name": "Neuroshima Hex",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 08:37:27",
+    "change_number": 29658936,
+    "depot": {
+        "2324151": {
+            "manifests": {
+                "public": {
+                    "gid": "8795179307173560404",
+                    "size": "1298285570",
+                    "download": "327728064"
+                }
+            },
+            "decryptionkey": "3cf60845882cfe04c21b3cb40e17d2351f1cca6a6eff0127531fc9db73c69d30"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18841889",
+                "timeupdated": "1749738864"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
