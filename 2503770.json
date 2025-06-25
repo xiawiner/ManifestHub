@@ -1,0 +1,29 @@
+{
+    "appid": 2503770,
+    "name": "House of Legacy",
+    "type": "Game",
+    "schinese_name": "吾今有世家",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 21:56:19",
+    "change_number": 29682525,
+    "depot": {
+        "2503771": {
+            "manifests": {
+                "public": {
+                    "gid": "8298238056686547115",
+                    "size": "1866446810",
+                    "download": "406691920"
+                }
+            },
+            "decryptionkey": "13bc89e933d261de7af8bc6b3535e664a82327d9c80adeadbdc74f485d4c939f"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "18946920",
+                "timeupdated": "1750472674"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
