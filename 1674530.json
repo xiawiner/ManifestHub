@@ -1,0 +1,36 @@
+{
+    "appid": 1674530,
+    "name": "Feudal Baron: King's Land",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:28:16",
+    "change_number": 29654208,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1674531": {
+            "manifests": {
+                "public": {
+                    "gid": "8978961011525157456",
+                    "size": "12873190305",
+                    "download": "9863558736"
+                }
+            },
+            "decryptionkey": "20da52a8a988d79a4692faee4c493c0f62a2bcf63beb7b6f0fed6495fcad60ff"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,turkish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "16815533",
+                "timeupdated": "1734707419"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
