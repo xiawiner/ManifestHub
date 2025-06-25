@@ -1,0 +1,42 @@
+{
+    "appid": 2115390,
+    "name": "Project Unknown",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 13:39:33",
+    "change_number": 29601470,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2115391": {
+            "manifests": {
+                "public": {
+                    "gid": "4675029415696741535",
+                    "size": "13310375577",
+                    "download": "12713979360"
+                }
+            },
+            "decryptionkey": "a75e682975a3633e354723c49dd911bfd76056391dd5d658c05abc0ecd30056c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18862995",
+                "timeupdated": "1749858624"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
