@@ -1,0 +1,32 @@
+{
+    "appid": 2303740,
+    "name": "Virtual Families 3",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-18 09:17:09",
+    "change_number": 29619520,
+    "depot": {
+        "baselanguages": "english",
+        "2303741": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4184338574494027919",
+                    "size": "240481005",
+                    "download": "133281168"
+                }
+            },
+            "decryptionkey": "1196bbed45c293d723b45372905233489ef4ae3fce3a2ac5f7501846e08d2800"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10613548",
+                "timeupdated": "1677093904"
+            }
+        }
+    }
+}
