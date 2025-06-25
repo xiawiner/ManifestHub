@@ -1,0 +1,62 @@
+{
+    "appid": 2511310,
+    "name": "Pro Cycling Manager 25",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 00:18:14",
+    "change_number": 29671830,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2511311": {
+            "manifests": {
+                "public": {
+                    "gid": "1217756948876214375",
+                    "size": "30407808582",
+                    "download": "23450065328"
+                },
+                "open-beta": {
+                    "gid": "1263170605567513329",
+                    "size": "30409969933",
+                    "download": "23448835968"
+                }
+            },
+            "decryptionkey": "56267938cdc192f9a25be2daf6f935095c5f0b95d42612ca156ff74076ee7f74"
+        },
+        "baselanguages": "english,german,french,italian,spanish,portuguese,danish,dutch,norwegian",
+        "workshopdepot": "2511310",
+        "branches": {
+            "public": {
+                "buildid": "18915259",
+                "timeupdated": "1750326979"
+            },
+            "open-beta": {
+                "buildid": "18938542",
+                "description": "open-beta",
+                "timeupdated": "1750427913"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "8a387d689dbfcf7edd53deb7c412839b0d47151c55889f89867abc713410030f"
+    }
+}
