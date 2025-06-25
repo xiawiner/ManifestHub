@@ -1,0 +1,32 @@
+{
+    "appid": 1817910,
+    "name": "TechnoMagic",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-18 14:42:34",
+    "change_number": 29623131,
+    "depot": {
+        "1817911": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4655829277174030331",
+                    "size": "81640705",
+                    "download": "41034272"
+                }
+            },
+            "decryptionkey": "1225aaaf4e6e20fd8e04ba87ba0d715cdbe90b85aec756c99cd8775a7c3e66d1"
+        },
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "18899855",
+                "timeupdated": "1750228949"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
