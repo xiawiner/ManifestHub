@@ -1,0 +1,27 @@
+{
+    "appid": 1148480,
+    "name": "SPACERIFT: Arcanum System",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 17:24:10",
+    "change_number": 29646489,
+    "depot": {
+        "1148481": {
+            "manifests": {
+                "public": {
+                    "gid": "7340345976334829934",
+                    "size": "8216762757",
+                    "download": "4479648064"
+                }
+            },
+            "decryptionkey": "ecd60ae8a5572a755dc7555c417cff8ddb4a856f541ef22a4b3d3131e1309cb3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18923789",
+                "timeupdated": "1750325043"
+            }
+        }
+    }
+}
