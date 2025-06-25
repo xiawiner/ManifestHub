@@ -1,0 +1,42 @@
+{
+    "appid": 3295910,
+    "name": "Backrooms Cleanup Crew Demo",
+    "type": "Demo",
+    "schinese_name": "Backrooms 清洁小队试玩版 (Backrooms Cleanup Crew Demo)",
+    "isfreeapp": 0,
+    "update_time": "2025-05-24 06:01:42",
+    "change_number": 29159703,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3295911": {
+            "manifests": {
+                "public": {
+                    "gid": "5033729559032153888",
+                    "size": "1298614499",
+                    "download": "1063251072"
+                }
+            },
+            "decryptionkey": "76081faaedc07bce69bccca099bc8d240221cd166adcc1184b6c59c9fea1f234"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18588925",
+                "timeupdated": "1748037645"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
