@@ -1,0 +1,29 @@
+{
+    "appid": 2391680,
+    "name": "月藍傳奇REMAKE古文明之謎",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-05 01:22:32",
+    "change_number": 29377175,
+    "depot": {
+        "baselanguages": "tchinese",
+        "2391681": {
+            "manifests": {
+                "public": {
+                    "gid": "4161134541343879700",
+                    "size": "1531937209",
+                    "download": "1128719088"
+                }
+            },
+            "decryptionkey": "6555f23d6b555ae5f090844ae8b9ffde79c95ce28b7f8122789a69845dd9a0c7"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18737973",
+                "timeupdated": "1749057747"
+            }
+        }
+    }
+}
