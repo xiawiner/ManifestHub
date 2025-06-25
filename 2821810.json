@@ -1,0 +1,29 @@
+{
+    "appid": 2821810,
+    "name": "Mini Drift Car",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 05:19:20",
+    "change_number": 29650790,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese,indonesian",
+        "hasdepotsindlc": "1",
+        "2821811": {
+            "manifests": {
+                "public": {
+                    "gid": "6356726755274068502",
+                    "size": "274598983",
+                    "download": "96563408"
+                }
+            },
+            "decryptionkey": "f7fd5cc9aa13c9be65850293cdcbfe808360e6aaa4fbf32586bd07cc596037b2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18927766",
+                "timeupdated": "1750342082"
+            }
+        }
+    }
+}
