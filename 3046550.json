@@ -1,0 +1,50 @@
+{
+    "appid": 3046550,
+    "name": "VoiceAttack 2",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 15:20:08",
+    "change_number": 29543899,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3046551": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5652750588790848146",
+                    "size": "53734662",
+                    "download": "22085648"
+                },
+                "beta": {
+                    "gid": "3471392697927309692",
+                    "size": "53862321",
+                    "download": "22745024"
+                }
+            },
+            "decryptionkey": "e126909adbd9a8d3d88411be28d17be2e7e689e89273a9624308f8edbcba8f78"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18305140",
+                "timeupdated": "1746231928"
+            },
+            "beta": {
+                "buildid": "18803112",
+                "description": "VoiceAttack 2 Beta",
+                "timeupdated": "1749517087"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
