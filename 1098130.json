@@ -1,0 +1,47 @@
+{
+    "appid": 1098130,
+    "name": "Get Stuffed!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-31 07:26:42",
+    "change_number": 29288518,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1098131": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8215554570133683575",
+                    "size": "10251308233",
+                    "download": "4033742752"
+                }
+            },
+            "decryptionkey": "156afe3d1fa56751b600de2aca07e20b698a6a4ecfb6d377625519bb5b59cf07"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13259594",
+                "timeupdated": "1706196811"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
