@@ -1,0 +1,47 @@
+{
+    "appid": 2972990,
+    "name": "ホロライブお宝マウンテン",
+    "type": "Game",
+    "schinese_name": "hololive 宝藏山",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 11:26:25",
+    "change_number": 29660807,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "japanese",
+        "2972991": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5520942833335417140",
+                    "size": "1216831733",
+                    "download": "1004237216"
+                }
+            },
+            "decryptionkey": "ea1cd8602a13532c0c96f3cb78272bc4215facf80bbc9ebe3c9fb822fba7aba7"
+        },
+        "2972992": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "289391813687166431",
+                    "size": "1388721543",
+                    "download": "1037737872"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18580366",
+                "timeupdated": "1748487548"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
