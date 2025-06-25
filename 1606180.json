@@ -1,0 +1,42 @@
+{
+    "appid": 1606180,
+    "name": "下一站江湖Ⅱ",
+    "type": "Game",
+    "schinese_name": "下一站江湖Ⅱ",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:24:42",
+    "change_number": 29654311,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1606181": {
+            "manifests": {
+                "public": {
+                    "gid": "3172393774485047411",
+                    "size": "14885151502",
+                    "download": "13206138704"
+                }
+            },
+            "decryptionkey": "78085baa1a1489cac9f2593fc792421a3c773edf3317721f5b02ccb7b9c07898"
+        },
+        "2905470": {
+            "dlcappid": "2905470",
+            "manifests": {
+                "public": {
+                    "gid": "2357287501546393262",
+                    "size": "194391126",
+                    "download": "190107376"
+                }
+            },
+            "decryptionkey": "5e0e8e4e9b25bd36951858ffd7fe45086c92ca50d89481201f01b39e18aff304"
+        },
+        "workshopdepot": "1606180",
+        "branches": {
+            "public": {
+                "buildid": "18929370",
+                "timeupdated": "1750353863"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "8ac605401cca020b8849769c24cbdab583d22e6aea9f5a5394d3df1334cd2582"
+    }
+}
