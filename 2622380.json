@@ -1,0 +1,84 @@
+{
+    "appid": 2622380,
+    "name": "ELDEN RING NIGHTREIGN",
+    "type": "Game",
+    "schinese_name": "艾尔登法环 黑夜君临",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 22:39:19",
+    "change_number": 29670231,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,arabic,brazilian,latam",
+        "2622381": {
+            "manifests": {
+                "public": {
+                    "gid": "8833519492745492170",
+                    "size": "21548015927",
+                    "download": "21198584064"
+                }
+            },
+            "decryptionkey": "c3e9ccfedcda0cd10e53938e15261130b2e166007d2ca8f13aa5a05f06bd2630"
+        },
+        "2622382": {
+            "manifests": {
+                "public": {
+                    "gid": "89154224100413176",
+                    "size": "433043486",
+                    "download": "241592464"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2622383": {
+            "manifests": {
+                "public": {
+                    "gid": "4206138204197642023",
+                    "size": "116261496",
+                    "download": "69911024"
+                }
+            },
+            "decryptionkey": "c6e496ba5ae5c8bfa358f3a7d923ec39964fa0a41c4fa77006249fe34e677af2"
+        },
+        "2622384": {
+            "manifests": {
+                "public": {
+                    "gid": "8680058597361435870",
+                    "size": "116261496",
+                    "download": "69911024"
+                }
+            },
+            "decryptionkey": "029f67382779483e0b34bc2f1a1fae303e7f83a4efead9ed076448f386afd28f"
+        },
+        "3515600": {
+            "dlcappid": "3515600",
+            "manifests": {
+                "public": {
+                    "gid": "6784183289585886224",
+                    "size": "419499199",
+                    "download": "274870640"
+                }
+            },
+            "decryptionkey": "698188f58b73df7953b831a1e83a2b75cce4a3ec24d6c8ea3e3869bed96219dd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18837276",
+                "timeupdated": "1750233755"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
