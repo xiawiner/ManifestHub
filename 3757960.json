@@ -1,0 +1,32 @@
+{
+    "appid": 3757960,
+    "name": "Hollowing",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-18 06:17:38",
+    "change_number": 29614622,
+    "depot": {
+        "baselanguages": "schinese",
+        "3757961": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8886730686388312202",
+                    "size": "1873218777",
+                    "download": "822133696"
+                }
+            },
+            "decryptionkey": "eece6a13385261b8e43fa95eb5820e5a6edb135e5d582550cc99f26c93ab5e83"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18901664",
+                "timeupdated": "1750185962"
+            }
+        }
+    }
+}
