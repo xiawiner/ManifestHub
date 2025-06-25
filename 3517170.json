@@ -1,0 +1,28 @@
+{
+    "appid": 3517170,
+    "name": "Hide From Papaku",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:57:57",
+    "change_number": 29684724,
+    "depot": {
+        "3517171": {
+            "manifests": {
+                "public": {
+                    "gid": "6570585210502349315",
+                    "size": "1643032431",
+                    "download": "621540592"
+                }
+            },
+            "decryptionkey": "3726ccc598f25215bb43011e661a3940e8ad3e1c92453f40ecf02dd872ba3f4d"
+        },
+        "baselanguages": "english,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18951617",
+                "timeupdated": "1750531137"
+            }
+        }
+    }
+}
