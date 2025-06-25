@@ -1,0 +1,39 @@
+{
+    "appid": 1694750,
+    "name": "Start11 v2",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 03:34:57",
+    "change_number": 29635976,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1694751": {
+            "manifests": {
+                "public": {
+                    "gid": "7637456722533833584",
+                    "size": "58816903",
+                    "download": "53081872"
+                },
+                "beta": {
+                    "gid": "6597418572573475571",
+                    "size": "58706975",
+                    "download": "52969440"
+                }
+            },
+            "decryptionkey": "aaab6a7226c7f2782f255d376263b1ed31758d973f3c856b602f7aed03ef1b5e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17149845",
+                "timeupdated": "1738013192"
+            },
+            "beta": {
+                "buildid": "18916580",
+                "description": "Start11 v2 Beta Branch",
+                "timeupdated": "1750275294"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
