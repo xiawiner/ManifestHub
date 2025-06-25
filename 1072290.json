@@ -1,0 +1,32 @@
+{
+    "appid": 1072290,
+    "name": "Ravenlok: Legendary Edition",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-12 12:18:07",
+    "change_number": 29520820,
+    "depot": {
+        "baselanguages": "english",
+        "1072291": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6875501078832086912",
+                    "size": "5466584538",
+                    "download": "1674387952"
+                }
+            },
+            "decryptionkey": "4d10ab480a6f2f9ead188f0d465d9231e61fd7e26796bd175416afc0d2f3eab8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18575013",
+                "timeupdated": "1747964864"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
