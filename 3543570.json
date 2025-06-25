@@ -1,0 +1,28 @@
+{
+    "appid": 3543570,
+    "name": "やがて散りゆく鏡の花へ",
+    "type": "Game",
+    "schinese_name": "终将凋零的镜花",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:59:49",
+    "change_number": 29685338,
+    "depot": {
+        "3543571": {
+            "manifests": {
+                "public": {
+                    "gid": "5112304945247279684",
+                    "size": "837257803",
+                    "download": "582552928"
+                }
+            },
+            "decryptionkey": "92842387e6841cbde71d8516c64c7d471caef135435d2add2de8bc84ac160e3d"
+        },
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18936214",
+                "timeupdated": "1750400791"
+            }
+        }
+    }
+}
