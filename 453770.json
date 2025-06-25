@@ -1,0 +1,55 @@
+{
+    "appid": 453770,
+    "name": "Forgotten Tales: Day of the Dead",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-11 04:11:29",
+    "change_number": 29493723,
+    "depot": {
+        "baselanguages": "english",
+        "453771": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2661733855804394850",
+                    "size": "119887533",
+                    "download": "74137440"
+                }
+            },
+            "decryptionkey": "f29b60f5979d49637225cc5d4b477df867a1c82efec30df4188a88b3997b0cea"
+        },
+        "453772": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2190199645511142003",
+                    "size": "129671357",
+                    "download": "81469984"
+                }
+            }
+        },
+        "453773": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "952040029313885406",
+                    "size": "176965190",
+                    "download": "82665968"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "6899368",
+                "timeupdated": "1624122307"
+            }
+        }
+    }
+}
