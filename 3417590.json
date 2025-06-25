@@ -1,0 +1,37 @@
+{
+    "appid": 3417590,
+    "name": "Warhammer 40,000: Space Marine 2 - Public Test Server",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-11 06:58:14",
+    "change_number": 29495671,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3417591": {
+            "manifests": {
+                "public": {
+                    "gid": "5247208332839631672",
+                    "size": "79872827553",
+                    "download": "65503013872"
+                }
+            },
+            "decryptionkey": "42a49390692e48d8a48bcab455299be83c420d3a83361842202b92430aac3fae"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,czech,turkish,brazilian,ukrainian,latam",
+        "branches": {
+            "public": {
+                "buildid": "18699533",
+                "timeupdated": "1749027407"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 4447962774494504379
+}
