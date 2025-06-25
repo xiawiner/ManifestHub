@@ -1,0 +1,73 @@
+{
+    "appid": 926990,
+    "name": "WolfQuest: Anniversary Edition",
+    "type": "Game",
+    "schinese_name": "野狼迷踪：周年纪念版",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 21:47:14",
+    "change_number": 29609253,
+    "depot": {
+        "null": {
+            "depotfromapp": "457090"
+        },
+        "926992": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "366527625024666595",
+                    "size": "13873486459",
+                    "download": "6314017008"
+                },
+                "beta": {
+                    "gid": "366527625024666595",
+                    "size": "13873486459",
+                    "download": "6314017008"
+                }
+            },
+            "decryptionkey": "b6898f382435b9c540dae42e9a2b5fdf283a5c4f340c3294e032e782a89ff950"
+        },
+        "926991": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9037148329774103848",
+                    "size": "13842556005",
+                    "download": "6304722304"
+                },
+                "beta": {
+                    "gid": "9037148329774103848",
+                    "size": "13842556005",
+                    "download": "6304722304"
+                }
+            },
+            "decryptionkey": "28d993a32040d80b634e5f3338c3f228c75b765f38f99568a398e53b75670e8f"
+        },
+        "926993": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "926994": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18897905",
+                "timeupdated": "1750166575"
+            },
+            "beta": {
+                "buildid": "18897885",
+                "description": "WQ Public Beta",
+                "timeupdated": "1750166518"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
