@@ -1,0 +1,43 @@
+{
+    "appid": 2233580,
+    "name": "Monkey See Monkey Doo Doo",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-09 00:13:36",
+    "change_number": 29447690,
+    "depot": {
+        "2233581": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "515814415465847090",
+                    "size": "7757002656",
+                    "download": "1742750752"
+                },
+                "openbeta": {
+                    "gid": "515814415465847090",
+                    "size": "7757002656",
+                    "download": "1742750752"
+                }
+            },
+            "decryptionkey": "3b598cacbc064524d61e3bc81d1fa8e495aba37c9930b23b8d6228530b4516ed"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18785395",
+                "timeupdated": "1749399156"
+            },
+            "openbeta": {
+                "buildid": "18785395",
+                "description": "Test Channel for the public that owns the game",
+                "timeupdated": "1749399209"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
