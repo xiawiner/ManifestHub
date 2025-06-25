@@ -1,0 +1,31 @@
+{
+    "appid": 1074620,
+    "name": "Adore",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 05:17:28",
+    "change_number": 29637235,
+    "depot": {
+        "1074621": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1659284166764556920",
+                    "size": "2563493554",
+                    "download": "719535232"
+                }
+            },
+            "decryptionkey": "06b91ae89d2ff648eb674e715415a9782cae0cc2325e17d0f70116da94564ce4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12632545",
+                "timeupdated": "1701277394"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
