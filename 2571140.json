@@ -1,0 +1,41 @@
+{
+    "appid": 2571140,
+    "name": "Escape Z",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 00:05:01",
+    "change_number": 29566871,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2571141": {
+            "manifests": {
+                "public": {
+                    "gid": "50771127307751750",
+                    "size": "8862645201",
+                    "download": "8820345968"
+                }
+            },
+            "decryptionkey": "3ccd2c31bf0903f00a1c351a55ad95e1dabf3afb8d6388d4d8461d02088f4ca8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18691075",
+                "timeupdated": "1749904348"
+            }
+        }
+    }
+}
