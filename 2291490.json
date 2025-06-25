@@ -1,0 +1,27 @@
+{
+    "appid": 2291490,
+    "name": "City Ambulance Car Driving",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 08:14:37",
+    "change_number": 29639383,
+    "depot": {
+        "2291491": {
+            "manifests": {
+                "public": {
+                    "gid": "7788574065927690741",
+                    "size": "462884122",
+                    "download": "152618448"
+                }
+            },
+            "decryptionkey": "08cf165c9b2347b55c3de7c29f03805831359e84a008d673d1ba281fa2b89528"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10367213",
+                "timeupdated": "1674222926"
+            }
+        }
+    }
+}
