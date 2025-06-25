@@ -1,0 +1,44 @@
+{
+    "appid": 1097620,
+    "name": "Fast and Low",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-06 23:23:46",
+    "change_number": 29421230,
+    "depot": {
+        "baselanguages": "english",
+        "1097621": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5154776668104136449",
+                    "size": "5962423957",
+                    "download": "736869200"
+                },
+                "patch_1.95e": {
+                    "gid": "3803634835450502149",
+                    "size": "3001515226",
+                    "download": "501925760"
+                }
+            },
+            "decryptionkey": "6100da7a3d68eac914d9479b7a776d917e688cc1414b490021096bc2a1bb64cb"
+        },
+        "workshopdepot": "1097620",
+        "branches": {
+            "public": {
+                "buildid": "18728798",
+                "timeupdated": "1749020136"
+            },
+            "patch_1.95e": {
+                "buildid": "9679790",
+                "description": "experimental build",
+                "timeupdated": "1665197482"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "e90c4d87817a4d2fcb7d5e3c85f285fe39791bd4763d1137c90536ddda8afade"
+    }
+}
