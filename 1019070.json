@@ -1,0 +1,27 @@
+{
+    "appid": 1019070,
+    "name": "Soft cookie",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 18:18:15",
+    "change_number": 29666084,
+    "depot": {
+        "1019071": {
+            "manifests": {
+                "public": {
+                    "gid": "677001673959637820",
+                    "size": "55122581",
+                    "download": "22033344"
+                }
+            },
+            "decryptionkey": "0abc674c4a2000fd0cd7477658eaa2d5f870e85847feb62bc8ec8a2d7eecd9f3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3630930",
+                "timeupdated": "1552128667"
+            }
+        }
+    }
+}
