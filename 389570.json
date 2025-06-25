@@ -1,0 +1,43 @@
+{
+    "appid": 389570,
+    "name": "Mitos.is: The Game",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-19 20:53:08",
+    "change_number": 29648584,
+    "depot": {
+        "389571": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8006095285908200951",
+                    "size": "110688667",
+                    "download": "86867648"
+                }
+            },
+            "decryptionkey": "3ad1880aa4488c4945d57bc1a3b1c6bb73d8eb5e75bd65f7439e2ee3a7f390a8"
+        },
+        "389572": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8059480508975988227",
+                    "size": "140982786",
+                    "download": "106677760"
+                }
+            },
+            "decryptionkey": "96cea41b871106763a26fdef156c65b9ab8f383647c30b252b5f038de8777f12"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18900023",
+                "timeupdated": "1750176493"
+            }
+        }
+    }
+}
