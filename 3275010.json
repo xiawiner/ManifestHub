@@ -1,0 +1,28 @@
+{
+    "appid": 3275010,
+    "name": "Rogue Loops",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-11 01:23:15",
+    "change_number": 29491476,
+    "depot": {
+        "3275011": {
+            "manifests": {
+                "public": {
+                    "gid": "1929408213475511751",
+                    "size": "3559869020",
+                    "download": "1374669392"
+                }
+            },
+            "decryptionkey": "a65ad5083ef65cb6ed7a3aa2b234ead29b4d0068c22a229791d9ce890801bde7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18503007",
+                "timeupdated": "1747490677"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
