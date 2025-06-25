@@ -1,0 +1,28 @@
+{
+    "appid": 1848910,
+    "name": "Farmer Toon",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-19 05:36:10",
+    "change_number": 29637513,
+    "depot": {
+        "baselanguages": "english",
+        "1848911": {
+            "manifests": {
+                "public": {
+                    "gid": "3067872854863262888",
+                    "size": "2215289102",
+                    "download": "261635824"
+                }
+            },
+            "decryptionkey": "90b487af072e906cc5b0c11b81b4a616397b809dc23cf1fc7b53fadbc7f7a201"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18918227",
+                "timeupdated": "1750282566"
+            }
+        }
+    }
+}
