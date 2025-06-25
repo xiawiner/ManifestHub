@@ -1,0 +1,82 @@
+{
+    "appid": 1721470,
+    "name": "Poppy Playtime",
+    "type": "Game",
+    "schinese_name": "波比的游戏时间",
+    "isfreeapp": 1,
+    "update_time": "2025-06-08 12:58:22",
+    "change_number": 29442579,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1721471": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1791252873090904500",
+                    "size": "3081908866",
+                    "download": "2870493456"
+                }
+            },
+            "decryptionkey": "d8ffbaae7dda98a1608af24916982826d6ec61a8a1338fda6f793da5d3239152"
+        },
+        "1721472": {
+            "manifests": {
+                "public": {
+                    "gid": "258245258388090593",
+                    "size": "288640094",
+                    "download": "177294160"
+                }
+            },
+            "decryptionkey": "9ff882ee821997013c8a26b12ee0e04fe781434ec5e6d41881ec53c759bacdd0"
+        },
+        "1721473": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "1721474": {
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "17177248",
+                "timeupdated": "1738190166"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
