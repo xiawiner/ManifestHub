@@ -1,0 +1,42 @@
+{
+    "appid": 3151380,
+    "name": "Small Spaces",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 16:10:19",
+    "change_number": 29559863,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3151381": {
+            "manifests": {
+                "public": {
+                    "gid": "1501509030276749729",
+                    "size": "4594669338",
+                    "download": "4398369312"
+                }
+            },
+            "decryptionkey": "aa66b037526fe38a79372399ea40d453401359c23e4000592e23d8427985ce3b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18737652",
+                "timeupdated": "1749056061"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
