@@ -1,0 +1,52 @@
+{
+    "appid": 2360440,
+    "name": "Dreamians: Card Battle",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 12:29:28",
+    "change_number": 29599915,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,tchinese,russian,japanese,brazilian,latam",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2360441": {
+            "manifests": {
+                "public": {
+                    "gid": "5554991324609909341",
+                    "size": "1321249240",
+                    "download": "1094710768"
+                },
+                "development": {
+                    "gid": "4426357379756216502",
+                    "size": "1321498897",
+                    "download": "1094715520"
+                }
+            },
+            "decryptionkey": "d882b0b0412eecc3c0df2d513a82e60a2f577095429e533f2052784b38d6d688"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18869815",
+                "timeupdated": "1749935024"
+            },
+            "development": {
+                "buildid": "18252477",
+                "description": "Branch de desenvolvimento",
+                "timeupdated": "1745707654"
+            }
+        }
+    }
+}
