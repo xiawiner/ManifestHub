@@ -1,0 +1,59 @@
+{
+    "appid": 342200,
+    "name": "MechWarrior Online",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-21 03:20:06",
+    "change_number": 29674483,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "342201": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4708719726276903748",
+                    "size": "31059837822",
+                    "download": "29199364784"
+                }
+            },
+            "decryptionkey": "12285849aaf10836b6960bfd4e55f616991f2e64391b136463436acbec3f23db"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18536277",
+                "timeupdated": "1747762830"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
