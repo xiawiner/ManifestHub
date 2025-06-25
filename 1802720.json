@@ -1,0 +1,28 @@
+{
+    "appid": 1802720,
+    "name": "Sixtar Gate: STARTRAIL",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-30 13:55:51",
+    "change_number": 29276928,
+    "depot": {
+        "1802721": {
+            "manifests": {
+                "public": {
+                    "gid": "8415565511317546042",
+                    "size": "12425262804",
+                    "download": "10151805680"
+                }
+            },
+            "decryptionkey": "f30f24123617d229af147f5c3cf9a145b0a3af2b481488d0f36e1a0efb908d1b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18669330",
+                "timeupdated": "1748584544"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
