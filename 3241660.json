@@ -1,0 +1,38 @@
+{
+    "appid": 3241660,
+    "name": "R.E.P.O.",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 23:16:07",
+    "change_number": 29631686,
+    "depot": {
+        "3241661": {
+            "manifests": {
+                "public": {
+                    "gid": "895298583562046141",
+                    "size": "941303881",
+                    "download": "344144272"
+                },
+                "beta": {
+                    "gid": "2915936615689454164",
+                    "size": "1167477037",
+                    "download": "445666592"
+                }
+            },
+            "decryptionkey": "0a0fcffb2de6fb0fa6caff076a5a8cb960903d17320968d5c042fd5a4f9ad2ad"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17560228",
+                "timeupdated": "1740853402"
+            },
+            "beta": {
+                "buildid": "18914039",
+                "description": "beta branch",
+                "timeupdated": "1750259759"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
