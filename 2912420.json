@@ -1,0 +1,43 @@
+{
+    "appid": 2912420,
+    "name": "Pals Go Only Up!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 13:41:39",
+    "change_number": 29662145,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2912421": {
+            "manifests": {
+                "public": {
+                    "gid": "888938952697366669",
+                    "size": "8798750441",
+                    "download": "3213558032"
+                }
+            },
+            "decryptionkey": "f183fdd753a8170073b054518553e2def98e77a2bb21803008f180b26fed6209"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18934134",
+                "timeupdated": "1750398078"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
