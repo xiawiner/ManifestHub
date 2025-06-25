@@ -1,0 +1,52 @@
+{
+    "appid": 2631650,
+    "name": "Nif Nif",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 00:51:20",
+    "change_number": 29672352,
+    "depot": {
+        "2631651": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1652178433852257565",
+                    "size": "2703153521",
+                    "download": "1128031344"
+                },
+                "staging": {
+                    "gid": "324625916908162811",
+                    "size": "2702334484",
+                    "download": "1127736240"
+                }
+            },
+            "decryptionkey": "40ba0a1e8bf6d10983b2688f6dc34ed6b3238f1e9c542ceeed3ac78b481b9d5c"
+        },
+        "2631652": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "staging": {
+                    "gid": "4827048646186164929",
+                    "size": "560113498",
+                    "download": "447714640"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18856565",
+                "timeupdated": "1750427776"
+            },
+            "staging": {
+                "buildid": "18942783",
+                "description": "For general testing",
+                "timeupdated": "1750438275"
+            }
+        }
+    }
+}
