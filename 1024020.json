@@ -1,0 +1,82 @@
+{
+    "appid": 1024020,
+    "name": "DayZ Experimental",
+    "type": "Beta",
+    "schinese_name": "僵尸末日 实验版",
+    "isfreeapp": 0,
+    "update_time": "2025-06-04 02:41:01",
+    "change_number": 29355467,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "1024021": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6004889096023842043",
+                    "size": "25129855464",
+                    "download": "20050302000"
+                }
+            },
+            "decryptionkey": "0af6eb2f327175bfd4ec84842a87204573c89b6be16e532850ad050293a10499"
+        },
+        "1151710": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5309184951044729766",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1151710",
+            "decryptionkey": "b8e6491d2e1342254ae404b81b20894ca3cf91ce374889d900d65e683fd0defc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18722028",
+                "timeupdated": "1748976056"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 9123121795348691860
+}
