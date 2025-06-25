@@ -1,0 +1,32 @@
+{
+    "appid": 1005950,
+    "name": "大老爷 GrandLordAuto",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 21:00:29",
+    "change_number": 29668515,
+    "depot": {
+        "baselanguages": "schinese",
+        "1005951": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6171333517492395569",
+                    "size": "441758180",
+                    "download": "382292192"
+                }
+            },
+            "decryptionkey": "d7f51a1ea8a79a28ec08842989e245ae8e7825b60c41ca2ee848dfe4fc149530"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18940353",
+                "timeupdated": "1750424425"
+            }
+        }
+    }
+}
