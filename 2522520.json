@@ -1,0 +1,45 @@
+{
+    "appid": 2522520,
+    "name": "Only Up: With Friends",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 08:54:45",
+    "change_number": 29619305,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2522521": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8206566700940558397",
+                    "size": "5938497767",
+                    "download": "5695440352"
+                }
+            },
+            "decryptionkey": "418adc137ef5fa3e9ba329b4be1c04db9e8c9e7f72cf9acc96b39c8f8b6c965f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18954156",
+                "timeupdated": "1750571450"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
