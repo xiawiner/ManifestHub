@@ -1,0 +1,64 @@
+{
+    "appid": 1029780,
+    "name": "Going Medieval",
+    "type": "Game",
+    "schinese_name": "Going Medieval ( 走向中世纪 )",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 18:49:01",
+    "change_number": 29666596,
+    "depot": {
+        "1029781": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7140307942638816854",
+                    "size": "649545912",
+                    "download": "379236320"
+                },
+                "experimental": {
+                    "gid": "6265660124594420937",
+                    "size": "689652276",
+                    "download": "393038560"
+                },
+                "save-migration": {
+                    "gid": "6798494777981999312",
+                    "size": "638894535",
+                    "download": "369765520"
+                },
+                "legacy-0.7.17": {
+                    "gid": "5240515032281478372",
+                    "size": "697199231",
+                    "download": "237038272"
+                }
+            },
+            "decryptionkey": "80cc898af46b1219817e27d4d45647970682fd0e6fe8bd0308a630baf5344b15"
+        },
+        "workshopdepot": "1029780",
+        "branches": {
+            "public": {
+                "buildid": "18562576",
+                "timeupdated": "1747985815"
+            },
+            "experimental": {
+                "buildid": "18908536",
+                "description": "Home of future updates",
+                "timeupdated": "1750241593"
+            },
+            "save-migration": {
+                "buildid": "14598622",
+                "description": "Migrate old saves to 0.18 and above",
+                "timeupdated": "1717507512"
+            },
+            "legacy-0.7.17": {
+                "buildid": "8299304",
+                "description": "For playing saves created on versions older than 0.8.0",
+                "timeupdated": "1653993660"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "4e96e36c4e9e642e977693fde3a83a9de4e33c9082297391ebdf5aedd4f7d560"
+    }
+}
