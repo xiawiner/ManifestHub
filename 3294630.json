@@ -1,0 +1,43 @@
+{
+    "appid": 3294630,
+    "name": "Mini Racer Car Shop Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 08:18:21",
+    "change_number": 29686634,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3294631": {
+            "manifests": {
+                "public": {
+                    "gid": "4456949442410715064",
+                    "size": "3899001342",
+                    "download": "1060333072"
+                }
+            },
+            "decryptionkey": "bae17913ba1b92736a15c90428e10ad5d2b8e262defb11dd76307547f63dbdd7"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,dutch,hungarian,turkish,brazilian,ukrainian,indonesian",
+        "branches": {
+            "public": {
+                "buildid": "18640203",
+                "timeupdated": "1748428371"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
