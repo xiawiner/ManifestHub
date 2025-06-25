@@ -1,0 +1,88 @@
+{
+    "appid": 601510,
+    "name": "Yu-Gi-Oh! Duel Links",
+    "type": "Game",
+    "schinese_name": "游戏王：决斗链接",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 05:55:21",
+    "change_number": 29657370,
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "601511": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3630856317183574237",
+                    "size": "145712669",
+                    "download": "61127280"
+                }
+            },
+            "decryptionkey": "292e3fd64a6357401e23452f2a246e492143d4d43c954d64ad947da071dea8da"
+        },
+        "601512": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5190144931693579449",
+                    "size": "145712669",
+                    "download": "61127280"
+                },
+                "local": {
+                    "gid": "8201617588239514835",
+                    "size": "167888577",
+                    "download": "85731920"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "601513": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5393507280857584070",
+                    "size": "145712669",
+                    "download": "61127280"
+                },
+                "local": {
+                    "gid": "7864058845018576122",
+                    "size": "169569053",
+                    "download": "86391088"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18891882",
+                "timeupdated": "1750134635"
+            },
+            "local": {
+                "buildid": "15515248",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1724829771"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
