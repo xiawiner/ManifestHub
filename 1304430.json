@@ -1,0 +1,29 @@
+{
+    "appid": 1304430,
+    "name": "Viking Frontiers",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-16 03:15:10",
+    "change_number": 29576705,
+    "depot": {
+        "1304431": {
+            "manifests": {
+                "public": {
+                    "gid": "1781550472273478960",
+                    "size": "11900837243",
+                    "download": "5854905968"
+                }
+            },
+            "decryptionkey": "0b2ba9c1892b5c799c2eaa1559623f7ab20790096a0228b7767b05109ce9f88e"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18578786",
+                "timeupdated": "1747991996"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
