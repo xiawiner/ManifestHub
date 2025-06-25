@@ -1,0 +1,72 @@
+{
+    "appid": 275850,
+    "name": "No Man's Sky",
+    "type": "Game",
+    "schinese_name": "No Man's Sky 无人深空",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 18:10:01",
+    "change_number": 29665962,
+    "depot": {
+        "depotdeltapatches": "1",
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,dutch,brazilian",
+        "workshopdepot": "275850",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "275851": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "800307340952320786",
+                    "size": "23884485099",
+                    "download": "22569934608"
+                }
+            },
+            "decryptionkey": "a5ce5217e5d5d20115ea81209764d4e89f37bed55b84690951d5df23e73852a6"
+        },
+        "275852": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2642314045370868325",
+                    "size": "26852806368",
+                    "download": "21523602912"
+                }
+            },
+            "decryptionkey": "1f8fb10eb2401484d32af8e6c0d3b7e4148e78e4cf8f632afe1ab6600fb7e57d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18841749",
+                "timeupdated": "1749737916"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "bb6b75fde9bed39524f38b15f4421448e580935048bc0105a7943f893e20974a"
+    }
+}
