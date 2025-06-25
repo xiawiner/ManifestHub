@@ -1,0 +1,40 @@
+{
+    "appid": 2644240,
+    "name": "魔神少女エピソード4 届ける想い",
+    "type": "Game",
+    "schinese_name": "魔神少女 Episode 4 传达的心意",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 10:43:01",
+    "change_number": 29687336,
+    "depot": {
+        "baselanguages": "english,koreana,schinese,russian,japanese",
+        "2644241": {
+            "manifests": {
+                "public": {
+                    "gid": "5536084858315965312",
+                    "size": "2172762619",
+                    "download": "1845186592"
+                }
+            },
+            "decryptionkey": "91999ae2c1ae89c4233a5d729c91b1b27bab5a78666126dcc38bff12d5a659b9"
+        },
+        "3773340": {
+            "dlcappid": "3773340",
+            "manifests": {
+                "public": {
+                    "gid": "7522586716392626713",
+                    "size": "5",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18953520",
+                "timeupdated": "1750560176"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
