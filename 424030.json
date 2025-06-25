@@ -1,0 +1,63 @@
+{
+    "appid": 424030,
+    "name": "War of Rights",
+    "type": "Game",
+    "schinese_name": "民权战争",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 16:19:57",
+    "change_number": 29680507,
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "424031": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6190180666349089883",
+                    "size": "15782893682",
+                    "download": "15795687552"
+                }
+            },
+            "decryptionkey": "0d2d1793d5c1a8dcff87207ad8c37ad35d08c488e97c4ab82e111f2805bc0c11"
+        },
+        "workshopdepot": "424030",
+        "branches": {
+            "public": {
+                "buildid": "18868957",
+                "timeupdated": "1750172025"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
