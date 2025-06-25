@@ -1,0 +1,28 @@
+{
+    "appid": 3009410,
+    "name": "Moor Rail",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:54:17",
+    "change_number": 29683083,
+    "depot": {
+        "3009411": {
+            "manifests": {
+                "public": {
+                    "gid": "9027096317054163635",
+                    "size": "1941435026",
+                    "download": "227925952"
+                }
+            },
+            "decryptionkey": "2e1cab5956f9f43d416a8df5ce4b29a5d47ec3c7d3663c4f50d05f0a4472bfa4"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18950494",
+                "timeupdated": "1750516795"
+            }
+        }
+    }
+}
