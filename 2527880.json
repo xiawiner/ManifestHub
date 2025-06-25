@@ -1,0 +1,28 @@
+{
+    "appid": 2527880,
+    "name": "Undead West",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 19:16:26",
+    "change_number": 29548091,
+    "depot": {
+        "2527881": {
+            "manifests": {
+                "public": {
+                    "gid": "382887259094549618",
+                    "size": "1937246124",
+                    "download": "429680016"
+                }
+            },
+            "decryptionkey": "39b214952581e628b060d33e56a70f3b7b00cd830e6441e7153bb7261863de37"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18114090",
+                "timeupdated": "1744893214"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
