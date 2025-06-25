@@ -1,0 +1,29 @@
+{
+    "appid": 1650120,
+    "name": "Football, Tactics & Glory: Manager's Journey",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-31 07:20:54",
+    "change_number": 29282500,
+    "depot": {
+        "1650120": {
+            "manifests": {
+                "public": {
+                    "gid": "8470984444286182432",
+                    "size": "1966239118",
+                    "download": "840309200"
+                }
+            },
+            "dlcappid": "1650120",
+            "decryptionkey": "a7502794ebc79426b13f99ad32cfc1eecedf56a9a3b25082a9e245eb52130f6c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18672839",
+                "timeupdated": "1748603475"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
