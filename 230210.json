@@ -1,0 +1,62 @@
+{
+    "appid": 230210,
+    "name": "ASYLUM",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 05:24:38",
+    "change_number": 29675888,
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "230214": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6305488139435618834",
+                    "size": "33454597076",
+                    "download": "18344911872"
+                }
+            },
+            "decryptionkey": "102a74c883b382d61e2c238283343ed3d24a800d5a80b16f9ccc21384d15610d"
+        },
+        "230215": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "137285833392714122",
+                    "size": "33681265485",
+                    "download": "18284435456"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18584118",
+                "timeupdated": "1748035394"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
