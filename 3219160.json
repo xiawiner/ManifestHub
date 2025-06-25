@@ -1,0 +1,27 @@
+{
+    "appid": 3219160,
+    "name": "Taverna",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-02 23:09:25",
+    "change_number": 29321544,
+    "depot": {
+        "3219161": {
+            "manifests": {
+                "public": {
+                    "gid": "4233904489008618590",
+                    "size": "2539039562",
+                    "download": "1872954528"
+                }
+            },
+            "decryptionkey": "47b3fd06848756608051b6ac06518d5632443934f6328ec1b6ddea5105d6b552"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18699408",
+                "timeupdated": "1748855290"
+            }
+        }
+    }
+}
