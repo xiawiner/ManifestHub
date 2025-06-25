@@ -1,0 +1,32 @@
+{
+    "appid": 1794970,
+    "name": "Powder",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-21 00:07:10",
+    "change_number": 29671675,
+    "depot": {
+        "1794971": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5072837402253863272",
+                    "size": "1488807927",
+                    "download": "661890048"
+                }
+            },
+            "decryptionkey": "4c9ad16b1371ec40d476f266ac7c5978830eb13ca7fbd17a259fe0bd3be34fac"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18853487",
+                "timeupdated": "1749806183"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
