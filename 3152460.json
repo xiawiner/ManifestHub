@@ -1,0 +1,28 @@
+{
+    "appid": 3152460,
+    "name": "落幕英雄传",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 15:51:47",
+    "change_number": 29663760,
+    "depot": {
+        "baselanguages": "english,schinese,japanese",
+        "3152461": {
+            "manifests": {
+                "public": {
+                    "gid": "2037356425796609385",
+                    "size": "411158124",
+                    "download": "365670192"
+                }
+            },
+            "decryptionkey": "b8bfdb82156f20438eddeb66c6b5dfd0ebd9ad50372f3d6a0615d207de8473e0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18936926",
+                "timeupdated": "1750405902"
+            }
+        }
+    }
+}
