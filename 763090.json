@@ -1,0 +1,54 @@
+{
+    "appid": 763090,
+    "name": "Aqua Fish",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-04 21:03:30",
+    "change_number": 29372078,
+    "depot": {
+        "763091": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2205602846042303733",
+                    "size": "137353474",
+                    "download": "28173664"
+                }
+            },
+            "decryptionkey": "9c3f79cc5bf336922d63ae0b61d064244f6814a82b0959090bf99afebd20db85"
+        },
+        "763092": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5634563111345168211",
+                    "size": "152296915",
+                    "download": "32325552"
+                }
+            }
+        },
+        "763093": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7517071479123805212",
+                    "size": "186494897",
+                    "download": "43971584"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "2425507",
+                "timeupdated": "1515575285"
+            }
+        }
+    }
+}
