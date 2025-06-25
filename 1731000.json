@@ -1,0 +1,42 @@
+{
+    "appid": 1731000,
+    "name": "Skulker",
+    "type": "Game",
+    "schinese_name": "银河摸鱼人 ",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:54:55",
+    "change_number": 29683702,
+    "depot": {
+        "1731001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "205166741126796315",
+                    "size": "970087184",
+                    "download": "787437200"
+                }
+            },
+            "decryptionkey": "5f892401994d5430b73a4ceb812c43a58ab1fdee80296b9665ca3a92c4779696"
+        },
+        "1731002": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2255031677768022367",
+                    "size": "980683205",
+                    "download": "724022656"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18942943",
+                "timeupdated": "1750439246"
+            }
+        }
+    }
+}
