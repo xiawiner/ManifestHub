@@ -1,0 +1,56 @@
+{
+    "appid": 3530770,
+    "name": "Monster City: A Monster College Story",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:53:37",
+    "change_number": 29682946,
+    "depot": {
+        "baselanguages": "english",
+        "3530771": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7211987664016439762",
+                    "size": "1420940825",
+                    "download": "1323372224"
+                }
+            },
+            "decryptionkey": "83553cd2e6d4841db3948fdeed43718e46a19a14e601ca1c49c4f6525d33d159"
+        },
+        "3530772": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2498211764551591659",
+                    "size": "1409901677",
+                    "download": "1324870528"
+                }
+            }
+        },
+        "3530773": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5009973163007706757",
+                    "size": "1441715237",
+                    "download": "1336371648"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18881954",
+                "timeupdated": "1750079242"
+            }
+        }
+    }
+}
