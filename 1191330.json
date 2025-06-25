@@ -1,0 +1,32 @@
+{
+    "appid": 1191330,
+    "name": "Inferna",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-21 13:13:18",
+    "change_number": 29679422,
+    "depot": {
+        "1191331": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8443693874900915194",
+                    "size": "26153586490",
+                    "download": "13509427632"
+                }
+            },
+            "decryptionkey": "0e91dd0a12107a16724a0f96316dc113d01df4ec15cde5873049f4c0297fcd54"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18947773",
+                "timeupdated": "1750482794"
+            }
+        }
+    }
+}
