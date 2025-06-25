@@ -1,0 +1,49 @@
+{
+    "appid": 2707930,
+    "name": "Palia",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-21 01:20:14",
+    "change_number": 29672916,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2707931": {
+            "manifests": {
+                "public": {
+                    "gid": "1412316942116797946",
+                    "size": "20135501844",
+                    "download": "16745428592"
+                }
+            },
+            "decryptionkey": "8dcbc3190b4df9e486fd1898b13fdbbd8549da218b0719a813b3f6d771a8e6f3"
+        },
+        "3708940": {
+            "dlcappid": "3708940"
+        },
+        "3720190": {
+            "dlcappid": "3720190"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18652257",
+                "timeupdated": "1749739812"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
