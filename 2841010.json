@@ -1,0 +1,27 @@
+{
+    "appid": 2841010,
+    "name": "Destiny Online",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-15 00:30:31",
+    "change_number": 29567097,
+    "depot": {
+        "2841011": {
+            "manifests": {
+                "public": {
+                    "gid": "5576331390480099496",
+                    "size": "2381513580",
+                    "download": "1214417856"
+                }
+            },
+            "decryptionkey": "83288ea2c25af05c85435d47defcfb1eeb906d29d0e806a79f118c533841494d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18496752",
+                "timeupdated": "1747426960"
+            }
+        }
+    }
+}
