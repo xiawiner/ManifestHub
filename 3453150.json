@@ -1,0 +1,32 @@
+{
+    "appid": 3453150,
+    "name": "愉快でくだらないゲーム",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-17 03:59:53",
+    "change_number": 29591560,
+    "depot": {
+        "baselanguages": "japanese",
+        "3453151": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5455159500435877538",
+                    "size": "289468112",
+                    "download": "51763840"
+                }
+            },
+            "decryptionkey": "9331003556b3df4e70c4aaa9bdb4becfe4fa4222bf7011b7af5e1e9acf27b5c8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18565447",
+                "timeupdated": "1747915937"
+            }
+        }
+    }
+}
