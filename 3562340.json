@@ -1,0 +1,54 @@
+{
+    "appid": 3562340,
+    "name": "Castle Crumble",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 18:56:53",
+    "change_number": 29662883,
+    "depot": {
+        "3562341": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7961822256806049775",
+                    "size": "1255874896",
+                    "download": "573262560"
+                },
+                "dailybuilds": {
+                    "gid": "3900989958033600525",
+                    "size": "1297727544",
+                    "download": "570666688"
+                }
+            },
+            "decryptionkey": "034daa3c1ffb1007c688900dd216736bcdc27ef896380ebb6adbb5a18c2231eb"
+        },
+        "3562342": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5216029493509223089",
+                    "size": "1776836174",
+                    "download": "614425344"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18883949",
+                "timeupdated": "1750083599"
+            },
+            "dailybuilds": {
+                "buildid": "18809875",
+                "description": "Everyday builds",
+                "timeupdated": "1749558758"
+            }
+        }
+    }
+}
