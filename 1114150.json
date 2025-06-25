@@ -1,0 +1,38 @@
+{
+    "appid": 1114150,
+    "name": "CarX Street",
+    "type": "Game",
+    "schinese_name": "街头赛车",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 21:04:24",
+    "change_number": 29668570,
+    "depot": {
+        "1114151": {
+            "manifests": {
+                "public": {
+                    "gid": "6006624410206194615",
+                    "size": "18526455679",
+                    "download": "16014162000"
+                },
+                "public_test": {
+                    "gid": "309168495032161170",
+                    "size": "18533172406",
+                    "download": "16008555232"
+                }
+            },
+            "decryptionkey": "472bd3a70105d0685574189912e9cf277940a72c562a19db7509fc56da74f3de"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18940007",
+                "timeupdated": "1750424658"
+            },
+            "public_test": {
+                "buildid": "18826163",
+                "description": "PTR",
+                "timeupdated": "1749654159"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
