@@ -1,0 +1,45 @@
+{
+    "appid": 102400,
+    "name": "Vertex Dispenser",
+    "type": "Game",
+    "schinese_name": "尖端运筹大师",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 03:16:55",
+    "change_number": 29635737,
+    "depot": {
+        "102402": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5346954480890935875",
+                    "size": "43729666",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "5252a937cf829d76b2e7abbb52dd8c7d4cc38d593d65084c7148e5310f913fc4"
+        },
+        "102401": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1274402551531674229",
+                    "size": "23820324",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "7fd36631cf6af92572a0099492299b195dea09fdf0c0c429bb9e99ad8c2a21e6"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "25802"
+            }
+        }
+    }
+}
