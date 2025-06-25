@@ -1,0 +1,77 @@
+{
+    "appid": 3093590,
+    "name": "Kemopop!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 23:10:56",
+    "change_number": 29631583,
+    "depot": {
+        "3093591": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1231331768409147483",
+                    "size": "528618936",
+                    "download": "472544640"
+                },
+                "beta": {
+                    "gid": "4780379982517004632",
+                    "size": "536649784",
+                    "download": "479935920"
+                }
+            },
+            "decryptionkey": "bb1643f6f7a3b4bd4f286d307082298064737c237f7cd8a8546dc399590f82d7"
+        },
+        "3093592": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4544340580888666239",
+                    "size": "535213728",
+                    "download": "474266384"
+                },
+                "beta": {
+                    "gid": "8920417481302613954",
+                    "size": "539282184",
+                    "download": "481295168"
+                }
+            }
+        },
+        "3093593": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "977705494791062542",
+                    "size": "600167148",
+                    "download": "487773936"
+                },
+                "beta": {
+                    "gid": "3477800021837397349",
+                    "size": "622774194",
+                    "download": "500746800"
+                }
+            }
+        },
+        "workshopdepot": "3093590",
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "17647466",
+                "timeupdated": "1741451852"
+            },
+            "beta": {
+                "buildid": "18911050",
+                "description": "Live distribution staging branch",
+                "timeupdated": "1750244417"
+            }
+        },
+        "workshopdepotdecryptionkey": "d2ef3d71acee18fec388c39f07d9c1fbe04beec5eecd1782a43a250170ebaa43"
+    }
+}
