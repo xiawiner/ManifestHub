@@ -1,0 +1,60 @@
+{
+    "appid": 655290,
+    "name": "Escape The Pacific",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 19:51:27",
+    "change_number": 29548745,
+    "depot": {
+        "655291": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6482135526111889909",
+                    "size": "4381331410",
+                    "download": "1692405248"
+                },
+                "experimental": {
+                    "gid": "2129925711256765674",
+                    "size": "4381331426",
+                    "download": "1692405600"
+                }
+            },
+            "decryptionkey": "37a68ff80d0a3339076308b39fca1e02bb59d26a7626e6e563a148c93cecd499"
+        },
+        "655299": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3250661553021115509",
+                    "size": "4381331410",
+                    "download": "1690963216"
+                },
+                "experimental": {
+                    "gid": "4541130959108047779",
+                    "size": "4381331426",
+                    "download": "1690963552"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "655298": {},
+        "branches": {
+            "public": {
+                "buildid": "18550137",
+                "timeupdated": "1747837315"
+            },
+            "experimental": {
+                "buildid": "18550569",
+                "description": "Experimental game builds",
+                "timeupdated": "1747837276"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
