@@ -1,0 +1,85 @@
+{
+    "appid": 2749100,
+    "name": "Dawnmaker",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-05 17:36:45",
+    "change_number": 29390532,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,french,japanese",
+        "2749102": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4983917590587950317",
+                    "size": "518770740",
+                    "download": "305343600"
+                },
+                "test": {
+                    "gid": "3322455146722583947",
+                    "size": "525293209",
+                    "download": "324717968"
+                }
+            },
+            "decryptionkey": "1e18e1d3753d9ef9f325b9ce218c385f7631e685a28c7aa2f3acbb25d069cb68"
+        },
+        "2749103": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5838337614679949014",
+                    "size": "508649424",
+                    "download": "297147552"
+                },
+                "test": {
+                    "gid": "7123507603809752454",
+                    "size": "515222379",
+                    "download": "314134768"
+                }
+            }
+        },
+        "2749104": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6950360074819203488",
+                    "size": "495141222",
+                    "download": "298772512"
+                },
+                "test": {
+                    "gid": "4461077179367472805",
+                    "size": "502787473",
+                    "download": "315959936"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17849081",
+                "timeupdated": "1742896785"
+            },
+            "test": {
+                "buildid": "18612664",
+                "description": "Test branch",
+                "timeupdated": "1748273031"
+            }
+        }
+    }
+}
