@@ -1,0 +1,60 @@
+{
+    "appid": 797430,
+    "name": "HD Poker",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-28 15:17:30",
+    "change_number": 29229942,
+    "depot": {
+        "797431": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1835019214782709345",
+                    "size": "79744655",
+                    "download": "64046336"
+                }
+            },
+            "decryptionkey": "e0ca8910e721d32da6a3366dacb97f9a50b18354ed8496a8d2a64b2b9e213d3f"
+        },
+        "797432": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4739140911632618072",
+                    "size": "75375869",
+                    "download": "63436912"
+                }
+            },
+            "decryptionkey": "09645b3419970e62e07d426e8426999bb9ed6473999b2cb685581f1b097ef882"
+        },
+        "797433": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "81247707919942818",
+                    "size": "103872353",
+                    "download": "67883520"
+                }
+            },
+            "decryptionkey": "497000faf4237866a981005d387612e4eabbbc1dfabf603b95510fe69e1c0fc9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17785398",
+                "timeupdated": "1742414576"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
