@@ -1,0 +1,27 @@
+{
+    "appid": 3196540,
+    "name": "IdleTale",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-06 20:27:31",
+    "change_number": 29417827,
+    "depot": {
+        "3196541": {
+            "manifests": {
+                "public": {
+                    "gid": "6280629545885725458",
+                    "size": "1335455088",
+                    "download": "172563728"
+                }
+            },
+            "decryptionkey": "c639786b4a2cf063d74bca2a896670913dd7fbd45bd7495be5aff12f88e92cb2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18521245",
+                "timeupdated": "1747675097"
+            }
+        }
+    }
+}
