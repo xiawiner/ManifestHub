@@ -1,0 +1,39 @@
+{
+    "appid": 1016250,
+    "name": "100$",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-02 23:03:22",
+    "change_number": 29319747,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese",
+        "1016251": {
+            "manifests": {
+                "public": {
+                    "gid": "7160237197764500586",
+                    "size": "28118362",
+                    "download": "18433824"
+                }
+            },
+            "decryptionkey": "8e4178ec4ca976d0771d23b9b6ac141eb6f8597b918b6970e643277b07e6dd55"
+        },
+        "1034010": {
+            "dlcappid": "1034010",
+            "manifests": {
+                "public": {
+                    "gid": "3226387329305612512",
+                    "size": "7949566",
+                    "download": "7843536"
+                }
+            },
+            "decryptionkey": "4eae0d9d697e0602e8a7e7ea6292c37465e9df896c08183fee1a7f6745d473c0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3834748",
+                "timeupdated": "1558124134"
+            }
+        }
+    }
+}
