@@ -1,0 +1,76 @@
+{
+    "appid": 629520,
+    "name": "Soundpad",
+    "type": "Application",
+    "schinese_name": "语音工具",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 20:54:14",
+    "change_number": 29629024,
+    "depot": {
+        "baselanguages": "",
+        "629521": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7342330603713847775",
+                    "size": "17109372",
+                    "download": "5707120"
+                },
+                "3.4.1": {
+                    "gid": "4519935662256761195",
+                    "size": "15710212",
+                    "download": "5035104"
+                },
+                "4.0.15": {
+                    "gid": "5635867486219850197",
+                    "size": "17102236",
+                    "download": "5707392"
+                }
+            },
+            "decryptionkey": "40df4fcb0748caf1d77bff732f597eebb26b3a36539b1646d149f54eb676807f"
+        },
+        "629522": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4968508765236736475",
+                    "size": "15935868",
+                    "download": "5273232"
+                },
+                "3.4.1": {
+                    "gid": "7805643622397552072",
+                    "size": "15199236",
+                    "download": "4698240"
+                },
+                "4.0.15": {
+                    "gid": "2655161198686586305",
+                    "size": "15971740",
+                    "download": "5281872"
+                }
+            },
+            "decryptionkey": "832c15ab1f9cffda454f899b8d69ce24ae020d79dadfcaf97cb9b4494698b4cf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15541452",
+                "timeupdated": "1725005185"
+            },
+            "3.4.1": {
+                "buildid": "6650831",
+                "description": "last stable pre v4.0.0",
+                "timeupdated": "1714055648"
+            },
+            "4.0.15": {
+                "buildid": "18912358",
+                "description": "beta",
+                "timeupdated": "1750251170"
+            }
+        }
+    }
+}
