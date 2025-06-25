@@ -1,0 +1,27 @@
+{
+    "appid": 1705180,
+    "name": "Gunner, HEAT, PC!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-29 04:22:40",
+    "change_number": 29245314,
+    "depot": {
+        "1705181": {
+            "manifests": {
+                "public": {
+                    "gid": "2783689348328278776",
+                    "size": "9402157026",
+                    "download": "2994064464"
+                }
+            },
+            "decryptionkey": "9dba2a78017b5384c4cc0cf599c6b3fe252c3635dcef818c04f98aa9ea9374e9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18572012",
+                "timeupdated": "1747946662"
+            }
+        }
+    }
+}
