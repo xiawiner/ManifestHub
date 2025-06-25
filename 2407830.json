@@ -1,0 +1,33 @@
+{
+    "appid": 2407830,
+    "name": "Trash Goblin",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:24:54",
+    "change_number": 29653567,
+    "depot": {
+        "2407831": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "839692018197185463",
+                    "size": "4178303883",
+                    "download": "793618112"
+                }
+            },
+            "decryptionkey": "ea23b0d0a0032c830f4a7465cffc83e39ed4632bf16182ddb029fadb0868cf80"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18929106",
+                "timeupdated": "1750351588"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
