@@ -1,0 +1,46 @@
+{
+    "appid": 1974050,
+    "name": "Torchlight: Infinite",
+    "type": "Game",
+    "schinese_name": "火炬之光：无限",
+    "isfreeapp": 1,
+    "update_time": "2025-06-18 23:11:33",
+    "change_number": 29631592,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,schinese",
+        "1974051": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8069095975537449446",
+                    "size": "26516744589",
+                    "download": "25607876480"
+                }
+            },
+            "decryptionkey": "3690b94ae7c28ed65557579848f21a68b4162cad7643f7af179e64761bea02ed"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18807091",
+                "timeupdated": "1749545013"
+            }
+        }
+    }
+}
