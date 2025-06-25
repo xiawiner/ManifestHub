@@ -1,0 +1,94 @@
+{
+    "appid": 1493710,
+    "name": "Proton Experimental",
+    "type": "Tool",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 21:56:42",
+    "change_number": 29682649,
+    "depot": {
+        "1493711": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5750543010476353950",
+                    "size": "1391081609",
+                    "download": "330574464"
+                },
+                "bleeding-edge": {
+                    "gid": "1816842843572260003",
+                    "size": "1391226093",
+                    "download": "360411856"
+                },
+                "bleeding-edge-9.0": {
+                    "gid": "2808953810619712121",
+                    "size": "1341026985",
+                    "download": "322972688"
+                },
+                "bleeding-edge-debug": {
+                    "gid": "6863330019731897635",
+                    "size": "5005799966",
+                    "download": "1087242720"
+                },
+                "debug": {
+                    "gid": "7460339019418182675",
+                    "size": "5002457740",
+                    "download": "958893536"
+                },
+                "experimental-9": {
+                    "gid": "1437480922647224640",
+                    "size": "1340464254",
+                    "download": "322842608"
+                },
+                "test-bugid-23887-v2": {
+                    "gid": "1031922658557353942",
+                    "size": "1211179420",
+                    "download": "284477136"
+                }
+            },
+            "decryptionkey": "fe5a344520702440fcaf4f43f02af4b128229789f09d7595b05c3932e2aa0676"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18862074",
+                "timeupdated": "1749850869"
+            },
+            "bleeding-edge": {
+                "buildid": "18950102",
+                "description": "latest and untested dxvk, vkd3d-proton and wine changes; backup your prefixes before using",
+                "timeupdated": "1750512701"
+            },
+            "bleeding-edge-9.0": {
+                "buildid": "18283073",
+                "description": "the last 9.0 bleeding edge build",
+                "timeupdated": "1745965894"
+            },
+            "bleeding-edge-debug": {
+                "buildid": "18950116",
+                "description": "as dangerous as regular bleeding-edge, just with debug symbols",
+                "timeupdated": "1750512903"
+            },
+            "debug": {
+                "buildid": "18862151",
+                "description": "Unstripped",
+                "timeupdated": "1749850819"
+            },
+            "experimental-9": {
+                "buildid": "18226380",
+                "description": "the last released version of Proton Experimental 9.0",
+                "timeupdated": "1746108063"
+            },
+            "test-bugid-23887-v2": {
+                "buildid": "14693446",
+                "description": "test-bugid-23887-v2",
+                "timeupdated": "1718205441"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 1621135044225273512
+}
