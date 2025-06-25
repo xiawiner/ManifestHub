@@ -1,0 +1,56 @@
+{
+    "appid": 2697930,
+    "name": "Commander Quest",
+    "type": "Game",
+    "schinese_name": "牌兵布阵 (Commander Quest)",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 21:18:29",
+    "change_number": 29629491,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2697931": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5260281497466164169",
+                    "size": "3668929156",
+                    "download": "3059854704"
+                },
+                "beta": {
+                    "gid": "5260281497466164169",
+                    "size": "3668929156",
+                    "download": "3059854704"
+                }
+            },
+            "decryptionkey": "688a415a05ac047923a7e910d555ae93abb5859ed06d74373fbf7925930da9d6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18894016",
+                "timeupdated": "1750149399"
+            },
+            "beta": {
+                "buildid": "18894016",
+                "description": "beta testing branch",
+                "timeupdated": "1750149377"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
