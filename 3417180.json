@@ -1,0 +1,33 @@
+{
+    "appid": 3417180,
+    "name": "伏魔人偶：万象",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:58:07",
+    "change_number": 29684551,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "schinese",
+        "3417181": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8184437449504749279",
+                    "size": "516492005",
+                    "download": "77792976"
+                }
+            },
+            "decryptionkey": "516fcea99a00a16a2254514ef76eed35cd141e552fb5ae3dca5c4d76ba05502d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18951467",
+                "timeupdated": "1750529572"
+            }
+        }
+    }
+}
