@@ -1,0 +1,43 @@
+{
+    "appid": 2870710,
+    "name": "Pih",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 12:42:40",
+    "change_number": 29679247,
+    "depot": {
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2870711": {
+            "manifests": {
+                "public": {
+                    "gid": "7769631153138325519",
+                    "size": "13953580378",
+                    "download": "13206317232"
+                }
+            },
+            "decryptionkey": "b2ddc85ffb0094b75d9222fd057d715f4f6d039e242ac38f31d18e49e9914304"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18741098",
+                "timeupdated": "1749073378"
+            }
+        }
+    }
+}
