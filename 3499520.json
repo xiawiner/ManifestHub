@@ -1,0 +1,44 @@
+{
+    "appid": 3499520,
+    "name": "PianoGlow",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 20:19:22",
+    "change_number": 29549235,
+    "depot": {
+        "workshopdepot": "3499520",
+        "3499521": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7890366028119773647",
+                    "size": "710611450",
+                    "download": "381437600"
+                }
+            },
+            "decryptionkey": "6446540b05ba8770b71879f6c2643d3ef753f44af502a943cd4ac3da3a925dcc"
+        },
+        "3499522": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9047993098321063498",
+                    "size": "804075042",
+                    "download": "402309872"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18855829",
+                "timeupdated": "1749817155"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
