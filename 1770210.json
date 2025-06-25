@@ -1,0 +1,28 @@
+{
+    "appid": 1770210,
+    "name": "Price of Power",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 12:01:13",
+    "change_number": 29561686,
+    "depot": {
+        "1770211": {
+            "manifests": {
+                "public": {
+                    "gid": "5232270293907861586",
+                    "size": "9417795376",
+                    "download": "9228684032"
+                }
+            },
+            "decryptionkey": "cf4b6e15f8b6d17fb6f1ca01ac4fcc0229bc7efbb7a677cf902e5a530b088aea"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18416567",
+                "timeupdated": "1746920727"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
