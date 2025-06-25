@@ -1,0 +1,41 @@
+{
+    "appid": 3528590,
+    "name": "UNPOC",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 12:10:48",
+    "change_number": 29661184,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3528591": {
+            "manifests": {
+                "public": {
+                    "gid": "1550483191634193075",
+                    "size": "4808843189",
+                    "download": "4494316336"
+                }
+            },
+            "decryptionkey": "a4b67fcc84932284610f577e2066dec341f79420be6d473b6f045b4e06b1551d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18934449",
+                "timeupdated": "1750387479"
+            }
+        }
+    }
+}
