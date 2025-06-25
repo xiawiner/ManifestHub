@@ -1,0 +1,55 @@
+{
+    "appid": 2604480,
+    "name": "City Transport Simulator",
+    "type": "Game",
+    "schinese_name": "城市交通模拟",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 06:00:31",
+    "change_number": 29685331,
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2604481": {
+            "manifests": {
+                "public": {
+                    "gid": "2131434229035298035",
+                    "size": "16083392243",
+                    "download": "13255577440"
+                }
+            },
+            "decryptionkey": "f90984d0922ee373e6a38ccc5dd98001fbf35a3abc8e101f8e6ebd27f9b53ee0"
+        },
+        "3028650": {
+            "dlcappid": "3028650"
+        },
+        "2604482": {
+            "dlcappid": "3711640"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18843182",
+                "timeupdated": "1749802472"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
