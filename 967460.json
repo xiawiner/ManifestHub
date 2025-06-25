@@ -1,0 +1,50 @@
+{
+    "appid": 967460,
+    "name": "Red Eclipse",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-05 17:36:54",
+    "change_number": 29390604,
+    "depot": {
+        "967461": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2954153552336045376",
+                    "size": "2270516377",
+                    "download": "1726276592"
+                },
+                "devel": {
+                    "gid": "7242375961300282601",
+                    "size": "2395205998",
+                    "download": "1750123808"
+                },
+                "classic": {
+                    "gid": "1083943731062718267",
+                    "size": "1038603316",
+                    "download": "887593296"
+                }
+            },
+            "decryptionkey": "a05ff720b91ffe665d83909a624536d483c71634850e2fa6acd6914abfee383c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18418886",
+                "timeupdated": "1746952710"
+            },
+            "devel": {
+                "buildid": "18747500",
+                "description": "Development branch",
+                "timeupdated": "1749113739"
+            },
+            "classic": {
+                "buildid": "14202306",
+                "description": "Classic v1.6 branch",
+                "timeupdated": "1714334136"
+            }
+        }
+    }
+}
