@@ -1,0 +1,54 @@
+{
+    "appid": 3665300,
+    "name": "Rogue Ninjas",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-28 15:11:59",
+    "change_number": 29229851,
+    "depot": {
+        "3665301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "421915720112174874",
+                    "size": "687084898",
+                    "download": "257999440"
+                }
+            },
+            "decryptionkey": "d1d056ec70d23c65bd5e7f4fa1e677740b6743f58405890f95c7075ecdc6fb56"
+        },
+        "3665302": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4301576685456670718",
+                    "size": "697951945",
+                    "download": "265751152"
+                }
+            }
+        },
+        "3665303": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "813107844405133008",
+                    "size": "677462582",
+                    "download": "255159792"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18571495",
+                "timeupdated": "1747943880"
+            }
+        }
+    }
+}
