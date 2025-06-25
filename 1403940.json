@@ -1,0 +1,54 @@
+{
+    "appid": 1403940,
+    "name": "Grim",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-01 14:02:16",
+    "change_number": 29306928,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "1403941": {
+            "manifests": {
+                "public": {
+                    "gid": "8235762579036594733",
+                    "size": "10066846095",
+                    "download": "9631911856"
+                },
+                "staging": {
+                    "gid": "8235762579036594733",
+                    "size": "10066846095",
+                    "download": "9631911856"
+                }
+            },
+            "decryptionkey": "e9c4b83b15205559a241dad59af21a44c5030b2a08c23f26b8118aa57f7e4957"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18616380",
+                "timeupdated": "1748299810"
+            },
+            "staging": {
+                "buildid": "18616380",
+                "description": "Public testing branch",
+                "timeupdated": "1748299765"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
