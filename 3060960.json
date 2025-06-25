@@ -1,0 +1,33 @@
+{
+    "appid": 3060960,
+    "name": "The Emperor and State - Supporter Pack",
+    "type": "DLC",
+    "schinese_name": "皇帝与社稷 - 支持者包",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 16:29:55",
+    "change_number": 29571822,
+    "depot": {
+        "3060961": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3054371530361651314",
+                    "size": "1468928888",
+                    "download": "474782944"
+                }
+            },
+            "dlcappid": "3060960",
+            "decryptionkey": "5782a6ec3c1e2c39a1347bf0ef9f419f3db9b1dcc439cff949c98fbe88c76f27"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18871819",
+                "timeupdated": "1749966717"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
