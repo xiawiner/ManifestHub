@@ -1,0 +1,43 @@
+{
+    "appid": 2377250,
+    "name": "Whimel Academy",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:57:00",
+    "change_number": 29684765,
+    "depot": {
+        "baselanguages": "english",
+        "2377251": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1969134646589055463",
+                    "size": "5481342104",
+                    "download": "481307728"
+                },
+                "first-look": {
+                    "gid": "6796416369680666432",
+                    "size": "6253814056",
+                    "download": "485646688"
+                }
+            },
+            "decryptionkey": "db59201fba7cfbfc6f6f90f0bac0233b2a414afc92fa181037314aceccee999b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18706714",
+                "timeupdated": "1748891724"
+            },
+            "first-look": {
+                "buildid": "18951630",
+                "description": "See the updates and bug fixes first. Advised to backup save files before trying this.",
+                "timeupdated": "1750531517"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
