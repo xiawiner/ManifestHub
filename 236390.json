@@ -1,0 +1,168 @@
+{
+    "appid": 236390,
+    "name": "War Thunder",
+    "type": "Game",
+    "schinese_name": "战争雷霆",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 16:49:54",
+    "change_number": 29664686,
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "0",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,hungarian,czech,romanian,turkish,brazilian,ukrainian,latam",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "236394": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8773880903634059112",
+                    "size": "1297748514",
+                    "download": "761171584"
+                },
+                "release_candidate": {
+                    "gid": "8773880903634059112",
+                    "size": "1297748514",
+                    "download": "761171584"
+                }
+            },
+            "decryptionkey": "000c645c4187c9a4be937ac13100738fd2b80bd63db3c54800fb897877960aa8"
+        },
+        "236393": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2096793881631575632",
+                    "size": "247853596",
+                    "download": "116155616"
+                },
+                "release_candidate": {
+                    "gid": "2096793881631575632",
+                    "size": "247853596",
+                    "download": "116155616"
+                }
+            },
+            "decryptionkey": "96647011e1f9d79b47fee098f8c5dc9675ca132a118dec941a5a8682812da58d"
+        },
+        "236392": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8914400947185113507",
+                    "size": "63852465392",
+                    "download": "62237838016"
+                },
+                "release_candidate": {
+                    "gid": "1246010817811986936",
+                    "size": "63852465372",
+                    "download": "62237837952"
+                }
+            },
+            "decryptionkey": "d28ecfa5efd92fa7a5648a3083ca753c508e85ef28c56e64a3cdd75692147afd"
+        },
+        "236391": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8929419117159112590",
+                    "size": "63760421515",
+                    "download": "62154854384"
+                },
+                "release_candidate": {
+                    "gid": "8929419117159112590",
+                    "size": "63760421515",
+                    "download": "62154854384"
+                }
+            },
+            "decryptionkey": "a6b3cd630da5dc58205f88ebc974d7cfb462e98bf51c716796ef57fbe222a8cf"
+        },
+        "1945841": {
+            "dlcappid": "1945841",
+            "config": {
+                "oslist": "windows,linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6734837967820730307",
+                    "size": "18892395727",
+                    "download": "18988201296"
+                },
+                "release_candidate": {
+                    "gid": "6734837967820730307",
+                    "size": "18892395727",
+                    "download": "18988201296"
+                }
+            },
+            "decryptionkey": "1793c762898ff4a24f7e64f9e6f88c92faf345c30578355b9a51aa1ac45f7eca"
+        },
+        "1945840": {
+            "dlcappid": "1945840",
+            "config": {
+                "oslist": "windows,linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1583306332840415251",
+                    "size": "39955173117",
+                    "download": "40345861456"
+                },
+                "release_candidate": {
+                    "gid": "1583306332840415251",
+                    "size": "39955173117",
+                    "download": "40345861456"
+                }
+            },
+            "decryptionkey": "bbc5fd9511b67ba8ba67bb1fdb24879d9b7f279607f1dbb697ad3141a50e8e56"
+        },
+        "1945930": {
+            "dlcappid": "1945930",
+            "config": {
+                "oslist": "windows,linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1007722938149338131",
+                    "size": "10481624011",
+                    "download": "10451098128"
+                },
+                "release_candidate": {
+                    "gid": "1007722938149338131",
+                    "size": "10481624011",
+                    "download": "10451098128"
+                }
+            },
+            "decryptionkey": "5bd05c73fd81d2ad1ba5e2a8f052147d5d7717da8f6c7fb2fda2022d35b420d6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18714261",
+                "timeupdated": "1748937465"
+            },
+            "release_candidate": {
+                "buildid": "18714358",
+                "description": "release candidate",
+                "timeupdated": "1748937935"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
