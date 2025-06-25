@@ -1,0 +1,41 @@
+{
+    "appid": 3141720,
+    "name": "Monster Battles",
+    "type": "Game",
+    "schinese_name": "怪物对决自走棋",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 15:22:38",
+    "change_number": 29663336,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3141721": {
+            "manifests": {
+                "public": {
+                    "gid": "8806900372440570852",
+                    "size": "595165132",
+                    "download": "415268096"
+                }
+            },
+            "decryptionkey": "faabc616950c55e2cd75e14bcf6f1dd39adfdfec8590082a77aeb3e9487c52ef"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18720182",
+                "timeupdated": "1748965684"
+            }
+        }
+    }
+}
