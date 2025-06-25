@@ -1,0 +1,28 @@
+{
+    "appid": 1803580,
+    "name": "Bard Idle",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-13 10:25:29",
+    "change_number": 29540642,
+    "depot": {
+        "1803581": {
+            "manifests": {
+                "public": {
+                    "gid": "5427378616539055848",
+                    "size": "337939098",
+                    "download": "227674400"
+                }
+            },
+            "decryptionkey": "2132e6ea79d0b392a67659caf62abcae1a1a51121f7c7f7ade23d4b735081616"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18275145",
+                "timeupdated": "1745905641"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
