@@ -1,0 +1,32 @@
+{
+    "appid": 2720700,
+    "name": "Karos Classic",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 17:57:21",
+    "change_number": 29665737,
+    "depot": {
+        "baselanguages": "english,german,french,spanish,russian,portuguese,polish,turkish,brazilian,latam",
+        "2720701": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7071688742887637747",
+                    "size": "5680695629",
+                    "download": "1624815856"
+                }
+            },
+            "decryptionkey": "6fc2ff9aa25dfeac0f344b356a022e8b00a3f313b30ef4b8228cdf25dc29b025"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18811778",
+                "timeupdated": "1750058852"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
