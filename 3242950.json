@@ -1,0 +1,66 @@
+{
+    "appid": 3242950,
+    "name": "Outworld Station",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 21:20:16",
+    "change_number": 29608004,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3242951": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8262974357119802614",
+                    "size": "2967794481",
+                    "download": "2769699424"
+                }
+            },
+            "decryptionkey": "c6743d91162c56cb7c1c418ee6b0471d533dc8560938f3506b810ec1f8774038"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18888173",
+                "timeupdated": "1750153875"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
