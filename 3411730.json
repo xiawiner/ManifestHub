@@ -1,0 +1,28 @@
+{
+    "appid": 3411730,
+    "name": "Desktop Fishing",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:58:30",
+    "change_number": 29684585,
+    "depot": {
+        "3411731": {
+            "manifests": {
+                "public": {
+                    "gid": "766137144209481719",
+                    "size": "912316556",
+                    "download": "189877328"
+                }
+            },
+            "decryptionkey": "beb5c113305901080b0f64e7c1c51827f3b6b6c7e7153dfe4dbc07b3d7c42032"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18942054",
+                "timeupdated": "1750434199"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
