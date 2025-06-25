@@ -1,0 +1,46 @@
+{
+    "appid": 3507680,
+    "name": "Stone 4 Souls",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:58:08",
+    "change_number": 29684560,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "3507681": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4964819718892572164",
+                    "size": "18378220393",
+                    "download": "17375340640"
+                }
+            },
+            "decryptionkey": "8ec772263dd585f5361df441e55341b44736ae1bd0ab6819a12f7bd3f75e3f35"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18951474",
+                "timeupdated": "1750529679"
+            }
+        }
+    }
+}
