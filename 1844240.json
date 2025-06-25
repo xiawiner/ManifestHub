@@ -1,0 +1,29 @@
+{
+    "appid": 1844240,
+    "name": "Dinosaur Park – Primeval Zoo",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-10 16:26:14",
+    "change_number": 29481781,
+    "depot": {
+        "1844241": {
+            "manifests": {
+                "public": {
+                    "gid": "1674400623329597753",
+                    "size": "339077354",
+                    "download": "108705584"
+                }
+            },
+            "decryptionkey": "12f71a342376a84e7be322155c9624be68d2933b8f14008f85b4cc29d04b6b8d"
+        },
+        "baselanguages": "english,german,french,italian,spanish,polish,dutch,swedish,hungarian,czech,romanian,bulgarian",
+        "branches": {
+            "public": {
+                "buildid": "18733306",
+                "timeupdated": "1749543967"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
