@@ -1,0 +1,58 @@
+{
+    "appid": 1585910,
+    "name": "Roll",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-03 08:56:15",
+    "change_number": 29337723,
+    "depot": {
+        "1585911": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6147425245976557920",
+                    "size": "311813741",
+                    "download": "44789648"
+                },
+                "pre-live": {
+                    "gid": "98665655135021376",
+                    "size": "305461900",
+                    "download": "43841328"
+                }
+            },
+            "decryptionkey": "a1607e661dfd48f06ea11c17573e67452c6f2efd277926e042dd1656047f61c4"
+        },
+        "1585912": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1682547064263198005",
+                    "size": "334291607",
+                    "download": "51325696"
+                },
+                "pre-live": {
+                    "gid": "2476450467465769672",
+                    "size": "327877412",
+                    "download": "50620464"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18710478",
+                "timeupdated": "1748912166"
+            },
+            "pre-live": {
+                "buildid": "13498192",
+                "description": "For Light Testing Before Live Version",
+                "timeupdated": "1708355344"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
