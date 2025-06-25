@@ -1,0 +1,58 @@
+{
+    "appid": 3596510,
+    "name": "Taking London",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 18:23:00",
+    "change_number": 29647422,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "3596512": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7732440120900441219",
+                    "size": "667401834",
+                    "download": "388798464"
+                }
+            },
+            "decryptionkey": "31e4ce51459ff4617dd672983a9904c65777ec8c8009acd947e1ecbdf78ea03d"
+        },
+        "3596511": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4714861298725206114",
+                    "size": "573259346",
+                    "download": "374310608"
+                }
+            }
+        },
+        "3596513": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6935036630608066658",
+                    "size": "762273892",
+                    "download": "476966272"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18925251",
+                "timeupdated": "1750328575"
+            }
+        }
+    }
+}
