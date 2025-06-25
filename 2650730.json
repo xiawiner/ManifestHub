@@ -1,0 +1,28 @@
+{
+    "appid": 2650730,
+    "name": "SEDAP! A Culinary Adventure",
+    "type": "Game",
+    "schinese_name": "猎厨狂欢 SEDAP!",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 07:18:09",
+    "change_number": 29676914,
+    "depot": {
+        "2650731": {
+            "manifests": {
+                "public": {
+                    "gid": "7528676457484792139",
+                    "size": "4287688401",
+                    "download": "1610277568"
+                }
+            },
+            "decryptionkey": "2b2452e01ad2d464d8f111ed1e500e28dbc76f75fd350c6fbd3935aea0b3bb90"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18915964",
+                "timeupdated": "1750336938"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
