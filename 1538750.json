@@ -1,0 +1,29 @@
+{
+    "appid": 1538750,
+    "name": "Master of Pieces © Jigsaw Puzzle",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-10 22:17:58",
+    "change_number": 29487985,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "1538751": {
+            "manifests": {
+                "public": {
+                    "gid": "1718257417033536118",
+                    "size": "1862366362",
+                    "download": "715872864"
+                }
+            },
+            "decryptionkey": "df53e0bfd8a107051574ea1060308db39a9062036297f83301b498618b6067f6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18810494",
+                "timeupdated": "1749564784"
+            }
+        }
+    }
+}
