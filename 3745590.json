@@ -1,0 +1,28 @@
+{
+    "appid": 3745590,
+    "name": "little game",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 21:16:44",
+    "change_number": 29629464,
+    "depot": {
+        "3745591": {
+            "manifests": {
+                "public": {
+                    "gid": "3885598957247846289",
+                    "size": "390047316",
+                    "download": "113037376"
+                }
+            },
+            "decryptionkey": "599925ae10c55312b39617047b38e6c88442c7d04b2d520d0dc4aaf29df5308e"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "18912387",
+                "timeupdated": "1750252599"
+            }
+        }
+    }
+}
