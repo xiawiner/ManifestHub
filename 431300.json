@@ -1,0 +1,42 @@
+{
+    "appid": 431300,
+    "name": "Classic Fun Collection 5 in 1",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 22:32:50",
+    "change_number": 29670112,
+    "depot": {
+        "431301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "658112959943667679",
+                    "size": "189409754",
+                    "download": "63768336"
+                }
+            },
+            "decryptionkey": "3d44832c7d08a48d7b0ee23e0209ccacbd344af31bd5a91838c9c37a7e783acb"
+        },
+        "431302": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4215839554575495659",
+                    "size": "197734812",
+                    "download": "65073296"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1069694",
+                "timeupdated": "1460454561"
+            }
+        }
+    }
+}
