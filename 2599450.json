@@ -1,0 +1,29 @@
+{
+    "appid": 2599450,
+    "name": "EarthKart",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-09 03:20:23",
+    "change_number": 29449486,
+    "depot": {
+        "baselanguages": "english",
+        "2599451": {
+            "manifests": {
+                "public": {
+                    "gid": "2266442953079890138",
+                    "size": "3086101902",
+                    "download": "497270480"
+                }
+            },
+            "decryptionkey": "3821e04b68249991b76d71a5f5a8ca70a3b1f6d66713d33a2d32ccea1bb166de"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18339733",
+                "timeupdated": "1746387538"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
