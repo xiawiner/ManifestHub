@@ -1,0 +1,33 @@
+{
+    "appid": 3699970,
+    "name": "Blasfemia",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 08:19:36",
+    "change_number": 29677388,
+    "depot": {
+        "3699971": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6738322212555104952",
+                    "size": "2007255937",
+                    "download": "744475056"
+                }
+            },
+            "decryptionkey": "bd479351e02e020c397dab0bcfeadd8517a06e4ff272b2a2fed335c47f1d5c75"
+        },
+        "3699972": {},
+        "branches": {
+            "public": {
+                "buildid": "18905959",
+                "timeupdated": "1750214502"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
