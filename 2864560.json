@@ -1,0 +1,40 @@
+{
+    "appid": 2864560,
+    "name": "Rune Factory: Guardians of Azuma",
+    "type": "Game",
+    "schinese_name": "符文工房 龙之天地",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:53:57",
+    "change_number": 29683502,
+    "depot": {
+        "baselanguages": "english,german,french,spanish,schinese,tchinese,japanese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2864561": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6280026356417565010",
+                    "size": "13287228204",
+                    "download": "12539015440"
+                }
+            },
+            "decryptionkey": "12f559d70c2bf66c2fe46e7363637bf089c3d3ca08c883741f9f7e3f20fdddbe"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18837668",
+                "timeupdated": "1750454144"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
