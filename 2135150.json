@@ -1,0 +1,46 @@
+{
+    "appid": 2135150,
+    "name": "Elin",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 20:36:48",
+    "change_number": 29628756,
+    "depot": {
+        "baselanguages": "english,schinese,japanese",
+        "workshopdepot": "2135150",
+        "hasdepotsindlc": "0",
+        "2135153": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9135156218866949222",
+                    "size": "3105813231",
+                    "download": "1076537904"
+                },
+                "nightly": {
+                    "gid": "3221736859637617708",
+                    "size": "3105821956",
+                    "download": "1076535824"
+                }
+            },
+            "decryptionkey": "b800fa7ccfbea4d3c24ba4e8d50bdab1b39bf15b492ac44ad91b5af2af02cc14"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18822961",
+                "timeupdated": "1749635698"
+            },
+            "nightly": {
+                "buildid": "18912145",
+                "description": "Unstable Nightly Version",
+                "timeupdated": "1750250202"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "e44b1d7883f9f2cf8631386cc9fdc3ba593b707cc404267e7b6439f474c5908e"
+    }
+}
