@@ -1,0 +1,29 @@
+{
+    "appid": 3241760,
+    "name": "Mirai's Midnight Stream",
+    "type": "Game",
+    "schinese_name": "妖狐的深夜直播",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 10:39:06",
+    "change_number": 29687321,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "3241761": {
+            "manifests": {
+                "public": {
+                    "gid": "8822977614282735647",
+                    "size": "7900787714",
+                    "download": "7124464672"
+                }
+            },
+            "decryptionkey": "877ea4fd65b7150aa3944c78c3840696cec669b06fee87e9965fa6665daaff1a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18937980",
+                "timeupdated": "1750413501"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
