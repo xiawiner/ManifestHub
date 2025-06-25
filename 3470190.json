@@ -1,0 +1,41 @@
+{
+    "appid": 3470190,
+    "name": "BrightGunner",
+    "type": "Game",
+    "schinese_name": "光明斗士",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 15:11:02",
+    "change_number": 29623503,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3470191": {
+            "manifests": {
+                "public": {
+                    "gid": "6521415754157966281",
+                    "size": "8273554685",
+                    "download": "4982819888"
+                }
+            },
+            "decryptionkey": "fd8c9f29950a6dc9afa7f7b441bd5b4b397d7ca1b540f8f540bcd04360bbf40f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18773564",
+                "timeupdated": "1749255892"
+            }
+        }
+    }
+}
