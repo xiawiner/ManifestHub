@@ -1,0 +1,38 @@
+{
+    "appid": 3409430,
+    "name": "Shrink Rooms",
+    "type": "Game",
+    "schinese_name": "坍缩谜室",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 21:53:27",
+    "change_number": 29681324,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "3409431": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5939904990882324803",
+                    "size": "1257033649",
+                    "download": "488889440"
+                }
+            },
+            "decryptionkey": "c494d6f65215b469585359c787bd64298370697caba7c866ddddebe916e218d3"
+        },
+        "3409432": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18751285",
+                "timeupdated": "1749130753"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
