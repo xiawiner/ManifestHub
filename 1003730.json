@@ -1,0 +1,59 @@
+{
+    "appid": 1003730,
+    "name": "Soko Loco Deluxe",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 12:14:30",
+    "change_number": 29621531,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1003731": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "220749727605928364",
+                    "size": "244284416",
+                    "download": "247224832"
+                }
+            },
+            "decryptionkey": "b305c2c281f88128b80e9bed426f14afb965120ccea1f5075ae1edf7a8b0acae"
+        },
+        "1003732": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3993238224451283764",
+                    "size": "325233153",
+                    "download": "225112896"
+                }
+            },
+            "decryptionkey": "154827f1a0449b00082e54d3205924d15de3f63280a82bd4075ab8dc0e85a68f"
+        },
+        "workshopdepot": "1003730",
+        "branches": {
+            "public": {
+                "buildid": "4410289",
+                "timeupdated": "1574290556"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
