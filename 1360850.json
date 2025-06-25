@@ -1,0 +1,59 @@
+{
+    "appid": 1360850,
+    "name": "Isles of Yore",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:53:47",
+    "change_number": 29684519,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1360851": {
+            "manifests": {
+                "public": {
+                    "gid": "5700706085772977922",
+                    "size": "7886275472",
+                    "download": "6738045872"
+                },
+                "experimental": {
+                    "gid": "5700706085772977922",
+                    "size": "7886275472",
+                    "download": "6738045872"
+                }
+            },
+            "decryptionkey": "7d0ecaf3366b2fa460a864370402925a391946d4c6594e756222236d0e4481d8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18951421",
+                "timeupdated": "1750529249"
+            },
+            "experimental": {
+                "buildid": "18951421",
+                "description": "Public experimental branch",
+                "timeupdated": "1750529313"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
