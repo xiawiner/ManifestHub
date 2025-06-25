@@ -1,0 +1,44 @@
+{
+    "appid": 3487060,
+    "name": "Youtubers Life 3 - Stream Together!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 20:39:30",
+    "change_number": 29668209,
+    "depot": {
+        "3487061": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7348208920996431229",
+                    "size": "2561404032",
+                    "download": "2162235984"
+                }
+            },
+            "decryptionkey": "a45085f2752e82e06b9b112531e9a91d431e75d9ed1a041b26b6e1e498743b39"
+        },
+        "3487062": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2432867182481716380",
+                    "size": "2588507820",
+                    "download": "2181059472"
+                }
+            }
+        },
+        "baselanguages": "english,german,french,spanish,schinese,russian,portuguese,turkish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18852403",
+                "timeupdated": "1749801305"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
