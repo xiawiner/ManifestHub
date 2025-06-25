@@ -1,0 +1,57 @@
+{
+    "appid": 1013320,
+    "name": "Firestone: Online Idle RPG",
+    "type": "Game",
+    "schinese_name": "火之石 『Firestone』放置幻想王国英雄管理RPG",
+    "isfreeapp": 1,
+    "update_time": "2025-06-06 18:41:59",
+    "change_number": 29415875,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1013321": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6008485170466423916",
+                    "size": "749841220",
+                    "download": "246977728"
+                }
+            },
+            "decryptionkey": "0a621dbd84fd5b306d4204fc37792279458334be9d285516ed9b56ecd410e27f"
+        },
+        "1013323": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8232713306166760549",
+                    "size": "737038890",
+                    "download": "248997584"
+                }
+            },
+            "decryptionkey": "02daa57bb9ec6e6b36b16bbb3466274305e680039d82726cce72d91d365d5dba"
+        },
+        "1013324": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6712971152761921576",
+                    "size": "745345524",
+                    "download": "236626560"
+                }
+            },
+            "decryptionkey": "6d3f00ac94ac3dc1a3bd307fa10ff159c791cbd1eb22e7f9e61d2ac19901e0fa"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18642752",
+                "timeupdated": "1748439936"
+            }
+        }
+    }
+}
