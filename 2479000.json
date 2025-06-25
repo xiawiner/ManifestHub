@@ -1,0 +1,37 @@
+{
+    "appid": 2479000,
+    "name": "Noise-o-matic",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-02 23:16:25",
+    "change_number": 29323936,
+    "depot": {
+        "workshopdepot": "2479000",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2479001": {
+            "manifests": {
+                "public": {
+                    "gid": "2959108067683133858",
+                    "size": "80909109",
+                    "download": "26588256"
+                }
+            },
+            "decryptionkey": "f99f8b999e8d4e38a3d473f98e8a2e82918be24e42e446735bd2f89be509fe80"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18701008",
+                "timeupdated": "1748863415"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "ba601ee92b076f5f90242392f65b3e9eeb71855619f343afb34f09ced6d82a4c"
+    }
+}
