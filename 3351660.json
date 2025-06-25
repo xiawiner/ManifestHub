@@ -1,0 +1,51 @@
+{
+    "appid": 3351660,
+    "name": "GiLGuL",
+    "type": "Game",
+    "schinese_name": "轮回 GiLGuL",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 15:06:32",
+    "change_number": 29643840,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3351661": {
+            "manifests": {
+                "public": {
+                    "gid": "8518464455258224154",
+                    "size": "2887720873",
+                    "download": "2467979472"
+                }
+            },
+            "decryptionkey": "892718c4641967506040a7d03c40cfb90adfaf285a2c597c69288d0d83ae7ced"
+        },
+        "3351662": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "3351663": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18882634",
+                "timeupdated": "1750076897"
+            }
+        }
+    }
+}
