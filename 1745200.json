@@ -1,0 +1,46 @@
+{
+    "appid": 1745200,
+    "name": "Sexy Airlines MAX",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-19 01:08:05",
+    "change_number": 29633852,
+    "depot": {
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1745201": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "679407090468153378",
+                    "size": "274207278",
+                    "download": "113499664"
+                }
+            },
+            "decryptionkey": "5e60ced700d81b335ee31ae7691836e9efc80bdd9236be3fd0211950504fbcc5"
+        },
+        "1918000": {
+            "dlcappid": "1918000",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18912065",
+                "timeupdated": "1750266480"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
