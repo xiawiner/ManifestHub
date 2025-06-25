@@ -1,0 +1,36 @@
+{
+    "appid": 2440510,
+    "name": "Forza Motorsport",
+    "type": "Game",
+    "schinese_name": "Forza Motorsport 极限竞速",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 05:16:52",
+    "change_number": 29675790,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2440511": {
+            "manifests": {
+                "public": {
+                    "gid": "5689249228930336873",
+                    "size": "145493280571",
+                    "download": "141571554864"
+                }
+            },
+            "decryptionkey": "c7f1787c2ad76d9b13d4db530c1ee953f08e63cb69b9a59c619dcca4736f10c0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18774736",
+                "timeupdated": "1750093166"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 3368724160899850203
+}
