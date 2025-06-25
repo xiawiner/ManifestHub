@@ -1,0 +1,30 @@
+{
+    "appid": 3582020,
+    "name": "EvilSlayer",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 16:08:42",
+    "change_number": 29563318,
+    "depot": {
+        "3582021": {
+            "manifests": {
+                "public": {
+                    "gid": "2870660828152430170",
+                    "size": "2455016228",
+                    "download": "825241856"
+                }
+            },
+            "decryptionkey": "6187cae89320d1cff23ba2c53318e48926b606c18be20a69436a3359dda5d462"
+        },
+        "workshopdepot": "3582020",
+        "branches": {
+            "public": {
+                "buildid": "18865928",
+                "timeupdated": "1749888309"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
