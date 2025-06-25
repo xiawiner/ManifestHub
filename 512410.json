@@ -1,0 +1,30 @@
+{
+    "appid": 512410,
+    "name": "69 Ways to Kill a Zombie",
+    "type": "Game",
+    "schinese_name": "69种杀僵尸法",
+    "isfreeapp": 0,
+    "update_time": "2025-06-01 02:23:16",
+    "change_number": 29304014,
+    "depot": {
+        "512411": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7658197594783619512",
+                    "size": "251844383",
+                    "download": "62756912"
+                }
+            },
+            "decryptionkey": "edd4c7a4b356b3f0aca717dc8326db13143d9ac185ffd47ac949bf567f080a08"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1930398",
+                "timeupdated": "1498912801"
+            }
+        }
+    }
+}
