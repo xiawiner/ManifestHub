@@ -1,0 +1,32 @@
+{
+    "appid": 1176060,
+    "name": "Wigged Out",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-29 20:21:57",
+    "change_number": 29259528,
+    "depot": {
+        "1176061": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "552742229839976623",
+                    "size": "1325816211",
+                    "download": "670035072"
+                }
+            },
+            "decryptionkey": "0c9e5d4ca73d09b4b1ac4ab6436e8b27fa61f914ed30571da5f55b05d46d63bb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18565017",
+                "timeupdated": "1747913988"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
