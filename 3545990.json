@@ -1,0 +1,47 @@
+{
+    "appid": 3545990,
+    "name": "美女，请别影响我成仙",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:55:24",
+    "change_number": 29684585,
+    "depot": {
+        "3545991": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "206550302025431595",
+                    "size": "26916915420",
+                    "download": "26835733104"
+                }
+            },
+            "decryptionkey": "f66742d81c9b07984f28fee2a81e687feb9fa85c380fb7e3f03e311701d4125c"
+        },
+        "3545992": {
+            "config": {
+                "oslist": "linux"
+            }
+        },
+        "3701000": {
+            "dlcappid": "3701000",
+            "manifests": {
+                "public": {
+                    "gid": "5621324494704945268",
+                    "size": "666634",
+                    "download": "266224"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18933809",
+                "timeupdated": "1750382669"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
