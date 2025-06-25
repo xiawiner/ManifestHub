@@ -1,0 +1,44 @@
+{
+    "appid": 3124850,
+    "name": "D.O.T. Defence",
+    "type": "Game",
+    "schinese_name": "桌面战争：兵团乱斗",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 06:17:07",
+    "change_number": 29614411,
+    "depot": {
+        "baselanguages": "english",
+        "3124851": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6712296652242415306",
+                    "size": "318668568",
+                    "download": "184199184"
+                }
+            },
+            "decryptionkey": "7f4b1b832e0f42173a329bb0273f6d9ebb9f5bccae71fc8924f936abd229dea8"
+        },
+        "3124852": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3116616135006810533",
+                    "size": "290058848",
+                    "download": "179368400"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18901556",
+                "timeupdated": "1750185086"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
