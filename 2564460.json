@@ -1,0 +1,35 @@
+{
+    "appid": 2564460,
+    "name": "Banter",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-17 04:00:52",
+    "change_number": 29592734,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2564461": {
+            "manifests": {
+                "public": {
+                    "gid": "4999890257676625368",
+                    "size": "946317456",
+                    "download": "244911664"
+                }
+            },
+            "decryptionkey": "fc621a7d159a7365febc1e9ff1ff0175582cdcb77a2fefc274217e7000bda6a8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18852729",
+                "timeupdated": "1749803674"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
