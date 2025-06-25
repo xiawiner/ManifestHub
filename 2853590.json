@@ -1,0 +1,28 @@
+{
+    "appid": 2853590,
+    "name": "Void War",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 08:12:23",
+    "change_number": 29686612,
+    "depot": {
+        "2853591": {
+            "manifests": {
+                "public": {
+                    "gid": "7123289996475238397",
+                    "size": "318773471",
+                    "download": "283947552"
+                }
+            },
+            "decryptionkey": "d5701bf19577767fbae5a71a1115ee2dc76fc65a52dcb920f924c98432166c46"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18665570",
+                "timeupdated": "1748561628"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
