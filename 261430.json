@@ -1,0 +1,105 @@
+{
+    "appid": 261430,
+    "name": "AION Free-to-Play",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-17 17:35:56",
+    "change_number": 29604949,
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,german,french",
+        "261431": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1139826388462212638",
+                    "size": "35199184894",
+                    "download": "32613118048"
+                }
+            },
+            "decryptionkey": "b4881734fd685a3d71fa2fc21b70cc902788538c31ac14c5cb512de22a718c74"
+        },
+        "261432": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7311412800445425731",
+                    "size": "4587307606",
+                    "download": "4487880848"
+                }
+            },
+            "decryptionkey": "a21de6ab27b3685ad43c695d971e7ddef3311da2b7f8a7de1bb4de9b6ca35656"
+        },
+        "261433": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7984347701569847871",
+                    "size": "4794330043",
+                    "download": "4683090432"
+                }
+            },
+            "decryptionkey": "ee63e7e1347983cd990398397933680d0026d315b78abd293b41237bde034e02"
+        },
+        "261434": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6300795908055117851",
+                    "size": "4840220036",
+                    "download": "4726846768"
+                }
+            },
+            "decryptionkey": "a784919de0b847777679f1774a515547456e54ba7844015e461686a1acd350e6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18837311",
+                "timeupdated": "1750152951"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
