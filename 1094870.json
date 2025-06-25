@@ -1,0 +1,28 @@
+{
+    "appid": 1094870,
+    "name": "Acron: Attack of the Squirrels!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 03:57:27",
+    "change_number": 29589014,
+    "depot": {
+        "1094871": {
+            "manifests": {
+                "public": {
+                    "gid": "903310718237889439",
+                    "size": "385323147",
+                    "download": "265754784"
+                }
+            },
+            "decryptionkey": "f2ad6cb2376ac03af5620aa80433db9e8e310bec98488fa5cfa604e69a01ee26"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18821978",
+                "timeupdated": "1750083745"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
