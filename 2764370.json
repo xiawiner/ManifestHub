@@ -1,0 +1,63 @@
+{
+    "appid": 2764370,
+    "name": "星之翼（Starward）",
+    "type": "Game",
+    "schinese_name": "星之翼（Starward）",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 19:42:46",
+    "change_number": 29667387,
+    "depot": {
+        "baselanguages": "schinese",
+        "2764372": {
+            "config": {
+                "realm": "steamglobal"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7994621668410669343",
+                    "size": "11955736942",
+                    "download": "11086289968"
+                }
+            },
+            "decryptionkey": "10a3c1b620b23a7ab6bea99de45e334a877cf9a06f9a9fb2b152a783faffaafc"
+        },
+        "2764373": {
+            "config": {
+                "oslist": "windows",
+                "realm": "steamchina"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "869426456954436864",
+                    "size": "12119866892",
+                    "download": "11124632640"
+                }
+            },
+            "decryptionkey": "b7eed4b3e7579b2a14e3d6d9f10d89c8078fd9b481aff610bf0c1bcece5220d6"
+        },
+        "2764379": {
+            "config": {
+                "realm": "steamglobal"
+            },
+            "manifests": {}
+        },
+        "2764378": {
+            "config": {
+                "realm": "steamglobal"
+            },
+            "manifests": {}
+        },
+        "2764377": {
+            "config": {
+                "realm": "steamglobal"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18171234",
+                "timeupdated": "1745128099"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
