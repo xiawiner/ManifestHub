@@ -1,0 +1,42 @@
+{
+    "appid": 3228230,
+    "name": "Earthquake: Margarita School",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-22 08:01:58",
+    "change_number": 29686572,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,spanish",
+        "3228231": {
+            "manifests": {
+                "public": {
+                    "gid": "4090900438894868349",
+                    "size": "5473166719",
+                    "download": "4973571920"
+                }
+            },
+            "decryptionkey": "5a4795911b7d93f7e19d50b69cc2d7f8a22bd2f0da61df01fc59cd4aa4e6982c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18952911",
+                "timeupdated": "1750550513"
+            }
+        }
+    }
+}
