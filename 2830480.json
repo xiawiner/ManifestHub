@@ -1,0 +1,73 @@
+{
+    "appid": 2830480,
+    "name": "Gentoo Rescue",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 12:47:05",
+    "change_number": 29642257,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "2830481": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5855693292084845080",
+                    "size": "634120162",
+                    "download": "529825344"
+                },
+                "previous": {
+                    "gid": "6023415220192278906",
+                    "size": "634106733",
+                    "download": "529825904"
+                }
+            },
+            "decryptionkey": "1d801f64ac7a36e4c48d28a3f2f2535b4638b9e454da650b81aa6c14ae7648a3"
+        },
+        "2830482": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5742518830130763311",
+                    "size": "548236135",
+                    "download": "432948688"
+                },
+                "previous": {
+                    "gid": "39256628618843937",
+                    "size": "548296321",
+                    "download": "432932576"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18921895",
+                "timeupdated": "1750308417"
+            },
+            "previous": {
+                "buildid": "18872019",
+                "description": "Previous build",
+                "timeupdated": "1750308359"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
