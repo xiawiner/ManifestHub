@@ -1,0 +1,38 @@
+{
+    "appid": 2776810,
+    "name": "100 Ninja Cats",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-05 17:38:20",
+    "change_number": 29391058,
+    "depot": {
+        "2776811": {
+            "manifests": {
+                "public": {
+                    "gid": "7303671361602379872",
+                    "size": "221225424",
+                    "download": "28961216"
+                }
+            },
+            "decryptionkey": "2f4c89182ba98aa8ed9591971799957c29dbe5ad9d840030b86b4adc34cab24c"
+        },
+        "2815980": {
+            "dlcappid": "2815980",
+            "manifests": {
+                "public": {
+                    "gid": "6314852196242574431",
+                    "size": "11835019",
+                    "download": "10186496"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18747817",
+                "timeupdated": "1749115123"
+            }
+        }
+    }
+}
