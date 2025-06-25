@@ -1,0 +1,27 @@
+{
+    "appid": 3544480,
+    "name": "Best Friends",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-27 05:51:13",
+    "change_number": 29200098,
+    "depot": {
+        "3544481": {
+            "manifests": {
+                "public": {
+                    "gid": "8330067261954643020",
+                    "size": "1953542028",
+                    "download": "1844137296"
+                }
+            },
+            "decryptionkey": "cb9c7a5064f7ea5acd62329ce1eb1cde96764cf306bb3be191ecd1bcc6447081"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18616551",
+                "timeupdated": "1748296267"
+            }
+        }
+    }
+}
