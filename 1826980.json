@@ -1,0 +1,46 @@
+{
+    "appid": 1826980,
+    "name": "FreestyleFootball R",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-10 17:50:08",
+    "change_number": 29483250,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "1826981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8032795504227648624",
+                    "size": "5636348452",
+                    "download": "2275226880"
+                }
+            },
+            "decryptionkey": "a671259d25610c370b20709bafa39defa2f0d63a7d8d4f2e7d3b7e44e6cb63ea"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18807855",
+                "timeupdated": "1749549000"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
