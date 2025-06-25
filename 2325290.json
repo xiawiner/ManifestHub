@@ -1,0 +1,29 @@
+{
+    "appid": 2325290,
+    "name": "Sky: Children of the Light",
+    "type": "Game",
+    "schinese_name": "Sky 光·遇",
+    "isfreeapp": 1,
+    "update_time": "2025-06-11 03:03:16",
+    "change_number": 29492833,
+    "depot": {
+        "2325291": {
+            "manifests": {
+                "public": {
+                    "gid": "6827329289844689759",
+                    "size": "3785720050",
+                    "download": "2915029952"
+                }
+            },
+            "decryptionkey": "3e40fe2122ac9f2163fb1f48ad070765b12801f18221665420d84d8f455bfac1"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,brazilian,latam,vietnamese,indonesian",
+        "branches": {
+            "public": {
+                "buildid": "18740802",
+                "timeupdated": "1749582192"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
