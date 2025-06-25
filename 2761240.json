@@ -1,0 +1,28 @@
+{
+    "appid": 2761240,
+    "name": "Presidents Tower Defense",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 05:31:29",
+    "change_number": 29655988,
+    "depot": {
+        "2761241": {
+            "manifests": {
+                "public": {
+                    "gid": "5021851343279094720",
+                    "size": "1456137555",
+                    "download": "533473664"
+                }
+            },
+            "decryptionkey": "7e05da6c51c7c26862abf1bb5110aaf7157354bbecf5234e864f20208117aac4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18931182",
+                "timeupdated": "1750362338"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
