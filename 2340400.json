@@ -1,0 +1,57 @@
+{
+    "appid": 2340400,
+    "name": "R2BEAT（アールツービート）",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 17:35:12",
+    "change_number": 29665374,
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2340401": {
+            "manifests": {
+                "public": {
+                    "gid": "5513833521750181026",
+                    "size": "13693003604",
+                    "download": "10964849200"
+                }
+            },
+            "decryptionkey": "d7667a74cecab017b288ec8b1f8e2ee38045728af0806099836c0d842e2b2aa5"
+        },
+        "baselanguages": "english,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18851033",
+                "timeupdated": "1749792924"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
