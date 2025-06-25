@@ -1,0 +1,59 @@
+{
+    "appid": 1954420,
+    "name": "麻雀一番街 × OVERLORD",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-21 02:17:34",
+    "change_number": 29673689,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,koreana,tchinese,japanese",
+        "1954421": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2356899437266315972",
+                    "size": "7415690578",
+                    "download": "5795600752"
+                }
+            },
+            "decryptionkey": "762787109c53322d618c9b0fc312a0a127afc0d8571f0ce186a3ece9f1ac91b4"
+        },
+        "1954422": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4987388566607032191",
+                    "size": "8380054547",
+                    "download": "6264107856"
+                }
+            },
+            "decryptionkey": "94c5da62420b410cd528fd91a4870ddc9c69d2fca960017b027fe5bafe6ef3a0"
+        },
+        "1954423": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5497106132627658612",
+                    "size": "7596346398",
+                    "download": "5836380064"
+                }
+            },
+            "decryptionkey": "b2cc2f891ec28c17997f7629b63c25010e2ddbb1a8219afa1309298973a0994f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18083052",
+                "timeupdated": "1744456027"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
