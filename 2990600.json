@@ -1,0 +1,66 @@
+{
+    "appid": 2990600,
+    "name": "Fireside Feelings",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 06:00:04",
+    "change_number": 29685090,
+    "depot": {
+        "2990601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4147678258696514513",
+                    "size": "391096232",
+                    "download": "320648064"
+                }
+            },
+            "decryptionkey": "aae4bf07dac8d99321f05cb5705bb9bb589342afe7871143d0cf26cd13355c75"
+        },
+        "2990602": {
+            "manifests": {
+                "public": {
+                    "gid": "8646369508671315348",
+                    "size": "391096232",
+                    "download": "320572224"
+                }
+            },
+            "decryptionkey": "7bdca625b4c2f09e202a3a1d7b41a4885193beaa35ef559f11720a901fc1204d"
+        },
+        "2990603": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7044188187932120245",
+                    "size": "395130793",
+                    "download": "322675712"
+                }
+            }
+        },
+        "2990604": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9181249237501263053",
+                    "size": "395130793",
+                    "download": "321546624"
+                }
+            }
+        },
+        "2990605": {},
+        "branches": {
+            "public": {
+                "buildid": "18778682",
+                "timeupdated": "1749311568"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
