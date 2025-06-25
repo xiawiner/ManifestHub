@@ -1,0 +1,49 @@
+{
+    "appid": 3468640,
+    "name": "AFL 26",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 09:56:48",
+    "change_number": 29678189,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3468641": {
+            "manifests": {
+                "public": {
+                    "gid": "9117531650106139932",
+                    "size": "94168876391",
+                    "download": "89987109536"
+                }
+            },
+            "decryptionkey": "54b5a9f3588ad385739af2f66921a9c534d8df0b56643b96b60d5ef37583584d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18836995",
+                "timeupdated": "1750027357"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
