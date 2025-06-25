@@ -1,0 +1,43 @@
+{
+    "appid": 2727040,
+    "name": "Blood Sins",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:54:12",
+    "change_number": 29685781,
+    "depot": {
+        "baselanguages": "english",
+        "2727041": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3869807670658113191",
+                    "size": "1317164682",
+                    "download": "386456304"
+                }
+            },
+            "decryptionkey": "25bc8f88705369f262d210bfb576068144492604d3bc556bdc9f05287e16f708"
+        },
+        "2727042": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "56469210489298599",
+                    "size": "1336341265",
+                    "download": "394981824"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18951875",
+                "timeupdated": "1750535059"
+            }
+        }
+    }
+}
