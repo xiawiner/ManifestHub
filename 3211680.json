@@ -1,0 +1,49 @@
+{
+    "appid": 3211680,
+    "name": "Tobacco Shop Simulator",
+    "type": "Game",
+    "schinese_name": "烟店模拟器",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 21:58:17",
+    "change_number": 29682731,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3211681": {
+            "manifests": {
+                "public": {
+                    "gid": "636352442391002361",
+                    "size": "1371883983",
+                    "download": "1278067968"
+                }
+            },
+            "decryptionkey": "aed98fb60883c779d208088e726974a236a005845a4d7f3b0bee908a0226ac1d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18473128",
+                "timeupdated": "1748021794"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
