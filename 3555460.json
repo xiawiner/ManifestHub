@@ -1,0 +1,28 @@
+{
+    "appid": 3555460,
+    "name": "KILL ALL ENEMIES",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-31 07:22:42",
+    "change_number": 29286705,
+    "depot": {
+        "3555461": {
+            "manifests": {
+                "public": {
+                    "gid": "7867205766509030833",
+                    "size": "176646363",
+                    "download": "121761152"
+                }
+            },
+            "decryptionkey": "fb706482e49dc1d85f63a189c05bab2c47e1351ca61db3982f76be9af4bc3262"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18675647",
+                "timeupdated": "1748616889"
+            }
+        }
+    }
+}
