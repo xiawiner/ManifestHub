@@ -1,0 +1,54 @@
+{
+    "appid": 3538950,
+    "name": "昆仑仙境",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 21:21:51",
+    "change_number": 29608618,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "hasdepotsindlc": "0",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3538951": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8264462636436902205",
+                    "size": "7575691418",
+                    "download": "6296007632"
+                }
+            },
+            "decryptionkey": "123a18cb2025c332c2b97605a14cf1e6318b51caefd4bdc145e85a8d1c4a4261"
+        },
+        "3538952": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18897603",
+                "timeupdated": "1750165991"
+            }
+        }
+    }
+}
