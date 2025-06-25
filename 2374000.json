@@ -1,0 +1,59 @@
+{
+    "appid": 2374000,
+    "name": "谍：惊蛰",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 23:15:32",
+    "change_number": 29670885,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2374001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1564357685262664477",
+                    "size": "1630121668",
+                    "download": "1558225968"
+                }
+            },
+            "decryptionkey": "cdbe149547ceb64384de08a06d926c7f059565e7d85de3a181073bd7ece0b9b3"
+        },
+        "2374002": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "18654297",
+                "timeupdated": "1748572556"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
