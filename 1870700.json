@@ -1,0 +1,29 @@
+{
+    "appid": 1870700,
+    "name": "The Edge of Allegoria",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 06:06:05",
+    "change_number": 29610243,
+    "depot": {
+        "baselanguages": "english",
+        "1870701": {
+            "manifests": {
+                "public": {
+                    "gid": "524413312145225990",
+                    "size": "537826233",
+                    "download": "378772432"
+                }
+            },
+            "decryptionkey": "34c1693d2dfdaa905068ef71ccab2040658d8ac8b25252288b4c9f0b867536b1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18888295",
+                "timeupdated": "1750171322"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
