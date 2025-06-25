@@ -1,0 +1,47 @@
+{
+    "appid": 3454650,
+    "name": "BitCraft Online",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:53:37",
+    "change_number": 29685338,
+    "depot": {
+        "3454651": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3316918778555403595",
+                    "size": "3003396368",
+                    "download": "1430319728"
+                }
+            },
+            "decryptionkey": "3028358ab23d74d07977119974af9ca2c729c3dd0f33b64916085b2b34a3b846"
+        },
+        "3454652": {
+            "config": {
+                "language": "english",
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8927450760771842394",
+                    "size": "3145716162",
+                    "download": "1545368912"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18944506",
+                "timeupdated": "1750450673"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
