@@ -1,0 +1,50 @@
+{
+    "appid": 1307180,
+    "name": "Operation: Harsh Doorstop - Development Build",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 09:02:18",
+    "change_number": 29677767,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "workshopdepot": "1307180",
+        "1307181": {
+            "manifests": {
+                "public": {
+                    "gid": "3129525070256866327",
+                    "size": "60826315610",
+                    "download": "23033674032"
+                }
+            },
+            "decryptionkey": "2d07d1448f2530f37066b1cf6d997ca80611916be0a26b393671eb8634563680"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18946496",
+                "timeupdated": "1750467733"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
