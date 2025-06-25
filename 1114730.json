@@ -1,0 +1,34 @@
+{
+    "appid": 1114730,
+    "name": "Femdom Lines",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-08 23:21:23",
+    "change_number": 29447193,
+    "depot": {
+        "baselanguages": "",
+        "1114731": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9015399060197234504",
+                    "size": "125861307",
+                    "download": "28150864"
+                }
+            },
+            "decryptionkey": "1eebc566394841253e1a2cb417c10075c4029953ba3959593c6121727dab5bc8"
+        },
+        "workshopdepot": "1114730",
+        "branches": {
+            "public": {
+                "buildid": "18783673",
+                "timeupdated": "1749396078"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
