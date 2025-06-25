@@ -1,0 +1,41 @@
+{
+    "appid": 3614570,
+    "name": "龙与精灵",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 18:03:19",
+    "change_number": 29680670,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "3614571": {
+            "manifests": {
+                "public": {
+                    "gid": "4218805746416656358",
+                    "size": "1470088432",
+                    "download": "1275658480"
+                }
+            },
+            "decryptionkey": "03cbef5cb74ca768749f591ec23938c2bc045be88ceb2b186e47e14a31592fd7"
+        },
+        "3614572": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7882877341723289173",
+                    "size": "1426384157",
+                    "download": "1232783184"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18948095",
+                "timeupdated": "1750487011"
+            }
+        }
+    }
+}
