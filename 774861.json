@@ -1,0 +1,33 @@
+{
+    "appid": 774861,
+    "name": "Project Winter",
+    "type": "Game",
+    "schinese_name": "冬日计划",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 21:01:54",
+    "change_number": 29668536,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "774862": {
+            "manifests": {
+                "public": {
+                    "gid": "3982301683011711637",
+                    "size": "2713216009",
+                    "download": "1933246032"
+                }
+            },
+            "decryptionkey": "7ebe2b518f78af33401d895c196fda07bfe8c06f605f600560d4ea5698eb6fa7"
+        },
+        "774863": {},
+        "1168030": {
+            "dlcappid": "1168030"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18175277",
+                "timeupdated": "1748277220"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
