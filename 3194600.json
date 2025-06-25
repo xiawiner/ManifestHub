@@ -1,0 +1,43 @@
+{
+    "appid": 3194600,
+    "name": "Disaster Blaster",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-30 07:36:41",
+    "change_number": 29272270,
+    "depot": {
+        "3194601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5752751208878403914",
+                    "size": "258479031",
+                    "download": "138704816"
+                }
+            },
+            "decryptionkey": "c8995a94b1cb373fe94551baae8e4d53c77dc78e1ad7535c6c63ff62d1583c4e"
+        },
+        "3194602": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2830035531114022064",
+                    "size": "402233371",
+                    "download": "241844160"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18666170",
+                "timeupdated": "1748561796"
+            }
+        }
+    }
+}
