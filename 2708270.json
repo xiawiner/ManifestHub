@@ -1,0 +1,30 @@
+{
+    "appid": 2708270,
+    "name": "Mine Memory",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 09:02:42",
+    "change_number": 29619364,
+    "depot": {
+        "2708271": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "360789121897399004",
+                    "size": "616057804",
+                    "download": "462423888"
+                }
+            },
+            "decryptionkey": "e1f378ae8314a24acddee3db476c8a318798e569b401d698b47f86444c8b9da8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18897097",
+                "timeupdated": "1750162842"
+            }
+        }
+    }
+}
