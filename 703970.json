@@ -1,0 +1,47 @@
+{
+    "appid": 703970,
+    "name": "Protoball",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-22 05:56:05",
+    "change_number": 29683736,
+    "depot": {
+        "baselanguages": "english",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "703971": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5949722312247338881",
+                    "size": "3100309183",
+                    "download": "2585046960"
+                }
+            },
+            "decryptionkey": "8c5b75567a9ad439c5cb301f9fd22ca7f1eb67a18dcfed9bf5533937bed9d4d6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18947350",
+                "timeupdated": "1750477683"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
