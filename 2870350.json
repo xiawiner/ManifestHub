@@ -1,0 +1,39 @@
+{
+    "appid": 2870350,
+    "name": "Pipistrello and the Cursed Yoyo",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 06:24:43",
+    "change_number": 29686059,
+    "depot": {
+        "baselanguages": "english,german,french,italian,japanese,brazilian,latam",
+        "2870351": {
+            "manifests": {
+                "public": {
+                    "gid": "6200707456094946479",
+                    "size": "646103072",
+                    "download": "453889216"
+                }
+            },
+            "decryptionkey": "014e88c9a0e9fc00ffb0740ed4f56b6ed3383525d7d73c9932091454621d2034"
+        },
+        "2870352": {
+            "manifests": {
+                "public": {
+                    "gid": "6192738897459801160",
+                    "size": "646239934",
+                    "download": "453763232"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18888892",
+                "timeupdated": "1750110732"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
