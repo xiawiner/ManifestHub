@@ -1,0 +1,31 @@
+{
+    "appid": 2717010,
+    "name": "KALPA: Cosmic Symphony",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 15:24:59",
+    "change_number": 29663373,
+    "depot": {
+        "2717011": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8661603244891227990",
+                    "size": "2717400228",
+                    "download": "1349365040"
+                }
+            },
+            "decryptionkey": "df124aad57b2fbebd5e35b4b22bc2aab3f041ed6c6bff012dc43d1fd385d0363"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18897000",
+                "timeupdated": "1750162671"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
