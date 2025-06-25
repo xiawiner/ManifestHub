@@ -1,0 +1,43 @@
+{
+    "appid": 1419170,
+    "name": "My Singing Monsters",
+    "type": "Game",
+    "schinese_name": "萌怪合唱团",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 05:26:01",
+    "change_number": 29652575,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,spanish,russian,portuguese,turkish",
+        "1419171": {
+            "manifests": {
+                "public": {
+                    "gid": "7911179272945737087",
+                    "size": "1616826515",
+                    "download": "809949584"
+                }
+            },
+            "decryptionkey": "037170f89e01e246d1dafb189488712ace2439afb5295c7d733d21be59d02216"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18485126",
+                "timeupdated": "1747664280"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
