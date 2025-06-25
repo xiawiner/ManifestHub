@@ -1,0 +1,27 @@
+{
+    "appid": 1039570,
+    "name": "Find the Oil Racing Edition",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-31 07:25:39",
+    "change_number": 29287366,
+    "depot": {
+        "1039571": {
+            "manifests": {
+                "public": {
+                    "gid": "313870349295089304",
+                    "size": "1183155690",
+                    "download": "490179776"
+                }
+            },
+            "decryptionkey": "31019e947f6378d376c6c81a38340cec6223c79fa24995a3c9b33b106dceb56b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3668662",
+                "timeupdated": "1553194220"
+            }
+        }
+    }
+}
