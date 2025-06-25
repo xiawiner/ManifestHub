@@ -1,0 +1,162 @@
+{
+    "appid": 742010,
+    "name": "Lab 03 Yrinth",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-09 07:19:05",
+    "change_number": 29451928,
+    "depot": {
+        "742011": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5783160243176126188",
+                    "size": "749195482",
+                    "download": "236885184"
+                }
+            },
+            "decryptionkey": "9d133a25fd62ea4f2f23012414ce190790a26de5414034c7b50093a954dd9bd4"
+        },
+        "742020": {
+            "dlcappid": "742020",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8582019219896206361",
+                    "size": "610598354",
+                    "download": "205939680"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "742021": {
+            "dlcappid": "742021",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8213251241209279258",
+                    "size": "44698077",
+                    "download": "44512640"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "747420": {
+            "dlcappid": "747420",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5290262775502848248",
+                    "size": "8753773",
+                    "download": "7897840"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "749230": {
+            "dlcappid": "749230",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3738844165818908126",
+                    "size": "568727888",
+                    "download": "174647776"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "742012": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3964018167180213566",
+                    "size": "773827055",
+                    "download": "241594416"
+                }
+            }
+        },
+        "742013": {
+            "dlcappid": "742020",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3274838423310189909",
+                    "size": "672646358",
+                    "download": "221710096"
+                }
+            }
+        },
+        "742014": {
+            "dlcappid": "749230",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6753835022547087427",
+                    "size": "613990216",
+                    "download": "187905648"
+                }
+            }
+        },
+        "742016": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1790631810701565982",
+                    "size": "816073839",
+                    "download": "258649104"
+                }
+            }
+        },
+        "742017": {
+            "dlcappid": "742020",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3227378106539661558",
+                    "size": "677037807",
+                    "download": "225549056"
+                }
+            }
+        },
+        "742018": {
+            "dlcappid": "749230",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5104578170389027548",
+                    "size": "618381685",
+                    "download": "191740480"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "2315385",
+                "timeupdated": "1511591300"
+            }
+        }
+    }
+}
