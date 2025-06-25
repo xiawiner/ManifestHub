@@ -1,0 +1,32 @@
+{
+    "appid": 3345760,
+    "name": "Silent Anomalies",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-28 19:17:55",
+    "change_number": 29234353,
+    "depot": {
+        "3345761": {},
+        "3345762": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3432400417519218983",
+                    "size": "3515105921",
+                    "download": "1681489728"
+                }
+            },
+            "decryptionkey": "57034874ae9582f1cf78048a3ddfff29ab5bc0a58c591ecfba978bcdf8dfed86"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18265028",
+                "timeupdated": "1745843065"
+            }
+        }
+    }
+}
