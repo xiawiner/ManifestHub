@@ -1,0 +1,66 @@
+{
+    "appid": 2181940,
+    "name": "CivIdle",
+    "type": "Game",
+    "schinese_name": "放置文明",
+    "isfreeapp": 1,
+    "update_time": "2025-06-22 06:00:30",
+    "change_number": 29685327,
+    "depot": {
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2181941": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1466764157048160106",
+                    "size": "264969112",
+                    "download": "99857584"
+                },
+                "beta": {
+                    "gid": "1378271201468844123",
+                    "size": "265327883",
+                    "download": "100213808"
+                }
+            },
+            "decryptionkey": "9e92101116da086f1ae243d5106e9a14e396d4939f7fb6478e24ce44fcf91cc6"
+        },
+        "2181942": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8172118049839692515",
+                    "size": "270816909",
+                    "download": "96084944"
+                },
+                "beta": {
+                    "gid": "6758096635608799451",
+                    "size": "271175680",
+                    "download": "96442080"
+                }
+            },
+            "decryptionkey": "27dce31b28acfaa09f802887dda334ba1e219af107871d3f76c80e78ade80675"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17941322",
+                "timeupdated": "1743520333"
+            },
+            "beta": {
+                "buildid": "18908512",
+                "description": "Beta builds",
+                "timeupdated": "1750231279"
+            }
+        }
+    }
+}
