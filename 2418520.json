@@ -1,0 +1,48 @@
+{
+    "appid": 2418520,
+    "name": "Farm Together 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:25:58",
+    "change_number": 29652783,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2418521": {
+            "manifests": {
+                "public": {
+                    "gid": "5446975184828105945",
+                    "size": "874780518",
+                    "download": "516749680"
+                }
+            },
+            "decryptionkey": "b6dcb6a58e587a247bf3b0b52bd350fd82061e80a8241d850b7c960e1a1d71ba"
+        },
+        "2418522": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2364600238398518543",
+                    "size": "911842888",
+                    "download": "526919216"
+                }
+            },
+            "decryptionkey": "e5ad2ced2bcacfc70ee06a58946c9578454480ca23214852204bc8a3a3247300"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18928906",
+                "timeupdated": "1750348801"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
