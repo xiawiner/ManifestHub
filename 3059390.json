@@ -1,0 +1,100 @@
+{
+    "appid": 3059390,
+    "name": "Hexagod",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 23:40:14",
+    "change_number": 29632109,
+    "depot": {
+        "3059391": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4767775675617654723",
+                    "size": "159966704",
+                    "download": "82685552"
+                },
+                "beta": {
+                    "gid": "7815250508023726650",
+                    "size": "159985344",
+                    "download": "82693056"
+                },
+                "build3": {
+                    "gid": "820453326798363744",
+                    "size": "157207328",
+                    "download": "79913520"
+                }
+            },
+            "decryptionkey": "2cd2af1c86f4c1bc6e65342bc82bedc923dfb4989258a14c5ee5f2a2304a6164"
+        },
+        "3059392": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6958538538781993203",
+                    "size": "132698694",
+                    "download": "77202336"
+                },
+                "beta": {
+                    "gid": "4953965655480285077",
+                    "size": "132717334",
+                    "download": "77209840"
+                },
+                "build3": {
+                    "gid": "5671850861404422579",
+                    "size": "129939318",
+                    "download": "74434400"
+                }
+            }
+        },
+        "3059393": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7763479626432197179",
+                    "size": "239604777",
+                    "download": "98997216"
+                },
+                "beta": {
+                    "gid": "1494947249132458338",
+                    "size": "239623417",
+                    "download": "99003504"
+                },
+                "build3": {
+                    "gid": "5920855868288738842",
+                    "size": "236845401",
+                    "download": "96204944"
+                }
+            }
+        },
+        "3059394": {
+            "config": {
+                "oslist": "linux",
+                "steamdeck": "1"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18849125",
+                "timeupdated": "1749778883"
+            },
+            "beta": {
+                "buildid": "18914516",
+                "description": "For testing new versions of Hexagod",
+                "timeupdated": "1750261210"
+            },
+            "build3": {
+                "buildid": "18083618",
+                "description": "Initial Early Accession Version",
+                "timeupdated": "1748618359"
+            }
+        }
+    }
+}
