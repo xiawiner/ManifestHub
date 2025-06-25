@@ -1,0 +1,43 @@
+{
+    "appid": 2351420,
+    "name": "星辰变online",
+    "type": "Game",
+    "schinese_name": "星辰变online",
+    "isfreeapp": 1,
+    "update_time": "2025-06-17 11:08:15",
+    "change_number": 29599988,
+    "depot": {
+        "baselanguages": "schinese",
+        "2351421": {
+            "config": {
+                "oslist": "windows",
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8747529120628032042",
+                    "size": "8137835959",
+                    "download": "5560575424"
+                },
+                "test": {
+                    "gid": "8747529120628032042",
+                    "size": "8137835959",
+                    "download": "5560575424"
+                }
+            },
+            "decryptionkey": "2a70356701dffb1eb301c4c2edbe5129f8538ce77474a566b512569d5c6a51d5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18883113",
+                "timeupdated": "1750129675"
+            },
+            "test": {
+                "sc_schinese": "test20250616AM",
+                "buildid": "18883113",
+                "description": "test20250616AM",
+                "timeupdated": "1750079457"
+            }
+        }
+    }
+}
