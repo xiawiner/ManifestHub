@@ -1,0 +1,45 @@
+{
+    "appid": 2957700,
+    "name": "Sensei! I Like You So Much!",
+    "type": "Game",
+    "schinese_name": "太太！我喜欢你！",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:53:53",
+    "change_number": 29685009,
+    "depot": {
+        "baselanguages": "english,koreana,schinese,japanese",
+        "workshopdepot": "2957700",
+        "2957701": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7246219548050530277",
+                    "size": "4894007971",
+                    "download": "458432368"
+                },
+                "local": {
+                    "gid": "7113005922495883815",
+                    "size": "5776338840",
+                    "download": "674488544"
+                }
+            },
+            "decryptionkey": "07c5a7aa4b5e25f17592c0c77dfce3bb5544a9a5a45ce72803703caf9d819b17"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17995501",
+                "timeupdated": "1743852552"
+            },
+            "local": {
+                "buildid": "18865681",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1749884498"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "c2edc31a49b7e481d9e9164ad92b298eb16fdde816b4e0ce8a8b996117f67b71"
+    }
+}
