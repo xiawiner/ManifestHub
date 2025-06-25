@@ -1,0 +1,43 @@
+{
+    "appid": 2738490,
+    "name": "Sol Cesto",
+    "type": "Game",
+    "schinese_name": "盐面团",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 06:06:19",
+    "change_number": 29611113,
+    "depot": {
+        "2738491": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6405515727123415343",
+                    "size": "442637834",
+                    "download": "246239616"
+                }
+            },
+            "decryptionkey": "27cff6c7bfcd289e04d87efd458564e1cb038e14ccd8fa71717536a221c7f0d5"
+        },
+        "2738492": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3766531232262567079",
+                    "size": "381966212",
+                    "download": "214795056"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18677230",
+                "timeupdated": "1748627066"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
