@@ -1,0 +1,27 @@
+{
+    "appid": 1094060,
+    "name": "Escape First 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-22 18:17:18",
+    "change_number": 29123961,
+    "depot": {
+        "1094061": {
+            "manifests": {
+                "public": {
+                    "gid": "7274202234242261216",
+                    "size": "5399056939",
+                    "download": "2270761232"
+                }
+            },
+            "decryptionkey": "facdeba6ac7d0aee09cbd93c3718a8a56f48ae82171c1b46b17bb261f423e766"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5858698",
+                "timeupdated": "1605883071"
+            }
+        }
+    }
+}
