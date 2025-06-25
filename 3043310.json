@@ -1,0 +1,28 @@
+{
+    "appid": 3043310,
+    "name": "Alchemist Shop Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-01 14:02:29",
+    "change_number": 29306935,
+    "depot": {
+        "3043311": {
+            "manifests": {
+                "public": {
+                    "gid": "4446971017191330988",
+                    "size": "2013267303",
+                    "download": "691287792"
+                }
+            },
+            "decryptionkey": "f6412042f2a4afef996e8f4c9a1309bfd1ff98844455722011c021c84e2fa004"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18155598",
+                "timeupdated": "1747674255"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
