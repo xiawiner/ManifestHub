@@ -1,0 +1,37 @@
+{
+    "appid": 2332970,
+    "name": "ARC SEED",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 21:14:14",
+    "change_number": 29629415,
+    "depot": {
+        "2332971": {
+            "manifests": {
+                "public": {
+                    "gid": "8322453516020339486",
+                    "size": "348118972",
+                    "download": "130289712"
+                },
+                "alpha": {
+                    "gid": "2565126093550122680",
+                    "size": "346876228",
+                    "download": "130334944"
+                }
+            },
+            "decryptionkey": "9c6e426e18e62fb015eb102beb68d01ebacfe18e2c5ceb0493e984089f09b36e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18705289",
+                "timeupdated": "1748883721"
+            },
+            "alpha": {
+                "buildid": "18912679",
+                "description": "latest version",
+                "timeupdated": "1750252449"
+            }
+        }
+    }
+}
