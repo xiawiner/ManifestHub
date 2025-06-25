@@ -1,0 +1,56 @@
+{
+    "appid": 2421950,
+    "name": "The Guardian of Nature",
+    "type": "Game",
+    "schinese_name": "The Guardian of Nature -自然守护者-",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 23:20:49",
+    "change_number": 29670968,
+    "depot": {
+        "2421951": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5015069698620210332",
+                    "size": "1181643544",
+                    "download": "935367584"
+                }
+            }
+        },
+        "2421952": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5763481722943962792",
+                    "size": "1164811963",
+                    "download": "927965552"
+                }
+            },
+            "decryptionkey": "a2cab1c9036221ca91c6de141c95a5957f6b4c4582266fc29f1c2dfcf2217b27"
+        },
+        "2421953": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4038178085166988039",
+                    "size": "1127519193",
+                    "download": "891340976"
+                }
+            }
+        },
+        "baselanguages": "english,german,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18929158",
+                "timeupdated": "1750408758"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
