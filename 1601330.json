@@ -1,0 +1,28 @@
+{
+    "appid": 1601330,
+    "name": "Survival Machine",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 19:08:16",
+    "change_number": 29666873,
+    "depot": {
+        "1601331": {
+            "manifests": {
+                "public": {
+                    "gid": "6901140582194584287",
+                    "size": "6127444846",
+                    "download": "4050249120"
+                }
+            },
+            "decryptionkey": "7d1f8b5cacac398272f55abde0b6e0961b853cc9c3678583f07d67742ad1b391"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18910955",
+                "timeupdated": "1750417692"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
