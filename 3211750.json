@@ -1,0 +1,28 @@
+{
+    "appid": 3211750,
+    "name": "Neongarten",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 11:15:05",
+    "change_number": 29620932,
+    "depot": {
+        "3211751": {
+            "manifests": {
+                "public": {
+                    "gid": "4897786023917476450",
+                    "size": "416550371",
+                    "download": "308137472"
+                }
+            },
+            "decryptionkey": "3121c2519e84fee9198b24182e49a914b770d64f79f4a26738f420c3cb01fea7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18876930",
+                "timeupdated": "1750037949"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
