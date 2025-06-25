@@ -1,0 +1,48 @@
+{
+    "appid": 2945430,
+    "name": "悟空UP Demo",
+    "type": "Demo",
+    "schinese_name": "悟空UP 序章",
+    "isfreeapp": 0,
+    "update_time": "2025-06-07 22:54:06",
+    "change_number": 29436399,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2945431": {
+            "manifests": {
+                "public": {
+                    "gid": "2853628949315272109",
+                    "size": "2824022064",
+                    "download": "2444201392"
+                }
+            },
+            "decryptionkey": "d81c6060cfaaa95f83657d67cd1540b1a0f44dd80062e5b9c1679ce40bc1ca03"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18778358",
+                "timeupdated": "1749308039"
+            }
+        }
+    }
+}
