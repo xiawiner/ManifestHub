@@ -1,0 +1,83 @@
+{
+    "appid": 2812450,
+    "name": "Tiny Garden",
+    "type": "Game",
+    "schinese_name": "手提菜园",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 19:18:12",
+    "change_number": 29627572,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,japanese,brazilian",
+        "2812451": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7655866938249465759",
+                    "size": "1344058472",
+                    "download": "466880160"
+                }
+            },
+            "decryptionkey": "92971f4b75b3fdfcd20b47058bcc1355587bf47f8d0dde109c5d19a73d2fe192"
+        },
+        "2812452": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2083838623878716225",
+                    "size": "1335237056",
+                    "download": "460557376"
+                }
+            }
+        },
+        "2812453": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "155932653832284943",
+                    "size": "1428665705",
+                    "download": "484390464"
+                }
+            }
+        },
+        "3493700": {
+            "dlcappid": "3493700",
+            "manifests": {
+                "public": {
+                    "gid": "286172990771027038",
+                    "size": "11844288",
+                    "download": "9193840"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3623570": {
+            "dlcappid": "3623570",
+            "manifests": {
+                "public": {
+                    "gid": "3569204743356337756",
+                    "size": "11317274",
+                    "download": "9971072"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3823710": {
+            "dlcappid": "3823710",
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "18673391",
+                "timeupdated": "1750148815"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
