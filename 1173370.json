@@ -1,0 +1,33 @@
+{
+    "appid": 1173370,
+    "name": "Slapshot: Rebound",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-02 23:10:32",
+    "change_number": 29323537,
+    "depot": {
+        "baselanguages": "english",
+        "1173371": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "301993392207675787",
+                    "size": "1250976277",
+                    "download": "542029168"
+                }
+            },
+            "decryptionkey": "ba84354ff92499c5f4ff5b9edbe1f5fd7d33885b65ef4efdd728312c83275e61"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18700731",
+                "timeupdated": "1748861769"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
