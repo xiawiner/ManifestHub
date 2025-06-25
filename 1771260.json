@@ -1,0 +1,31 @@
+{
+    "appid": 1771260,
+    "name": "Conquest!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-21 21:55:41",
+    "change_number": 29681879,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish",
+        "1771261": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8376721953417799916",
+                    "size": "204745946",
+                    "download": "151870656"
+                }
+            },
+            "decryptionkey": "eb57185324b21009252b2dd850639b6f1a516e17d02b3c4551bedc7bf5a064da"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18949580",
+                "timeupdated": "1750506299"
+            }
+        }
+    }
+}
