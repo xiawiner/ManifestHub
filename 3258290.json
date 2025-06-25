@@ -1,0 +1,42 @@
+{
+    "appid": 3258290,
+    "name": "Equinox: Homecoming",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 16:43:06",
+    "change_number": 29664577,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3258291": {
+            "manifests": {
+                "public": {
+                    "gid": "6050475716868301405",
+                    "size": "15736596711",
+                    "download": "13495062064"
+                }
+            },
+            "decryptionkey": "73554f5d53f617bf5a2573e47be58a3afa60bdb3bb74882085c201e5d76ef94b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18910630",
+                "timeupdated": "1750244007"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
