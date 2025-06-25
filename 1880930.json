@@ -1,0 +1,71 @@
+{
+    "appid": 1880930,
+    "name": "Rugby Union Team Manager 4",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 08:15:02",
+    "change_number": 29658733,
+    "depot": {
+        "workshopdepot": "1880930",
+        "hasdepotsindlc": "1",
+        "1880931": {
+            "manifests": {
+                "public": {
+                    "gid": "968354520069321205",
+                    "size": "338865778",
+                    "download": "120019184"
+                }
+            },
+            "decryptionkey": "1c46a048e4c693fa4f6ce21dd8e5239b20263a4e0ce79fd75ecc2aa95e762524"
+        },
+        "1880932": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7889172864587008465",
+                    "size": "3015215552",
+                    "download": "914292416"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1880933": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8323230306265411235",
+                    "size": "3034611528",
+                    "download": "919638272"
+                }
+            },
+            "decryptionkey": "365ef5d1afc6ed81c76ca4765d74c3b9845d7e6fc4d19d2549682524f2b23954"
+        },
+        "1880934": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3820455081317392228",
+                    "size": "3087408053",
+                    "download": "943973264"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17517828",
+                "timeupdated": "1740587945"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
