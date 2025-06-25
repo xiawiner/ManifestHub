@@ -1,0 +1,34 @@
+{
+    "appid": 300970,
+    "name": "Fiesta Online NA",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-18 15:50:44",
+    "change_number": 29624135,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "300971": {
+            "manifests": {
+                "public": {
+                    "gid": "7959374905540016897",
+                    "size": "10524470143",
+                    "download": "3730897760"
+                }
+            },
+            "decryptionkey": "c74bec115e81735a516fa3d899ce13e84ebddffa773927e41578590dbd35a6aa"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18908230",
+                "timeupdated": "1750233040"
+            }
+        }
+    }
+}
