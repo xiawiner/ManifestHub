@@ -1,0 +1,27 @@
+{
+    "appid": 3354260,
+    "name": "TCG Multiplayer Card Shop Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 06:18:17",
+    "change_number": 29686020,
+    "depot": {
+        "3354261": {
+            "manifests": {
+                "public": {
+                    "gid": "3928093330219768565",
+                    "size": "2723608448",
+                    "download": "955170160"
+                }
+            },
+            "decryptionkey": "c3b75aa4d6c62adc59330e193b292122b951a414195e1ebc59111ba1834e6962"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18946607",
+                "timeupdated": "1750469010"
+            }
+        }
+    }
+}
