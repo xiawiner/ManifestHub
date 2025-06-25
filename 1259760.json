@@ -1,0 +1,31 @@
+{
+    "appid": 1259760,
+    "name": "The Sacred Acorn",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 12:14:18",
+    "change_number": 29679071,
+    "depot": {
+        "1259761": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4054202960545589155",
+                    "size": "24133024230",
+                    "download": "648629936"
+                }
+            },
+            "decryptionkey": "e2df3f0a443aaded332f85b432a2f72c85c5fbe012773d1e7057b1aa0ff7ce97"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15882801",
+                "timeupdated": "1727833010"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
