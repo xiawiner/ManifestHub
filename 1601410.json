@@ -1,0 +1,43 @@
+{
+    "appid": 1601410,
+    "name": "FARAWAY TRAIN 最涯(さいはて)の列車",
+    "type": "Game",
+    "schinese_name": "FARAWAY TRAIN 天涯的列车",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 22:17:40",
+    "change_number": 29630595,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1601411": {
+            "manifests": {
+                "public": {
+                    "gid": "7293661226334055347",
+                    "size": "1645925807",
+                    "download": "1378108512"
+                }
+            },
+            "decryptionkey": "a2e12983d56d61b564114c9be621e0b117c653f658d3c9cba05e7914d149f5e7"
+        },
+        "baselanguages": "english,german,french,italian,koreana,schinese,tchinese,japanese,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "18726954",
+                "timeupdated": "1749017728"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
