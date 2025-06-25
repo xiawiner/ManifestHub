@@ -1,0 +1,33 @@
+{
+    "appid": 1133500,
+    "name": "Overthrown",
+    "type": "Game",
+    "schinese_name": "翻转世界",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 05:44:18",
+    "change_number": 29676089,
+    "depot": {
+        "1133501": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3097124034030283399",
+                    "size": "4371875683",
+                    "download": "3617156176"
+                }
+            },
+            "decryptionkey": "9e1109440b19052b9cf6765455c03edf08679a6a15324cffe92a3a7b9a24fdaf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18518567",
+                "timeupdated": "1747933182"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
