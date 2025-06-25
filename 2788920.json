@@ -1,0 +1,31 @@
+{
+    "appid": 2788920,
+    "name": "Potion Shop Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 11:14:53",
+    "change_number": 29620928,
+    "depot": {
+        "2788921": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7955829768065698378",
+                    "size": "4075736975",
+                    "download": "1397106688"
+                }
+            },
+            "decryptionkey": "60c5a660b3c7f3ce85df99d737bffb1fa804e5e013b9fa5f20f95f4b1ce851d2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18783942",
+                "timeupdated": "1749382453"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
