@@ -1,0 +1,52 @@
+{
+    "appid": 2368300,
+    "name": "Warside",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 08:35:00",
+    "change_number": 29686717,
+    "depot": {
+        "2368301": {
+            "manifests": {
+                "public": {
+                    "gid": "249031223212447168",
+                    "size": "210395552",
+                    "download": "125980608"
+                }
+            },
+            "decryptionkey": "40f0f78b50871b3e8d950d42d569d9283ede65b4da0fc2dece4d8e0cfcd5f549"
+        },
+        "2368302": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3622655256679844762",
+                    "size": "53941149",
+                    "download": "16093600"
+                }
+            },
+            "decryptionkey": "2373f5521bb91b647fbe1052fca60931521ccc191bef4fc9d7304851e0840b1b"
+        },
+        "2368303": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2728996144489441972",
+                    "size": "269440832",
+                    "download": "144761760"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18953046",
+                "timeupdated": "1750552495"
+            }
+        }
+    }
+}
