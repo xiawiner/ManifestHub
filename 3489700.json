@@ -1,0 +1,65 @@
+{
+    "appid": 3489700,
+    "name": "Stellar Blade™",
+    "type": "Game",
+    "schinese_name": "剑星",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:53:37",
+    "change_number": 29682946,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "3489701": {
+            "manifests": {
+                "public": {
+                    "gid": "7754004540576155700",
+                    "size": "62199638455",
+                    "download": "58566333152"
+                }
+            },
+            "decryptionkey": "2266ca31f6f2666ebe75906201e72f9398694030ff1c8214aacebcf74dc94ee3"
+        },
+        "3596180": {
+            "dlcappid": "3596180",
+            "manifests": {
+                "public": {
+                    "gid": "1503840894945071344",
+                    "size": "267937838",
+                    "download": "266493216"
+                }
+            },
+            "decryptionkey": "a55f79607c32a7e24a388464ddc3cfbc91b2dcee6691061bca3fb32d231ccb32"
+        },
+        "3596190": {
+            "dlcappid": "3596190",
+            "manifests": {
+                "public": {
+                    "gid": "5582948561081405537",
+                    "size": "25546741",
+                    "download": "25543072"
+                }
+            },
+            "decryptionkey": "1e65f8baa259f487dcdc1d3dce1e198dd23c9f7b77236e4e56fcc9f6b915a449"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18887730",
+                "timeupdated": "1750240412"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
