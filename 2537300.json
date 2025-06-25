@@ -1,0 +1,31 @@
+{
+    "appid": 2537300,
+    "name": "大宋英雄传(SongHeros)",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 18:18:44",
+    "change_number": 29666095,
+    "depot": {
+        "2537301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8812622258591593388",
+                    "size": "2934675276",
+                    "download": "423661952"
+                }
+            },
+            "decryptionkey": "feb1e5b66e2df854e69f56c6cb349c677178739462fb62533f74bd2cfe058713"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "18795898",
+                "timeupdated": "1749479050"
+            }
+        }
+    }
+}
