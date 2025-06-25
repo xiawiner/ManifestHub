@@ -1,0 +1,63 @@
+{
+    "appid": 1649950,
+    "name": "News Tower",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 23:50:21",
+    "change_number": 29671410,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1649952": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5168411208139050499",
+                    "size": "2203556018",
+                    "download": "449836080"
+                },
+                "legacy": {
+                    "gid": "1945965351411080448",
+                    "size": "2124426680",
+                    "download": "441709056"
+                }
+            },
+            "decryptionkey": "49c2380d0c7954477872885734ff457ce8d952573a960930a87f60ded2a95f09"
+        },
+        "1649951": {
+            "config": {
+                "language": "english",
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "40860436104021401",
+                    "size": "2628861100",
+                    "download": "492979856"
+                },
+                "legacy": {
+                    "gid": "5560347169810507217",
+                    "size": "2549863510",
+                    "download": "484918832"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18400307",
+                "timeupdated": "1748941394"
+            },
+            "legacy": {
+                "buildid": "15900284",
+                "description": "Play the previous version of the game",
+                "timeupdated": "1732011673"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
