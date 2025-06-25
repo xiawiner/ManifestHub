@@ -1,0 +1,28 @@
+{
+    "appid": 3675210,
+    "name": "Drive And Unwind",
+    "type": "Game",
+    "schinese_name": "Drive And Unwind",
+    "isfreeapp": 0,
+    "update_time": "2025-05-23 16:30:12",
+    "change_number": 29145432,
+    "depot": {
+        "3675211": {
+            "manifests": {
+                "public": {
+                    "gid": "6241098772890213296",
+                    "size": "1097674273",
+                    "download": "432122704"
+                }
+            },
+            "decryptionkey": "ea5c4aaf6878b7b78879bb9af856a587ae3fd7fbbbbf6352a8a92c84341fc6e3"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese",
+        "branches": {
+            "public": {
+                "buildid": "18578798",
+                "timeupdated": "1747989005"
+            }
+        }
+    }
+}
