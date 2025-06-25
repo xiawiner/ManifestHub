@@ -1,0 +1,51 @@
+{
+    "appid": 1153410,
+    "name": "JDM: Japanese Drift Master",
+    "type": "Game",
+    "schinese_name": "JDM: 漂移大师",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 05:44:34",
+    "change_number": 29676090,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1153411": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5057284520572390324",
+                    "size": "14808916865",
+                    "download": "13671195408"
+                }
+            },
+            "decryptionkey": "aae6e034473725f27603fc003f2520e4df8111c1433317b84a92e8bb8fb64913"
+        },
+        "3749550": {
+            "dlcappid": "3749550"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18838440",
+                "timeupdated": "1749736442"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
