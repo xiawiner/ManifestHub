@@ -1,0 +1,27 @@
+{
+    "appid": 3327200,
+    "name": "Morse Academy",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 14:18:34",
+    "change_number": 29622844,
+    "depot": {
+        "3327201": {
+            "manifests": {
+                "public": {
+                    "gid": "7793426488723757538",
+                    "size": "914783497",
+                    "download": "748546704"
+                }
+            },
+            "decryptionkey": "d594d1ea0e35e910f802c69002218f33264362c7b0ecc8f91a8d067329ae6918"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18893614",
+                "timeupdated": "1750144792"
+            }
+        }
+    }
+}
