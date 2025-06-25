@@ -1,0 +1,45 @@
+{
+    "appid": 366690,
+    "name": "Cue Club 2: Pool & Snooker",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 06:18:29",
+    "change_number": 29615390,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,spanish,russian,portuguese,polish,dutch",
+        "366691": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3357443162798729230",
+                    "size": "132730055",
+                    "download": "131954640"
+                }
+            },
+            "decryptionkey": "734a892a39768b841316ffa9314c7ca1a64929a27b3cd386fd745f3f97ca5e36"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18870420",
+                "timeupdated": "1749943459"
+            }
+        }
+    }
+}
