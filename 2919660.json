@@ -1,0 +1,42 @@
+{
+    "appid": 2919660,
+    "name": "JudgeSim",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 04:53:21",
+    "change_number": 29636921,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2919661": {
+            "manifests": {
+                "public": {
+                    "gid": "1958965335637777241",
+                    "size": "430318564",
+                    "download": "317824640"
+                }
+            },
+            "decryptionkey": "fffb0c1766e4e0e618b9c24d4066beaa43b3852d2579b6adda88dc1f6b02d238"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18722195",
+                "timeupdated": "1750279994"
+            }
+        }
+    }
+}
