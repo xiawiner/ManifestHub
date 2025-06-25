@@ -1,0 +1,73 @@
+{
+    "appid": 308600,
+    "name": "Gene Shift Auto",
+    "type": "Game",
+    "schinese_name": "基因变种",
+    "isfreeapp": 1,
+    "update_time": "2025-06-19 20:55:33",
+    "change_number": 29649387,
+    "depot": {
+        "308601": {
+            "manifests": {
+                "public": {
+                    "gid": "3203517225208220045",
+                    "size": "683224687",
+                    "download": "434255488"
+                },
+                "testing": {
+                    "gid": "3203517225208220045",
+                    "size": "683224687",
+                    "download": "434255488"
+                }
+            },
+            "decryptionkey": "85752a33e9947f9cb2f45664482a34cd0e439f8e33e0cb8e338fc02c8c5ff327"
+        },
+        "308602": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7089565578504031819",
+                    "size": "15013132",
+                    "download": "4636512"
+                },
+                "testing": {
+                    "gid": "7089565578504031819",
+                    "size": "15013132",
+                    "download": "4636512"
+                }
+            },
+            "decryptionkey": "7675f0067cc6aa5251ff6a360fc3e9bf60a88ebd79d5b77970f172c192e33046"
+        },
+        "308603": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8122490472840745933",
+                    "size": "38309121",
+                    "download": "11515392"
+                },
+                "testing": {
+                    "gid": "8122490472840745933",
+                    "size": "38309121",
+                    "download": "11515392"
+                }
+            },
+            "decryptionkey": "b8112ee7f1bd47600e357569468c0d1decc2dd2e7fd1ba17502d4cb3052af8e5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18926347",
+                "timeupdated": "1750336918"
+            },
+            "testing": {
+                "buildid": "18926347",
+                "description": "Testing Geneshift",
+                "timeupdated": "1750336901"
+            }
+        }
+    }
+}
