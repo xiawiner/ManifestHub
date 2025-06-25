@@ -1,0 +1,35 @@
+{
+    "appid": 1214640,
+    "name": "StellarX",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-07 08:46:27",
+    "change_number": 29423927,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "1214641": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5650847522354137457",
+                    "size": "2862877188",
+                    "download": "1075279552"
+                }
+            },
+            "decryptionkey": "940ab3f8f8980a127378ab78d6aa01dbaff1cd4fb20e0750601ef359da1ea93a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18768675",
+                "timeupdated": "1749231982"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
