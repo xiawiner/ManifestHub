@@ -1,0 +1,59 @@
+{
+    "appid": 512460,
+    "name": "Nature And Life - Drunk On Nectar",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 07:18:08",
+    "change_number": 29618220,
+    "depot": {
+        "512461": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3844925975276276819",
+                    "size": "12601886396",
+                    "download": "5479747024"
+                },
+                "beta": {
+                    "gid": "3844925975276276819",
+                    "size": "12601886396",
+                    "download": "5479747024"
+                }
+            },
+            "decryptionkey": "40c7e672d2a785fc780013f4d47ef85cfca018ce287ee1929b8cb1c271a0e827"
+        },
+        "512462": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4691797304009555526",
+                    "size": "12065422635",
+                    "download": "5049635008"
+                },
+                "beta": {
+                    "gid": "4691797304009555526",
+                    "size": "12065422635",
+                    "download": "5049635008"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18904448",
+                "timeupdated": "1750202284"
+            },
+            "beta": {
+                "buildid": "18904448",
+                "timeupdated": "1750202147"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
