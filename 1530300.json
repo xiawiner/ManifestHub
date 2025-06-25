@@ -1,0 +1,33 @@
+{
+    "appid": 1530300,
+    "name": "Auto Chess",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-29 07:01:39",
+    "change_number": 29247743,
+    "depot": {
+        "1530301": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7538077137624590376",
+                    "size": "6561787085",
+                    "download": "5333239552"
+                }
+            },
+            "decryptionkey": "8aa8a9c97cafeb4176f032a6af14383f6e45116f3426dbf6b3780c778cc8d9f1"
+        },
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "18619486",
+                "timeupdated": "1748473257"
+            }
+        }
+    }
+}
