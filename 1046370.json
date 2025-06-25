@@ -1,0 +1,45 @@
+{
+    "appid": 1046370,
+    "name": "Meaty McSkinBones",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-30 14:27:09",
+    "change_number": 29277245,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1046371": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1127410455118890606",
+                    "size": "2082295626",
+                    "download": "505602288"
+                }
+            },
+            "decryptionkey": "136ea63d7a8fa0b4bd03900acc00fe5f8a8fa7830c24ef605b963301f6a051dd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3780136",
+                "timeupdated": "1556599932"
+            }
+        }
+    }
+}
