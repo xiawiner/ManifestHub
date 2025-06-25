@@ -1,0 +1,27 @@
+{
+    "appid": 2538840,
+    "name": "Horizon To Crinoa: Have Faith in Radiance -Prototype-",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-16 14:16:17",
+    "change_number": 29581433,
+    "depot": {
+        "2538841": {
+            "manifests": {
+                "public": {
+                    "gid": "472296298633679172",
+                    "size": "5629402088",
+                    "download": "5025733856"
+                }
+            },
+            "decryptionkey": "1f34d86eae6ab0ead973fb58547a665e5ba8fd944c28c40e519fc2ca86ca91ff"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18618570",
+                "timeupdated": "1748312625"
+            }
+        }
+    }
+}
