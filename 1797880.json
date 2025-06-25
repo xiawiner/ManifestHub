@@ -1,0 +1,51 @@
+{
+    "appid": 1797880,
+    "name": "Lost Light",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-01 03:17:41",
+    "change_number": 29304439,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1797881": {
+            "manifests": {
+                "public": {
+                    "gid": "7322353597538887245",
+                    "size": "34512033173",
+                    "download": "26754673344"
+                }
+            },
+            "decryptionkey": "f3d278fb8fcc98ab8d1d29ec4a8b5693e0e5dab346f4130f2b75f0b66a6a5cb9"
+        },
+        "1797882": {
+            "manifests": {
+                "public": {
+                    "gid": "7517722400778644202",
+                    "size": "25667002538",
+                    "download": "20080525968"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18383511",
+                "timeupdated": "1746675751"
+            }
+        }
+    }
+}
