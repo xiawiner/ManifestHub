@@ -1,0 +1,28 @@
+{
+    "appid": 3735190,
+    "name": "Anime Dream Match: Dogs",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-27 16:40:34",
+    "change_number": 29207022,
+    "depot": {
+        "3735191": {
+            "manifests": {
+                "public": {
+                    "gid": "6179884403602084599",
+                    "size": "447181131",
+                    "download": "444379184"
+                }
+            },
+            "decryptionkey": "1c8aad26c75cc075fb17c118b8580b74f8de03a3af5e7c24c98fc8386e2b1422"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18406672",
+                "timeupdated": "1746812187"
+            }
+        }
+    }
+}
