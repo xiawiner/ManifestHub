@@ -1,0 +1,59 @@
+{
+    "appid": 1681840,
+    "name": "Abalon",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 21:20:26",
+    "change_number": 29607998,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,turkish,brazilian",
+        "1681841": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2517771698024122039",
+                    "size": "167836992",
+                    "download": "146732880"
+                }
+            },
+            "decryptionkey": "f734204772051d5543bbb8fc223d71d772a47e527a879e79fbd9649d86133557"
+        },
+        "1681842": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7630304753551910926",
+                    "size": "184149876",
+                    "download": "82817728"
+                }
+            },
+            "decryptionkey": "cf78b5e1fb7164a7544a3d4e6cd31a0fd99474dfbba8a8af1c2fcc59bdd5162f"
+        },
+        "1681843": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "79064454095621422",
+                    "size": "175155478",
+                    "download": "148125200"
+                }
+            },
+            "decryptionkey": "cee0a1e17be8f26819d76ca4da8633ff49efc5c0455a9694dc9997ecf4b5f292"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18864677",
+                "timeupdated": "1750077157"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
