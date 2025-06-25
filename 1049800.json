@@ -1,0 +1,39 @@
+{
+    "appid": 1049800,
+    "name": "BLOCKADE ",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-14 19:14:49",
+    "change_number": 29564456,
+    "depot": {
+        "baselanguages": "english,russian",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1049801": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3461208620669706162",
+                    "size": "1123003411",
+                    "download": "332500096"
+                }
+            },
+            "decryptionkey": "2419875fd070b18e891c1624ea9cde7c3042895fbbd67d993776fe782e94f621"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18866809",
+                "timeupdated": "1749898459"
+            }
+        }
+    }
+}
