@@ -1,0 +1,49 @@
+{
+    "appid": 2649970,
+    "name": "Steps of Debauchery",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 09:26:04",
+    "change_number": 29561871,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "2649971": {
+            "config": {
+                "language": "english",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7100045703227129035",
+                    "size": "10064346217",
+                    "download": "9963168496"
+                }
+            },
+            "decryptionkey": "9aa3e4d1f2a413dbec23cbda51fe786f5f55564444b24d8bdbc0e05099d2a483"
+        },
+        "2808680": {
+            "dlcappid": "2808680",
+            "config": {
+                "language": "english",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "876277596364764642",
+                    "size": "37337923",
+                    "download": "36119904"
+                }
+            },
+            "decryptionkey": "76b27b3113a09f716499a01206b3d65237b9bf62d0bba7f3ef5bf798d3eb9881"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18501059",
+                "timeupdated": "1747467110"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
