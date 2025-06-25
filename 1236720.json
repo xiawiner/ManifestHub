@@ -1,0 +1,58 @@
+{
+    "appid": 1236720,
+    "name": "Spirit Island",
+    "type": "Game",
+    "schinese_name": "精灵岛",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 15:05:33",
+    "change_number": 29680034,
+    "depot": {
+        "1236721": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4369293439419683000",
+                    "size": "741393041",
+                    "download": "649571840"
+                }
+            },
+            "decryptionkey": "e73e6f677962152de16c2dafad17cc4d399a3a160a97935b7cd013b9175c6884"
+        },
+        "1236722": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "122682082632300733",
+                    "size": "767203632",
+                    "download": "657937040"
+                }
+            }
+        },
+        "1236723": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4039245498232152865",
+                    "size": "786362816",
+                    "download": "650548960"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18868437",
+                "timeupdated": "1750104289"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
