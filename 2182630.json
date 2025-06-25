@@ -1,0 +1,38 @@
+{
+    "appid": 2182630,
+    "name": "Mob Factory",
+    "type": "Game",
+    "schinese_name": "浮岛工厂 Mob Factory",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 23:22:13",
+    "change_number": 29631778,
+    "depot": {
+        "baselanguages": "english,koreana,schinese,tchinese,japanese,latam",
+        "2182631": {
+            "manifests": {
+                "public": {
+                    "gid": "3957420360748044769",
+                    "size": "241376119",
+                    "download": "71004704"
+                },
+                "beta": {
+                    "gid": "3957420360748044769",
+                    "size": "241376119",
+                    "download": "71004704"
+                }
+            },
+            "decryptionkey": "210690a0fe087cd3565f7fc9149f34e711723fee74a43d3c9431ee6dd3b6ca6d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18787888",
+                "timeupdated": "1749424669"
+            },
+            "beta": {
+                "buildid": "18787888",
+                "description": "Beta branch (unstable)",
+                "timeupdated": "1749424314"
+            }
+        }
+    }
+}
