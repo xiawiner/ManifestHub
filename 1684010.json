@@ -1,0 +1,41 @@
+{
+    "appid": 1684010,
+    "name": "Sail",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 08:39:26",
+    "change_number": 29598345,
+    "depot": {
+        "1684011": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4433107950478713138",
+                    "size": "4364508838",
+                    "download": "1634030752"
+                },
+                "public_test_builds": {
+                    "gid": "4433107950478713138",
+                    "size": "4364508838",
+                    "download": "1634030752"
+                }
+            },
+            "decryptionkey": "79417be054384f46d85104683e86aed77cd2db1df566865286ac267208efc097"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18571633",
+                "timeupdated": "1748027546"
+            },
+            "public_test_builds": {
+                "buildid": "18571633",
+                "description": "test builds for Sail VR Multiplayer",
+                "timeupdated": "1747944387"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
