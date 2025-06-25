@@ -1,0 +1,38 @@
+{
+    "appid": 3418670,
+    "name": "Mini Kingdom Wars",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 19:25:51",
+    "change_number": 29606777,
+    "depot": {
+        "baselanguages": "schinese",
+        "3418671": {
+            "manifests": {
+                "public": {
+                    "gid": "6813761153987219850",
+                    "size": "415216441",
+                    "download": "62681712"
+                }
+            },
+            "decryptionkey": "755488ea28b0d201cf721a3c0d09ea425616cbf2b7d0621de708141b45daf538"
+        },
+        "3418672": {
+            "manifests": {
+                "public": {
+                    "gid": "3487041701151103615",
+                    "size": "373039267",
+                    "download": "50044752"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18873093",
+                "timeupdated": "1749986968"
+            }
+        }
+    }
+}
