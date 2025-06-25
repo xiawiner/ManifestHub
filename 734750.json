@@ -1,0 +1,44 @@
+{
+    "appid": 734750,
+    "name": "PickCrafter",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-04 05:19:19",
+    "change_number": 29357986,
+    "depot": {
+        "734751": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2617426940988027306",
+                    "size": "283976251",
+                    "download": "71481344"
+                }
+            },
+            "decryptionkey": "caa1c84454779b44a33ef8047f8fc38b65a57ecab0026cf27d764cc5fe69fd63"
+        },
+        "734752": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1560680931459061280",
+                    "size": "519021084",
+                    "download": "104441152"
+                }
+            },
+            "decryptionkey": "a2868bfb4e21aa4a0f3101edfdc4f1dbe177ab260e7631070419361ad81120c8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18723109",
+                "timeupdated": "1748985554"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
