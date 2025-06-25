@@ -1,0 +1,31 @@
+{
+    "appid": 3620430,
+    "name": "Astral Savior",
+    "type": "Game",
+    "schinese_name": "星界救世主",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:56:51",
+    "change_number": 29684022,
+    "depot": {
+        "3620431": {
+            "config": {
+                "oslist": "windows,linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7810493129442635871",
+                    "size": "633643764",
+                    "download": "408723200"
+                }
+            },
+            "decryptionkey": "8e7603716f55551551ee6230ecfeb973167a951a3db8fed8f1967d1351b8a8e2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18951135",
+                "timeupdated": "1750525084"
+            }
+        }
+    }
+}
