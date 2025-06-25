@@ -1,0 +1,46 @@
+{
+    "appid": 1501750,
+    "name": "Lords of the Fallen",
+    "type": "Game",
+    "schinese_name": "Lords of the Fallen 堕落之主",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 06:07:31",
+    "change_number": 29611154,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1501751": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6721877601007402844",
+                    "size": "34943127357",
+                    "download": "33970035056"
+                }
+            },
+            "decryptionkey": "c86a5d17ac060ed8c27bc9840a5eb75890d5d8cf1908993635a947d13a30076b"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18857566",
+                "timeupdated": "1749912223"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
