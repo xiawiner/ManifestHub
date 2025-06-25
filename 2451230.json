@@ -1,0 +1,28 @@
+{
+    "appid": 2451230,
+    "name": "Starship Traders MMO",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-13 20:54:03",
+    "change_number": 29549830,
+    "depot": {
+        "baselanguages": "english",
+        "2451231": {
+            "manifests": {
+                "public": {
+                    "gid": "1723958522243720533",
+                    "size": "115474568",
+                    "download": "98547264"
+                }
+            },
+            "decryptionkey": "663f93343f3957d14686f23d44ed82020a07868f945b4f5fa4f9916097541b7e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18856224",
+                "timeupdated": "1749819238"
+            }
+        }
+    }
+}
