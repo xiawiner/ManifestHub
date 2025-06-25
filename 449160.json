@@ -1,0 +1,84 @@
+{
+    "appid": 449160,
+    "name": "Land it Rocket",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-16 12:04:10",
+    "change_number": 29580398,
+    "depot": {
+        "449161": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1017799968020041998",
+                    "size": "116741995",
+                    "download": "44245504"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "449162": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5729471329420937344",
+                    "size": "146087795",
+                    "download": "50983488"
+                }
+            },
+            "decryptionkey": "016b40d41e27511845b7e6116e1d793d6041ec34a848c7597d3231393075f71b"
+        },
+        "449163": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7332058920192337459",
+                    "size": "174928920",
+                    "download": "54295072"
+                }
+            }
+        },
+        "449164": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7095205583834219113",
+                    "size": "176433660",
+                    "download": "52968832"
+                }
+            }
+        },
+        "449165": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1084882638252294812",
+                    "size": "184635118",
+                    "download": "54332672"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1641960",
+                "timeupdated": "1487531978"
+            }
+        }
+    }
+}
