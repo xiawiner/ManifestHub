@@ -1,0 +1,62 @@
+{
+    "appid": 3349810,
+    "name": "JR EAST Train Simulator: Ome Line (Tachikawa to Okutama) E233-0 Series",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-27 16:29:36",
+    "change_number": 29202932,
+    "depot": {
+        "3349811": {
+            "manifests": {
+                "public": {
+                    "gid": "8365255074134606226",
+                    "size": "572843896",
+                    "download": "341106736"
+                }
+            },
+            "dlcappid": "3349810",
+            "decryptionkey": "944bedcc1cd636062a64b9ad3fcc4b1286e491f419a49529fccac248c33e8cbf"
+        },
+        "3349812": {
+            "manifests": {
+                "public": {
+                    "gid": "253291239880907483",
+                    "size": "6858338928",
+                    "download": "6952184048"
+                }
+            },
+            "dlcappid": "3349810",
+            "decryptionkey": "7ec06d46460534d73efe5272e9c3d3412b76378ed9b69bc67cfd3b21159c5550"
+        },
+        "3349813": {
+            "manifests": {
+                "public": {
+                    "gid": "7740311826334379497",
+                    "size": "489008336",
+                    "download": "271376736"
+                }
+            },
+            "dlcappid": "3349810",
+            "decryptionkey": "61c6867003b6280ac9dca3f28c0494988dec9ca120156822ef93f60e8b22be53"
+        },
+        "3349814": {
+            "manifests": {
+                "public": {
+                    "gid": "7259280998987612865",
+                    "size": "7159289056",
+                    "download": "7257247680"
+                }
+            },
+            "dlcappid": "3349810",
+            "decryptionkey": "2b338a3b2330d0b39574f36205ab4e37e2768ed58d58960d379eb3c62103588b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18558831",
+                "timeupdated": "1748311875"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
