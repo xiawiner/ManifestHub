@@ -1,0 +1,43 @@
+{
+    "appid": 2315020,
+    "name": "Froguelike",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-11 22:42:45",
+    "change_number": 29508551,
+    "depot": {
+        "2315021": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3047253321395289893",
+                    "size": "135828059",
+                    "download": "39734176"
+                }
+            },
+            "decryptionkey": "c9f945eae1da39ab722e87bf589587286035a9b3634a63a20b15fe9c0669d763"
+        },
+        "2315022": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9206695311817219109",
+                    "size": "161944828",
+                    "download": "47176960"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18825693",
+                "timeupdated": "1749650093"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
