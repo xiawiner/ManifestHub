@@ -1,0 +1,58 @@
+{
+    "appid": 1646790,
+    "name": "Striving for Light",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 06:22:32",
+    "change_number": 29686050,
+    "depot": {
+        "1646791": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1964071419911940763",
+                    "size": "1512647464",
+                    "download": "1316721616"
+                },
+                "public-test": {
+                    "gid": "7775461284103743506",
+                    "size": "1512111656",
+                    "download": "1316504208"
+                }
+            },
+            "decryptionkey": "387a839d535759a41e628d9eae51b5df05ad03e45ce39e9d92c6a9bd110d9bd5"
+        },
+        "1646792": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7920601734778580785",
+                    "size": "1523567400",
+                    "download": "1320236256"
+                },
+                "public-test": {
+                    "gid": "8373099437693635297",
+                    "size": "1523595064",
+                    "download": "1320242992"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18658672",
+                "timeupdated": "1748523835"
+            },
+            "public-test": {
+                "buildid": "18674660",
+                "description": "New update testing",
+                "timeupdated": "1748612012"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
