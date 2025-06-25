@@ -1,0 +1,44 @@
+{
+    "appid": 1552500,
+    "name": "Slimekeep",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 01:43:05",
+    "change_number": 29634369,
+    "depot": {
+        "1552501": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1397723362833748644",
+                    "size": "232925194",
+                    "download": "173677504"
+                }
+            },
+            "decryptionkey": "9d1c88ef91353694a828586c10eed62a45d53eeac01a5b25b67fde49e32c72e6"
+        },
+        "1552502": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6642759187401345252",
+                    "size": "233736515",
+                    "download": "174056096"
+                }
+            }
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18722574",
+                "timeupdated": "1748975837"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
