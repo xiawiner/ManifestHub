@@ -1,0 +1,27 @@
+{
+    "appid": 3177210,
+    "name": "酒馆战争",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 11:51:20",
+    "change_number": 29570854,
+    "depot": {
+        "3177211": {
+            "manifests": {
+                "public": {
+                    "gid": "7811223705788762968",
+                    "size": "742315158",
+                    "download": "580515600"
+                }
+            },
+            "decryptionkey": "96ee1ab092711cf27dd40b3a0d72489a4213c2631cb19a178970b201321740e0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16981661",
+                "timeupdated": "1736716210"
+            }
+        }
+    }
+}
