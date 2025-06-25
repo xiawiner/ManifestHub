@@ -1,0 +1,61 @@
+{
+    "appid": 2151290,
+    "name": "Football Coach: College Dynasty",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 01:43:33",
+    "change_number": 29533680,
+    "depot": {
+        "workshopdepot": "2151290",
+        "2151291": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7735274029675844470",
+                    "size": "433075669",
+                    "download": "111326736"
+                },
+                "beta": {
+                    "gid": "7735274029675844470",
+                    "size": "433075669",
+                    "download": "111326736"
+                }
+            },
+            "decryptionkey": "4510fce6947cb8c25d77ebf3aa7a8883594265d1f4ed82ba98b2e062caa1687c"
+        },
+        "2151292": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3539330702444028933",
+                    "size": "467588889",
+                    "download": "116133440"
+                },
+                "beta": {
+                    "gid": "3539330702444028933",
+                    "size": "467588889",
+                    "download": "116133440"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18832736",
+                "timeupdated": "1749749415"
+            },
+            "beta": {
+                "buildid": "18832736",
+                "description": "Beta branch to test features before they are released more broadly.",
+                "timeupdated": "1749685884"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "95932fdd9d26129781d18c408c5d25a62d6f5598b0316eb55464e7f215750de4"
+    }
+}
