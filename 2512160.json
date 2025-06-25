@@ -1,0 +1,80 @@
+{
+    "appid": 2512160,
+    "name": "Monday Meltdown",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-19 13:17:03",
+    "change_number": 29642524,
+    "depot": {
+        "baselanguages": "english",
+        "2512162": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3339751312629674973",
+                    "size": "1974967323",
+                    "download": "127713776"
+                },
+                "development": {
+                    "gid": "3769506593895445313",
+                    "size": "1974954446",
+                    "download": "127713616"
+                }
+            },
+            "decryptionkey": "52619bfe4013acfb6b94b3682be386bef81168e40a89d9a8bcf66942249858a0"
+        },
+        "2512163": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5323012312226178",
+                    "size": "1877894388",
+                    "download": "102959696"
+                },
+                "development": {
+                    "gid": "8146943781633774781",
+                    "size": "1877959984",
+                    "download": "102962048"
+                }
+            },
+            "decryptionkey": "4617e3f3c1613c72db63afcfc097d1842febadb3782ab31006dce847b1eeb634"
+        },
+        "2543640": {
+            "dlcappid": "2543640"
+        },
+        "2512161": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6844835230306735391",
+                    "size": "1919135876",
+                    "download": "107313808"
+                },
+                "development": {
+                    "gid": "1945122809729415359",
+                    "size": "1919124792",
+                    "download": "107313648"
+                }
+            },
+            "decryptionkey": "a990c12b173ba5dac951aea1217e0ccf212dfe6c89800e035aedcb3c943ca0cd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18846436",
+                "timeupdated": "1749761402"
+            },
+            "development": {
+                "buildid": "18827519",
+                "description": "pre-release",
+                "timeupdated": "1749656707"
+            }
+        }
+    }
+}
