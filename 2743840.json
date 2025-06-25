@@ -1,0 +1,42 @@
+{
+    "appid": 2743840,
+    "name": "SHADOW DETECTIVE",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 14:10:07",
+    "change_number": 29601817,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,koreana,japanese",
+        "2743841": {
+            "manifests": {
+                "public": {
+                    "gid": "4900842818501352823",
+                    "size": "10839352931",
+                    "download": "10282297600"
+                }
+            },
+            "decryptionkey": "2928ba62e59bc417d220c12a1aff908cd00872838742b3ff2ba6d3273366b6c8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18674436",
+                "timeupdated": "1748610968"
+            }
+        }
+    }
+}
