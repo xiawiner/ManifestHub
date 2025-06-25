@@ -1,0 +1,28 @@
+{
+    "appid": 3430470,
+    "name": "PLATiNA :: LAB",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:55:56",
+    "change_number": 29684050,
+    "depot": {
+        "3430471": {
+            "manifests": {
+                "public": {
+                    "gid": "7064343796010718881",
+                    "size": "6755039863",
+                    "download": "5639268896"
+                }
+            },
+            "decryptionkey": "7f478c739cf9e5b4ccacc2527b6ad86e4bbfc13453783e9bf5db05fd5f371673"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18819319",
+                "timeupdated": "1749614407"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
