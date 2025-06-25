@@ -1,0 +1,81 @@
+{
+    "appid": 2507950,
+    "name": "Delta Force",
+    "type": "Game",
+    "schinese_name": "三角洲行动 ",
+    "isfreeapp": 1,
+    "update_time": "2025-06-22 10:19:53",
+    "change_number": 29687241,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2507951": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8174531500465390847",
+                    "size": "94746519938",
+                    "download": "89379062720"
+                }
+            },
+            "decryptionkey": "91450364d55cea454aaa08b61911d1029ff00e9490f0a9f59b155148a474d290"
+        },
+        "2507952": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6660803524613724130",
+                    "size": "93342961191",
+                    "download": "89002174656"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18764697",
+                "timeupdated": "1749206428"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
