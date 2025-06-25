@@ -1,0 +1,57 @@
+{
+    "appid": 3554810,
+    "name": "Neverending AI Storybook",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 10:17:21",
+    "change_number": 29620309,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "3554811": {
+            "manifests": {
+                "public": {
+                    "gid": "2531695021242299852",
+                    "size": "29173061755",
+                    "download": "24783621296"
+                },
+                "beta": {
+                    "gid": "3283366349809531137",
+                    "size": "29170694222",
+                    "download": "24787332752"
+                },
+                "prestorymode": {
+                    "gid": "2712775003557369047",
+                    "size": "19848325025",
+                    "download": "18830061616"
+                }
+            },
+            "decryptionkey": "f764a67cc190de80290cea6d2a26c69b2d489d8c6867d48c842f7e13d7528100"
+        },
+        "3569000": {
+            "dlcappid": "3569000",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "optionaldlc": "3569000"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18526660",
+                "timeupdated": "1747703862"
+            },
+            "beta": {
+                "buildid": "18696446",
+                "description": "open",
+                "timeupdated": "1748829461"
+            },
+            "prestorymode": {
+                "buildid": "18253766",
+                "description": "Floyds last working version",
+                "timeupdated": "1748810855"
+            }
+        },
+        "appmanagesdlc": "1"
+    }
+}
