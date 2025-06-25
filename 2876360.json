@@ -1,0 +1,42 @@
+{
+    "appid": 2876360,
+    "name": "Hello Stranger",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 07:18:11",
+    "change_number": 29676914,
+    "depot": {
+        "2876361": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5246761484175574884",
+                    "size": "33633841735",
+                    "download": "30947287440"
+                }
+            },
+            "decryptionkey": "18141422508c93c2c47840d82259d335953a42145afce92135429d4485859bfd"
+        },
+        "2876362": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8721193990849460854",
+                    "size": "33821290264",
+                    "download": "31036162704"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18704174",
+                "timeupdated": "1748878544"
+            }
+        }
+    }
+}
