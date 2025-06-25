@@ -1,0 +1,38 @@
+{
+    "appid": 2803000,
+    "name": "100 Dino Cats",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-05 19:09:21",
+    "change_number": 29393239,
+    "depot": {
+        "2803001": {
+            "manifests": {
+                "public": {
+                    "gid": "844316504802645573",
+                    "size": "324815751",
+                    "download": "33487136"
+                }
+            },
+            "decryptionkey": "46b8228b85caa6f1ea9f3f9405e46ec477e26aca7ec289db4101051e8222588c"
+        },
+        "2815630": {
+            "dlcappid": "2815630",
+            "manifests": {
+                "public": {
+                    "gid": "8815965833736017801",
+                    "size": "24430807",
+                    "download": "19474240"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18749215",
+                "timeupdated": "1749121754"
+            }
+        }
+    }
+}
