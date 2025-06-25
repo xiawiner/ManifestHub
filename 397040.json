@@ -1,0 +1,41 @@
+{
+    "appid": 397040,
+    "name": "Sphere 3",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-18 17:15:44",
+    "change_number": 29625574,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,japanese,portuguese,polish,turkish,brazilian,latam",
+        "397041": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8254654933849681502",
+                    "size": "6431499210",
+                    "download": "3146666384"
+                },
+                "test": {
+                    "gid": "8254654933849681502",
+                    "size": "6431499210",
+                    "download": "3146666384"
+                }
+            },
+            "decryptionkey": "32d52463d492fc4495d3702937006ef714e417bd7edb65ecb5803381a6af6925"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18900861",
+                "timeupdated": "1750238140"
+            },
+            "test": {
+                "buildid": "18900861",
+                "timeupdated": "1750181225"
+            }
+        }
+    }
+}
