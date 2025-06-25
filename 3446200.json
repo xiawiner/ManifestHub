@@ -1,0 +1,41 @@
+{
+    "appid": 3446200,
+    "name": "Sharks and Minnows",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 11:15:05",
+    "change_number": 29678717,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3446201": {
+            "manifests": {
+                "public": {
+                    "gid": "179300787634165789",
+                    "size": "1359859694",
+                    "download": "1053869872"
+                }
+            },
+            "decryptionkey": "cfbf694f31ee8e4a28819ae123115bf23ade614b426f3c0a92c477cc32bcba85"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18907812",
+                "timeupdated": "1750226896"
+            }
+        }
+    }
+}
