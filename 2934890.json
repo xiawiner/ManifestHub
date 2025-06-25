@@ -1,0 +1,41 @@
+{
+    "appid": 2934890,
+    "name": "The Last Visit: 98th",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:26:50",
+    "change_number": 29653114,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2934891": {
+            "manifests": {
+                "public": {
+                    "gid": "2755509838030251311",
+                    "size": "4433875236",
+                    "download": "4221489840"
+                }
+            },
+            "decryptionkey": "9bdf0feae053d611654e7552f5c078f406fadfaaf6c3f8c767f0a41647e7944e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18829740",
+                "timeupdated": "1749667197"
+            }
+        }
+    }
+}
