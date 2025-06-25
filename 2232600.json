@@ -1,0 +1,56 @@
+{
+    "appid": 2232600,
+    "name": "Anomaly Exit",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 23:16:45",
+    "change_number": 29670910,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2232601": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3422307454585267861",
+                    "size": "1259034544",
+                    "download": "1074218352"
+                },
+                "developertest": {
+                    "gid": "3422307454585267861",
+                    "size": "1259034544",
+                    "download": "1074218352"
+                }
+            },
+            "decryptionkey": "3c17ce9caff29bfcd7dc2122d41ac1296dbe7f1b77678e8139ba4d56a01e42df"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18599398",
+                "timeupdated": "1748158838"
+            },
+            "developertest": {
+                "buildid": "18599398",
+                "description": "Experimental updates prior to release",
+                "timeupdated": "1748157960"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
