@@ -1,0 +1,43 @@
+{
+    "appid": 1098610,
+    "name": "Crush the Industry",
+    "type": "Game",
+    "schinese_name": "碾压职场 (Crush the Industry)",
+    "isfreeapp": 0,
+    "update_time": "2025-06-06 09:00:00",
+    "change_number": 29407811,
+    "depot": {
+        "baselanguages": "english",
+        "1098611": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8740845411658892262",
+                    "size": "1077245574",
+                    "download": "183635648"
+                }
+            },
+            "decryptionkey": "7b3348fb976c50c94a91a5f1d988935891c6e94d398a0842ce9698937aa10fdf"
+        },
+        "1098612": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1557831495993540020",
+                    "size": "1099554698",
+                    "download": "190185440"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18691835",
+                "timeupdated": "1748775652"
+            }
+        }
+    }
+}
