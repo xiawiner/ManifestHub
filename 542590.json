@@ -1,0 +1,45 @@
+{
+    "appid": 542590,
+    "name": "SoulSaverOnline",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-04 10:24:05",
+    "change_number": 29361798,
+    "depot": {
+        "baselanguages": "english",
+        "542591": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3788476468633101305",
+                    "size": "5820145547",
+                    "download": "661703552"
+                }
+            },
+            "decryptionkey": "e0e9c96f5f7f6c418d5c0b1e7edbbc20417dded0484393b17c56700678415261"
+        },
+        "542592": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2059642054601609287",
+                    "size": "7763402516",
+                    "download": "841688832"
+                }
+            },
+            "decryptionkey": "30c28a06d68bfc6d8b291a6dc3e797c34040715aebbc687bc27d3c5932713b2f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18727256",
+                "timeupdated": "1749003837"
+            }
+        }
+    }
+}
