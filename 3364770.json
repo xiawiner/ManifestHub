@@ -1,0 +1,28 @@
+{
+    "appid": 3364770,
+    "name": "迷雾审判",
+    "type": "Game",
+    "schinese_name": "迷雾审判",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 21:55:08",
+    "change_number": 29681674,
+    "depot": {
+        "3364771": {
+            "manifests": {
+                "public": {
+                    "gid": "7829994207718929032",
+                    "size": "19226899630",
+                    "download": "17680670880"
+                }
+            },
+            "decryptionkey": "b061675a65d705d308cee26aa86a742f9e8953a35ae2495bca9ca6196f7c7ef3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18880462",
+                "timeupdated": "1750066133"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
