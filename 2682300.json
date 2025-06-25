@@ -1,0 +1,32 @@
+{
+    "appid": 2682300,
+    "name": "True Reporter. The Mistwood mystery",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-16 19:50:52",
+    "change_number": 29586039,
+    "depot": {
+        "baselanguages": "english,german,french,spanish,russian",
+        "2682301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6814174797575793119",
+                    "size": "848960810",
+                    "download": "676971136"
+                }
+            },
+            "decryptionkey": "cdd03d9bc9da09077c56e164587e268fbdc3041a490c229299d889b440aceccc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18823361",
+                "timeupdated": "1749657718"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
