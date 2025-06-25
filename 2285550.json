@@ -1,0 +1,60 @@
+{
+    "appid": 2285550,
+    "name": "Doloc Town",
+    "type": "Game",
+    "schinese_name": "多洛可小镇",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 11:56:19",
+    "change_number": 29590927,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "2285553": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4480473055513852712",
+                    "size": "1071167282",
+                    "download": "504195088"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2285552": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1362048465604459946",
+                    "size": "1071167282",
+                    "download": "504195088"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2285551": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4806487122475854509",
+                    "size": "1071167282",
+                    "download": "503693312"
+                }
+            },
+            "decryptionkey": "afe8a5179c5f8472cac3ca41c6b35eab7bb08d22b24bb4c034c74a1a02bd8d12"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18808386",
+                "timeupdated": "1749632532"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 11000334821660453025
+}
