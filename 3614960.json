@@ -1,0 +1,29 @@
+{
+    "appid": 3614960,
+    "name": "HARVEST",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 00:05:23",
+    "change_number": 29671647,
+    "depot": {
+        "3614961": {
+            "manifests": {
+                "public": {
+                    "gid": "8777699294106306221",
+                    "size": "2130222055",
+                    "download": "788729424"
+                }
+            },
+            "decryptionkey": "7edee2226dd9cf35bd41d443f9e80a90f90dda6290017fbb4f909b82cce7851c"
+        },
+        "baselanguages": "english,spanish,schinese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18938989",
+                "timeupdated": "1750432062"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
