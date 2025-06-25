@@ -1,0 +1,27 @@
+{
+    "appid": 1789470,
+    "name": "Monster Girl's Labyrinth",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-27 19:56:49",
+    "change_number": 29211344,
+    "depot": {
+        "1789471": {
+            "manifests": {
+                "public": {
+                    "gid": "3522411310650480603",
+                    "size": "90931440",
+                    "download": "72004048"
+                }
+            },
+            "decryptionkey": "4147e6435a64bef28d7bf86528f65617e7ba8f9f9666c77371f3d4ed9a3d6c09"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9180186",
+                "timeupdated": "1658668265"
+            }
+        }
+    }
+}
