@@ -1,0 +1,64 @@
+{
+    "appid": 2113850,
+    "name": "Spirit City: Lofi Sessions",
+    "type": "Game",
+    "schinese_name": "精神城市：洛菲会议",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 18:35:54",
+    "change_number": 29666386,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2113851": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3718192795374659354",
+                    "size": "2950213061",
+                    "download": "2540548816"
+                }
+            },
+            "decryptionkey": "c96341ff6c37bb63b6a46045e820f5c956aeea66a47703fb62c8476f09300ae9"
+        },
+        "2113852": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4738884973656512528",
+                    "size": "3520036789",
+                    "download": "2602197808"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18554335",
+                "timeupdated": "1747859914"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
