@@ -1,0 +1,28 @@
+{
+    "appid": 1009450,
+    "name": "Sankaku Renai: Love Triangle Trouble",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-23 05:43:35",
+    "change_number": 29134838,
+    "depot": {
+        "1009451": {
+            "manifests": {
+                "public": {
+                    "gid": "6039766788683859949",
+                    "size": "2116226002",
+                    "download": "2130838416"
+                }
+            },
+            "decryptionkey": "8d37254f0cfa45913457bc911f43c48e5b9f46f2bed18015540feed1284e8dad"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3881464",
+                "timeupdated": "1559506180"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
