@@ -1,0 +1,73 @@
+{
+    "appid": 1120560,
+    "name": "Sense - 不祥的预感: A Cyberpunk Ghost Story",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-28 03:57:05",
+    "change_number": 29220746,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1120561": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3111452492226477651",
+                    "size": "766945524",
+                    "download": "668783296"
+                }
+            },
+            "decryptionkey": "3f2d21a1974e80d2fb0860a684ad101e3fd33ba38b5c977f77f6476285bd47b1"
+        },
+        "1120562": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1866855081871789235",
+                    "size": "761078453",
+                    "download": "666858064"
+                }
+            },
+            "decryptionkey": "5a342a71180a67c4336957d8edf8414856a3029db5d1962fbc7819f000d439e2"
+        },
+        "1120563": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5244682099522077303",
+                    "size": "775471801",
+                    "download": "672855040"
+                }
+            },
+            "decryptionkey": "f0189f51b99f14eac431196efa1a0a61e178746aec88b4ca7bce58f2603fbc30"
+        },
+        "1120564": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2442660907862345848",
+                    "size": "813548784",
+                    "download": "687706320"
+                }
+            },
+            "decryptionkey": "c96b432bb2a7567e852140dd05c506791806f521a69ca3c07a0887fb78a005c6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5757660",
+                "timeupdated": "1604012553"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
