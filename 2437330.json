@@ -1,0 +1,32 @@
+{
+    "appid": 2437330,
+    "name": "Novus Orbis",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 13:39:21",
+    "change_number": 29662111,
+    "depot": {
+        "baselanguages": "english,italian,japanese",
+        "2437331": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1656359037561859926",
+                    "size": "1259677674",
+                    "download": "169373264"
+                }
+            },
+            "decryptionkey": "8a4e2bde9c0ea35fcbc1c9167624855ae1d0b27d26a5270720a67561996bf5b9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18744726",
+                "timeupdated": "1749096879"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
