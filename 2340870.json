@@ -1,0 +1,36 @@
+{
+    "appid": 2340870,
+    "name": "Rugby 25",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 07:32:51",
+    "change_number": 29638921,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,japanese",
+        "2340871": {
+            "manifests": {
+                "public": {
+                    "gid": "2827111360253352253",
+                    "size": "100629885148",
+                    "download": "96645899312"
+                }
+            },
+            "decryptionkey": "93ccfe6514668e6f5b1c0a8ab689650f762c3a6e18e7f21627be8e47f475801d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18893148",
+                "timeupdated": "1750238535"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
