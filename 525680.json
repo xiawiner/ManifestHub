@@ -1,0 +1,42 @@
+{
+    "appid": 525680,
+    "name": "Deisim",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 02:23:54",
+    "change_number": 29673782,
+    "depot": {
+        "525681": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7610577517260079329",
+                    "size": "1227888598",
+                    "download": "582964592"
+                },
+                "public-beta": {
+                    "gid": "5580396663973424163",
+                    "size": "1235409846",
+                    "download": "585070096"
+                }
+            },
+            "decryptionkey": "6fe1c0eab36fab7b608d24cc87b0bb54be81ab400d06f8b383a23bd27d541758"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18492201",
+                "timeupdated": "1747403691"
+            },
+            "public-beta": {
+                "buildid": "18943625",
+                "description": "Test the new update",
+                "timeupdated": "1750443828"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
