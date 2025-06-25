@@ -1,0 +1,27 @@
+{
+    "appid": 3133060,
+    "name": "Gnomes",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 00:16:26",
+    "change_number": 29553296,
+    "depot": {
+        "3133061": {
+            "manifests": {
+                "public": {
+                    "gid": "60501816390871843",
+                    "size": "51648062",
+                    "download": "41277936"
+                }
+            },
+            "decryptionkey": "a76320d1e852615ddeceb3f882bf2ed6a44fd35b783d326c63f2542b9b99c9e9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18820363",
+                "timeupdated": "1749620777"
+            }
+        }
+    }
+}
