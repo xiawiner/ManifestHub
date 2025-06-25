@@ -1,0 +1,37 @@
+{
+    "appid": 1827650,
+    "name": "Star Knightess Aura",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:20:51",
+    "change_number": 29650970,
+    "depot": {
+        "1827651": {
+            "manifests": {
+                "public": {
+                    "gid": "6314905478335790202",
+                    "size": "641480288",
+                    "download": "396746992"
+                },
+                "beta": {
+                    "gid": "6314905478335790202",
+                    "size": "641480288",
+                    "download": "396746992"
+                }
+            },
+            "decryptionkey": "752f7c0d9215a9159ed02438960e5cee3180c2fe14dbfc58d8e8091de8913da2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18698697",
+                "timeupdated": "1748851763"
+            },
+            "beta": {
+                "buildid": "18698697",
+                "description": "Interim builds",
+                "timeupdated": "1748850683"
+            }
+        }
+    }
+}
