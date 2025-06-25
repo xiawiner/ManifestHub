@@ -1,0 +1,47 @@
+{
+    "appid": 2712670,
+    "name": "Axe Ghost",
+    "type": "Game",
+    "schinese_name": "鬼斧神通 Axe Ghost",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 15:21:20",
+    "change_number": 29680125,
+    "depot": {
+        "workshopdepot": "2712670",
+        "2712671": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8480383550626421017",
+                    "size": "540620912",
+                    "download": "297635808"
+                }
+            },
+            "decryptionkey": "20daa55583725d0ff619ab527eb9edb1aadd3a093cf52a51c8926db8b52e2146"
+        },
+        "2712672": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6470634202947945442",
+                    "size": "612596776",
+                    "download": "296290896"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18948200",
+                "timeupdated": "1750490476"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
