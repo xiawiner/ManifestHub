@@ -1,0 +1,64 @@
+{
+    "appid": 1601570,
+    "name": "The Alters",
+    "type": "Game",
+    "schinese_name": "多重人生",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 05:44:11",
+    "change_number": 29676087,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1601571": {
+            "manifests": {
+                "public": {
+                    "gid": "4806372360105956027",
+                    "size": "51388046994",
+                    "download": "49963547872"
+                }
+            },
+            "decryptionkey": "0439da537fb9ca417bd1efa7f41890efff942c7cae69a68d72ff61d8b3e2ca8b"
+        },
+        "3237510": {
+            "dlcappid": "3237510",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3237520": {
+            "dlcappid": "3237520",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18910522",
+                "timeupdated": "1750246411"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
