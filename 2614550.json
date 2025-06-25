@@ -1,0 +1,47 @@
+{
+    "appid": 2614550,
+    "name": "Transporter",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-06 18:25:49",
+    "change_number": 29415597,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2614551": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8256353188758320795",
+                    "size": "816702510",
+                    "download": "677990128"
+                }
+            },
+            "decryptionkey": "88705157eb12fcc1b60eaae0e66850987e52e2a2a1025dfa86e397f78ba26bc7"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "17057192",
+                "timeupdated": "1737311411"
+            }
+        }
+    }
+}
