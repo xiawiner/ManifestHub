@@ -1,0 +1,79 @@
+{
+    "appid": 722960,
+    "name": "CASE 2: Animatronics Survival",
+    "type": "Game",
+    "schinese_name": "悬案2：动物生存 ",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 21:57:02",
+    "change_number": 29682371,
+    "depot": {
+        "baselanguages": "english,russian",
+        "hasdepotsindlc": "0",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "722961": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3843293128257984310",
+                    "size": "6815047967",
+                    "download": "6550093072"
+                }
+            },
+            "decryptionkey": "0e22d5640582921eae5b530a9290f558416e9ea685de874d741900a74f8634ce"
+        },
+        "722962": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "722963": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18624448",
+                "timeupdated": "1748346182"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
