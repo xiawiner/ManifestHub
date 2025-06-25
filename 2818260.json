@@ -1,0 +1,70 @@
+{
+    "appid": 2818260,
+    "name": "Vigor",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 21:22:28",
+    "change_number": 29668853,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2818261": {
+            "manifests": {
+                "public": {
+                    "gid": "8320785964748151441",
+                    "size": "19823399074",
+                    "download": "16198644784"
+                }
+            },
+            "decryptionkey": "cc818e478a8aa275de89d956c189f975e5395fd16342854e14fcde177fb4ee1f"
+        },
+        "2873910": {
+            "dlcappid": "2873910"
+        },
+        "2873920": {
+            "dlcappid": "2873920"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17499472",
+                "timeupdated": "1744273611"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
