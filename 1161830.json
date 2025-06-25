@@ -1,0 +1,42 @@
+{
+    "appid": 1161830,
+    "name": "Age of Reforging:The Freelands",
+    "type": "Game",
+    "schinese_name": "重铸纪元：自由地",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:56:07",
+    "change_number": 29683739,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "1161831": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "697105039315955409",
+                    "size": "49212468554",
+                    "download": "41348634864"
+                },
+                "beta": {
+                    "gid": "697105039315955409",
+                    "size": "49212468554",
+                    "download": "41348634864"
+                }
+            },
+            "decryptionkey": "e1a623d865fa1f73a35221e8f9e08f42bedac87bb2b26a0110c87fa8324467d0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18811512",
+                "timeupdated": "1749566884"
+            },
+            "beta": {
+                "buildid": "18811512",
+                "description": "For pre release test",
+                "timeupdated": "1749566905"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
