@@ -1,0 +1,42 @@
+{
+    "appid": 2327480,
+    "name": "Backrooms: Realm of Shadows",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-16 01:16:50",
+    "change_number": 29575875,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2327481": {
+            "manifests": {
+                "public": {
+                    "gid": "4425592772945461944",
+                    "size": "27738079115",
+                    "download": "10452892608"
+                }
+            },
+            "decryptionkey": "0c888b50f2605d7f5b2d6bd2526aa605395ff8187b31c0e20500851160124fd6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13861368",
+                "timeupdated": "1711480712"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
