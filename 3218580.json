@@ -1,0 +1,43 @@
+{
+    "appid": 3218580,
+    "name": "监寓",
+    "type": "Game",
+    "schinese_name": "监寓",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 13:42:35",
+    "change_number": 29679448,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "3218581": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6726120155961660712",
+                    "size": "59858506382",
+                    "download": "59459581632"
+                }
+            },
+            "decryptionkey": "27bfae9c397eaea78b053380126998b8b4e8b569cdb063fcd8c584bb9eb94646"
+        },
+        "3218582": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7253212636659552894",
+                    "size": "59720630825",
+                    "download": "59380687056"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18938049",
+                "timeupdated": "1750411524"
+            }
+        }
+    }
+}
