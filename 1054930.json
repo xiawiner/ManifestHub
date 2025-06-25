@@ -1,0 +1,27 @@
+{
+    "appid": 1054930,
+    "name": "Mine the Gold",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 06:00:29",
+    "change_number": 29685324,
+    "depot": {
+        "1054931": {
+            "manifests": {
+                "public": {
+                    "gid": "5508596601409777993",
+                    "size": "110856562",
+                    "download": "22711152"
+                }
+            },
+            "decryptionkey": "cc6b84c70eedb3d2e650f1d98b2fc49ded07d2cfc81cc05b369e014aef24f3ba"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3684034",
+                "timeupdated": "1553679569"
+            }
+        }
+    }
+}
