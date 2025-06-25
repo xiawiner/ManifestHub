@@ -1,0 +1,28 @@
+{
+    "appid": 1817260,
+    "name": "XO Evolved",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-21 08:23:09",
+    "change_number": 29677422,
+    "depot": {
+        "1817261": {
+            "manifests": {
+                "public": {
+                    "gid": "1486154499058827749",
+                    "size": "116023502",
+                    "download": "70449056"
+                }
+            },
+            "decryptionkey": "1330ab5488fdd7102dd2b789c5c5bb879d75b672d07bd7a192ebcf80d74768bc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18867962",
+                "timeupdated": "1749912221"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
