@@ -1,0 +1,46 @@
+{
+    "appid": 861590,
+    "name": "Tabletop Creator Pro",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-11 22:39:09",
+    "change_number": 29506298,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "861592": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "469761096141511941",
+                    "size": "332905096",
+                    "download": "93220800"
+                }
+            },
+            "decryptionkey": "f9b2e9c6bd85ea42550dd5e6d4c1e845af2504d92e3fae4f8dfecc1b6f021c55"
+        },
+        "861593": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "438742510697261390",
+                    "size": "519835071",
+                    "download": "130352000"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18824402",
+                "timeupdated": "1749642906"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
