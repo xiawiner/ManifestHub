@@ -1,0 +1,57 @@
+{
+    "appid": 1714040,
+    "name": "Super Auto Pets",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-20 16:02:26",
+    "change_number": 29077147,
+    "depot": {
+        "1714041": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3912425128123020436",
+                    "size": "432089708",
+                    "download": "87676992"
+                }
+            },
+            "decryptionkey": "43ce9147a93d6a1b120eaa463a3a65877569e85b99b76777e6a8f4053080592c"
+        },
+        "1714042": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7018516221460371749",
+                    "size": "469617781",
+                    "download": "89723584"
+                }
+            },
+            "decryptionkey": "9510b6e0422bb7b0e9f719831bf0fb35003dc9bbcf528e358f5bf589b00a4f4d"
+        },
+        "1714043": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3069965863168994388",
+                    "size": "540791407",
+                    "download": "110247408"
+                }
+            },
+            "decryptionkey": "6947b735bbeaf9e7562695bcd002f0463194261c711b7456968ece38a76c7cff"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18514193",
+                "timeupdated": "1747728142"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
