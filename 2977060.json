@@ -1,0 +1,28 @@
+{
+    "appid": 2977060,
+    "name": "Kappa Quest",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-31 07:26:28",
+    "change_number": 29288432,
+    "depot": {
+        "baselanguages": "english,french",
+        "2977061": {
+            "manifests": {
+                "public": {
+                    "gid": "891622793965872102",
+                    "size": "64457628",
+                    "download": "53066768"
+                }
+            },
+            "decryptionkey": "76d254e808dcc24d60a91651221e4fbd3443d3ab84f29e29dfbea5f460291cfc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18536951",
+                "timeupdated": "1747760154"
+            }
+        }
+    }
+}
