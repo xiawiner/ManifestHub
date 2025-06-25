@@ -1,0 +1,41 @@
+{
+    "appid": 3399960,
+    "name": "Fish to Dish: Idle Sushi",
+    "type": "Game",
+    "schinese_name": "悠哉钓鱼",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 06:39:20",
+    "change_number": 29686126,
+    "depot": {
+        "3399961": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4349474585010181600",
+                    "size": "130221225",
+                    "download": "53466976"
+                },
+                "alpha": {
+                    "gid": "4349474585010181600",
+                    "size": "130221225",
+                    "download": "53466976"
+                }
+            },
+            "decryptionkey": "75fff869bf1e3b3efae630f35b85d7c3d28a1b63925fd400453e875bc455ab0d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18949542",
+                "timeupdated": "1750506042"
+            },
+            "alpha": {
+                "buildid": "18949542",
+                "description": "测试分支",
+                "timeupdated": "1750505768"
+            }
+        }
+    }
+}
