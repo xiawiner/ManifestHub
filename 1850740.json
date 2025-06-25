@@ -1,0 +1,27 @@
+{
+    "appid": 1850740,
+    "name": "Ghost Watchers",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-22 17:00:28",
+    "change_number": 29122552,
+    "depot": {
+        "1850741": {
+            "manifests": {
+                "public": {
+                    "gid": "7373609519513095457",
+                    "size": "21638019319",
+                    "download": "9954990576"
+                }
+            },
+            "decryptionkey": "a830d518fb69395dfac8536575b35f141dc0ccb74f84bb08dad20556b7050c1e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18562933",
+                "timeupdated": "1747904419"
+            }
+        }
+    }
+}
