@@ -1,0 +1,32 @@
+{
+    "appid": 1020910,
+    "name": "Sefirot Shards",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-31 14:04:51",
+    "change_number": 29298055,
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese,brazilian",
+        "1020911": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3099000754858435798",
+                    "size": "506053313",
+                    "download": "416896448"
+                }
+            },
+            "decryptionkey": "ce65fb12f7b8496781f1750626b435c4e7fed7043d5b5f953ea2e3dafba67201"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18683024",
+                "timeupdated": "1748671486"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
