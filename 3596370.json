@@ -1,0 +1,33 @@
+{
+    "appid": 3596370,
+    "name": "Bearly Escape",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 19:23:28",
+    "change_number": 29667096,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "3596371": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2060448074825979318",
+                    "size": "4674932413",
+                    "download": "3786521232"
+                }
+            },
+            "decryptionkey": "aef848ca683bd872dd3f7cdf81b45fa14cd4591fcf62c9104c82480af93e389d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18877581",
+                "timeupdated": "1750228149"
+            }
+        }
+    }
+}
