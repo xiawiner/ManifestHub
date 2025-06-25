@@ -1,0 +1,61 @@
+{
+    "appid": 781030,
+    "name": "DK Online",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 10:04:06",
+    "change_number": 29659902,
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "781031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7530713142098569296",
+                    "size": "13678215909",
+                    "download": "12645141600"
+                }
+            },
+            "decryptionkey": "74ce13b1a812b04f539853e106dde560649c458c94592d4f8bf2cf810a776823"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18805669",
+                "timeupdated": "1749535739"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
