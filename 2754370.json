@@ -1,0 +1,31 @@
+{
+    "appid": 2754370,
+    "name": "Voidsayer",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:59:43",
+    "change_number": 29684954,
+    "depot": {
+        "2754371": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2879332042658439469",
+                    "size": "1404256273",
+                    "download": "586036800"
+                }
+            },
+            "decryptionkey": "bd3b22dc3caca1d880c1cfb09e82a8d393e1fe8bc73ae762e0a347cc88fd13e2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18867190",
+                "timeupdated": "1749902822"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
