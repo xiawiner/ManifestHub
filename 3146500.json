@@ -1,0 +1,62 @@
+{
+    "appid": 3146500,
+    "name": "ENDLESS DAYS Z",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 04:37:07",
+    "change_number": 29568668,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3146501": {
+            "manifests": {
+                "public": {
+                    "gid": "4686792886298321848",
+                    "size": "22302858136",
+                    "download": "21204956576"
+                }
+            },
+            "decryptionkey": "f4bcb70bdb592e32c871061e8d031b78cd8fafed09ed0c4e5a024a26ac60ee8f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18869069",
+                "timeupdated": "1749925987"
+            }
+        }
+    }
+}
