@@ -1,0 +1,41 @@
+{
+    "appid": 2709570,
+    "name": "Supermarket Together",
+    "type": "Game",
+    "schinese_name": "多人超市",
+    "isfreeapp": 1,
+    "update_time": "2025-06-19 07:50:52",
+    "change_number": 29639097,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2709571": {
+            "manifests": {
+                "public": {
+                    "gid": "1002323645169101540",
+                    "size": "7622485663",
+                    "download": "2458420480"
+                }
+            },
+            "decryptionkey": "7fa16318d187d201cd5762fec6ac1022fb99b54b7ecb11f228286d5ee2a9790e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18919472",
+                "timeupdated": "1750290645"
+            }
+        }
+    }
+}
