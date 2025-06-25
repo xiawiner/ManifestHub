@@ -1,0 +1,67 @@
+{
+    "appid": 526870,
+    "name": "Satisfactory",
+    "type": "Game",
+    "schinese_name": "幸福工厂",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 08:52:38",
+    "change_number": 29686805,
+    "depot": {
+        "workshopdepot": "526870",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "526871": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6932473507154312819",
+                    "size": "27249663435",
+                    "download": "12261919808"
+                },
+                "experimental": {
+                    "gid": "6932473507154312819",
+                    "size": "27249663435",
+                    "download": "12261919808"
+                }
+            },
+            "decryptionkey": "ae0ab673da3c9d0f444b1cd61fe8f2235d43e6c0401684a78f4fbdfc8f0d9bc1"
+        },
+        "526872": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8817913690039197826",
+                    "size": "13719531757",
+                    "download": "9477537424"
+                },
+                "experimental": {
+                    "gid": "8817913690039197826",
+                    "size": "13719531757",
+                    "download": "9477537424"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18895707",
+                "timeupdated": "1750261527"
+            },
+            "experimental": {
+                "buildid": "18895707",
+                "timeupdated": "1750261483"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "f8d1243ead37652491a8d284a79ee2b814ad878208ec9276f3d5d8b1528a11e7"
+    }
+}
