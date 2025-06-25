@@ -1,0 +1,46 @@
+{
+    "appid": 3629550,
+    "name": "BERENICE: Videogame",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 03:59:50",
+    "change_number": 29591557,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,russian",
+        "3629551": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4326971884160965571",
+                    "size": "3120882948",
+                    "download": "2819349728"
+                }
+            },
+            "decryptionkey": "599435a40efd7f77df11f8084d27bb40132b165c273056ea50649c4dc4014a98"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18344890",
+                "timeupdated": "1746440150"
+            }
+        }
+    }
+}
