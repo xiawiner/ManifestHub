@@ -1,0 +1,43 @@
+{
+    "appid": 2457030,
+    "name": "GT Manager",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:24:56",
+    "change_number": 29653366,
+    "depot": {
+        "2457031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6624038990351341635",
+                    "size": "3908859759",
+                    "download": "1380382576"
+                }
+            },
+            "decryptionkey": "3a54e14b6561231228eb443ed98e756f297d3783f89778e8e2800ee27bc83946"
+        },
+        "2457032": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2353196897877956276",
+                    "size": "4018832152",
+                    "download": "1400924880"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18700522",
+                "timeupdated": "1748879712"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
