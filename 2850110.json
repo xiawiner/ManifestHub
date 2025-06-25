@@ -1,0 +1,27 @@
+{
+    "appid": 2850110,
+    "name": "The Dream Within",
+    "type": "Game",
+    "schinese_name": "梦中梦",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 21:57:36",
+    "change_number": 29682529,
+    "depot": {
+        "2850111": {
+            "manifests": {
+                "public": {
+                    "gid": "8384708227380307848",
+                    "size": "7075107578",
+                    "download": "346424864"
+                }
+            },
+            "decryptionkey": "1c062219520d0d92965406225d3c5bbd8802914f1f003da8865e91c098d44a91"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18619463",
+                "timeupdated": "1748318660"
+            }
+        }
+    }
+}
