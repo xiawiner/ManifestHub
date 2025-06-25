@@ -1,0 +1,41 @@
+{
+    "appid": 3722670,
+    "name": "One Man´s Trash Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:17:51",
+    "change_number": 29650537,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3722671": {
+            "manifests": {
+                "public": {
+                    "gid": "3211935216275433844",
+                    "size": "825006572",
+                    "download": "639556016"
+                }
+            },
+            "decryptionkey": "bde06a6cd847522d5fece3ec5f059bbaf23aa787399a2c6d3e2a5cb3bbf71aa3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18927609",
+                "timeupdated": "1750341285"
+            }
+        }
+    }
+}
