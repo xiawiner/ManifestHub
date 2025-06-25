@@ -1,0 +1,30 @@
+{
+    "appid": 3546070,
+    "name": "The EverFloating Island",
+    "type": "Game",
+    "schinese_name": "永浮岛",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 23:46:07",
+    "change_number": 29671340,
+    "depot": {
+        "3546071": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6256786354929071605",
+                    "size": "190116311",
+                    "download": "72072928"
+                }
+            },
+            "decryptionkey": "14645ca546b4a959ca0a8b21c12fe32c9d65f0ef8131f32787fc1dc75995cc46"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18953869",
+                "timeupdated": "1750566868"
+            }
+        }
+    }
+}
