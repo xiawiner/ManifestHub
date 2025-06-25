@@ -1,0 +1,29 @@
+{
+    "appid": 2176130,
+    "name": "Tower! Simulator 3",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 18:31:24",
+    "change_number": 29605924,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2176131": {
+            "manifests": {
+                "public": {
+                    "gid": "8392542506226907327",
+                    "size": "15603567392",
+                    "download": "9035833344"
+                }
+            },
+            "decryptionkey": "646f01966806a6cff7c5929b91d7c280dff02b08fef9809a02de19a8ad295707"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18740973",
+                "timeupdated": "1749105446"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
