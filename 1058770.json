@@ -1,0 +1,42 @@
+{
+    "appid": 1058770,
+    "name": "我来自江湖",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 10:47:56",
+    "change_number": 29678535,
+    "depot": {
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "schinese",
+        "1058771": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1644309727153646796",
+                    "size": "287390129",
+                    "download": "157586752"
+                }
+            },
+            "decryptionkey": "91b84c89799bb48299af01a22869aa305f118e31f8c3560d6e10011b8cdea2cd"
+        },
+        "workshopdepot": "1058770",
+        "branches": {
+            "public": {
+                "buildid": "18953566",
+                "timeupdated": "1750562754"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "515bb8622028b450ee50b5cef6e1c1ee65d52d692524927c935f85ad072a57d0"
+    }
+}
