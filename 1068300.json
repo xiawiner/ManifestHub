@@ -1,0 +1,39 @@
+{
+    "appid": 1068300,
+    "name": "Logitech VR Ink Driver",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-11 22:31:19",
+    "change_number": 29503152,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1068301": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1467570131148581574",
+                    "size": "62061821",
+                    "download": "18994416"
+                }
+            },
+            "decryptionkey": "d9345d21f68b7bd598d9d38190977f040e799da6cc11a1298df4ef823660bf40"
+        },
+        "baselanguages": "english,german,french",
+        "branches": {
+            "public": {
+                "buildid": "9013711",
+                "timeupdated": "1656332068"
+            }
+        }
+    }
+}
