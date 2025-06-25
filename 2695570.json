@@ -1,0 +1,57 @@
+{
+    "appid": 2695570,
+    "name": "Kindergarten 3",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 06:18:11",
+    "change_number": 29686018,
+    "depot": {
+        "2695571": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1341008708681182767",
+                    "size": "597235501",
+                    "download": "74056496"
+                }
+            },
+            "decryptionkey": "45055cb777941c2a8648fa0823935affbd3d7e4eb93d62ce2e4289608414f55e"
+        },
+        "2695572": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8122264098667267962",
+                    "size": "591126931",
+                    "download": "76385696"
+                }
+            },
+            "decryptionkey": "477DF0BFF7208D22036F448857F95366B94B879A57C6C44EE4AE7E112A783B5C"
+        },
+        "2695573": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3403287061928872296",
+                    "size": "598099813",
+                    "download": "77649520"
+                }
+            },
+            "decryptionkey": "9E5C97734A758D85C533DA72DD16B04F636403392150B6A2CDD0049396C8253F"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18917436",
+                "timeupdated": "1750278077"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
