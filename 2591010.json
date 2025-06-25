@@ -1,0 +1,28 @@
+{
+    "appid": 2591010,
+    "name": "Silent Depth 2: Pacific",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 08:18:17",
+    "change_number": 29686634,
+    "depot": {
+        "2591011": {
+            "manifests": {
+                "public": {
+                    "gid": "2392650252006134205",
+                    "size": "4460743487",
+                    "download": "1947607120"
+                }
+            },
+            "decryptionkey": "a4155adf73f05df62daa0001219255a26be5f096b07c176b22cb5a6644759062"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18929235",
+                "timeupdated": "1750377558"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
