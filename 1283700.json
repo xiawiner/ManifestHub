@@ -1,0 +1,42 @@
+{
+    "appid": 1283700,
+    "name": "SUPERVIVE",
+    "type": "Game",
+    "schinese_name": "头号追击",
+    "isfreeapp": 1,
+    "update_time": "2025-06-21 07:42:40",
+    "change_number": 29677092,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1283701": {
+            "manifests": {
+                "public": {
+                    "gid": "8736452535576761711",
+                    "size": "11242855884",
+                    "download": "10408586240"
+                }
+            },
+            "decryptionkey": "134aa92a7460f5a353591299ff98705f20ae3c02fa7263010847be2f4b5a7a0d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18847598",
+                "timeupdated": "1749769568"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
