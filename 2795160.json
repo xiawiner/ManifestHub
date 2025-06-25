@@ -1,0 +1,27 @@
+{
+    "appid": 2795160,
+    "name": "Exosky",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 20:17:33",
+    "change_number": 29667904,
+    "depot": {
+        "2795161": {
+            "manifests": {
+                "public": {
+                    "gid": "398776646778468516",
+                    "size": "11466782591",
+                    "download": "5794799984"
+                }
+            },
+            "decryptionkey": "8a6bddbfc10c0c9b1f2fa516c5a7631d2fb97087abccc4878446bee91bb15c66"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18953615",
+                "timeupdated": "1750564629"
+            }
+        }
+    }
+}
