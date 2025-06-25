@@ -1,0 +1,31 @@
+{
+    "appid": 1447430,
+    "name": "小黑盒加速器",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-26 17:26:10",
+    "change_number": 29188088,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "1447433": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8503608366812479628",
+                    "size": "380377001",
+                    "download": "137829488"
+                }
+            },
+            "decryptionkey": "11154ac79c13b90739415aae337738188b7949d1061b6e3655998d1217780193"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18607592",
+                "timeupdated": "1748251562"
+            }
+        }
+    }
+}
