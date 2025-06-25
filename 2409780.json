@@ -1,0 +1,57 @@
+{
+    "appid": 2409780,
+    "name": "Breeze of Passion",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 02:17:37",
+    "change_number": 29673689,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,polish,czech,turkish,arabic,ukrainian",
+        "hasdepotsindlc": "1",
+        "2409781": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4860959595461553240",
+                    "size": "7252764102",
+                    "download": "7136049552"
+                }
+            },
+            "decryptionkey": "65720792d0c5ccc087188c5b45c2b6b8aa2ec5bdc4861d6cbe54c9fee4e82afa"
+        },
+        "2409782": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2249037377689377773",
+                    "size": "7166004620",
+                    "download": "7113555520"
+                }
+            }
+        },
+        "2409783": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5646985510245494872",
+                    "size": "7252764102",
+                    "download": "7136049552"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18914971",
+                "timeupdated": "1750264207"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
