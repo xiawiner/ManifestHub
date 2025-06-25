@@ -1,0 +1,50 @@
+{
+    "appid": 3239630,
+    "name": "Shenaniguns Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 01:24:20",
+    "change_number": 29526947,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3239631": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7301383438948772807",
+                    "size": "437916863",
+                    "download": "226087376"
+                }
+            },
+            "decryptionkey": "6c65c1606bc8e370a9e002ce86dc4021d82441528cd26196ba521d37b7d61d64"
+        },
+        "3239632": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4585005692126549754",
+                    "size": "429407663",
+                    "download": "216002672"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18839467",
+                "timeupdated": "1749727729"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
