@@ -1,0 +1,45 @@
+{
+    "appid": 1014350,
+    "name": "Once A Stray",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-30 14:27:16",
+    "change_number": 29277245,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1014351": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6086939721678172302",
+                    "size": "1187672062",
+                    "download": "406615264"
+                }
+            },
+            "decryptionkey": "c876f360afb957d54da3a1e580131203ff311d394a9f822b7ee5c694ba4447fb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3485667",
+                "timeupdated": "1548019591"
+            }
+        }
+    }
+}
