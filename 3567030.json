@@ -1,0 +1,42 @@
+{
+    "appid": 3567030,
+    "name": "名もなき塔",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-22 06:00:53",
+    "change_number": 29685591,
+    "depot": {
+        "baselanguages": "english,japanese",
+        "hasdepotsindlc": "1",
+        "3567031": {
+            "manifests": {
+                "public": {
+                    "gid": "1306314042253902777",
+                    "size": "1822420132",
+                    "download": "1806396320"
+                }
+            },
+            "decryptionkey": "fe23f5f2428f6c4306d20a144e3b28617224ea6332b3e1534546431b679766e4"
+        },
+        "3567032": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1768576069465036592",
+                    "size": "1824942058",
+                    "download": "1813151136"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18952135",
+                "timeupdated": "1750538899"
+            }
+        }
+    }
+}
