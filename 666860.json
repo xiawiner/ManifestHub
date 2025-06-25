@@ -1,0 +1,54 @@
+{
+    "appid": 666860,
+    "name": "Bit Heroes",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-18 06:06:42",
+    "change_number": 29610717,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,portuguese",
+        "666861": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2164676649917788377",
+                    "size": "349920382",
+                    "download": "79210416"
+                },
+                "mac-beta": {
+                    "gid": "2164676649917788377",
+                    "size": "349920382",
+                    "download": "79210416"
+                }
+            },
+            "decryptionkey": "c498c13aa88dd537af14fd6372d32ed204cf775bf48fc678b55bdad07aa1a756"
+        },
+        "666862": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "mac-beta": {
+                    "gid": "3924946949658485259",
+                    "size": "374487583",
+                    "download": "86501984"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18811136",
+                "timeupdated": "1749675732"
+            },
+            "mac-beta": {
+                "buildid": "18811077",
+                "description": "mac beta version",
+                "timeupdated": "1750172338"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
