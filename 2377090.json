@@ -1,0 +1,28 @@
+{
+    "appid": 2377090,
+    "name": "Willow Guard",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-06 16:44:14",
+    "change_number": 29413821,
+    "depot": {
+        "2377091": {
+            "manifests": {
+                "public": {
+                    "gid": "7162823049860827569",
+                    "size": "3618676757",
+                    "download": "531109008"
+                }
+            },
+            "decryptionkey": "9d6bc1b23bed717231800f0708e49325f1cb1600011070fc7cb22ff7a393f34f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18530929",
+                "timeupdated": "1747735619"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
