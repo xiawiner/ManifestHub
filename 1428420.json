@@ -1,0 +1,39 @@
+{
+    "appid": 1428420,
+    "name": "Nucleares",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 07:18:57",
+    "change_number": 29676932,
+    "depot": {
+        "baselanguages": "english,latam",
+        "1428421": {
+            "manifests": {
+                "public": {
+                    "gid": "430798695188880894",
+                    "size": "3596441621",
+                    "download": "2986503520"
+                }
+            },
+            "decryptionkey": "ac43af7109101c47a87ace9779caefb38f41bc5c97d6e7c9eb8e76652939e6c9"
+        },
+        "3000380": {
+            "dlcappid": "3000380",
+            "manifests": {
+                "public": {
+                    "gid": "7480053320571850900",
+                    "size": "47048697",
+                    "download": "47692752"
+                }
+            },
+            "decryptionkey": "bb3ddd9cc724263241d5b868d6bb32ffba6ecf59a4f9527aee50d5c2779bbd5f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18953624",
+                "timeupdated": "1750562623"
+            }
+        }
+    }
+}
