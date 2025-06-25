@@ -1,0 +1,55 @@
+{
+    "appid": 2485190,
+    "name": "MediBang Paint for Desktop",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 06:05:43",
+    "change_number": 29610178,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,koreana,spanish,schinese,tchinese,japanese,portuguese",
+        "2485191": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2737740243456914874",
+                    "size": "93752835",
+                    "download": "29000992"
+                }
+            },
+            "decryptionkey": "2175bd927cbbb2126d179b8e4a8ae0cd62271f63b46326f9ff9febe62be54e22"
+        },
+        "2485192": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2596097782645084457",
+                    "size": "93223752",
+                    "download": "26653888"
+                }
+            }
+        },
+        "workshopdepot": "2485190",
+        "branches": {
+            "public": {
+                "buildid": "18821048",
+                "timeupdated": "1749808439"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
