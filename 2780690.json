@@ -1,0 +1,28 @@
+{
+    "appid": 2780690,
+    "name": "Hidden Cats in Rio de Janeiro",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 02:26:06",
+    "change_number": 29634979,
+    "depot": {
+        "2780691": {
+            "manifests": {
+                "public": {
+                    "gid": "1093028639489151642",
+                    "size": "773540441",
+                    "download": "606536256"
+                }
+            },
+            "decryptionkey": "445545545a2ceac3a425ebe876305c1c36a02b2b4d5c823adbba4a50e38036ec"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18916073",
+                "timeupdated": "1750271162"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
