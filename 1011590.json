@@ -1,0 +1,33 @@
+{
+    "appid": 1011590,
+    "name": "Night is Coming",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 17:52:06",
+    "change_number": 29626180,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,brazilian",
+        "hasdepotsindlc": "1",
+        "1011591": {
+            "manifests": {
+                "public": {
+                    "gid": "7676271370453046378",
+                    "size": "14512437477",
+                    "download": "7923138608"
+                }
+            },
+            "decryptionkey": "82880c607838e08ef72fb526e7d87742e72f813f5a850e7a88004c4595025c0a"
+        },
+        "3640771": {
+            "dlcappid": "3640770"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18799800",
+                "timeupdated": "1749547696"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
