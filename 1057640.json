@@ -1,0 +1,31 @@
+{
+    "appid": 1057640,
+    "name": "Onirism",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 12:56:39",
+    "change_number": 29642343,
+    "depot": {
+        "1057641": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5854874972427896745",
+                    "size": "46889887678",
+                    "download": "17154187264"
+                }
+            },
+            "decryptionkey": "b048103078711d5ab830b310f6addad5cb9b0e1f06df81a94e67fb00b6b1bd00"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18769152",
+                "timeupdated": "1749228307"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
