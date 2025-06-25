@@ -1,0 +1,46 @@
+{
+    "appid": 3288300,
+    "name": "Dark Fairy Tale: Dreamland Survivors",
+    "type": "Game",
+    "schinese_name": "黑色童话：梦境幸存者",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 06:18:19",
+    "change_number": 29686020,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3288301": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "125569355464272998",
+                    "size": "831588761",
+                    "download": "667641216"
+                }
+            },
+            "decryptionkey": "54e8719fe2d4ca369a41e7c8bbe6db4dea81fbcac6cdd4ccd064d7dda6f7548e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18929490",
+                "timeupdated": "1750353310"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
