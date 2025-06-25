@@ -1,0 +1,30 @@
+{
+    "appid": 3223160,
+    "name": "Apocalypse Express",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 06:00:52",
+    "change_number": 29685441,
+    "depot": {
+        "3223161": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9179726354406990340",
+                    "size": "254062380",
+                    "download": "83748080"
+                }
+            },
+            "decryptionkey": "cc2c1008c60777b10e1f580b2944b3a7e50aabb5a3d396b2877d2f859712c9f2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18952083",
+                "timeupdated": "1750538134"
+            }
+        }
+    }
+}
