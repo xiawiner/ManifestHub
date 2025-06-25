@@ -1,0 +1,28 @@
+{
+    "appid": 1608730,
+    "name": "Dawn of Corruption",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-18 11:10:57",
+    "change_number": 29620878,
+    "depot": {
+        "1608731": {
+            "manifests": {
+                "public": {
+                    "gid": "2656166633673985376",
+                    "size": "409444766",
+                    "download": "109394432"
+                }
+            },
+            "decryptionkey": "65e84e1ba4273f785c3b6f87a2e0702cbff6ed1d67e986ed69bd8469a6ca952c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18788539",
+                "timeupdated": "1749430617"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
