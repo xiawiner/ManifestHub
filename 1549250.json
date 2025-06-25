@@ -1,0 +1,30 @@
+{
+    "appid": 1549250,
+    "name": "Undecember",
+    "type": "Game",
+    "schinese_name": "恶月十三",
+    "isfreeapp": 1,
+    "update_time": "2025-06-19 07:04:26",
+    "change_number": 29638591,
+    "depot": {
+        "1549251": {
+            "manifests": {
+                "public": {
+                    "gid": "4201374475239205236",
+                    "size": "13620723961",
+                    "download": "12183516336"
+                }
+            },
+            "decryptionkey": "7e230bfcb49098fbe0d250fb813ec962c07beec2d4c8f6bba1990b9566b97c26"
+        },
+        "baselanguages": "english,german,french,spanish,schinese,tchinese,russian,thai,japanese,brazilian",
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18910674",
+                "timeupdated": "1750287863"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
