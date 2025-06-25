@@ -1,0 +1,27 @@
+{
+    "appid": 1925050,
+    "name": "Sub for You",
+    "type": "Game",
+    "schinese_name": "为你臣服",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 10:14:34",
+    "change_number": 29678315,
+    "depot": {
+        "1925051": {
+            "manifests": {
+                "public": {
+                    "gid": "4778871635372153326",
+                    "size": "369869419",
+                    "download": "231739328"
+                }
+            },
+            "decryptionkey": "fbbf250a18281a9e3d4cbf9349773320e93e3568d9e07450755e2dca09c3cdb3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10753319",
+                "timeupdated": "1678681934"
+            }
+        }
+    }
+}
