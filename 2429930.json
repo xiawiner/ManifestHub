@@ -1,0 +1,57 @@
+{
+    "appid": 2429930,
+    "name": "Power Network Tycoon",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-28 20:09:44",
+    "change_number": 29235352,
+    "depot": {
+        "2429931": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5968439298356067940",
+                    "size": "785700505",
+                    "download": "320392208"
+                }
+            },
+            "decryptionkey": "416795b8c9f34eb39e8d86f38f00c74dabc37ba04b7367601483890ec357f7ea"
+        },
+        "2429932": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6641078656097668977",
+                    "size": "784692389",
+                    "download": "323948976"
+                }
+            }
+        },
+        "2429933": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5494384939777790392",
+                    "size": "826384683",
+                    "download": "328105392"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18205681",
+                "timeupdated": "1745401493"
+            }
+        }
+    }
+}
