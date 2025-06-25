@@ -1,0 +1,44 @@
+{
+    "appid": 1218210,
+    "name": "Coromon",
+    "type": "Game",
+    "schinese_name": "科洛蒙",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 03:48:48",
+    "change_number": 29636147,
+    "depot": {
+        "1218211": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4853082007982445432",
+                    "size": "1182786826",
+                    "download": "838224320"
+                }
+            },
+            "decryptionkey": "a44e5a8864ac9ae38c773e4cfe08bb51c17a0c94d53f0c0ac1d85bf6920faff2"
+        },
+        "1218212": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4216563770744950509",
+                    "size": "1203077873",
+                    "download": "842020128"
+                }
+            },
+            "decryptionkey": "e8b87f831b61338b8757de9a578bca7a90cd50420fda23be387085276c55a700"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18917140",
+                "timeupdated": "1750276121"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
