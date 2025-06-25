@@ -1,0 +1,43 @@
+{
+    "appid": 2648660,
+    "name": "Mortisomem",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-03 10:23:27",
+    "change_number": 29338758,
+    "depot": {
+        "2648661": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7698741957188233355",
+                    "size": "1114291075",
+                    "download": "338948352"
+                }
+            },
+            "decryptionkey": "b1c5d65dfa29d8dee183d4b6a3515739e56959ea7d1afb4eb3eb41899424f7ec"
+        },
+        "2648662": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2994660726821765221",
+                    "size": "1137755964",
+                    "download": "341751472"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18692449",
+                "timeupdated": "1748784361"
+            }
+        }
+    }
+}
