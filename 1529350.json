@@ -1,0 +1,30 @@
+{
+    "appid": 1529350,
+    "name": "Astral Ascension",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 01:44:06",
+    "change_number": 29533855,
+    "depot": {
+        "1529351": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1788148251352885300",
+                    "size": "3129943533",
+                    "download": "2655603008"
+                }
+            },
+            "decryptionkey": "e66d404366cfdb5ecd9cf2dd2b9d678830641139c8f060e8854a7449e0037f4b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18844350",
+                "timeupdated": "1749750175"
+            }
+        }
+    }
+}
