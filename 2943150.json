@@ -1,0 +1,45 @@
+{
+    "appid": 2943150,
+    "name": "SNØ: Ultimate Freeriding",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 22:25:11",
+    "change_number": 29669980,
+    "depot": {
+        "workshopdepot": "2943150",
+        "2943151": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4144999091727093570",
+                    "size": "470149403",
+                    "download": "188848000"
+                }
+            },
+            "decryptionkey": "83d9416c7201258e613cdf22fcf65d51464cc090bbd6ca77845acfc71cfc8467"
+        },
+        "2943152": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1715059931603940096",
+                    "size": "494900637",
+                    "download": "196025456"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18579152",
+                "timeupdated": "1747990816"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
