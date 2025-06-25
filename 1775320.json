@@ -1,0 +1,54 @@
+{
+    "appid": 1775320,
+    "name": "Spellpowder: Uprising",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 00:15:16",
+    "change_number": 29566950,
+    "depot": {
+        "1775321": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3562685319886815619",
+                    "size": "203020071",
+                    "download": "59579984"
+                }
+            },
+            "decryptionkey": "1b6a99eb8165e4d7ba459314f7b842ecce5c1b3b930c0f6447d83abb9a661362"
+        },
+        "1775322": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2808344567320131011",
+                    "size": "227322601",
+                    "download": "66577008"
+                }
+            }
+        },
+        "1775323": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7806331146501396202",
+                    "size": "206462874",
+                    "download": "59524720"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18785930",
+                "timeupdated": "1749404982"
+            }
+        }
+    }
+}
