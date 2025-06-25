@@ -1,0 +1,42 @@
+{
+    "appid": 2581370,
+    "name": "Monster Energy Supercross 25 - The Official Video Game",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 09:57:05",
+    "change_number": 29678191,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2581371": {
+            "manifests": {
+                "public": {
+                    "gid": "8231117101405194887",
+                    "size": "18646148331",
+                    "download": "16954488608"
+                }
+            },
+            "decryptionkey": "bcb42dd9e43302ffdf68d9320a16c5072985bbf983d65652920b8a0cdc8d5fdd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18682089",
+                "timeupdated": "1749027437"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
