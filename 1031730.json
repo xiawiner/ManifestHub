@@ -1,0 +1,48 @@
+{
+    "appid": 1031730,
+    "name": "Battlefall: State of Conflict",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-11 13:50:09",
+    "change_number": 29500345,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1031731": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5169804487500566532",
+                    "size": "995309499",
+                    "download": "777583536"
+                }
+            },
+            "decryptionkey": "4fc3e0feb3937104cda0189c3c22280e8f8627766857bba7390237ddf6dd3987"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18245446",
+                "timeupdated": "1745626243"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
