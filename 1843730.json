@@ -1,0 +1,52 @@
+{
+    "appid": 1843730,
+    "name": "Last Group Out",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 07:47:44",
+    "change_number": 29569930,
+    "depot": {
+        "1843731": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8009994064671934442",
+                    "size": "448809511",
+                    "download": "101527088"
+                },
+                "beta": {
+                    "gid": "8009994064671934442",
+                    "size": "448809511",
+                    "download": "101527088"
+                },
+                "classicmode": {
+                    "gid": "5806447311636740743",
+                    "size": "160674326",
+                    "download": "95429920"
+                }
+            },
+            "decryptionkey": "edace4e80a96403ed87e2391a6f48c9e68b908913aa40a820be8cdda93d0c3ba"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18618825",
+                "timeupdated": "1748353066"
+            },
+            "beta": {
+                "buildid": "18618825",
+                "description": "Testing Save Issues",
+                "timeupdated": "1748313959"
+            },
+            "classicmode": {
+                "buildid": "15310745",
+                "description": "Classic Mode",
+                "timeupdated": "1723155677"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
