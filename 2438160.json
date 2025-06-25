@@ -1,0 +1,51 @@
+{
+    "appid": 2438160,
+    "name": "World War Armies",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 16:18:25",
+    "change_number": 29664213,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2438161": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "771107451499782786",
+                    "size": "3573609004",
+                    "download": "3339805248"
+                }
+            },
+            "decryptionkey": "9bbe74ebfcb59f9ceb1838b59527be8b8ebcec60e8ba6461a1dcd752784b5b06"
+        },
+        "2438162": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7555654481231074540",
+                    "size": "3833027908",
+                    "download": "3377034704"
+                }
+            },
+            "decryptionkey": "60bf93d22518466f2c8e18e3cd7e0e371ca5ffeaa2e095d28de96575cd855709"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18851502",
+                "timeupdated": "1750164593"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
