@@ -1,0 +1,42 @@
+{
+    "appid": 1807690,
+    "name": "Roxy Raccoon's Pinball Panic",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-14 13:15:55",
+    "change_number": 29562281,
+    "depot": {
+        "baselanguages": "english",
+        "workshopdepot": "1807690",
+        "1807691": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2162650503911427938",
+                    "size": "8450330344",
+                    "download": "2456319040"
+                }
+            },
+            "decryptionkey": "77f83127ac5f182fbb8e240d19d86161e464f3e40b97f631864456e5e8031aac"
+        },
+        "1807692": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18677592",
+                "timeupdated": "1748843198"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
